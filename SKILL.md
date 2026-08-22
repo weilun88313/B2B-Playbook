@@ -1,40 +1,38 @@
 ---
 name: b2b-playbook
 description: >
-  A practical B2B knowledge base for positioning, ICP, account-based
-  marketing, outbound, events, content, sales enablement, procurement, and
-  repeatable growth operations.
+  Practical B2B knowledge base. Use for ICP, buying committee, positioning,
+  outbound sequences, event-led GTM, checklists, and templates. Chinese is
+  the source of truth (zh/). Do not invent customer data or legal advice.
 ---
 
-# B2B Playbook
+# B2B-Playbook
 
-## Defaults
+## 默认
 
-- Start with the buyer, the account, and the commercial problem.
-- Treat a buying committee as the normal decision unit.
-- Prefer qualified pipeline, win rate, sales-cycle length, retention, and
-  expansion over surface-level activity metrics.
-- Keep Chinese and English versions aligned in meaning and structure.
+- 从买家、账户和商业问题出发，而不是从渠道出发。
+- 购买委员会是默认决策单元。
+- 中文 `zh/` 是正文。`en/` 未完成时不要臆造英文版。
+- 输出必须可执行：清单、模板或下一步。
+- 虚构示例用 Helion；不要写入真实客户。
 
-## Load the matching playbook
+## 读哪里
 
-| User is working on | Read |
+| 任务 | 打开 |
 |---|---|
-| What this repo believes | `playbooks/worldview.md` |
-| Category, contrast, homepage | `playbooks/positioning.md` |
-| ICP, personas, opportunity definition | `playbooks/pipeline.md` |
-| Email / LinkedIn / compliance | `playbooks/outbound.md` |
-| Trade shows and event-led GTM | `playbooks/events.md` |
-| Blog, comparison pages, AI citations | `playbooks/content.md` |
-| Battlecards, security, procurement | `playbooks/enablement.md` |
+| 怎么用这套库 | `zh/00-system/how-to-use.md` |
+| 名词 | `glossary.md` |
+| ICP / 委员会 / 分级 | `zh/01-icp/` |
+| 定位 / 官网 / 对比页 | `zh/02-positioning/` |
+| 外联序列 | `zh/03-outbound/` |
+| 展会与活动 | `zh/04-events/` |
+| 内容 / 销售流程 / 运营 | 对应目录仍是占位，不要编造完整 SOP |
 
-After drafting, check `evidence/` for a prior note on the same channel.
-Prefer a documented result over an elegant but untested SOP.
+先读该模块 `README.md`，再 `sop.md`，填 `templates/`，对照 `examples/`，发出前过 `checklists/`。
 
-## Output rules
+## 输出规则
 
-- Write buyer language (role, trigger, replacement), not founder language.
-- Name the economic buyer, champion, and likely blocker when relevant.
-- State assumptions, constraints, and evidence boundaries.
-- Turn recommendations into a concrete next action or experiment.
-- Protect customer, contact, and source data.
+- 写买家语言：角色、触发因素、替代方案。
+- 点名经济买家、支持者、阻力者（若信息不足，写「未知」而不是编造）。
+- 标明假设。
+- 保护客户与联系人数据。

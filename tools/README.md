@@ -1,22 +1,16 @@
 # Tools
 
-Small, transparent utilities that support the playbooks.
+No runnable tools yet. A tool ships only after the manual workflow has been used.
 
-## Design rules
+## Rules
 
-- Solve one recurring operational problem.
-- Keep inputs and outputs explicit.
-- Prefer local files and reproducible transformations.
-- Never require secrets in a tracked file.
-- Include a short example and a way to verify the result.
+- One operational job
+- Explicit inputs and outputs
+- No secrets in tracked files
+- Include a way to check the result
 
-## Planned tools
+## Candidates (not built)
 
-- Account research brief generator
-- Campaign and experiment ledger
-- Content-to-pipeline tracker
-- Opportunity review checklist
-
-Tools are added only after the manual workflow has been used enough to
-understand the problem. A script should remove repeated work, not hide the
-reasoning behind a recommendation.
+- Account scoring helper (from `zh/01-icp/templates/account-scorecard.md`)
+- Event go / no-go score
+- Outbound sequence checklist as a form
