@@ -122,9 +122,11 @@ Every published tactic playbook should contain:
 
 ## Architecture rationale
 
-- Long-term demand creation and short-term demand capture require different methods and measures. See the [LinkedIn B2B Institute](https://business.linkedin.com/advertise/resources/b2b-institute/cmo-scorecard).
-- B2B buyers move across digital, remote, and in-person touchpoints, so channel playbooks must connect to one buyer journey. See [McKinsey's 2026 B2B Pulse](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive).
-- Account-based marketing coordinates marketing and sales across channels around selected accounts. See [Demandbase's ABM orchestration guide](https://www.demandbase.com/blog/abm-orchestration/).
+- Long-term demand creation and short-term demand capture require different methods and measures. See the [LinkedIn B2B Institute](https://business.linkedin.com/advertise/resources/b2b-institute/cmo-scorecard?ref=b2b-playbook).
+- B2B buyers move across digital, remote, and in-person touchpoints, so channel playbooks must connect to one buyer journey. See [McKinsey's 2026 B2B Pulse](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive?ref=b2b-playbook).
+- Account-based marketing coordinates marketing and sales across channels around selected accounts. See [Demandbase's ABM orchestration guide](https://www.demandbase.com/blog/abm-orchestration/?ref=b2b-playbook).
+
+Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
 Enterprise selling is outside this marketing taxonomy. If the library later expands into sales, it should use a separate top-level collection rather than mixing sales stages into marketing domains.
 

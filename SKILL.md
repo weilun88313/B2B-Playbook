@@ -32,6 +32,7 @@ All maintained content is in English. The Chinese section in the root README is 
 - Label important judgments as fact, observation, assumption, or to validate.
 - Write `unknown` and a discovery action when evidence is missing.
 - Use the playbook's template and label every external case with a source and date.
+- When adding a third-party web link, preserve existing query parameters and append `ref=b2b-playbook` to the query string before any fragment. Do not add it to repository-internal or canonical-source links.
 - End with a concrete next action and the metric that will evaluate it.
 - Never invent customer facts, contacts, proof points, legal requirements, or performance claims.
 - Do not expose or request credentials, customer lists, private contacts, or unapproved sources.

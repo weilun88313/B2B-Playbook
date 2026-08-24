@@ -73,6 +73,8 @@ Planned topics remain in the master index until the page is complete. The reposi
 
 The directory is not a ranking and does not replace security, privacy, deliverability, procurement, or legal review.
 
+Every third-party link uses `ref=b2b-playbook` only for referral-source identification. It is not an affiliate code and does not affect inclusion, ranking, or price.
+
 ### Agent Skill
 
 Install the repository as an Agent Skill in Codex, Claude Code, Cursor, OpenCode, or another compatible agent:
@@ -109,6 +111,7 @@ Every work cycle should end with one documented decision and one next test—not
 - English is the canonical language for playbooks, tools, and the Agent Skill.
 - Chinese is maintained only in this README as a complete mirror of the repository entrance and current coverage.
 - Any README structure or coverage change must update the English and Chinese sections in the same commit.
+- Every third-party web link must preserve existing parameters and include `ref=b2b-playbook` in its query string before any fragment; repository-internal and canonical-source links are excluded.
 - Ivan Xu (`weilun88313`) maintains one editorial voice and evidence standard.
 - A use case is published only when it names a specific company and provides traceable sources and dates.
 
@@ -193,6 +196,8 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 工具目录不是排行榜，也不能代替安全、隐私、邮件送达、采购或法律审查。
 
+所有第三方外链都使用 `ref=b2b-playbook`，仅用于让目标网站识别访问来源。它不是 Affiliate Code，也不影响工具的收录、排序或价格。
+
 ### 智能体 Skill
 
 可以将本仓库作为 Agent Skill 安装到 Codex、Claude Code、Cursor、OpenCode 或其他兼容智能体：
@@ -229,6 +234,7 @@ Skill 只负责把任务路由到相关 Playbook，不会自动发送消息、�
 - Playbook、工具目录和 Agent Skill 的唯一正文版本为英文。
 - 中文只在本 README 中维护，完整同步仓库入口和当前覆盖范围。
 - README 的结构或内容覆盖发生变化时，必须在同一次提交中同步更新英文与中文。
+- 所有第三方网页链接都必须保留原有参数，并在 URL 锚点之前的查询字符串中加入 `ref=b2b-playbook`；仓库内部链接和唯一正版来源链接除外。
 - Ivan Xu（`weilun88313`）以统一的编辑口径和证据标准维护本仓库。
 - Use Case 只有在明确具体企业，并提供可追溯来源和日期时才会发布。
 
