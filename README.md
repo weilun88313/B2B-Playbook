@@ -1,143 +1,106 @@
 # B2B Playbook
 
-> An open, executable operating system for B2B sales and growth — built for operators and AI agents.
+> Practical B2B knowledge, tool choices, use cases, and an Agent Skill for turning go-to-market ideas into observable work.
 
-[![Validate](https://github.com/weilun88313/B2B-Playbook/actions/workflows/validate.yml/badge.svg)](https://github.com/weilun88313/B2B-Playbook/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **[English](#english) | [中文](#中文简介)**
 
 ## English
 
-### Get a useful result in 10 minutes
+### Start with one decision
 
-Do not read the entire repository. Start with one account you are considering for outbound.
+Do not read the entire repository. Pick the decision in front of you:
 
-1. Open the [10-minute ICP sprint](playbooks/01-icp/quickstart.md).
-2. Copy the [ICP canvas](playbooks/01-icp/templates/icp-canvas.md).
-3. Score the account with the [account scorecard](playbooks/01-icp/templates/account-scorecard.md).
-4. Compare the result with the filled [Helion example](playbooks/01-icp/examples/helion-icp.md).
-5. Run the offline scorer:
+| Collection | Use it to | Start here |
+|---|---|---|
+| **Playbooks** | Follow a practical method and copy its working templates | [Choose a playbook](#playbooks) |
+| **Tools** | Choose software for a specific job instead of assembling a fashionable stack | [Browse the tool directory](TOOLS.md) |
+| **Use cases** | See how several playbooks connect in a realistic workflow | [Open the use-case library](use-cases/) |
+| **Agent Skill** | Let an AI agent route a B2B task through the right method | [Install the Skill](#agent-skill) |
 
-```bash
-node tools/icp-account-scorer.mjs \
-  --name "Müller Antriebstechnik" \
-  --use-case 2 --budget 2 --alternative 2 --trigger 2 --committee 1
-```
-
-The output is a transparent T1/T2/T3 recommendation and a default next action. No API key, package installation, or customer-data upload is required.
-
-### What makes this different
-
-Most B2B repositories are reading lists. This repository is designed to produce work.
-
-Every complete module follows the same contract:
-
-```text
-when to use / when not to use
-        ↓
-step-by-step SOP
-        ↓
-blank template + filled fictional example
-        ↓
-pre-flight checklist + operating metrics
-```
-
-- **Executable:** templates and tools lead to a concrete next action.
-- **Evidence-aware:** facts, observations, assumptions, and unknowns remain separate.
-- **Agent-native:** a portable `SKILL.md` routes AI agents to the correct playbook.
-- **Privacy-conscious:** public examples use the fictional company **Helion**, never customer data.
-- **English-first:** all maintained playbooks, templates, examples, tools, and Agent instructions are written in English.
+For the fastest useful result, run the [10-minute ICP field test](playbooks/icp.md#10-minute-field-test) on one target account.
 
 ### Playbooks
 
-| Module | What you can take | Status |
-|---|---|---|
-| [System](playbooks/00-system/) | Usage model, evidence standard, weekly cadence | Complete |
-| [ICP & buying committee](playbooks/01-icp/) | ICP canvas, committee map, account tiers, offline scorer | Complete |
-| [Positioning & homepage](playbooks/02-positioning/) | Positioning sentence, 10-second test, comparison-page outline | Complete |
-| [Outbound](playbooks/03-outbound/) | Account research, sequence, pre-send and compliance checks | Complete |
-| [Event-led growth](playbooks/04-events/) | Event scorecard, pre/on-site/post-event operating system | Complete |
-| [Content & demand](playbooks/05-content/) | Planned | Planned |
-| [Enterprise sales](playbooks/06-sales/) | Intro call, demo co-design, pilot, pricing, procurement | Complete |
-| [Growth operations](playbooks/07-ops/) | Planned | Planned |
+Each playbook is one self-contained page. It includes when to use the method, the operating steps, copyable templates, a checklist, and metrics.
 
-The [glossary](glossary.md) keeps operating terms consistent. The [evidence standard](playbooks/00-system/evidence-standard.md) explains how claims are labeled.
+| Playbook | Decision it helps you make |
+|---|---|
+| [ICP & buying committee](playbooks/icp.md) | Which accounts deserve active sales time, who must participate, and what happens next |
+| [Positioning](playbooks/positioning.md) | Why a specific buyer should change from the current alternative |
+| [Outbound](playbooks/outbound.md) | How to turn account evidence into a relevant conversation |
+| [Event-led growth](playbooks/event-led-growth.md) | Whether to attend, sponsor, exhibit, or skip—and how to operate the event |
+| [Enterprise sales](playbooks/enterprise-sales.md) | How to coordinate the buyer journey from first conversation to signature |
 
-### Install as an Agent Skill
+### Tool directory
 
-This repository follows the open Agent Skills format and can be installed into Codex, Claude Code, Cursor, OpenCode, and other compatible agents.
+[TOOLS.md](TOOLS.md) is a small, opinionated directory of B2B software. Tools are organized by job—not affiliate value or popularity—and include a use case, a reason to avoid the tool, an official link, and a last-review date.
+
+The directory is not a ranking and does not replace security, privacy, deliverability, or legal review.
+
+### Use-case library
+
+Use cases demonstrate how the methods connect:
+
+- [ICP to outbound](use-cases/icp-to-outbound.md)
+- [Event-led pipeline](use-cases/event-led-pipeline.md)
+- [Enterprise pilot](use-cases/enterprise-pilot.md)
+
+The current Helion examples are fictional. They demonstrate completion density without exposing customer data. Future real cases must be sourced, dated, and anonymized when necessary.
+
+### Agent Skill
+
+Install the repository as an Agent Skill in Codex, Claude Code, Cursor, OpenCode, or another compatible agent:
 
 ```bash
 npx skills add weilun88313/B2B-Playbook
 ```
 
-Then ask your agent:
+Then ask:
 
 ```text
-Use $b2b-playbook to turn these five target accounts into an ICP canvas,
-a buying-committee map, T1/T2/T3 tiers, and one next action per account.
-Mark unknowns instead of inventing data.
+Use $b2b-playbook to evaluate these five target accounts.
+Produce an ICP, buying-committee map, T1/T2/T3 decision,
+and one next action per account. Mark unknowns instead of inventing facts.
 ```
 
-The Skill routes the agent to the relevant module; it does not send messages, enrich contacts, or modify a CRM.
+The Skill routes the task to the relevant playbook. It does not send messages, enrich contacts, or modify a CRM.
 
-### How to use the library
+### Evidence rules
 
-1. Read [how to use the system](playbooks/00-system/how-to-use.md).
-2. Pick only the module tied to the work in front of you.
-3. Copy from `templates/`, then compare with `examples/`.
-4. Before sending, publishing, or entering a meeting, run the matching `checklists/`.
-5. Review the module's `metrics.md` after the work has run.
+Keep four evidence states separate:
 
-Do not optimize for finishing the library. Optimize for one observable action and one learning loop.
+| State | Meaning |
+|---|---|
+| **Fact** | A dated record, public source, direct quote, or system event that can be checked |
+| **Observation** | A pattern found in a limited sample |
+| **Assumption** | An unverified belief that changes the next action |
+| **To validate** | A question paired with a test that can close it |
 
-### Quality contract
+Every week should end with one documented decision and one next test—not a longer activity report.
 
-A module is not complete unless it includes:
+### Maintenance
 
-- a clear use case and exclusion;
-- an SOP with entry and exit criteria;
-- at least one checklist;
-- at least one blank template;
-- at least one filled fictional or properly anonymized example;
-- operating metrics and explicit non-metrics.
+This is an owner-maintained reference. Ivan Xu (`weilun88313`) keeps one editorial voice and evidence standard. Guidance is a starting method, not a guaranteed formula or legal advice.
 
-Relative Markdown links, module contracts, Skill frontmatter, and the English-only content policy are checked automatically by `npm test` and GitHub Actions.
-
-### Feedback and maintenance
-
-This is an owner-maintained reference. Ivan Xu (`weilun88313`) reviews feedback and makes repository updates so the published guidance keeps one editorial voice and evidence standard.
-
-If a playbook is confusing, expired, or incorrect, use the playbook feedback issue form. Do not post credentials, customer lists, private contacts, or material you do not have the right to publish. The [roadmap](ROADMAP.md) shows what the maintainer plans to update next.
-
-If this repository helps you complete real B2B work, a ⭐ helps other operators discover it.
+If this repository helps you complete real B2B work, a star helps other operators discover it.
 
 ### License
 
-[MIT](LICENSE). Templates and playbooks are operational starting points, not legal advice or guaranteed performance claims.
+[MIT](LICENSE)
 
 ---
 
 ## 中文简介
 
-**B2B Playbook** 是一个面向 B2B 销售与增长从业者和 AI Agent 的开放执行系统。
+**B2B Playbook** 是一个面向 B2B 销售与增长从业者和人工智能智能体的开放知识库。
 
-仓库正文以英文为唯一维护版本，包含：
+仓库只保留四个核心入口：
 
-- ICP 与购买委员会
-- 定位与官网
-- 主动外联
-- 展会与活动型增长
-- 从首次会面到签约的企业销售流程
-- 可复制模板、完整虚构示例、检查清单、指标和离线工具
+1. **行动手册**：客户画像与购买委员会、市场定位、主动外联、活动型增长和企业销售。
+2. **工具清单**：按实际任务整理的软件推荐，同时说明适用条件和限制。
+3. **应用案例**：展示多份行动手册如何连接成完整工作流。
+4. **智能体技能**：让兼容的人工智能智能体读取并执行这套方法。
 
-推荐从英文版 [10-minute ICP sprint](playbooks/01-icp/quickstart.md) 开始。它可以帮助你为目标账户建立 ICP、购买委员会和 T1/T2/T3 分级，并确定下一步行动。
-
-也可以将仓库安装为 Agent Skill：
-
-```bash
-npx skills add weilun88313/B2B-Playbook
-```
-
-除本节中文简介外，所有 Playbook、模板、示例、工具说明和 Agent 指令均以英文维护，避免中英文内容混写或版本漂移。
+英文是仓库正文的唯一维护版本。中文只保留在本简介中，避免双语正文产生版本漂移。

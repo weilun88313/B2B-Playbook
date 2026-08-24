@@ -1,44 +1,43 @@
 ---
 name: b2b-playbook
-description: Turn B2B sales and growth work into evidence-aware, executable outputs using ICP, buying committee, positioning, outbound, event-led GTM, and enterprise-sales playbooks. Use when the user needs a concrete plan, checklist, template, account tier, or next action; do not use for generic inspiration or legal advice.
+description: Turn B2B sales and growth work into evidence-aware outputs using ICP, positioning, outbound, event-led growth, enterprise-sales, tool-selection, and worked-use-case guidance. Use when the user needs a concrete plan, checklist, template, account tier, software shortlist, or next action; do not use for generic inspiration or legal advice.
 ---
 
 # B2B Playbook
 
-Produce usable B2B operating artifacts, not broad advice.
+Produce a usable artifact or decision, not broad advice.
 
 ## Route the task
 
 | Need | Read |
 |---|---|
-| Start or understand the system | `playbooks/00-system/how-to-use.md` and `glossary.md` |
-| ICP, account qualification, buying committee | `playbooks/01-icp/README.md`, then `playbooks/01-icp/sop.md` |
-| Positioning, homepage, comparison page | `playbooks/02-positioning/README.md`, then `playbooks/02-positioning/sop.md` |
-| Outbound research or sequence | `playbooks/03-outbound/README.md`, then `playbooks/03-outbound/sop.md` |
-| Event selection and execution | `playbooks/04-events/README.md`, then `playbooks/04-events/sop.md` |
-| First meeting through signature | `playbooks/06-sales/README.md`, then `playbooks/06-sales/sop.md` |
+| ICP, qualification, or buying committee | `playbooks/icp.md` |
+| Positioning, homepage, or comparison page | `playbooks/positioning.md` |
+| Account research or outbound sequence | `playbooks/outbound.md` |
+| Event selection or execution | `playbooks/event-led-growth.md` |
+| First meeting through signature | `playbooks/enterprise-sales.md` |
+| Software selection | `TOOLS.md` |
+| A connected worked example | `use-cases/README.md`, then the closest use case |
 
-All maintained content is in English under `playbooks/`. The Chinese section in the root README is an orientation summary, not a second source of truth.
+All maintained content is in English. The Chinese section in the root README is orientation only.
 
 ## Working rules
 
-- Begin with the buyer, account, business problem, and observable trigger.
-- Separate facts, observations, assumptions, and unknowns using `playbooks/00-system/evidence-standard.md`.
-- Name the economic buyer, champion, technical buyer, and blocker when evidence exists. Write `unknown` and a discovery action when it does not.
-- Use the module's blank template for structure and its fictional example only to calibrate detail.
-- End with a checklist or concrete next action and the metric that will evaluate it.
+- Begin with the buyer, account, business problem, current alternative, and observable trigger.
+- Label important judgments as fact, observation, assumption, or to validate.
+- Write `unknown` and a discovery action when evidence is missing.
+- Use the playbook's template; use a fictional example only to calibrate detail.
+- End with a concrete next action and the metric that will evaluate it.
 - Never invent customer facts, contacts, proof points, legal requirements, or performance claims.
-- Do not expose or request customer lists, credentials, private contact data, or unapproved sources.
+- Do not expose or request credentials, customer lists, private contacts, or unapproved sources.
 
-## ICP fast path
+## Default output
 
-For account qualification, read `playbooks/01-icp/quickstart.md`. Produce:
+Unless the user requests another format, produce:
 
-1. a one-sentence ICP;
-2. five disqualifiers;
-3. a buying-committee map;
-4. a T1/T2/T3 score with evidence for each dimension;
-5. one default next action per account;
-6. an explicit list of unknowns and how to resolve them.
-
-If local execution is available, `node tools/icp-account-scorer.mjs --help` provides a deterministic score check. Human-readable reasoning remains the primary output.
+1. the decision or recommended operating path;
+2. the evidence supporting it;
+3. assumptions and unknowns;
+4. a copyable working artifact;
+5. a pre-flight checklist;
+6. the next action and review metric.
