@@ -2,8 +2,6 @@
 
 > Practical B2B marketing knowledge, tool choices, and an Agent Skill for turning go-to-market ideas into observable work.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 **[English](#english) | [中文](#中文简介)**
 
 ## English
@@ -76,9 +74,11 @@ This is an owner-maintained reference. Ivan Xu (`weilun88313`) keeps one editori
 
 If this repository helps you complete real B2B work, a star helps other operators discover it.
 
-### License
+### Copyright and reuse
 
-[MIT](LICENSE)
+Copyright © 2026 Ivan Xu. All rights reserved. You may read, link to, and quote brief attributed excerpts. Republishing, translation, mirroring, substantial copying, commercial reuse, and reuse in redistributed datasets, knowledge bases, RAG systems, or model training require prior written permission. See the [full terms](LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)
 
 ---
 
@@ -93,3 +93,7 @@ If this repository helps you complete real B2B work, a star helps other operator
 3. **智能体技能**：让兼容的人工智能智能体读取并执行这套方法。
 
 英文是仓库正文的唯一维护版本。中文只保留在本简介中，避免双语正文产生版本漂移。
+
+版权归 Ivan Xu 所有。允许阅读、分享本仓库链接及在注明作者和正版来源的前提下少量引用；转载全文或大段内容、翻译、镜像、商业使用，以及将内容打包进对外分发的数据集、知识库、RAG 系统或模型训练材料，须事先取得书面许可。完整规则见 [LICENSE](LICENSE)。
+
+唯一正版来源：[github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -164,3 +164,9 @@ Badge scans, foot traffic, swag distributed, and raw meetings are activity—not
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. The 40 / 20 / 40 allocation belongs in the specific [trade-show playbook](trade-shows.md), where it is presented as a heuristic rather than a benchmark or promise.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

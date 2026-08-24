@@ -131,3 +131,9 @@ Do not count a completed messaging workshop, slogan volume, unqualified traffic,
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Positioning claims must remain inside the available product, customer, security, and performance evidence.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

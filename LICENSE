@@ -1,21 +1,81 @@
-MIT License
+B2B Playbook Content License
+Copyright and Permitted Use Notice
 
-Copyright (c) 2026 weilun88313
+Copyright (c) 2026 Ivan Xu. All rights reserved.
+Effective date: August 24, 2026.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This notice applies to the original content in this repository, including its
+text, documentation, tables, diagrams, templates, taxonomy, curated
+commentary, and Agent Skill materials (the "Content"). It does not claim
+rights in third-party materials, trademarks, or linked sources.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The repository is publicly viewable, but the Content is not offered under an
+open-source or Creative Commons license.
+
+2. Uses permitted without prior written permission
+
+You may:
+
+- view the Content on GitHub;
+- link to the canonical repository;
+- quote brief excerpts for commentary, review, or education when you provide
+  clear attribution and a link to the canonical repository, provided that the
+  excerpts do not substitute for the original Content; and
+- fork and use the repository through GitHub functionality to the extent
+  permitted directly by the GitHub Terms of Service.
+
+3. Uses requiring prior written permission
+
+Except for the permissions above or rights provided by applicable law, you
+may not:
+
+- reproduce, republish, mirror, or substantially copy an entire document, a
+  collection of documents, or a substantial portion of the Content;
+- translate, adapt, syndicate, or create a derivative compilation of the
+  Content;
+- sell, license, sublicense, or otherwise commercialize the Content;
+- scrape or package the Content for redistribution, a dataset, a corpus, a
+  knowledge base, a retrieval-augmented generation system, or model training;
+  or
+- remove copyright or source notices, or misrepresent authorship or the
+  canonical source.
+
+4. Attribution
+
+When attribution is required, use:
+
+"B2B Playbook by Ivan Xu — https://github.com/weilun88313/B2B-Playbook"
+
+Attribution does not replace the need for written permission where this notice
+requires it.
+
+5. GitHub and legal rights
+
+Nothing in this notice limits rights granted directly to GitHub, its
+affiliates, or GitHub users through GitHub functionality under the GitHub Terms
+of Service. Nothing in this notice restricts fair use, fair dealing, quotation
+rights, or other rights that cannot lawfully be restricted.
+
+6. Earlier versions
+
+This notice applies beginning on the effective date. It does not revoke a
+license validly granted with an earlier repository version. A copy obtained
+under an earlier license remains governed by the license applicable to that
+version; new Content and materially revised Content published under this
+notice are governed by this notice.
+
+7. Permission requests
+
+Request permission by contacting the repository owner through the canonical
+repository or the owner's GitHub profile. Permission must be granted in
+writing.
+
+8. Disclaimer
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF ACCURACY, COMPLETENESS,
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE
+MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT OWNER WILL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE CONTENT OR ITS USE.

@@ -99,3 +99,9 @@ Sent volume, touch count, and open rate are operating diagnostics—not business
 ## Sources and evidence boundary
 
 Channel permissions, platform rules, and applicable laws vary. Review the target jurisdiction and channel with qualified owners; this playbook is not legal advice.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

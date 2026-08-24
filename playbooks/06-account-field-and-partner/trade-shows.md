@@ -120,3 +120,9 @@ This is an effort-allocation heuristic, not an ROI formula.
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Event data rights, badge consent, labor rules, and outreach requirements vary; review them with qualified owners.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

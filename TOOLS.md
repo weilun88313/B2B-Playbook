@@ -73,3 +73,9 @@ Pricing, packaging, integrations, and product behavior change. Confirm them on t
 - [ ] The team can export its data and unwind the workflow.
 
 Submit additions only when they solve a distinct job and can be explained with an evidence boundary. A longer list is not automatically a better directory.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

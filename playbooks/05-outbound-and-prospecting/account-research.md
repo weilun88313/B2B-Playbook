@@ -102,3 +102,9 @@ Research ends when the team can pursue, test, pause, or disqualify the account. 
 ## Sources and evidence boundary
 
 This method does not authorize access to personal, restricted, or improperly obtained data. Review data rights, platform terms, privacy obligations, and applicable law before collection or use.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

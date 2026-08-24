@@ -12,3 +12,9 @@ Define where to compete, which organizations and people matter, and how they mak
 Market research, segmentation, buyer journey, jobs to be done, category entry points, and competitive alternatives.
 
 [Back to the playbook index](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -12,3 +12,9 @@ Coordinate marketing and sales around high-value accounts, physical access, and 
 ABM strategy, one-to-one ABM, one-to-few ABM, executive dinners, direct mail, partner marketing, affiliate program, channel marketing, and co-marketing.
 
 [Back to the playbook index](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

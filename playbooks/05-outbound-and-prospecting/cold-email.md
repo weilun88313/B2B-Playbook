@@ -115,3 +115,9 @@ Open rate is a deliverability diagnostic, not a business outcome. Sent volume is
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Sender identity, data use, notices, opt-out handling, and other requirements vary by jurisdiction and channel; review them with qualified owners. This playbook is not legal advice.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -154,3 +154,9 @@ Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Thresholds and dimensions are starting hypotheses; validate them against dated wins, losses, disqualifications, and segment economics.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

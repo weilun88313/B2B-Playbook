@@ -117,3 +117,9 @@ Record changes in influence, objections, timing, approval, and implementation ow
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Role names are working categories, not universal organizational truth. Validate them against the account's actual process, policies, and participants.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

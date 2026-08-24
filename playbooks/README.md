@@ -127,3 +127,9 @@ Every published tactic playbook should contain:
 - Account-based marketing coordinates marketing and sales across channels around selected accounts. See [Demandbase's ABM orchestration guide](https://www.demandbase.com/blog/abm-orchestration/).
 
 Enterprise selling is outside this marketing taxonomy. If the library later expands into sales, it should use a separate top-level collection rather than mixing sales stages into marketing domains.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

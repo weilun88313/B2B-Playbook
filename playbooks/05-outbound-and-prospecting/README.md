@@ -13,3 +13,9 @@ Create relevant conversations with accounts that have not raised a hand.
 Contact research, cold call, LinkedIn outbound, email deliverability, reply handling, and SDR handoff.
 
 [Back to the playbook index](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)
