@@ -24,7 +24,7 @@ Produce a usable artifact or decision, not broad advice.
 
 If the master index marks a requested topic as planned, say that no complete playbook is published yet. Do not fabricate one or silently substitute an adjacent tactic.
 
-All maintained content is in English. The Chinese section in the root README is orientation only.
+All maintained playbook, tool, and Skill content is in English. The root README maintains a complete Chinese mirror of the repository entrance and current coverage.
 
 ## Working rules
 
@@ -32,6 +32,8 @@ All maintained content is in English. The Chinese section in the root README is 
 - Label important judgments as fact, observation, assumption, or to validate.
 - Write `unknown` and a discovery action when evidence is missing.
 - Use the playbook's template and label every external case with a source and date.
+- For software selection, prefer a qualified AI-native product or modern infrastructure over a legacy default, but never treat novelty or AI marketing copy as evidence of fit.
+- Give each tool one primary category, state a real limitation, label established benchmarks, and disclose when a product is maintained by the repository owner.
 - When adding a third-party web link, preserve existing query parameters and append `ref=b2b-playbook` to the query string before any fragment. Do not add it to repository-internal or canonical-source links.
 - End with a concrete next action and the metric that will evaluate it.
 - Never invent customer facts, contacts, proof points, legal requirements, or performance claims.
