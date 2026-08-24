@@ -2,7 +2,7 @@
 
 > A curated directory of modern software for researching markets, creating demand, reaching buyers, operating revenue workflows, and measuring results.
 
-**Directory release:** 31 tools · 13 operating categories
+**Directory release:** 33 tools · 13 operating categories
 
 **Last reviewed:** 2026-08-24
 
@@ -28,14 +28,14 @@ An AI-native claim should be supported by observable product behavior: access to
 |---|---|---|---|
 | 01 | CRM, customer data & revenue systems | Customer context, objects, lifecycle stages, routing, pipeline | Attio, Day AI, HubSpot |
 | 02 | Market, account & buyer intelligence | Buyer signals, account prioritization, intent, research | Common Room, Unify |
-| 03 | Contact data, enrichment & verification | Contact discovery, waterfall enrichment, verification | Clay, FullEnrich, Apollo |
+| 03 | Contact data, enrichment & verification | Contact discovery, waterfall enrichment, verification | Clay, FullEnrich, MoltSets, Apollo |
 | 04 | Outbound & sales engagement | Email, calls, sequencing, inbox and deliverability execution | Salesforge, Instantly, Nooks |
 | 05 | Content, brand & creative | Content operations, research, decks, documents and visual assets | AirOps, Gamma |
 | 06 | Website, SEO & conversion | Site architecture, design, CMS, publishing and conversion surfaces | Framer, Relume |
-| 07 | Paid demand, ABM & personalization | Paid campaign operations and account-specific experiences | Mutiny, Metadata |
-| 08 | Events, webinars & field marketing | Event intelligence, pre-show pipeline, webinars and video | Lensmor, Goldcast, Vendelux |
+| 07 | Paid demand, ABM, personalization & buyer enablement | Paid campaigns, account-specific experiences and interactive proposals | Mutiny, Metadata, Qwilr |
+| 08 | Events, webinars & field marketing | Event intelligence, pre-show pipeline, webinars and video | Lensmor, Goldcast |
 | 09 | Partnerships, affiliate & ecosystem | Account overlap, partner programs, recruitment and payouts | Crossbeam, PartnerStack |
-| 10 | Lifecycle, customer marketing & advocacy | Product email, nurture, customer proof and advocacy | Loops, UserEvidence |
+| 10 | Lifecycle, customer marketing & advocacy | Product email, support, feedback, updates, customer proof and advocacy | Loops, Featurebase, UserEvidence |
 | 11 | Workflow automation, GTM engineering & AI agents | Integrations, deterministic workflows, agents and human review | n8n, Gumloop, Zapier |
 | 12 | Analytics, attribution & revenue operations | Buyer journeys, attribution, pipeline analysis and recommendations | HockeyStack, Dreamdata |
 | 13 | Privacy, consent & data governance | Permissioning, privacy operations, compliance and customer trust | Transcend, Vanta |
@@ -101,6 +101,14 @@ An AI-native claim should be supported by observable product behavior: access to
 - **Use when:** a team already has people or accounts and needs a waterfall across multiple providers to find work emails or phone numbers.
 - **Why it stands out:** one enrichment layer can query multiple data vendors through a UI, CRM workflow, API, or agent-facing infrastructure.
 - **Avoid or validate when:** regional coverage, field-level accuracy, provider provenance, data rights, or unit economics are central; test a representative sample.
+
+### [MoltSets](https://moltsets.com/?ref=b2b-playbook)
+
+**Type:** AI-native · **Reviewed:** 2026-08-24
+
+- **Use when:** an agent, script, Clay table, or n8n workflow needs people and company search, contact enrichment, email validation, mobile numbers, or reverse lookup through API or MCP.
+- **Why it stands out:** MoltSets is designed without a traditional dashboard around agent-readable tools, consistent request shapes, risk scores, API access, and an MCP server for Claude, Codex, and other agent workflows.
+- **Avoid or validate when:** a beta service, current US-first coverage, fair-use rules, phone-token economics, data provenance, privacy obligations, or production uptime needs deeper review. Benchmark a representative list before replacing other providers.
 
 ### [Apollo](https://www.apollo.io/ai?ref=b2b-playbook)
 
@@ -172,7 +180,7 @@ An AI-native claim should be supported by observable product behavior: access to
 - **Why it stands out:** AI is constrained by a real component system and can export structured work into Figma, Webflow, or React workflows.
 - **Avoid or validate when:** the team expects a finished strategy or production website; information architecture, proof, copy, accessibility, and final implementation still need owners.
 
-## 07 · Paid demand, ABM & personalization
+## 07 · Paid demand, ABM, personalization & buyer enablement
 
 ### [Mutiny](https://www.mutinyhq.com/products/beautiful-assets?ref=b2b-playbook)
 
@@ -189,6 +197,14 @@ An AI-native claim should be supported by observable product behavior: access to
 - **Use when:** a B2B demand team wants one execution layer to plan, build, review, experiment with, and optimize paid campaigns across supported channels.
 - **Why it stands out:** it focuses automation on campaign operations and pipeline-oriented demand work instead of supplying another reporting-only dashboard.
 - **Avoid or validate when:** channel coverage, account matching, minimum spend, creative control, attribution assumptions, or platform access must remain fully in-house.
+
+### [Qwilr](https://qwilr.com/?ref=b2b-playbook)
+
+**Type:** Modern infrastructure · **Reviewed:** 2026-08-24
+
+- **Use when:** a sales, marketing, customer-success, or agency team needs interactive proposals, quotes, personalized buyer pages, electronic acceptance, payment, and engagement analytics.
+- **Why it stands out:** Qwilr turns a static proposal into a branded web-based buying experience, while CRM integrations, templates, AI creation, conditional content, and a smart proposal workflow reduce repetitive production.
+- **Avoid or validate when:** complex CPQ, legal approval, procurement redlines, CRM source-of-truth rules, accessibility, offline delivery, or buyer-tracking consent requires a more controlled document process.
 
 ## 08 · Events, webinars & field marketing
 
@@ -208,14 +224,6 @@ An AI-native claim should be supported by observable product behavior: access to
 - **Use when:** a B2B marketing team wants webinars, virtual or field events, recording, attendee experience, and post-event video repurposing in one platform.
 - **Why it stands out:** events, Content Lab, recording, search, highlight reels, and agentic video workflows connect a live program to an ongoing content engine.
 - **Avoid or validate when:** event format, registration ownership, integrations, media rights, retention, attendee data, or enterprise contracting require a narrower platform.
-
-### [Vendelux](https://vendelux.com/?ref=b2b-playbook)
-
-**Type:** AI-native · **Reviewed:** 2026-08-24
-
-- **Use when:** an established event program needs portfolio planning, ICP-to-event matching, attendee intelligence, meeting generation, CRM connection, and event ROI workflows.
-- **Why it stands out:** it connects event discovery, historical and predicted intelligence, account lists, outreach, meetings, and revenue measurement around in-person marketing.
-- **Avoid or validate when:** source definitions, event coverage, sales-led pricing, outreach delivery model, CRM dependency, or the required scale of event spend is unclear.
 
 ## 09 · Partnerships, affiliate & ecosystem
 
@@ -244,6 +252,14 @@ An AI-native claim should be supported by observable product behavior: access to
 - **Use when:** a SaaS team wants marketing, product, lifecycle, and transactional email connected to product events and contact properties without a large marketing suite.
 - **Why it stands out:** a focused data model, API, workflows, experiments, reusable themes, and agent-assisted editing keep email close to the product.
 - **Avoid or validate when:** complex enterprise lead scoring, many brands, deep sales-led nurture, broad channel orchestration, or advanced governance requires a larger MAP.
+
+### [Featurebase](https://www.featurebase.app/?ref=b2b-playbook)
+
+**Type:** AI-native · **Reviewed:** 2026-08-24
+
+- **Use when:** product, support, customer-success, and GTM teams want one customer-facing system for support, feedback, roadmaps, updates, help content, tickets, surveys, and in-product communication.
+- **Why it stands out:** customer and company context connects the inbox, feedback, help center, changelog, workflows, Fibi AI, public API, and MCP so support signals can become product and lifecycle action.
+- **Avoid or validate when:** customer-data sync, AI answer sources, escalation, permissions, support SLAs, multi-brand governance, localization, or migration from a specialized help desk needs a controlled pilot.
 
 ### [UserEvidence](https://userevidence.com/platform/ai/?ref=b2b-playbook)
 
