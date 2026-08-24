@@ -1,19 +1,19 @@
-# Event-led growth
+# Event marketing
 
-Treat trade shows and industry conferences as deadline-driven opportunity systems, not brand booths.
+**Last reviewed:** 2026-08-24
 
-An operating heuristic—not an ROI formula—is to allocate roughly 40% of effort before the event, 20% on site, and 40% after it.
+Event marketing uses owned, sponsored, partner, and industry events to create access, memory, evidence, and qualified next actions. The format follows the objective; a booth is not the strategy.
 
 ## Use this when
 
-- The team is deciding whether to attend, sponsor, exhibit, or skip.
+- The team is deciding whether to host, attend, sponsor, exhibit, partner, or skip.
 - Money or staff time is committed and the event needs an execution system.
 - Relevant accounts and buying-committee seats can be identified before the event.
 
 ## Do not use this when
 
 - “Everyone in the industry goes” is the only reason to attend.
-- Badge count is the success metric.
+- Registration, badge, or attendee count is the success metric by itself.
 - The ICP cannot identify likely accounts or buying seats.
 
 ## Go / attend / skip scorecard
@@ -64,13 +64,9 @@ Each brief contains:
 - intended next step;
 - owner and meeting location.
 
-### Step 5: operate on site
+### Step 5: operate the chosen format
 
-- Confirm context before explaining the product.
-- Record the current alternative, trigger, missing seat, objection, next step, owner, and date.
-- Protect scheduled meetings from low-value booth activity.
-- Route unqualified scans away from active sales follow-up.
-- Review the day while memories are fresh.
+Define roles, run of show, account or audience experience, capture rules, escalation, and follow-up before launch. For exhibitor and conference execution, use the [trade-show playbook](trade-shows.md).
 
 ### Step 6: follow up from the conversation
 
@@ -156,3 +152,15 @@ Follow-up should restate the buyer's words, the agreed next step, the owner, and
 | Cost per qualified next action | Total event cost / completed qualified next actions |
 
 Badge scans, foot traffic, swag distributed, and raw meetings are activity—not pipeline outcomes.
+
+## Common mistakes
+
+- Choosing the format before defining the buyer outcome.
+- Treating sponsorship inventory as a strategy.
+- Using one objective and metric for every event type.
+- Waiting until after the event to assign follow-up owners.
+- Claiming pipeline from registrations or conversations without qualified progression.
+
+## Sources and evidence boundary
+
+This is an owner-maintained operating synthesis. The 40 / 20 / 40 allocation belongs in the specific [trade-show playbook](trade-shows.md), where it is presented as a heuristic rather than a benchmark or promise.

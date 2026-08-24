@@ -1,10 +1,13 @@
-# Outbound
+# Cold email
 
-Outbound creates focused conversations with relevant people at relevant accounts. Email and professional networks are tools, not the strategy.
+**Last reviewed:** 2026-08-24
+
+Cold email tests whether a relevant account and buying seat will engage with a specific business hypothesis. Email is the delivery channel, not the strategy.
 
 ## Use this when
 
 - An ICP and observable trigger already exist.
+- [Account research](account-research.md) is complete.
 - The objective is a qualified conversation or a clear no.
 - The account list comes from explainable sources.
 
@@ -23,18 +26,9 @@ Group accounts by a shared buyer, business job, current alternative, and observa
 
 Begin with a small batch. The purpose is to learn whether the evidence and message produce qualified conversations, not to maximize activity.
 
-### Step 2: research the account before the person
+### Step 2: confirm the research brief
 
-Record:
-
-- why the account fits the ICP;
-- the observable trigger and date;
-- the current alternative hypothesis;
-- the likely buying-committee seat;
-- the source for each fact;
-- unknowns and a discovery action.
-
-Do not collect personal detail that is unrelated to the business decision.
+Use the [account-research playbook](account-research.md). Confirm account fit, trigger, current alternative, buying seat, sources, unknowns, and a stop condition before writing.
 
 ### Step 3: write a two-sentence first message
 
@@ -44,17 +38,9 @@ Sentence one connects observable evidence to a business consequence. Sentence tw
 
 Avoid invented familiarity, unsupported performance claims, feature dumps, and calendar links without context.
 
-### Step 4: use a short evidence-building sequence
+### Step 4: decide whether email is enough
 
-| Step | Purpose | Stop when |
-|---|---|---|
-| 1. Trigger message | Test whether the account evidence is relevant | The premise is false or the account is disqualified |
-| 2. Alternative angle | Name a likely process limitation | The alternative is corrected or no longer relevant |
-| 3. Buying-seat angle | Ask who owns the outcome or constraint | The correct seat is identified |
-| 4. Useful artifact | Offer a checklist, comparison, or narrow review | The recipient declines or no evidence improves |
-| 5. Close the loop | State the hypothesis and stop active follow-up | No qualified signal appears |
-
-Every step must add information. “Just following up” does not.
+Use a short email-only path when written evidence and a reply are sufficient. When phone, LinkedIn, partners, events, or direct mail each have a distinct job, use the [multichannel-sequence playbook](multichannel-sequence.md). Never repeat the same message across channels.
 
 ### Step 5: classify replies by evidence
 
@@ -72,33 +58,11 @@ Weak replies can come from the wrong accounts, wrong seat, weak trigger, poor ti
 
 ## Copyable templates
 
-### Account research brief
-
-- Account:
-- ICP tier and evidence:
-- Business job:
-- Observable trigger and date:
-- Current alternative:
-- Target buying seat:
-- Evidence sources:
-- Unknowns:
-- Reason to stop:
-- Proposed next action:
-
 ### First message
 
 **Subject:** [trigger or decision]
 
 > [Evidence connected to the account]. [Specific consequence or alternative limitation]. Is that already solved, or worth [bounded next step]?
-
-### Sequence plan
-
-| Step | Channel | New evidence or angle | Question / action | Delay | Stop condition |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
 
 ### Close-the-loop message
 
@@ -139,3 +103,15 @@ This checklist is not legal advice.
 | Stop-rule compliance | Prevents stale accounts and consent failures from recycling |
 
 Open rate is a deliverability diagnostic, not a business outcome. Sent volume is not progress.
+
+## Common mistakes
+
+- Personalizing around irrelevant personal detail.
+- Treating a generic company fact as a buying trigger.
+- Asking for a meeting before giving the recipient a reason to care.
+- Hiding uncertainty inside confident claims.
+- Continuing after a correction, opt-out, or disqualification.
+
+## Sources and evidence boundary
+
+This is an owner-maintained operating synthesis. Sender identity, data use, notices, opt-out handling, and other requirements vary by jurisdiction and channel; review them with qualified owners. This playbook is not legal advice.

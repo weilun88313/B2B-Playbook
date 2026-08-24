@@ -14,23 +14,24 @@ Do not read the entire repository. Pick the decision in front of you:
 
 | Collection | Use it to | Start here |
 |---|---|---|
-| **Playbooks** | Follow a practical method and copy its working templates | [Choose a playbook](#playbooks) |
+| **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
 | **Tools** | Choose software for a specific job instead of assembling a fashionable stack | [Browse the tool directory](TOOLS.md) |
 | **Agent Skill** | Let an AI agent route a B2B task through the right method | [Install the Skill](#agent-skill) |
 
-For the fastest useful result, run the [10-minute ICP field test](playbooks/icp.md#10-minute-field-test) on one target account.
+For the fastest useful result, run the [10-minute ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one target account.
 
 ### Playbooks
 
-Each playbook is one self-contained page. It includes when to use the method, the operating steps, copyable templates, a checklist, and metrics.
+The [master playbook index](playbooks/) organizes B2B marketing into nine durable capability domains, then routes each concrete tactic—such as cold email, trade shows, founder story, LinkedIn, affiliate programs, and pipeline—to its own playbook.
 
-| Playbook | Decision it helps you make |
+| Published domain | Available playbooks |
 |---|---|
-| [ICP & buying committee](playbooks/icp.md) | Which accounts deserve active sales time, who must participate, and what happens next |
-| [Positioning](playbooks/positioning.md) | Why a specific buyer should change from the current alternative |
-| [Outbound](playbooks/outbound.md) | How to turn account evidence into a relevant conversation |
-| [Event-led growth](playbooks/event-led-growth.md) | Whether to attend, sponsor, exhibit, or skip—and how to operate the event |
-| [Enterprise sales](playbooks/enterprise-sales.md) | How to coordinate the buyer journey from first conversation to signature |
+| [Strategy & buyers](playbooks/01-strategy-and-buyers/) | ICP, buying committee |
+| [Product marketing](playbooks/02-product-marketing/) | Positioning |
+| [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | Account research, cold email, multichannel sequence |
+| [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | Event marketing, trade shows |
+
+Unpublished topics are mapped in the master index without empty placeholder files. Each published tactic keeps its strategy, execution steps, templates, checklist, metrics, mistakes, and sources in one page.
 
 ### Tool directory
 
@@ -87,7 +88,7 @@ If this repository helps you complete real B2B work, a star helps other operator
 
 仓库当前保留三个核心入口：
 
-1. **行动手册**：客户画像与购买委员会、市场定位、主动外联、活动型增长和企业销售。
+1. **行动手册**：按照九个稳定的 B2B 营销能力域组织，再将冷邮件、展会、创始人故事、白皮书、领英、联盟营销和 Pipeline 等具体打法放入各自页面。
 2. **工具清单**：按实际任务整理的软件推荐，同时说明适用条件和限制。
 3. **智能体技能**：让兼容的人工智能智能体读取并执行这套方法。
 

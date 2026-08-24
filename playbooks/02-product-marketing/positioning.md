@@ -1,5 +1,7 @@
 # Positioning
 
+**Last reviewed:** 2026-08-24
+
 Positioning is the shortest credible explanation of why a specific buyer should change from the current alternative.
 
 ## Use this when
@@ -10,7 +12,7 @@ Positioning is the shortest credible explanation of why a specific buyer should 
 
 ## Do not use this when
 
-- The ICP is empty. Complete [ICP](icp.md) first.
+- The ICP is empty. Complete [ICP](../01-strategy-and-buyers/icp.md) first.
 - The team wants a positioning document to substitute for product evidence.
 - The current alternative is described only as “the traditional way.”
 
@@ -117,3 +119,15 @@ Executive version:
 | Sales-language consistency | Calls or emails using trigger → alternative → result / reviewed sample |
 
 Do not count a completed messaging workshop, slogan volume, unqualified traffic, or curiosity clicks as positioning outcomes.
+
+## Common mistakes
+
+- Using a slogan as a substitute for a market decision.
+- Naming the buyer but not the current alternative.
+- Leading with features that do not explain why change matters now.
+- Claiming differentiation without verifiable proof.
+- Allowing the homepage, outbound message, and sales story to contradict one another.
+
+## Sources and evidence boundary
+
+This is an owner-maintained operating synthesis. Positioning claims must remain inside the available product, customer, security, and performance evidence.

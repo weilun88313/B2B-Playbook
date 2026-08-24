@@ -11,12 +11,18 @@ Produce a usable artifact or decision, not broad advice.
 
 | Need | Read |
 |---|---|
-| ICP, qualification, or buying committee | `playbooks/icp.md` |
-| Positioning, homepage, or comparison page | `playbooks/positioning.md` |
-| Account research or outbound sequence | `playbooks/outbound.md` |
-| Event selection or execution | `playbooks/event-led-growth.md` |
-| First meeting through signature | `playbooks/enterprise-sales.md` |
+| Find a marketing domain or tactic | `playbooks/README.md` |
+| ICP or account qualification | `playbooks/01-strategy-and-buyers/icp.md` |
+| Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
+| Positioning | `playbooks/02-product-marketing/positioning.md` |
+| Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
+| Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
+| Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
+| Event strategy | `playbooks/06-account-field-and-partner/event-marketing.md` |
+| Trade-show execution | `playbooks/06-account-field-and-partner/trade-shows.md` |
 | Software selection | `TOOLS.md` |
+
+If the master index marks a requested topic as planned, say that no complete playbook is published yet. Do not fabricate one or silently substitute an adjacent tactic.
 
 All maintained content is in English. The Chinese section in the root README is orientation only.
 

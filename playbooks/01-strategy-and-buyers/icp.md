@@ -1,12 +1,14 @@
-# ICP & buying committee
+# Ideal customer profile (ICP)
 
-Turn a market into accounts, people, and next actions—not “everyone interested in this category.”
+**Last reviewed:** 2026-08-24
+
+Turn a market into observable account filters and different next actions—not “everyone interested in this category.”
 
 ## Use this when
 
 - Sales spends time on companies that are unlikely to buy.
 - Content and outbound target a different audience in every channel.
-- A deal has a friendly user but no visible economic buyer.
+- The team cannot explain why one account deserves more effort than another.
 
 ## Do not use this when
 
@@ -60,7 +62,7 @@ Default rules:
 
 1. A one-sentence ICP
 2. Five disqualifiers
-3. A buying-committee map
+3. A [buying-committee map](buying-committee.md)
 4. Dimension-level evidence and a T1/T2/T3 tier
 5. One default next action
 6. Unknowns and how to resolve them
@@ -80,9 +82,9 @@ Examples include no purchasing function, an unsupported contracting model, no bu
 
 “SMB,” “mid-market,” and “enterprise” are not filters by themselves.
 
-### Step 3: map the buying committee
+### Step 3: map the buying committee separately
 
-For each account, record the economic buyer, champion, technical buyer, and blocker. If a seat is unknown, record the action that will discover it. A champion without an economic buyer is a conversation, not yet a qualified deal.
+After an account passes qualification, use the [buying-committee playbook](buying-committee.md) to map the economic buyer, champion, technical buyer, blocker, operator, and procurement path. Do not use committee completeness to rescue a low-fit account.
 
 ### Step 4: pressure-test the rules
 
@@ -109,15 +111,6 @@ Hard disqualifiers:
 4.
 5.
 
-### Buying-committee map
-
-| Seat | Name / role | What they care about | Evidence | Discovery action |
-|---|---|---|---|---|
-| Economic buyer | | | | |
-| Champion | | | | |
-| Technical buyer | | | | |
-| Blocker | | | | |
-
 ### Account decision
 
 - Account:
@@ -134,8 +127,7 @@ Hard disqualifiers:
 - [ ] At least one current-quarter trigger can be observed.
 - [ ] At least five hard disqualifiers exist.
 - [ ] The current alternative is named.
-- [ ] Four committee seats are named or marked unknown.
-- [ ] Every unknown seat has a discovery action.
+- [ ] Qualified accounts continue into a separate buying-committee map.
 - [ ] Five recent accounts pressure-tested the rules.
 - [ ] Tiering produces different default actions.
 - [ ] Facts, assumptions, and unknowns are separate.
@@ -150,3 +142,15 @@ Hard disqualifiers:
 | Tier agreement | Accounts receiving the same tier from two reviewers / accounts reviewed | A non-repeatable rule cannot support teamwork |
 
 Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate as an outcome.
+
+## Common mistakes
+
+- Defining an ICP with attractive adjectives instead of observable filters.
+- Adjusting weights until a preferred logo becomes T1.
+- Treating total addressable market as a list of active accounts.
+- Hiding unknowns behind model-generated detail.
+- Letting sales pursue T3 accounts without recording an exception.
+
+## Sources and evidence boundary
+
+This is an owner-maintained operating synthesis. Thresholds and dimensions are starting hypotheses; validate them against dated wins, losses, disqualifications, and segment economics.
