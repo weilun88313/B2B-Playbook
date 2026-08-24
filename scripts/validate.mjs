@@ -26,6 +26,11 @@ const markdownFiles = walk(root).filter((file) => file.endsWith(".md"));
 const errors = [];
 
 for (const file of markdownFiles) {
+  const text = readFileSync(file, "utf8");
+  if (file !== join(root, "README.md") && /\p{Script=Han}/u.test(text)) {
+    errors.push(`${file}: Chinese text is allowed only in the root README.md`);
+  }
+
   for (const target of relativeMarkdownLinks(file)) {
     let decoded = target;
     try {
@@ -41,12 +46,11 @@ for (const file of markdownFiles) {
 }
 
 for (const modulePath of [
-  "zh/01-icp",
-  "zh/02-positioning",
-  "zh/03-outbound",
-  "zh/04-events",
-  "zh/06-sales",
-  "en/01-icp",
+  "playbooks/01-icp",
+  "playbooks/02-positioning",
+  "playbooks/03-outbound",
+  "playbooks/04-events",
+  "playbooks/06-sales",
 ]) {
   for (const required of ["README.md", "sop.md", "metrics.md"]) {
     if (!existsSync(join(root, modulePath, required))) {
@@ -71,4 +75,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${markdownFiles.length} Markdown files, relative links, module contracts, and SKILL.md frontmatter.`);
+console.log(`Validated ${markdownFiles.length} Markdown files, relative links, module contracts, the English-only content policy, and SKILL.md frontmatter.`);

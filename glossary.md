@@ -1,30 +1,30 @@
-# 术语
+# Glossary
 
-中英共用同一套定义。写文档时优先用这里的词，避免同一概念多种叫法。
+Use these definitions consistently across playbooks and generated artifacts.
 
-| 中文 | English | 定义 |
-|---|---|---|
-| 理想客户画像 | ICP | 最值得投入销售时间的账户类型，不是「所有可能付钱的人」 |
-| 触发因素 | Trigger | 使本季度与上季度不同的可观察事件：续约、展会、招人、监管、事故 |
-| 经济买家 | Economic buyer | 能批预算或否决预算的人 |
-| 支持者 | Champion | 内部需要做成这件事、愿意帮你推进的人 |
-| 技术买家 | Technical buyer | 能在数据、安全、集成上让交易失败的人 |
-| 阻力者 | Blocker | 现任方案主人、法务、安全，或「我们一直这么做」的人 |
-| 购买委员会 | Buying committee | 上述角色组成的决策单元，B2B 默认不是单人下单 |
-| 合格商机 | Qualified opportunity | 有具名账户、下一场会议或节点、对方承认必须改变（不只是有痛点）、绑在业务日历上的决策日 |
-| 账户分级 | Account tier | 资源分配决定：谁值得一对一研究，谁只做分段假设 |
-| 外联 | Outbound | 主动触达具名账户中的具体人，目的是会议或明确的「不」 |
-| 活动型增长 | Event-led GTM | 把展会/会议当成有截止日期的商机系统，而不是品牌摆摊 |
-| 对比页 | Contrast / alternative page | 帮助支持者在内部解释「为什么选这个、不选那个」的页面 |
-| 销售支持 | Enablement | 客户成功把安全问卷、对比、实施路径转发出去的材料 |
-| N-1 | N minus one | 执行层之下一层，企业单常见的支持者进门位 |
-| 钳形 | Pincer | 创始人打执行层、销售打 N-1，从两侧挤进同一场会 |
-| 执行层价值 | Executive value | 对方拿到会上能说的针移动结果；不是用户少点几次鼠标 |
-| Alpha | Alpha | 不对称优势：换工具能解锁的下一步，值得执行层承担引入风险 |
-| 非正式首谈 | Intro call | 无演示、无片子、无录音的第一场；信息差主要在这里拿 |
-| 试点 | Pilot | 小范围、有任务和共写成功定义的验证；不是无限试用 |
-| 纸面 | Paper | 合同文本；企业采购常用 Word 红线 |
+| Term | Definition |
+|---|---|
+| Ideal customer profile (ICP) | The account type most deserving of sales time, not everyone who could theoretically pay |
+| Trigger | An observable event that makes this quarter different: renewal, event, hiring, regulation, deadline, incident, or failed audit |
+| Economic buyer | The person who can approve or block the budget |
+| Champion | The internal person who needs the change and actively helps the decision progress |
+| Technical buyer | The person who can block the decision through data, security, architecture, integration, or implementation concerns |
+| Blocker | The current-process owner, legal or security reviewer, or another person with reason and power to stop change |
+| Buying committee | The group of seats shaping a B2B decision; the default unit is rarely one person |
+| Qualified opportunity | A named account with an acknowledged need to change, a buyer-tied decision path, and a concrete next action |
+| Account tier | A time-allocation decision defining who receives one-to-one research and who receives only a segment hypothesis |
+| Outbound | Proactive contact with a specific person at a named account to create a qualified conversation or an explicit no |
+| Event-led growth | Treating an event as a deadline-driven opportunity system rather than a brand booth |
+| Comparison page | A page that helps a champion explain why to choose one approach over a real alternative |
+| Enablement | Material a buyer can forward internally to support security, comparison, implementation, and commercial decisions |
+| Direct report | The level immediately below an executive and a common champion entry point in enterprise sales |
+| Pincer motion | Coordinated entry from the executive and direct-report levels |
+| Executive value | A business outcome the buyer can defend in an executive meeting, not a small reduction in user clicks |
+| Alpha | A meaningful asymmetric advantage that justifies the organizational risk of changing approach |
+| Intro call | The first candid conversation used to understand the decision before a demo |
+| Pilot | A bounded validation with real tasks, co-written success criteria, and a decision path—not an unlimited trial |
+| Paper | The agreement and related procurement documents moving through review and signature |
 
-## 刻意不用的指标（作为主指标时）
+## Metrics that should not stand alone
 
-注册数、Star、点赞、打开率单独成立时，都不等于商机。打开率可以当过程指标，不能当成功定义。
+Registrations, stars, likes, badge scans, and open rates do not equal qualified opportunities. They may be process signals, but they should not be the primary definition of success.

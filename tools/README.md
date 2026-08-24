@@ -1,10 +1,10 @@
 # Tools
 
-Small, dependency-free helpers for manual playbooks. Tools make rules repeatable; they do not replace account research or judgment.
+Small, dependency-free helpers make manual playbooks repeatable without hiding their logic.
 
 ## ICP account scorer
 
-Scores the five dimensions in `zh/01-icp/templates/account-scorecard.md` and applies the trigger gate.
+The scorer implements the five dimensions in the [account scorecard](../playbooks/01-icp/templates/account-scorecard.md) and applies the trigger gate.
 
 ```bash
 node tools/icp-account-scorer.mjs \
@@ -28,6 +28,6 @@ The scorer accepts only 0, 1, or 2 for each dimension. It does not research comp
 
 - One operational job
 - Explicit inputs and outputs
-- No secrets or network access
+- No secrets or undeclared network access
 - Deterministic checks and tests
-- The corresponding manual workflow remains readable without the tool
+- A readable manual workflow that remains primary
