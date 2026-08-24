@@ -1,41 +1,77 @@
 # B2B Playbook
 
-> Practical B2B marketing knowledge, tool choices, and an Agent Skill for turning go-to-market ideas into observable work.
-
-**[English](#english) | [中文](#中文简介)**
+**[English](#english) | [中文](#中文)**
 
 ## English
 
-### Start with one decision
+> A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-Do not read the entire repository. Pick the decision in front of you:
+**Current coverage:** 8 published playbooks · 4 active domains · 9-domain marketing system
+
+**Last reviewed:** 2026-08-24
+
+### What this is
+
+B2B Playbook is a publicly readable, owner-maintained knowledge base for B2B marketers, founders, revenue teams, and AI agents. It separates durable marketing capabilities from specific tactics, then gives each published tactic an execution-ready page.
+
+It is designed to answer practical questions:
+
+- Which market, account, and buyer should we prioritize?
+- What should the market understand and believe?
+- Which channel or motion fits the decision in front of us?
+- What evidence would justify the next action?
+- Which tool is appropriate for the job?
+
+### Start with one decision
 
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
-| **Tools** | Choose software for a specific job instead of assembling a fashionable stack | [Browse the tool directory](TOOLS.md) |
-| **Agent Skill** | Let an AI agent route a B2B task through the right method | [Install the Skill](#agent-skill) |
+| **Tools** | Choose software for a defined job instead of assembling a fashionable stack | [Browse the tool directory](TOOLS.md) |
+| **Agent Skill** | Let a compatible AI agent route a task through the right method | [Install the Skill](#agent-skill) |
+| **Verified use cases** | Study how a specific company executed a specific B2B motion | Planned—only named companies with traceable sources will be published |
 
 For the fastest useful result, run the [10-minute ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one target account.
 
-### Playbooks
+### B2B marketing system map
 
-The [master playbook index](playbooks/) organizes B2B marketing into nine durable capability domains, then routes each concrete tactic—such as cold email, trade shows, founder story, LinkedIn, affiliate programs, and pipeline—to its own playbook.
+The library uses two levels: a **capability domain** owns a durable marketing decision; a **tactic playbook** explains how to execute a specific motion, channel, or asset. The [master index](playbooks/) is the complete navigation layer.
 
-| Published domain | Available playbooks |
-|---|---|
-| [Strategy & buyers](playbooks/01-strategy-and-buyers/) | ICP, buying committee |
-| [Product marketing](playbooks/02-product-marketing/) | Positioning |
-| [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | Account research, cold email, multichannel sequence |
-| [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | Event marketing, trade shows |
+| # | Capability domain | Decision it owns | Current coverage |
+|---|---|---|---|
+| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) |
+| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md) |
+| 03 | Brand, story & content | How future buyers will remember, trust, and learn from the company | Planned: founder story, thought leadership, white paper, case study, webinar, community |
+| 04 | Channels & distribution | Where and how the market will repeatedly encounter the company's ideas and offers | Planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
+| 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md); planned: cold call, LinkedIn outbound |
+| 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md); planned: ABM, affiliate, partner marketing |
+| 07 | Website & conversion | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
+| 08 | Lifecycle & customer marketing | How to educate, retain, expand, and mobilize customers | Planned: nurture, onboarding, customer education, community, advocacy, referral, renewal |
+| 09 | Operations, pipeline & measurement | How data, process, technology, and measurement make marketing repeatable | Planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
 
-Unpublished topics are mapped in the master index without empty placeholder files. Each published tactic keeps its strategy, execution steps, templates, checklist, metrics, mistakes, and sources in one page.
+Enterprise selling is outside this marketing taxonomy. If the library later expands into sales, it will use a separate top-level collection.
+
+### What every published playbook contains
+
+Each completed tactic page includes:
+
+1. what it is;
+2. when to use it and when not to use it;
+3. strategy and operating principles;
+4. step-by-step execution;
+5. copyable templates;
+6. a pre-flight checklist;
+7. operating metrics and non-metrics;
+8. common mistakes; and
+9. sources, evidence boundaries, and a last-reviewed date.
+
+Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence.
 
 ### Tool directory
 
-[TOOLS.md](TOOLS.md) is a small, opinionated directory of B2B software. Tools are organized by job—not affiliate value or popularity—and include a use case, a reason to avoid the tool, an official link, and a last-review date.
+[TOOLS.md](TOOLS.md) is a small, opinionated directory of B2B software. Tools are organized by job—not affiliate value or popularity—and include a use case, a reason to avoid or validate the tool, an official link, and a last-review date.
 
-The directory is not a ranking and does not replace security, privacy, deliverability, or legal review.
+The directory is not a ranking and does not replace security, privacy, deliverability, procurement, or legal review.
 
 ### Agent Skill
 
@@ -66,13 +102,17 @@ Keep four evidence states separate:
 | **Assumption** | An unverified belief that changes the next action |
 | **To validate** | A question paired with a test that can close it |
 
-Every week should end with one documented decision and one next test—not a longer activity report.
+Every work cycle should end with one documented decision and one next test—not a longer activity report.
 
-### Maintenance
+### Language and maintenance
 
-This is an owner-maintained reference. Ivan Xu (`weilun88313`) keeps one editorial voice and evidence standard. Guidance is a starting method, not a guaranteed formula or legal advice.
+- English is the canonical language for playbooks, tools, and the Agent Skill.
+- Chinese is maintained only in this README as a complete mirror of the repository entrance and current coverage.
+- Any README structure or coverage change must update the English and Chinese sections in the same commit.
+- Ivan Xu (`weilun88313`) maintains one editorial voice and evidence standard.
+- A use case is published only when it names a specific company and provides traceable sources and dates.
 
-If this repository helps you complete real B2B work, a star helps other operators discover it.
+Guidance is a starting method, not a guaranteed formula or legal advice. If this repository helps you complete real B2B work, a star helps other operators discover it.
 
 ### Copyright and reuse
 
@@ -82,18 +122,120 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 ---
 
-## 中文简介
+## 中文
 
-**B2B Playbook** 是一个面向 B2B 销售与增长从业者和人工智能智能体的开放知识库。
+> 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-仓库当前保留三个核心入口：
+**当前覆盖：** 8 篇已发布 Playbook · 4 个已启用能力域 · 9 个能力域的完整营销体系
 
-1. **行动手册**：按照九个稳定的 B2B 营销能力域组织，再将冷邮件、展会、创始人故事、白皮书、领英、联盟营销和 Pipeline 等具体打法放入各自页面。
-2. **工具清单**：按实际任务整理的软件推荐，同时说明适用条件和限制。
-3. **智能体技能**：让兼容的人工智能智能体读取并执行这套方法。
+**最后核验：** 2026-08-24
 
-英文是仓库正文的唯一维护版本。中文只保留在本简介中，避免双语正文产生版本漂移。
+### 这是什么
 
-版权归 Ivan Xu 所有。允许阅读、分享本仓库链接及在注明作者和正版来源的前提下少量引用；转载全文或大段内容、翻译、镜像、商业使用，以及将内容打包进对外分发的数据集、知识库、RAG 系统或模型训练材料，须事先取得书面许可。完整规则见 [LICENSE](LICENSE)。
+B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面向 B2B 市场营销人员、创始人、营收团队和人工智能智能体。它将长期稳定的营销能力与具体战术分开组织，并为每个已发布战术提供可直接执行的独立页面。
+
+它主要回答这些实际问题：
+
+- 应该优先选择哪个市场、账户和买家？
+- 应该让市场理解和相信什么？
+- 当前决策适合哪个渠道或营销动作？
+- 哪些证据足以支持下一步行动？
+- 哪个软件工具适合当前任务？
+
+### 从一个决策开始
+
+| 内容入口 | 用来解决什么问题 | 从这里开始 |
+|---|---|---|
+| **Playbooks 行动手册** | 查找具体的 B2B 营销能力、渠道或战术 | [浏览 Playbook 总索引](playbooks/) |
+| **Tools 工具目录** | 围绕明确任务选软件，而不是拼凑流行工具栈 | [浏览工具目录](TOOLS.md) |
+| **Agent Skill 智能体技能** | 让兼容的人工智能智能体按正确方法处理任务 | [安装 Skill](#智能体-skill) |
+| **已验证 Use Cases** | 研究某家具体企业如何执行某项具体 B2B 营销动作 | 计划中——只发布有企业名称和可追溯来源的案例 |
+
+如果想最快获得有用结果，可以先选择一个目标账户，运行 [10 分钟 ICP 实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。
+
+### B2B 营销体系地图
+
+知识库采用两层结构：**能力域**负责一个长期稳定的营销决策，**战术 Playbook**解释如何执行某个具体动作、渠道或内容资产。[Playbook 总索引](playbooks/)是完整的导航入口。
+
+| 编号 | 能力域 | 负责的核心决策 | 当前覆盖 |
+|---|---|---|---|
+| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) |
+| 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md) |
+| 03 | 品牌、故事与内容 | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | 计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
+| 04 | 渠道与分发 | 市场将在哪里、以何种方式反复接触公司的观点和产品 | 计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
+| 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)；计划：Cold Call、LinkedIn Outbound |
+| 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)；计划：ABM、Affiliate、合作伙伴营销 |
+| 07 | 网站与转化 | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
+| 08 | 生命周期与客户营销 | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | 计划：培育、Onboarding、客户教育、客户社区、倡导、推荐、续约 |
+| 09 | 运营、Pipeline 与衡量 | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | 计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
+
+企业销售不属于这套营销分类。如果知识库未来扩展到销售，将建立单独的顶层内容集合。
+
+### 每篇已发布 Playbook 包含什么
+
+每个完成的战术页面都包含：
+
+1. 它是什么；
+2. 什么时候适用、什么时候不适用；
+3. 策略与执行原则；
+4. 分步骤执行方法；
+5. 可复制的模板；
+6. 执行前检查清单；
+7. 运营指标与不应误用的指标；
+8. 常见错误；以及
+9. 来源、证据边界和最后核验日期。
+
+计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。
+
+### 工具目录
+
+[TOOLS.md](TOOLS.md) 是一份精简且有明确取舍的 B2B 软件目录。工具按任务而不是联盟佣金或流行程度组织，并说明适用场景、需要回避或验证的条件、官方网站和最后核验日期。
+
+工具目录不是排行榜，也不能代替安全、隐私、邮件送达、采购或法律审查。
+
+### 智能体 Skill
+
+可以将本仓库作为 Agent Skill 安装到 Codex、Claude Code、Cursor、OpenCode 或其他兼容智能体：
+
+```bash
+npx skills add weilun88313/B2B-Playbook
+```
+
+然后输入：
+
+```text
+使用 $b2b-playbook 评估这 5 个目标账户。
+输出 ICP、购买委员会地图、T1/T2/T3 分级，
+以及每个账户的下一步行动。标记未知信息，不要编造事实。
+```
+
+Skill 只负责把任务路由到相关 Playbook，不会自动发送消息、补充联系人数据或修改 CRM。
+
+### 证据规则
+
+始终区分四种证据状态：
+
+| 状态 | 含义 |
+|---|---|
+| **事实** | 可以核验的带日期记录、公开来源、直接引语或系统事件 |
+| **观察** | 从有限样本中发现的模式 |
+| **假设** | 尚未验证、但会影响下一步行动的判断 |
+| **待验证** | 一个问题，以及能够回答这个问题的测试 |
+
+每个工作周期都应该以一个有记录的决策和一个下一步测试结束，而不是以更长的活动报告结束。
+
+### 语言与维护
+
+- Playbook、工具目录和 Agent Skill 的唯一正文版本为英文。
+- 中文只在本 README 中维护，完整同步仓库入口和当前覆盖范围。
+- README 的结构或内容覆盖发生变化时，必须在同一次提交中同步更新英文与中文。
+- Ivan Xu（`weilun88313`）以统一的编辑口径和证据标准维护本仓库。
+- Use Case 只有在明确具体企业，并提供可追溯来源和日期时才会发布。
+
+这里的内容是行动起点，不是结果保证或法律意见。如果本仓库帮助你完成了真实的 B2B 工作，欢迎点一个 Star，让更多从业者发现它。
+
+### 版权与使用
+
+版权所有 © 2026 Ivan Xu，保留全部权利。允许阅读、分享本仓库链接，以及在注明作者和正版来源的前提下少量引用；转载、翻译、镜像、大段复制、商业使用，以及将内容用于对外分发的数据集、知识库、RAG 系统或模型训练，须事先取得书面许可。完整规则见 [LICENSE](LICENSE)。
 
 唯一正版来源：[github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)
