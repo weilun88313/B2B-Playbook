@@ -2,7 +2,7 @@
 name: b2b-playbook
 description: >
   Practical B2B knowledge base. Use for ICP, buying committee, positioning,
-  outbound sequences, event-led GTM, checklists, and templates. Chinese is
+  outbound sequences, event-led GTM, enterprise sales cycle, checklists, and templates. Chinese is
   the source of truth (zh/). Do not invent customer data or legal advice.
 ---
 
@@ -26,7 +26,8 @@ description: >
 | 定位 / 官网 / 对比页 | `zh/02-positioning/` |
 | 外联序列 | `zh/03-outbound/` |
 | 展会与活动 | `zh/04-events/` |
-| 内容 / 销售流程 / 运营 | 对应目录仍是占位，不要编造完整 SOP |
+| 从首谈到签字 | `zh/06-sales/` |
+| 内容 / 运营 | 对应目录仍是占位，不要编造完整 SOP |
 
 先读该模块 `README.md`，再 `sop.md`，填 `templates/`，对照 `examples/`，发出前过 `checklists/`。
 

@@ -8,7 +8,7 @@ An open knowledge base of B2B playbooks, checklists, templates, and worked examp
 
 ## 你能直接拿走什么
 
-第一期写厚四块。每一块都包含：何时用、SOP、清单、空白模板、一份填好的虚构示例、指标。
+第一期写厚五块。每一块都包含：何时用、SOP、清单、空白模板、一份填好的虚构示例、指标。
 
 | 模块 | 拿走什么 |
 |---|---|
@@ -16,6 +16,7 @@ An open knowledge base of B2B playbooks, checklists, templates, and worked examp
 | [定位与官网](zh/02-positioning/) | 一句话工作纸、10 秒检查清单、对比页大纲 |
 | [外联](zh/03-outbound/) | 研究清单、触点序列、发出前合规检查、一条完整战役 |
 | [活动](zh/04-events/) | 选展评分、展前/现场/展后清单、会后跟进 |
+| [销售过程](zh/06-sales/) | 非正式首谈、演示共创、试点倒排、定价与采购清单 |
 
 虚构示例统一用公司 **Helion**（供应商尽职调查软件），避免真实客户与真实产品。
 
@@ -29,7 +30,7 @@ zh/                 中文主内容
   03-outbound/      ★ 第一期
   04-events/        ★ 第一期
   05-content/       占位
-  06-sales/         占位
+  06-sales/         ★ 第一期
   07-ops/           占位
 en/                 与 zh 同构，正文后补
 tools/              可运行小工具（尚未发布）

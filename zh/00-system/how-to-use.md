@@ -8,6 +8,7 @@
 - 官网或销售口头说不清 → [02-positioning](../02-positioning/)
 - 要主动约会议 → [03-outbound](../03-outbound/)
 - 正为某场展会花钱或派人 → [04-events](../04-events/)
+- 已经约到会、要走到签字 → [06-sales](../06-sales/)
 
 ## 每个模块的阅读顺序
 

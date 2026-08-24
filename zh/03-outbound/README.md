@@ -18,6 +18,6 @@
 
 - [SOP](sop.md)
 - 清单：[发出前](checklists/pre-send.md) · [合规最低项](checklists/compliance.md)
-- 模板：[账户研究](templates/account-research.md) · [序列](templates/sequence.md) · [结束信](templates/breakup.md)
+- 模板：[2–3 句触达](templates/two-sentence-outreach.md) · [账户研究](templates/account-research.md) · [序列](templates/sequence.md) · [结束信](templates/breakup.md)
 - 示例：[Helion 战役](examples/helion-outbound-campaign.md)
 - [指标](metrics.md)
