@@ -1,0 +1,15 @@
+{
+  "name": "b2b-playbook",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Executable B2B sales and growth playbooks for operators and AI agents.",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/validate.mjs && node --test tools/icp-account-scorer.test.mjs",
+    "icp:score": "node tools/icp-account-scorer.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

@@ -21,7 +21,7 @@
 
 ## 一篇写完的标准
 
-见仓库根目录 [CONTRIBUTING.md](../../CONTRIBUTING.md)。原则文不算完成。
+见仓库根目录 README 的 [Quality contract](../../README.md#quality-contract)。原则文不算完成。
 
 ## 示例里的 Helion
 

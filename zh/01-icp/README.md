@@ -15,6 +15,7 @@
 
 ## 本目录
 
+- [10 分钟快速开始](quickstart.md)
 - [SOP](sop.md)
 - 清单：[ICP 是否写完](checklists/icp-complete.md)
 - 模板：[ICP 画布](templates/icp-canvas.md) · [购买委员会](templates/buying-committee.md) · [账户评分](templates/account-scorecard.md)

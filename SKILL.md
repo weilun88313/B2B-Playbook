@@ -1,39 +1,44 @@
 ---
 name: b2b-playbook
-description: >
-  Practical B2B knowledge base. Use for ICP, buying committee, positioning,
-  outbound sequences, event-led GTM, enterprise sales cycle, checklists, and templates. Chinese is
-  the source of truth (zh/). Do not invent customer data or legal advice.
+description: Turn B2B sales and growth work into evidence-aware, executable outputs using ICP, buying committee, positioning, outbound, event-led GTM, and enterprise-sales playbooks. Use when the user needs a concrete plan, checklist, template, account tier, or next action; do not use for generic inspiration or legal advice.
 ---
 
-# B2B-Playbook
+# B2B Playbook
 
-## 默认
+Produce usable B2B operating artifacts, not broad advice.
 
-- 从买家、账户和商业问题出发，而不是从渠道出发。
-- 购买委员会是默认决策单元。
-- 中文 `zh/` 是正文。`en/` 未完成时不要臆造英文版。
-- 输出必须可执行：清单、模板或下一步。
-- 虚构示例用 Helion；不要写入真实客户。
+## Route the task
 
-## 读哪里
-
-| 任务 | 打开 |
+| Need | Read |
 |---|---|
-| 怎么用这套库 | `zh/00-system/how-to-use.md` |
-| 名词 | `glossary.md` |
-| ICP / 委员会 / 分级 | `zh/01-icp/` |
-| 定位 / 官网 / 对比页 | `zh/02-positioning/` |
-| 外联序列 | `zh/03-outbound/` |
-| 展会与活动 | `zh/04-events/` |
-| 从首谈到签字 | `zh/06-sales/` |
-| 内容 / 运营 | 对应目录仍是占位，不要编造完整 SOP |
+| Start or understand the system | `zh/00-system/how-to-use.md` and `glossary.md` |
+| ICP, account qualification, buying committee | `zh/01-icp/README.md`, then `zh/01-icp/sop.md` |
+| Positioning, homepage, comparison page | `zh/02-positioning/README.md`, then `zh/02-positioning/sop.md` |
+| Outbound research or sequence | `zh/03-outbound/README.md`, then `zh/03-outbound/sop.md` |
+| Event selection and execution | `zh/04-events/README.md`, then `zh/04-events/sop.md` |
+| First meeting through signature | `zh/06-sales/README.md`, then `zh/06-sales/sop.md` |
 
-先读该模块 `README.md`，再 `sop.md`，填 `templates/`，对照 `examples/`，发出前过 `checklists/`。
+Chinese under `zh/` is the source of truth. Use `en/01-icp/` when an English ICP deliverable is required. Other English modules remain incomplete; do not infer missing translations.
 
-## 输出规则
+## Working rules
 
-- 写买家语言：角色、触发因素、替代方案。
-- 点名经济买家、支持者、阻力者（若信息不足，写「未知」而不是编造）。
-- 标明假设。
-- 保护客户与联系人数据。
+- Begin with the buyer, account, business problem, and observable trigger.
+- Separate facts, observations, assumptions, and unknowns using `zh/00-system/evidence-standard.md`.
+- Name the economic buyer, champion, technical buyer, and blocker when evidence exists. Write `unknown` and a discovery action when it does not.
+- Use the module's blank template for structure and its fictional example only to calibrate detail.
+- End with a checklist or concrete next action and the metric that will evaluate it.
+- Never invent customer facts, contacts, proof points, legal requirements, or performance claims.
+- Do not expose or request customer lists, credentials, private contact data, or unapproved sources.
+
+## ICP fast path
+
+For account qualification, read `zh/01-icp/quickstart.md`. Produce:
+
+1. a one-sentence ICP;
+2. five disqualifiers;
+3. a buying-committee map;
+4. a T1/T2/T3 score with evidence for each dimension;
+5. one default next action per account;
+6. an explicit list of unknowns and how to resolve them.
+
+If local execution is available, `node tools/icp-account-scorer.mjs --help` provides a deterministic score check. The human-readable reasoning remains the primary output.
