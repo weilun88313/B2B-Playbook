@@ -150,5 +150,3 @@ Hard disqualifiers:
 | Tier agreement | Accounts receiving the same tier from two reviewers / accounts reviewed | A non-repeatable rule cannot support teamwork |
 
 Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate as an outcome.
-
-See the fictional [ICP-to-outbound use case](../use-cases/icp-to-outbound.md) for a completed example.

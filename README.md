@@ -1,6 +1,6 @@
 # B2B Playbook
 
-> Practical B2B knowledge, tool choices, use cases, and an Agent Skill for turning go-to-market ideas into observable work.
+> Practical B2B marketing knowledge, tool choices, and an Agent Skill for turning go-to-market ideas into observable work.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -16,7 +16,6 @@ Do not read the entire repository. Pick the decision in front of you:
 |---|---|---|
 | **Playbooks** | Follow a practical method and copy its working templates | [Choose a playbook](#playbooks) |
 | **Tools** | Choose software for a specific job instead of assembling a fashionable stack | [Browse the tool directory](TOOLS.md) |
-| **Use cases** | See how several playbooks connect in a realistic workflow | [Open the use-case library](use-cases/) |
 | **Agent Skill** | Let an AI agent route a B2B task through the right method | [Install the Skill](#agent-skill) |
 
 For the fastest useful result, run the [10-minute ICP field test](playbooks/icp.md#10-minute-field-test) on one target account.
@@ -38,16 +37,6 @@ Each playbook is one self-contained page. It includes when to use the method, th
 [TOOLS.md](TOOLS.md) is a small, opinionated directory of B2B software. Tools are organized by job—not affiliate value or popularity—and include a use case, a reason to avoid the tool, an official link, and a last-review date.
 
 The directory is not a ranking and does not replace security, privacy, deliverability, or legal review.
-
-### Use-case library
-
-Use cases demonstrate how the methods connect:
-
-- [ICP to outbound](use-cases/icp-to-outbound.md)
-- [Event-led pipeline](use-cases/event-led-pipeline.md)
-- [Enterprise pilot](use-cases/enterprise-pilot.md)
-
-The current Helion examples are fictional. They demonstrate completion density without exposing customer data. Future real cases must be sourced, dated, and anonymized when necessary.
 
 ### Agent Skill
 
@@ -96,11 +85,10 @@ If this repository helps you complete real B2B work, a star helps other operator
 
 **B2B Playbook** 是一个面向 B2B 销售与增长从业者和人工智能智能体的开放知识库。
 
-仓库只保留四个核心入口：
+仓库当前保留三个核心入口：
 
 1. **行动手册**：客户画像与购买委员会、市场定位、主动外联、活动型增长和企业销售。
 2. **工具清单**：按实际任务整理的软件推荐，同时说明适用条件和限制。
-3. **应用案例**：展示多份行动手册如何连接成完整工作流。
-4. **智能体技能**：让兼容的人工智能智能体读取并执行这套方法。
+3. **智能体技能**：让兼容的人工智能智能体读取并执行这套方法。
 
 英文是仓库正文的唯一维护版本。中文只保留在本简介中，避免双语正文产生版本漂移。

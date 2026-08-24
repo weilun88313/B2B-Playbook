@@ -268,5 +268,3 @@ Questions:
 Also track account-specific demo scope, production work before signature (target: zero), and opportunities with named procurement, legal, security, and signatory owners.
 
 Do not count CRM-stage movement, demo volume, or pilot logins as buyer progress.
-
-See the fictional [enterprise-pilot use case](../use-cases/enterprise-pilot.md).

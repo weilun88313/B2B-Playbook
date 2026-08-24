@@ -156,5 +156,3 @@ Follow-up should restate the buyer's words, the agreed next step, the owner, and
 | Cost per qualified next action | Total event cost / completed qualified next actions |
 
 Badge scans, foot traffic, swag distributed, and raw meetings are activity—not pipeline outcomes.
-
-See the fictional [event-led pipeline use case](../use-cases/event-led-pipeline.md).

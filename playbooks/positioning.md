@@ -117,5 +117,3 @@ Executive version:
 | Sales-language consistency | Calls or emails using trigger → alternative → result / reviewed sample |
 
 Do not count a completed messaging workshop, slogan volume, unqualified traffic, or curiosity clicks as positioning outcomes.
-
-See the positioning section of the fictional [ICP-to-outbound use case](../use-cases/icp-to-outbound.md).

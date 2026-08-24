@@ -139,5 +139,3 @@ This checklist is not legal advice.
 | Stop-rule compliance | Prevents stale accounts and consent failures from recycling |
 
 Open rate is a deliverability diagnostic, not a business outcome. Sent volume is not progress.
-
-See the fictional [ICP-to-outbound use case](../use-cases/icp-to-outbound.md).

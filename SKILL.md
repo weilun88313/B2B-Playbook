@@ -1,6 +1,6 @@
 ---
 name: b2b-playbook
-description: Turn B2B sales and growth work into evidence-aware outputs using ICP, positioning, outbound, event-led growth, enterprise-sales, tool-selection, and worked-use-case guidance. Use when the user needs a concrete plan, checklist, template, account tier, software shortlist, or next action; do not use for generic inspiration or legal advice.
+description: Turn B2B marketing work into evidence-aware outputs using market, positioning, demand, account-program, lifecycle, and tool-selection guidance. Use when the user needs a concrete plan, checklist, template, software shortlist, or next action; do not use for generic inspiration or legal advice.
 ---
 
 # B2B Playbook
@@ -17,7 +17,6 @@ Produce a usable artifact or decision, not broad advice.
 | Event selection or execution | `playbooks/event-led-growth.md` |
 | First meeting through signature | `playbooks/enterprise-sales.md` |
 | Software selection | `TOOLS.md` |
-| A connected worked example | `use-cases/README.md`, then the closest use case |
 
 All maintained content is in English. The Chinese section in the root README is orientation only.
 
@@ -26,7 +25,7 @@ All maintained content is in English. The Chinese section in the root README is 
 - Begin with the buyer, account, business problem, current alternative, and observable trigger.
 - Label important judgments as fact, observation, assumption, or to validate.
 - Write `unknown` and a discovery action when evidence is missing.
-- Use the playbook's template; use a fictional example only to calibrate detail.
+- Use the playbook's template and label every external case with a source and date.
 - End with a concrete next action and the metric that will evaluate it.
 - Never invent customer facts, contacts, proof points, legal requirements, or performance claims.
 - Do not expose or request credentials, customer lists, private contacts, or unapproved sources.
