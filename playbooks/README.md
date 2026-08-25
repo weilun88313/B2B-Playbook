@@ -1,38 +1,40 @@
 # B2B marketing playbook index
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-25
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 
 1. **Capability domain:** the durable marketing function that owns the work.
 2. **Tactic playbook:** the specific motion, channel, or asset to execute.
 
-A tactic receives its own Markdown file only when the content is complete. Planned topics appear here without empty placeholder pages.
+Every capability domain has a published README that defines its decision, scope, boundaries, topic map, recommended build order, and interfaces with other domains. A domain guide is useful before every tactic is written, but it is not counted as a published tactic playbook.
+
+A tactic receives its own Markdown file only when its execution guidance, templates, metrics, and evidence are complete. Planned filenames appear in the master and domain maps without empty tactic pages.
 
 ## Fast finder
 
 | Looking for | Domain | Playbook / status |
 |---|---|---|
-| ICP | Strategy & buyers | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
-| Buying committee | Strategy & buyers | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
-| Positioning | Product marketing | [Positioning](02-product-marketing/positioning.md) |
-| Founder story | Brand, story & content | Planned: `founder-story.md` |
-| White paper | Brand, story & content | Planned: `white-paper.md` |
-| Community | Brand, story & content | Planned: `community-led-growth.md` |
-| LinkedIn content | Channels & distribution | Planned: `linkedin-organic.md` |
-| LinkedIn prospecting | Outbound & prospecting | Planned: `linkedin-outbound.md` |
-| Account research | Outbound & prospecting | [Account research](05-outbound-and-prospecting/account-research.md) |
-| Cold email | Outbound & prospecting | [Cold email](05-outbound-and-prospecting/cold-email.md) |
-| Cold call | Outbound & prospecting | Planned: `cold-call.md` |
-| Multichannel sequence | Outbound & prospecting | [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) |
-| Event | Account, field & partner | [Event marketing](06-account-field-and-partner/event-marketing.md) |
-| Trade show | Account, field & partner | [Trade shows](06-account-field-and-partner/trade-shows.md) |
-| Affiliate | Account, field & partner | Planned: `affiliate-program.md` |
-| Homepage | Website & conversion | Planned: `homepage.md` |
-| Customer community | Lifecycle & customer | Planned: `customer-community.md` |
-| Pipeline | Operations, pipeline & measurement | Planned: `pipeline-model.md` |
+| ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
+| Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
+| Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
+| Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
+| White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
+| Community | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
+| LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | Planned: `linkedin-organic.md` |
+| LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
+| Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
+| Cold email | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold email](05-outbound-and-prospecting/cold-email.md) |
+| Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `cold-call.md` |
+| Multichannel sequence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) |
+| Event | [Account, field & partner](06-account-field-and-partner/) | [Event marketing](06-account-field-and-partner/event-marketing.md) |
+| Trade show | [Account, field & partner](06-account-field-and-partner/) | [Trade shows](06-account-field-and-partner/trade-shows.md) |
+| Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
+| Homepage | [Website & conversion](07-website-and-conversion/) | Planned: `homepage.md` |
+| Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
+| Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | Planned: `pipeline-model.md` |
 
-## 01 · Strategy & buyers
+## 01 · [Strategy & buyers](01-strategy-and-buyers/)
 
 **Decision:** Where should the company compete, which organizations and people matter, and how do they buy?
 
@@ -43,7 +45,7 @@ Published:
 
 Planned: market research, segmentation, buyer journey, jobs to be done, category entry points, competitive alternatives.
 
-## 02 · Product marketing
+## 02 · [Product marketing](02-product-marketing/)
 
 **Decision:** What should the market understand, believe, compare, and buy?
 
@@ -53,19 +55,19 @@ Published:
 
 Planned: messaging, value proposition, competitive intelligence, pricing and packaging, product launch, proof and claims, sales enablement.
 
-## 03 · Brand, story & content
+## 03 · [Brand, story & content](03-brand-story-and-content/)
 
 **Decision:** How will future buyers remember, trust, and learn from the company before they are in market?
 
 Planned: brand strategy, brand narrative, founder story, thought leadership, content strategy, white paper, case study, newsletter, webinar, podcast, video, community-led growth.
 
-## 04 · Channels & distribution
+## 04 · [Channels & distribution](04-channels-and-distribution/)
 
 **Decision:** Where and how will the market repeatedly encounter the company's ideas and offers?
 
 Planned: LinkedIn organic, SEO, paid search, paid social, retargeting, PR and media, review sites, content distribution, content repurposing.
 
-## 05 · Outbound & prospecting
+## 05 · [Outbound & prospecting](05-outbound-and-prospecting/)
 
 **Decision:** How will the team create relevant conversations with accounts that have not raised a hand?
 
@@ -77,7 +79,7 @@ Published:
 
 Planned: contact research, cold call, LinkedIn outbound, email deliverability, reply handling, SDR handoff.
 
-## 06 · Account, field & partner marketing
+## 06 · [Account, field & partner marketing](06-account-field-and-partner/)
 
 **Decision:** How will marketing and sales coordinate around high-value accounts, physical access, and ecosystem leverage?
 
@@ -88,23 +90,36 @@ Published:
 
 Planned: ABM strategy, one-to-one ABM, one-to-few ABM, executive dinners, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
 
-## 07 · Website & conversion
+## 07 · [Website & conversion](07-website-and-conversion/)
 
 **Decision:** How will owned digital experiences help buyers understand, evaluate, and take the next step?
 
 Planned: homepage, landing page, product page, comparison page, lead magnet, demo request, forms and chat, conversion-rate optimization, self-service buying.
 
-## 08 · Lifecycle & customer marketing
+## 08 · [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/)
 
 **Decision:** How will the company educate, retain, expand, and mobilize customers after initial interest or purchase?
 
 Planned: lead nurture, lifecycle email, onboarding communication, customer education, customer community, advocacy, referrals, reviews, expansion, renewal.
 
-## 09 · Operations, pipeline & measurement
+## 09 · [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/)
 
 **Decision:** How will data, process, technology, and measurement make the marketing system repeatable?
 
-Planned: funnel model, pipeline model, lifecycle stages, lead scoring, account scoring, routing, CRM data model, attribution, dashboards, experimentation, budget and planning, MarTech governance, privacy and compliance.
+Planned: measurement model, funnel model, pipeline model, lifecycle stages, lead scoring, account scoring, routing, CRM data model, attribution, dashboards, experimentation, budget and planning, MarTech governance, privacy and compliance operations.
+
+## Domain guide contract
+
+Every capability-domain README should contain:
+
+1. the durable marketing decision it owns;
+2. its scope and explicit boundaries;
+3. the core decisions an operator must make;
+4. a map of published and planned tactic playbooks;
+5. a recommended build order; and
+6. interfaces with adjacent domains.
+
+A domain guide may be published before its tactic playbooks. It must never label a planned tactic as published or link to a file that does not exist.
 
 ## Page contract
 

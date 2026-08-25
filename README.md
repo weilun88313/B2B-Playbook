@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 8 published playbooks · 36 curated tools · 4 active domains · 9-domain marketing system
+**Current coverage:** 8 published playbooks · 36 curated tools · 9 domain guides · 4 domains with published playbooks
 
 **Last reviewed:** 2026-08-25
 
@@ -35,19 +35,19 @@ For the fastest useful result, run the [10-minute ICP field test](playbooks/01-s
 
 ### B2B marketing system map
 
-The library uses two levels: a **capability domain** owns a durable marketing decision; a **tactic playbook** explains how to execute a specific motion, channel, or asset. The [master index](playbooks/) is the complete navigation layer.
+The library uses two levels: a **capability domain** owns a durable marketing decision; a **tactic playbook** explains how to execute a specific motion, channel, or asset. The [master index](playbooks/) is the complete navigation layer. All nine domains have a published guide even when their tactic playbooks are still planned.
 
 | # | Capability domain | Decision it owns | Current coverage |
 |---|---|---|---|
 | 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) |
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md) |
-| 03 | Brand, story & content | How future buyers will remember, trust, and learn from the company | Planned: founder story, thought leadership, white paper, case study, webinar, community |
-| 04 | Channels & distribution | Where and how the market will repeatedly encounter the company's ideas and offers | Planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
+| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | Planned: founder story, thought leadership, white paper, case study, webinar, community |
+| 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | Planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
 | 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md); planned: cold call, LinkedIn outbound |
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md); planned: ABM, affiliate, partner marketing |
-| 07 | Website & conversion | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
-| 08 | Lifecycle & customer marketing | How to educate, retain, expand, and mobilize customers | Planned: nurture, onboarding, customer education, community, advocacy, referral, renewal |
-| 09 | Operations, pipeline & measurement | How data, process, technology, and measurement make marketing repeatable | Planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
+| 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
+| 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | Planned: nurture, onboarding, customer education, community, advocacy, referral, renewal |
+| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | Planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
 
 Enterprise selling is outside this marketing taxonomy. If the library later expands into sales, it will use a separate top-level collection.
 
@@ -131,7 +131,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 8 篇已发布 Playbook · 36 个精选工具 · 4 个已启用能力域 · 9 个能力域的完整营销体系
+**当前覆盖：** 8 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 4 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-25
 
@@ -160,19 +160,19 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 ### B2B 营销体系地图
 
-知识库采用两层结构：**能力域**负责一个长期稳定的营销决策，**战术 Playbook**解释如何执行某个具体动作、渠道或内容资产。[Playbook 总索引](playbooks/)是完整的导航入口。
+知识库采用两层结构：**能力域**负责一个长期稳定的营销决策，**战术 Playbook**解释如何执行某个具体动作、渠道或内容资产。[Playbook 总索引](playbooks/)是完整的导航入口。9 个能力域现在都有正式的领域指南，即使其中一些具体战术 Playbook 仍处于计划状态。
 
 | 编号 | 能力域 | 负责的核心决策 | 当前覆盖 |
 |---|---|---|---|
 | 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) |
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md) |
-| 03 | 品牌、故事与内容 | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | 计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
-| 04 | 渠道与分发 | 市场将在哪里、以何种方式反复接触公司的观点和产品 | 计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
+| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | 计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
+| 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | 计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
 | 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)；计划：Cold Call、LinkedIn Outbound |
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)；计划：ABM、Affiliate、合作伙伴营销 |
-| 07 | 网站与转化 | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
-| 08 | 生命周期与客户营销 | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | 计划：培育、Onboarding、客户教育、客户社区、倡导、推荐、续约 |
-| 09 | 运营、Pipeline 与衡量 | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | 计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
+| 07 | [网站与转化](playbooks/07-website-and-conversion/) | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
+| 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | 计划：培育、Onboarding、客户教育、客户社区、倡导、推荐、续约 |
+| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | 计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
 
 企业销售不属于这套营销分类。如果知识库未来扩展到销售，将建立单独的顶层内容集合。
 

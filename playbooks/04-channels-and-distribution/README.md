@@ -1,0 +1,63 @@
+# 04 · Channels & distribution
+
+> **Decision owned:** Where and how should the market repeatedly encounter the company's ideas and offers?
+
+**Status:** Domain guide published · tactic playbooks planned
+
+**Last reviewed:** 2026-08-25
+
+## Scope
+
+This domain chooses and operates the scalable paths through which ideas, content, proof, and offers reach a market. It connects channel fit, audience behavior, creative, targeting, cadence, and measurement instead of treating each platform as an isolated activity.
+
+It owns organic distribution, SEO and answer-engine visibility, paid media, retargeting, PR, review sites, syndication, and content repurposing. It does not own the core asset or narrative—that belongs to [Brand, story & content](../03-brand-story-and-content/)—or person-level cold outreach, which belongs to [Outbound & prospecting](../05-outbound-and-prospecting/).
+
+## Core decisions
+
+1. Where does the target audience already learn, compare, search, and participate?
+2. Which channels are suited to demand creation, demand capture, or both?
+3. What native behavior and creative format does each channel reward?
+4. Which message, proof, and offer fit the audience's stage and intent?
+5. How should owned, earned, paid, and partner distribution reinforce one another?
+6. What cadence can the team sustain without sacrificing quality?
+7. Which metrics indicate attention, learning, qualified response, and business contribution?
+
+## Playbook map
+
+| Topic | Status | Operating question |
+|---|---|---|
+| Channel strategy | Planned: `channel-strategy.md` | Which channel mix fits the buyer, objective, resources, and evidence? |
+| LinkedIn organic | Planned: `linkedin-organic.md` | How should people and company pages build repeated professional attention? |
+| SEO and AEO | Planned: `seo-and-aeo.md` | How should useful content become discoverable through search and answer engines? |
+| Paid search | Planned: `paid-search.md` | When should the company capture explicit problem or category demand? |
+| Paid social | Planned: `paid-social.md` | How can paid reach build memory, educate accounts, or test messages? |
+| Retargeting | Planned: `retargeting.md` | How should prior attention be followed up without waste or intrusive frequency? |
+| PR and media | Planned: `pr-and-media.md` | Which genuinely newsworthy story can earn credible third-party attention? |
+| Review sites | Planned: `review-sites.md` | How should the company earn and activate authentic buyer-visible reviews? |
+| Content distribution | Planned: `content-distribution.md` | How should each important asset reach the audiences it was built for? |
+| Content repurposing | Planned: `content-repurposing.md` | How should one strong idea become channel-native formats without losing meaning? |
+
+Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
+
+## Recommended build order
+
+1. Map audience behavior, demand state, existing reach, and channel constraints.
+2. Select one primary creation channel and one primary capture channel.
+3. Build native creative, distribution, and conversion loops for those channels.
+4. Add paid, earned, review, and partner amplification where evidence supports it.
+5. Standardize cross-channel reuse, frequency, experiments, and measurement.
+
+## Interfaces with other domains
+
+- [Brand, story & content](../03-brand-story-and-content/) supplies the ideas and assets worth distributing.
+- [Website & conversion](../07-website-and-conversion/) receives traffic and turns attention into useful buyer progress.
+- [Account, field & partner marketing](../06-account-field-and-partner/) focuses channel reach around selected accounts, events, and ecosystems.
+- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs campaign data, attribution boundaries, experiments, budget, and reporting.
+
+[Back to the playbook index](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

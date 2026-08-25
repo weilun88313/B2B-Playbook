@@ -12,6 +12,7 @@ Produce a usable artifact or decision, not broad advice.
 | Need | Read |
 |---|---|
 | Find a marketing domain or tactic | `playbooks/README.md` |
+| Scope a domain or plan a not-yet-published tactic | The relevant domain `README.md` linked from `playbooks/README.md` |
 | ICP or account qualification | `playbooks/01-strategy-and-buyers/icp.md` |
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
 | Positioning | `playbooks/02-product-marketing/positioning.md` |
@@ -22,7 +23,7 @@ Produce a usable artifact or decision, not broad advice.
 | Trade-show execution | `playbooks/06-account-field-and-partner/trade-shows.md` |
 | Software selection | `TOOLS.md` |
 
-If the master index marks a requested topic as planned, say that no complete playbook is published yet. Do not fabricate one or silently substitute an adjacent tactic.
+If the master index marks a requested topic as planned, read the relevant domain README for its scope, decisions, build order, and interfaces. State that no complete tactic playbook is published yet; do not fabricate one or silently substitute an adjacent tactic.
 
 All maintained playbook, tool, and Skill content is in English. The root README maintains a complete Chinese mirror of the repository entrance and current coverage.
 
