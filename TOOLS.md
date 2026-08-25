@@ -2,9 +2,9 @@
 
 > A curated directory of modern software for researching markets, creating demand, reaching buyers, operating revenue workflows, and measuring results.
 
-**Directory release:** 33 tools · 13 operating categories
+**Directory release:** 36 tools · 13 operating categories
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-25
 
 This is not a complete market map or a paid ranking. It is a deliberately small, modern-by-default shortlist. A newer product is not automatically better: every entry must solve a defined B2B job, expose a meaningful limitation, and have a current official product or documentation page.
 
@@ -40,6 +40,7 @@ Every product appears once, grouped by its primary operating job. Use the type d
 |---|---|---|---|---|
 | [Common Room](https://www.commonroom.io/about/?ref=b2b-playbook) | AI-native | a B2B team needs to combine first-party customer data with product, community, web, social, and other buyer signals. | it builds a continuously updated buyer-intelligence layer, resolves identities, and lets AI agents prioritize changes and move insights into GTM action. | source provenance, identity resolution, permissioning, regional coverage, or enterprise implementation needs a controlled sample first. |
 | [Unify](https://www.unifygtm.com/?ref=b2b-playbook) | AI-native | a team wants intent signals, account research, enrichment, agent qualification, and outbound execution in one signal-driven workflow. | audiences and plays connect first-party, third-party, and AI-discovered signals to prospecting and multichannel action instead of stopping at an intent score. | credit consumption, signal provenance, mailbox ownership, suppression logic, or automated outreach permissions are not yet governed. |
+| [RB2B](https://www.rb2b.com/?ref=b2b-playbook) | Modern infrastructure | a B2B team wants to turn anonymous website visits into person- or company-level intent signals and route qualified profiles into CRM, Slack, or outbound workflows. | a lightweight tracking script, page-level context, ICP filtering, and native routing integrations turn web activity into timely sales signals without requiring a form submission. | person-level identification is US-only, match rates vary, and shared accounts or devices can cause misattribution. Validate traffic geography, consent and cookie disclosures, state privacy obligations, opt-out handling, CRM suppression, and outreach rules. |
 
 ## 03 · Contact data, enrichment & verification
 
@@ -71,6 +72,7 @@ Every product appears once, grouped by its primary operating job. Use the type d
 |---|---|---|---|---|
 | [Framer](https://www.framer.com/ai/?ref=b2b-playbook) | AI-native | a marketing or design team wants to generate and refine pages, CMS structures, copy, visuals, code components, and site improvements in one canvas. | its agents work directly on editable website and CMS state, while humans can inspect, change, and publish the result. | portability, complex CMS modeling, localization, accessibility governance, custom back-end behavior, or enterprise publishing controls dominate. |
 | [Relume](https://www.relume.ai/?ref=b2b-playbook) | AI-native | a team wants to turn a company brief into a sitemap, wireframes, copy direction, and a style guide before detailed design or development. | AI is constrained by a real component system and can export structured work into Figma, Webflow, or React workflows. | the team expects a finished strategy or production website; information architecture, proof, copy, accessibility, and final implementation still need owners. |
+| [Mintlify](https://www.mintlify.com/?ref=b2b-playbook) | AI-native | product, developer-relations, support, or marketing teams need documentation and knowledge sites that help both human users and AI agents understand and adopt a product. | Git- and MDX-based publishing, API documentation, preview deployments, cited AI answers, agent-assisted maintenance, analytics, APIs, MCP, `llms.txt`, and Markdown export connect content creation, discovery, and agent consumption. | content ownership, source freshness, AI credit and plan limits, authentication, search and answer quality, accessibility, migration, export, and support escalation require explicit owners. |
 
 ## 07 · Paid demand, ABM, personalization & buyer enablement
 
@@ -110,12 +112,13 @@ Every product appears once, grouped by its primary operating job. Use the type d
 | [Gumloop](https://www.gumloop.com/?ref=b2b-playbook) | AI-native | a team wants no-code AI workflows and agents for web research, data extraction, documents, enrichment, triggers, and connected business tools. | visual workflows can become tools for adaptive agents, while APIs, webhooks, MCP, and reusable nodes connect the result to other systems. | external-site changes, credit consumption, prompt drift, permissions, monitoring, or auditability could make an autonomous workflow brittle. |
 | [Zapier](https://zapier.com/?ref=b2b-playbook) | Established benchmark | a non-technical team needs the fastest route to connect common applications, build straightforward trigger-action workflows, or test an agent using a broad integration catalog. | its ecosystem is the benchmark for accessible business automation, and Zapier Agents extends that action layer into agent workflows. | task-based cost, branching complexity, error handling, data residency, agent permissions, or silent failures could become material. |
 
-## 12 · Analytics, attribution & revenue operations
+## 12 · Product, marketing & revenue analytics
 
 | Tool | Type | Use when | Why it stands out | Validate before adopting |
 |---|---|---|---|---|
 | [HockeyStack](https://www.hockeystack.com/marketing-intelligence?ref=b2b-playbook) | AI-native | a B2B team needs buyer journeys, multi-touch attribution, lift analysis, account intelligence, and plain-language analysis across marketing and CRM data. | Odin works as a scoped AI analyst over the connected GTM model, with structured, inspectable outputs and recommended next actions. | tracking coverage, identity stitching, CRM hygiene, funnel definitions, implementation scope, or attribution is being mistaken for causal proof. |
 | [Dreamdata](https://dreamdata.io/?ref=b2b-playbook) | Modern infrastructure | a B2B company needs account-level customer journeys, revenue attribution, campaign performance, and audience activation across a long buying cycle. | it joins marketing, web, advertising, and revenue data to make channel and content contribution traceable back to the underlying journey. | account matching, data completeness, lookback windows, model choice, offline touches, or attribution results are being treated as experimental causality. |
+| [PostHog](https://posthog.com/product-analytics?ref=b2b-playbook) | AI-native | product, growth, and marketing teams want one event model for web and product behavior, funnels, retention, paths, session replay, feature flags, experiments, surveys, and revenue signals. | autocapture, SQL and HogQL, replay, flags, experiments, AI-generated analysis, self-driving regression reports, APIs, and MCP keep quantitative evidence close to product and growth decisions. | event design, identity resolution, consent, privacy controls, data residency, ingestion cost, sampling, retention, and instrumentation ownership need governance; observed correlations and AI-generated explanations are not causal proof. |
 
 ## 13 · Privacy, consent & data governance
 
