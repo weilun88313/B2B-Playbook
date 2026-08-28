@@ -2,9 +2,9 @@
 
 > **Decision owned:** Where and how should the market repeatedly encounter the company's ideas and offers?
 
-**Status:** Domain guide published · tactic playbooks planned
+**Status:** Domain guide published · 1 tactic playbook published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-28
 
 ## Scope
 
@@ -26,7 +26,7 @@ It owns organic distribution, SEO and answer-engine visibility, paid media, reta
 
 | Topic | Status | Operating question |
 |---|---|---|
-| Channel strategy | Planned: `channel-strategy.md` | Which channel mix fits the buyer, objective, resources, and evidence? |
+| [Channel strategy](channel-strategy.md) | Published | Which growth motion is primary, and which one channel is worth adding next? |
 | LinkedIn organic | Planned: `linkedin-organic.md` | How should people and company pages build repeated professional attention? |
 | SEO and AEO | Planned: `seo-and-aeo.md` | How should useful content become discoverable through search and answer engines? |
 | Paid search | Planned: `paid-search.md` | When should the company capture explicit problem or category demand? |
@@ -41,8 +41,8 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Map audience behavior, demand state, existing reach, and channel constraints.
-2. Select one primary creation channel and one primary capture channel.
+1. Name the primary growth motion with [channel strategy](channel-strategy.md) before buying more channels.
+2. Select one primary creation or capture path that matches that motion.
 3. Build native creative, distribution, and conversion loops for those channels.
 4. Add paid, earned, review, and partner amplification where evidence supports it.
 5. Standardize cross-channel reuse, frequency, experiments, and measurement.
@@ -50,6 +50,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 ## Interfaces with other domains
 
 - [Brand, story & content](../03-brand-story-and-content/) supplies the ideas and assets worth distributing.
+- [Outbound & prospecting](../05-outbound-and-prospecting/) is the execution layer when outbound is the primary motion.
 - [Website & conversion](../07-website-and-conversion/) receives traffic and turns attention into useful buyer progress.
 - [Account, field & partner marketing](../06-account-field-and-partner/) focuses channel reach around selected accounts, events, and the [ecosystem](../06-account-field-and-partner/ecosystem.md) flywheel.
 - [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs campaign data, attribution boundaries, experiments, budget, and reporting.
