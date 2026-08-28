@@ -15,7 +15,7 @@ Produce a usable artifact or decision, not broad advice.
 | Scope a domain or plan a not-yet-published tactic | The relevant domain `README.md` linked from `playbooks/README.md` |
 | ICP or account qualification | `playbooks/01-strategy-and-buyers/icp.md` |
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
-| Positioning | `playbooks/02-product-marketing/positioning.md` |
+| Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |

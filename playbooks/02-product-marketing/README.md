@@ -4,7 +4,7 @@
 
 **Status:** Domain guide published · 1 tactic playbook published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-28
 
 ## Scope
 
@@ -26,7 +26,7 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 
 | Topic | Status | Operating question |
 |---|---|---|
-| [Positioning](positioning.md) | Published | How should the product be framed against the buyer's alternatives? |
+| [Positioning](positioning.md) | Published | How should the product be framed against the buyer's alternatives, and what is actually being positioned? |
 | Messaging | Planned: `messaging.md` | How should positioning become a hierarchy of audience-specific messages? |
 | Value proposition | Planned: `value-proposition.md` | What valuable outcome is promised, for whom, and why is it credible? |
 | Competitive intelligence | Planned: `competitive-intelligence.md` | What should teams know and do when alternatives enter the decision? |
