@@ -22,6 +22,7 @@ Produce a usable artifact or decision, not broad advice.
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
 | Event strategy | `playbooks/06-account-field-and-partner/event-marketing.md` |
 | Trade-show execution | `playbooks/06-account-field-and-partner/trade-shows.md` |
+| Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
 | Software selection | `TOOLS.md` |
 
 If the master index marks a requested topic as planned, read the relevant domain README for its scope, decisions, build order, and interfaces. State that no complete tactic playbook is published yet; do not fabricate one or silently substitute an adjacent tactic.

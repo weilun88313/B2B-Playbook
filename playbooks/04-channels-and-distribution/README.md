@@ -51,7 +51,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 - [Brand, story & content](../03-brand-story-and-content/) supplies the ideas and assets worth distributing.
 - [Website & conversion](../07-website-and-conversion/) receives traffic and turns attention into useful buyer progress.
-- [Account, field & partner marketing](../06-account-field-and-partner/) focuses channel reach around selected accounts, events, and ecosystems.
+- [Account, field & partner marketing](../06-account-field-and-partner/) focuses channel reach around selected accounts, events, and the [ecosystem](../06-account-field-and-partner/ecosystem.md) flywheel.
 - [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs campaign data, attribution boundaries, experiments, budget, and reporting.
 
 [Back to the playbook index](../README.md)
