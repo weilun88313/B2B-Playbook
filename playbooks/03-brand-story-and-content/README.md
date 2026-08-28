@@ -55,6 +55,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 - [Product marketing](../02-product-marketing/) supplies positioning, differentiated claims, product truth, and proof boundaries.
 - [Website & conversion](../07-website-and-conversion/) turns the decision-page map into information architecture and live URLs.
 - [Channels & distribution](../04-channels-and-distribution/) turns assets and ideas into repeated market exposure.
+- [Account, field & partner marketing](../06-account-field-and-partner/ecosystem.md) lets creators, communities, and partners teach the same questions with trust the brand does not yet have.
 - [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) converts customer education, stories, and advocacy into post-purchase value.
 
 [Back to the playbook index](../README.md)

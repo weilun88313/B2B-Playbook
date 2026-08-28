@@ -2,9 +2,9 @@
 
 > **Decision owned:** How should marketing and sales coordinate around high-value accounts, physical access, and ecosystem leverage?
 
-**Status:** Domain guide published · 2 tactic playbooks published
+**Status:** Domain guide published · 3 tactic playbooks published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-28
 
 ## Scope
 
@@ -28,12 +28,13 @@ It owns account selection for programs, cross-functional orchestration, event an
 |---|---|---|
 | [Event marketing](event-marketing.md) | Published | How should an event support a defined account, relationship, and pipeline objective? |
 | [Trade shows](trade-shows.md) | Published | How should a team select, prepare for, execute, and follow up on a trade show? |
+| [Ecosystem](ecosystem.md) | Published | How should the company grow through partners who already have access and trust? |
 | ABM strategy | Planned: `abm-strategy.md` | Which accounts, tiers, resources, and outcomes define the ABM system? |
 | One-to-one ABM | Planned: `one-to-one-abm.md` | What justifies a bespoke program for one account? |
 | One-to-few ABM | Planned: `one-to-few-abm.md` | Which shared problem can support a small account-cluster program? |
 | Executive dinners | Planned: `executive-dinners.md` | How can a small in-person experience create credible peer access? |
 | Direct mail | Planned: `direct-mail.md` | When can a physical touch create useful attention rather than waste? |
-| Partner marketing | Planned: `partner-marketing.md` | How should two companies create and capture shared demand? |
+| Partner marketing | Planned: `partner-marketing.md` | How should two companies create and capture shared demand inside the [ecosystem](ecosystem.md) flywheel? |
 | Affiliate program | Planned: `affiliate-program.md` | What economics, controls, and enablement make referrals repeatable? |
 | Channel marketing | Planned: `channel-marketing.md` | How should resellers or channel partners be activated and measured? |
 | Co-marketing | Planned: `co-marketing.md` | How should partners combine audience, proof, and execution fairly? |
@@ -43,16 +44,18 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 ## Recommended build order
 
 1. Define account tiers, buying groups, goals, and resource thresholds.
-2. Establish ABM orchestration and ownership.
+2. Map complements and run one [ecosystem](ecosystem.md) program before treating partner work as a calendar of co-branded tactics.
 3. Build field and event methods around selected account outcomes.
-4. Add partner, affiliate, channel, and co-marketing operating models.
+4. Add partner, affiliate, channel, and co-marketing operating models as named slices of the same flywheel.
 5. Connect program signals, follow-up, and account progression to the CRM.
 
 ## Interfaces with other domains
 
 - [Strategy & buyers](../01-strategy-and-buyers/) provides account value, buying-group, trigger, and disqualification logic.
+- [Brand, story & content](../03-brand-story-and-content/) supplies the questions and assets partners can credibly teach or forward.
+- [Channels & distribution](../04-channels-and-distribution/) amplifies partner creative on owned and paid paths.
 - [Outbound & prospecting](../05-outbound-and-prospecting/) executes person-level research and direct conversations inside coordinated programs.
-- [Channels & distribution](../04-channels-and-distribution/) supplies scalable paid and organic reach around target accounts.
+- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) turns customers into named proof and referral partners.
 - [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs account selection data, routing, program cost, progression, and measurement.
 
 [Back to the playbook index](../README.md)

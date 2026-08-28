@@ -30,6 +30,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Multichannel sequence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) |
 | Event | [Account, field & partner](06-account-field-and-partner/) | [Event marketing](06-account-field-and-partner/event-marketing.md) |
 | Trade show | [Account, field & partner](06-account-field-and-partner/) | [Trade shows](06-account-field-and-partner/trade-shows.md) |
+| Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
 | Homepage | [Website & conversion](07-website-and-conversion/) | Planned: `homepage.md` |
 | Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
@@ -92,6 +93,7 @@ Published:
 
 - [Event marketing](06-account-field-and-partner/event-marketing.md)
 - [Trade shows](06-account-field-and-partner/trade-shows.md)
+- [Ecosystem](06-account-field-and-partner/ecosystem.md)
 
 Planned: ABM strategy, one-to-one ABM, one-to-few ABM, executive dinners, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
 

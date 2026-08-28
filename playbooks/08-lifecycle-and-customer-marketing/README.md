@@ -53,6 +53,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 - [Product marketing](../02-product-marketing/) supplies the promise, use-case framing, proof, and expansion narrative.
 - [Brand, story & content](../03-brand-story-and-content/) supplies education and story formats that can be adapted across the lifecycle.
 - [Website & conversion](../07-website-and-conversion/) captures the first known interaction and hosts buyer or customer resources.
+- [Account, field & partner marketing](../06-account-field-and-partner/ecosystem.md) turns named customers and communities into complement partners, not only lifecycle audiences.
 - [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs lifecycle stages, triggers, data quality, consent, and reporting.
 
 [Back to the playbook index](../README.md)
