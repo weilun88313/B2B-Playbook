@@ -52,7 +52,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 ## Interfaces with other domains
 
 - [Product marketing](../02-product-marketing/) supplies positioning, message hierarchy, offer structure, claims, and proof.
-- [Brand, story & content](../03-brand-story-and-content/) supplies educational assets and memorable narrative.
+- [Brand, story & content](../03-brand-story-and-content/) supplies educational assets, memorable narrative, and the [decision-page map](../03-brand-story-and-content/content-strategy.md).
 - [Channels & distribution](../04-channels-and-distribution/) supplies traffic with specific expectations and intent.
 - [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) continues education and progression after conversion or purchase.
 
