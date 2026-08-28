@@ -1,6 +1,6 @@
 # B2B marketing playbook index
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-28
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 
@@ -18,6 +18,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
+| Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
 | Community | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
@@ -59,7 +60,11 @@ Planned: messaging, value proposition, competitive intelligence, pricing and pac
 
 **Decision:** How will future buyers remember, trust, and learn from the company before they are in market?
 
-Planned: brand strategy, brand narrative, founder story, thought leadership, content strategy, white paper, case study, newsletter, webinar, podcast, video, community-led growth.
+Published:
+
+- [Content strategy](03-brand-story-and-content/content-strategy.md)
+
+Planned: brand strategy, brand narrative, founder story, thought leadership, white paper, case study, newsletter, webinar, podcast, video, community-led growth.
 
 ## 04 · [Channels & distribution](04-channels-and-distribution/)
 

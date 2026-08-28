@@ -2,9 +2,9 @@
 
 > **Decision owned:** How should future buyers remember, trust, and learn from the company before they are in market?
 
-**Status:** Domain guide published · tactic playbooks planned
+**Status:** Domain guide published · 1 tactic playbook published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-28
 
 ## Scope
 
@@ -30,7 +30,7 @@ It owns brand narrative, founder story, thought leadership, editorial strategy, 
 | Brand narrative | Planned: `brand-narrative.md` | What durable story connects the market change, buyer problem, and company point of view? |
 | Founder story | Planned: `founder-story.md` | Which lived experience makes the founder's point of view relevant and credible? |
 | Thought leadership | Planned: `thought-leadership.md` | What original, defensible idea can help the market think differently? |
-| Content strategy | Planned: `content-strategy.md` | Which audience, questions, themes, formats, and cadence deserve investment? |
+| Content strategy | [Published](content-strategy.md) | Which audience questions deserve a durable page, and in what order? |
 | White paper | Planned: `white-paper.md` | When does a complex argument require a sourced, long-form asset? |
 | Case study | Planned: `case-study.md` | How should a named customer's context, action, and outcome become credible proof? |
 | Newsletter | Planned: `newsletter.md` | What recurring editorial promise will make an audience choose to return? |
@@ -43,8 +43,8 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Define the brand narrative, audience, editorial point of view, and evidence rules.
-2. Establish a small set of durable themes and a repeatable content system.
+1. If sales already hears repeating evaluation questions, publish a [content strategy](content-strategy.md) map before a brand workshop.
+2. Define the brand narrative, audience, editorial point of view, and evidence rules.
 3. Build founder story and thought leadership from real experience and research.
 4. Create flagship proof and education assets such as case studies and white papers.
 5. Add recurring formats—newsletter, webinar, video, podcast, or community—only when ownership is sustainable.
@@ -53,6 +53,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 - [Strategy & buyers](../01-strategy-and-buyers/) supplies audience problems, buying situations, language, and evidence gaps.
 - [Product marketing](../02-product-marketing/) supplies positioning, differentiated claims, product truth, and proof boundaries.
+- [Website & conversion](../07-website-and-conversion/) turns the decision-page map into information architecture and live URLs.
 - [Channels & distribution](../04-channels-and-distribution/) turns assets and ideas into repeated market exposure.
 - [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) converts customer education, stories, and advocacy into post-purchase value.
 

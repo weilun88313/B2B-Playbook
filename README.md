@@ -6,9 +6,9 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 8 published playbooks · 36 curated tools · 9 domain guides · 4 domains with published playbooks
+**Current coverage:** 9 published playbooks · 36 curated tools · 9 domain guides · 5 domains with published playbooks
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-28
 
 ### What this is
 
@@ -41,7 +41,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 |---|---|---|---|
 | 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) |
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md) |
-| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | Planned: founder story, thought leadership, white paper, case study, webinar, community |
+| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | Planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
 | 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md); planned: cold call, LinkedIn outbound |
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md); planned: ABM, affiliate, partner marketing |
@@ -115,6 +115,7 @@ Every work cycle should end with one documented decision and one next test—not
 - Any README structure or coverage change must update the English and Chinese sections in the same commit.
 - Every third-party web link must preserve existing parameters and include `ref=b2b-playbook` in its query string before any fragment; repository-internal and canonical-source links are excluded.
 - Ivan Xu (`weilun88313`) maintains one editorial voice and evidence standard.
+- The library grows one complete tactic playbook at a time, following each domain's recommended build order unless a live operating gap jumps the queue.
 - A use case is published only when it names a specific company and provides traceable sources and dates.
 
 Guidance is a starting method, not a guaranteed formula or legal advice. If this repository helps you complete real B2B work, a star helps other operators discover it.
@@ -131,9 +132,9 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 8 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 4 个领域已有正式 Playbook
+**当前覆盖：** 9 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 5 个领域已有正式 Playbook
 
-**最后核验：** 2026-08-25
+**最后核验：** 2026-08-28
 
 ### 这是什么
 
@@ -166,7 +167,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 |---|---|---|---|
 | 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) |
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md) |
-| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | 计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
+| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | 计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
 | 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)；计划：Cold Call、LinkedIn Outbound |
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)；计划：ABM、Affiliate、合作伙伴营销 |
@@ -240,6 +241,7 @@ Skill 只负责把任务路由到相关 Playbook，不会自动发送消息、�
 - README 的结构或内容覆盖发生变化时，必须在同一次提交中同步更新英文与中文。
 - 所有第三方网页链接都必须保留原有参数，并在 URL 锚点之前的查询字符串中加入 `ref=b2b-playbook`；仓库内部链接和唯一正版来源链接除外。
 - Ivan Xu（`weilun88313`）以统一的编辑口径和证据标准维护本仓库。
+- 知识库按「每天一篇完整战术 Playbook」增长：默认跟随各领域建议顺序，除非当前真实卡点需要插队。
 - Use Case 只有在明确具体企业，并提供可追溯来源和日期时才会发布。
 
 这里的内容是行动起点，不是结果保证或法律意见。如果本仓库帮助你完成了真实的 B2B 工作，欢迎点一个 Star，让更多从业者发现它。
