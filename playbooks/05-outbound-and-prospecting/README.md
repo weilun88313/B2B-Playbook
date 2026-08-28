@@ -50,6 +50,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 - [Strategy & buyers](../01-strategy-and-buyers/) defines the accounts, people, problems, and triggers that justify outreach.
 - [Product marketing](../02-product-marketing/) supplies differentiated claims, proof, and objection context.
+- [Channels & distribution](../04-channels-and-distribution/channel-strategy.md) decides when outbound is the primary motion rather than a side experiment.
 - [Account, field & partner marketing](../06-account-field-and-partner/) coordinates outreach when several people, channels, events, or partners surround one account.
 - [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) owns data models, routing, suppression, attribution boundaries, and feedback loops.
 

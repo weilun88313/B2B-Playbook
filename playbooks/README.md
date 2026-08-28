@@ -18,10 +18,12 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
+| Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
 | Community | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
+| Channel strategy / PLG vs sales | [Channels & distribution](04-channels-and-distribution/) | [Channel strategy](04-channels-and-distribution/channel-strategy.md) |
 | LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | Planned: `linkedin-organic.md` |
 | LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
@@ -54,8 +56,9 @@ Planned: market research, segmentation, buyer journey, jobs to be done, category
 Published:
 
 - [Positioning](02-product-marketing/positioning.md)
+- [Pricing and packaging](02-product-marketing/pricing-and-packaging.md)
 
-Planned: messaging, value proposition, competitive intelligence, pricing and packaging, product launch, proof and claims, sales enablement.
+Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims, sales enablement.
 
 ## 03 · [Brand, story & content](03-brand-story-and-content/)
 
@@ -70,6 +73,10 @@ Planned: brand strategy, brand narrative, founder story, thought leadership, whi
 ## 04 · [Channels & distribution](04-channels-and-distribution/)
 
 **Decision:** Where and how will the market repeatedly encounter the company's ideas and offers?
+
+Published:
+
+- [Channel strategy](04-channels-and-distribution/channel-strategy.md)
 
 Planned: LinkedIn organic, SEO, paid search, paid social, retargeting, PR and media, review sites, content distribution, content repurposing.
 

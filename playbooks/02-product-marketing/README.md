@@ -2,7 +2,7 @@
 
 > **Decision owned:** What should the market understand, believe, compare, and buy?
 
-**Status:** Domain guide published · 1 tactic playbook published
+**Status:** Domain guide published · 2 tactic playbooks published
 
 **Last reviewed:** 2026-08-28
 
@@ -30,7 +30,7 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 | Messaging | Planned: `messaging.md` | How should positioning become a hierarchy of audience-specific messages? |
 | Value proposition | Planned: `value-proposition.md` | What valuable outcome is promised, for whom, and why is it credible? |
 | Competitive intelligence | Planned: `competitive-intelligence.md` | What should teams know and do when alternatives enter the decision? |
-| Pricing and packaging | Planned: `pricing-and-packaging.md` | How should the offer structure align value, adoption, and expansion? |
+| [Pricing and packaging](pricing-and-packaging.md) | Published | How should the offer convert differentiated value into a number the champion can defend? |
 | Product launch | Planned: `product-launch.md` | How should a product change become a coordinated market event? |
 | Proof and claims | Planned: `proof-and-claims.md` | Which evidence is strong enough to support each commercial claim? |
 | Sales enablement | Planned: `sales-enablement.md` | Which reusable narratives and assets help sellers guide a buying decision? |
@@ -40,15 +40,16 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 ## Recommended build order
 
 1. Complete positioning from verified market and buyer evidence.
-2. Build the message hierarchy and value proposition.
-3. Establish proof, claims, and competitive-intelligence standards.
-4. Connect pricing, packaging, and launch decisions to the same narrative.
+2. Set a simple price that can be asked for now, using [pricing and packaging](pricing-and-packaging.md).
+3. Build the message hierarchy and value proposition.
+4. Establish proof, claims, and competitive-intelligence standards.
 5. Package the system for website, content, sales, partner, and lifecycle use.
 
 ## Interfaces with other domains
 
 - [Strategy & buyers](../01-strategy-and-buyers/) supplies segmentation, ICP, buying-group, problem, and alternative evidence.
 - [Brand, story & content](../03-brand-story-and-content/) expands product truth into memorable narratives and educational assets.
+- [Channels & distribution](../04-channels-and-distribution/channel-strategy.md) decides whether price is collected self-serve, with sales-assist, or on outbound.
 - [Website & conversion](../07-website-and-conversion/) turns the message hierarchy into buyer-facing pages and paths.
 - [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) adapts the promise for onboarding, adoption, expansion, and advocacy.
 
