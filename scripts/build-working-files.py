@@ -895,6 +895,112 @@ def build_incentive_timing():
     wb.save(OUT / "incentive-timing.xlsx")
 
 
+def build_experiment_ledger():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Ledger"
+    banner(s, 1, 12, "B2B Playbook · GTM experiment ledger")
+    note(
+        s,
+        2,
+        12,
+        "One assumption per row. A test that cannot change a decision does not belong here. Yellow = inputs. Copyright © 2026 Ivan Xu.",
+    )
+    header_row(
+        s,
+        4,
+        [
+            "ID",
+            "Hypothesis (if X for Y then Z)",
+            "If true we will",
+            "If false we stop",
+            "Audience slice",
+            "Treatment vs contrast",
+            "Success metric (sales-usable)",
+            "Start",
+            "Stop",
+            "Owner",
+            "Result + sales heard",
+            "Artifact updated (ICP/message/channel/scoring/none)",
+        ],
+    )
+    for r in range(5, 25):
+        for c in range(1, 13):
+            input_cell(s.cell(r, c))
+        s.row_dimensions[r].height = 32
+    col_widths(s, [8, 36, 22, 20, 18, 22, 24, 12, 12, 14, 28, 28])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not a vertical benchmark. Delete before this is the live log.")
+    t["A3"] = "Hypothesis"
+    t["B3"] = "Compliance directors book more on audit-ready pack than on risk-visibility platform, same list, 14 days."
+    t["A4"] = "Decision"
+    t["B4"] = "Win → campaign + first meeting use audit language. Lose → kill the audit ads."
+    t["A5"] = "Not a test"
+    t["B5"] = "A six-month brand study with no stop date and no plan change."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [14, 100])
+    wb.save(OUT / "gtm-experiment-ledger.xlsx")
+
+
+def build_answer_visibility():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Prompt tests"
+    banner(s, 1, 8, "B2B Playbook · Answer visibility")
+    note(
+        s,
+        2,
+        8,
+        "Questions from deals. Clicks are partial under zero-click. Yellow = inputs. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "Tools we will actually prompt"
+    s.merge_cells("B4:D4")
+    input_cell(s["B4"])
+    s["E4"] = "Owner / last run"
+    s.merge_cells("F4:H4")
+    input_cell(s["F4"])
+    header_row(
+        s,
+        6,
+        [
+            "Buyer question (full query)",
+            "Owned URL or not this quarter",
+            "Other citation surface",
+            "Tool",
+            "Named us? (yes/no)",
+            "Facts accurate? (yes/no/wrong bit)",
+            "What it cited",
+            "Action this month",
+        ],
+    )
+    for r in range(7, 22):
+        for c in range(1, 9):
+            input_cell(s.cell(r, c))
+        s.row_dimensions[r].height = 28
+    col_widths(s, [36, 28, 24, 14, 14, 22, 24, 28])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not a survey. Delete before this is the dashboard.")
+    t["A3"] = "Question"
+    t["B3"] = "When is a shared inbox not enough for a 12-person ops team?"
+    t["A4"] = "Gap"
+    t["B4"] = "Model skipped the constraint page. Link it from the alternative answer block."
+    t["A5"] = "Not pipeline"
+    t["B5"] = "A screenshot of being named in ChatGPT is a diagnostic, not sourced ARR."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 36
+    col_widths(t, [14, 100])
+    wb.save(OUT / "answer-visibility.xlsx")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     build_demo()
@@ -905,4 +1011,6 @@ if __name__ == "__main__":
     build_vendor_eval()
     build_sales_cadence()
     build_incentive_timing()
+    build_experiment_ledger()
+    build_answer_visibility()
     print("wrote", sorted(p.name for p in OUT.glob("*.xlsx")))
