@@ -188,7 +188,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 10. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md) — 真正制造客户的是哪条动作
 11. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
 
-如果只有十分钟，仍然从 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) 开始。没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
+如果只有十分钟，而想法还是「挺有意思」：从 [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) 开始。如果已经知道要给谁做，再跑 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。没有想法也没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
 
 ### 从一个决策开始
 
