@@ -43,6 +43,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
 | Homepage | [Website & conversion](07-website-and-conversion/) | Planned: `homepage.md` |
 | Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
+| Sales compensation / quota pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) |
 | Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | Planned: `pipeline-model.md` |
 
 ## 01 · [Strategy & buyers](01-strategy-and-buyers/)
@@ -132,6 +133,10 @@ Planned: lead nurture, lifecycle email, onboarding communication, customer educa
 
 **Decision:** How will data, process, technology, and measurement make the marketing system repeatable?
 
+Published:
+
+- [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md)
+
 Planned: measurement model, funnel model, pipeline model, lifecycle stages, lead scoring, account scoring, routing, CRM data model, attribution, dashboards, experimentation, budget and planning, MarTech governance, privacy and compliance operations.
 
 ## Domain guide contract
@@ -169,7 +174,7 @@ Every published tactic playbook should contain:
 
 Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
-Enterprise selling is outside this marketing taxonomy. If the library later expands into sales, it should use a separate top-level collection rather than mixing sales stages into marketing domains.
+Enterprise selling as a full cycle is outside this marketing taxonomy. [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) is the exception that lives here as GTM operations: quota has to be credited and paid. Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
 
 ---
 

@@ -149,7 +149,7 @@ Do not count a completed pricing workshop, the number of tiers, or alignment wit
 
 ## What to read next
 
-The number only holds if the champion can tell the value story: stay inside [positioning](positioning.md) and the [pitch](sales-enablement.md). How you collect the number is a channel fact—[channel strategy](../04-channels-and-distribution/channel-strategy.md). If you are still counting unpaid “love,” that is the [PMF ladder](../01-strategy-and-buyers/product-market-fit.md), not a packaging workshop.
+The number only holds if the champion can tell the value story: stay inside [positioning](positioning.md) and the [pitch](sales-enablement.md). How you collect the number is a channel fact—[channel strategy](../04-channels-and-distribution/channel-strategy.md). If you are still counting unpaid “love,” that is the [PMF ladder](../01-strategy-and-buyers/product-market-fit.md), not a packaging workshop. If you are about to hire someone whose pay depends on that number, that is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md)—a different contract from list price.
 
 ## Sources and evidence boundary
 

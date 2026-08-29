@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 17 published playbooks · 41 curated tools · 16 reading sources · 9 domain guides · 6 domains with published playbooks
+**Current coverage:** 18 published playbooks · 41 curated tools · 16 reading sources · 9 domain guides · 7 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -26,6 +26,7 @@ It is designed to answer practical questions:
 - What evidence would justify the next action?
 - Which tool is appropriate for the job?
 - Which public operators and newsletters are worth following without treating a feed as strategy?
+- How should quota-carrying people be paid, credited, and told the plan?
 
 ### Read it like a book
 
@@ -43,6 +44,8 @@ The index is there so you (or an agent) can jump to a tactic. The pages are writ
 10. [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) — which pages a champion can forward
 11. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md) — which motion actually creates customers
 12. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
+
+If that motion needs people on a number, they still need a written plan they can explain: [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md). Do not start there before the first customers exist.
 
 If you only have ten minutes and there is no idea yet, start with [idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md). If the idea is still mush, start with [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md). If you already know the job, run the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one account. Jumping to cold email with no idea and no ICP is how teams stay busy.
 
@@ -72,9 +75,9 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md); planned: ABM, affiliate, partner marketing |
 | 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
 | 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | Planned: nurture, onboarding, customer education, community, advocacy, referral, renewal |
-| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | Planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
+| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | [Sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md); planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
 
-Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md). If the library later expands into sales operations, it will use a separate top-level collection.
+Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md). [Sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md) lives here as GTM operations: a shared number has to be credited and paid. If the library later expands further into sales operations, it will use a separate top-level collection.
 
 ### What every published playbook contains
 
@@ -161,7 +164,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 17 篇已发布 Playbook · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 6 个领域已有正式 Playbook
+**当前覆盖：** 18 篇已发布 Playbook · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 7 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -181,6 +184,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 - 哪些证据足以支持下一步行动？
 - 哪个软件工具适合当前任务？
 - 哪些公开运营者和 Newsletter 值得长期看，同时又不会把信息流当成战略？
+- 背配额的人该怎么发钱、怎么计绩、怎么把方案讲清楚？
 
 ### 像一本书那样读
 
@@ -198,6 +202,8 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 10. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md) — 冠军买家能转发哪些页面
 11. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md) — 真正制造客户的是哪条动作
 12. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
+
+如果这条动作需要有人背数字，他们还需要一份能讲清楚的书面方案：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)。前几个客户还没出现时，不要从这里起头。
 
 如果只有十分钟，还没有想法：从 [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md) 开始。如果想法还是「挺有意思」：从 [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) 开始。如果已经知道要给谁做，再跑 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。没有想法也没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
 
@@ -227,9 +233,9 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)、[生态增长](playbooks/06-account-field-and-partner/ecosystem.md)；计划：ABM、Affiliate、合作伙伴营销 |
 | 07 | [网站与转化](playbooks/07-website-and-conversion/) | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
 | 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | 计划：培育、Onboarding、客户教育、客户社区、倡导、推荐、续约 |
-| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | 计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
+| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | [销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)；计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
 
-企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)。如果知识库未来扩展到销售运营，将建立单独的顶层内容集合。
+企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)。[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md) 作为 GTM 运营放在这里：共同的数字必须能计绩、能发得出。如果知识库未来进一步扩展到销售运营，将建立单独的顶层内容集合。
 
 ### 每篇已发布 Playbook 包含什么
 
@@ -259,7 +265,7 @@ Lensmor 由本仓库作者 Ivan Xu 创建并维护；这一关系会在对应条
 
 ### 阅读源
 
-[RESOURCES.md](RESOURCES.md) 是一份短名单：Newsletter、播客和运营者。它和工具目录并列——软件服务一个任务，信息流用来保持识字。来源按 A / B / C 做编辑证据分级（反复被运营者点名 / 有人在用并能讲清场景 / 仅观察），不是人气榜。Newsletter 不能代替 Playbook，也不能当成已验证案例。
+[RESOURCES.md](RESOURCES.md) 是一份短名单：Newsletter、播客和运营者。它和工具目录并列——软件服务一个任务，信息流用来保持识字。来源按 A / B / C 做编辑证据分级（反复被运营者点名 / 有人在用并能讲清场景 / 仅观察），不是人气榜。每行还会标明 **免费 / 免费+付费层 / 付费**，以及能查到的公开标价。Newsletter 不能代替 Playbook，也不能当成已验证案例。
 
 ### 智能体 Skill
 

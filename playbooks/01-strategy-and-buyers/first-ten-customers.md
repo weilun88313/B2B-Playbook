@@ -168,7 +168,7 @@ Do not count waitlist size, HN points, or “we announced.” Canva’s launch n
 
 ## What to read next
 
-You have names: keep the [committee](buying-committee.md) map honest so the first meeting is not a single thread. Whether those ten love it, pay, and start to pull is [product-market fit](product-market-fit.md). How you ask for money is [pricing](../02-product-marketing/pricing-and-packaging.md). How the first conversation sounds is the [pitch](../02-product-marketing/sales-enablement.md). If cold is the ring you are in, stay in [outbound](../05-outbound-and-prospecting/). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) until these ten exist as more than a slide.
+You have names: keep the [committee](buying-committee.md) map honest so the first meeting is not a single thread. Whether those ten love it, pay, and start to pull is [product-market fit](product-market-fit.md). How you ask for money is [pricing](../02-product-marketing/pricing-and-packaging.md). How the first conversation sounds is the [pitch](../02-product-marketing/sales-enablement.md). If cold is the ring you are in, stay in [outbound](../05-outbound-and-prospecting/). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) until these ten exist as more than a slide. Do not design [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) for a team of one still closing by hand.
 
 ## Sources and evidence boundary
 
