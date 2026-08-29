@@ -8,7 +8,7 @@ What you can do is stop treating PMF as a binary switch. In B2B it is a process 
 
 You still need a starting line. The founders Lenny Rachitsky interviewed did not wait for a feeling of completion. They climbed a ladder: one company that loves the product, one that pays real money, several that do both, then pull instead of push, then growth that does not depend on a heroic week.
 
-This chapter is that ladder. It sits after you can name an [ICP](icp.md) and after you have a way to [find the first ten](first-ten-customers.md). It sits before you scale a [channel](../04-channels-and-distribution/channel-strategy.md). Word of mouth is usually a **symptom** of this chapter, not a budget line in the next one.
+This chapter is that ladder. It sits after [idea validation](idea-validation.md), after you can name an [ICP](icp.md), and after you have a way to [find the first ten](first-ten-customers.md). It sits before you scale a [channel](../04-channels-and-distribution/channel-strategy.md). Word of mouth is usually a **symptom** of this chapter, not a budget line in the next one.
 
 ## Use this when
 
@@ -19,7 +19,7 @@ This chapter is that ladder. It sits after you can name an [ICP](icp.md) and aft
 
 ## Do not use this when
 
-- You have not talked to real buyers. Fill [ICP](icp.md) from conversations first.
+- You have not talked to real buyers. Fill [ICP](icp.md) from conversations first—or [validate the idea](idea-validation.md) if you do not even know whether the problem is real.
 - You have no path to a first company. Walk [first ten customers](first-ten-customers.md) before arguing about fit.
 - You want a metric that replaces sitting with one company until they succeed.
 - You are using “we lack PMF” as a reason not to [ask for money](../02-product-marketing/pricing-and-packaging.md).

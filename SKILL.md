@@ -13,6 +13,7 @@ Produce a usable artifact or decision, not broad advice.
 |---|---|
 | Find a marketing domain or tactic | `playbooks/README.md` |
 | Scope a domain or plan a not-yet-published tactic | The relevant domain `README.md` linked from `playbooks/README.md` |
+| Idea validation (pain and pull) | `playbooks/01-strategy-and-buyers/idea-validation.md` |
 | ICP or account qualification | `playbooks/01-strategy-and-buyers/icp.md` |
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
 | First ~10 customers (handmade, not scalable) | `playbooks/01-strategy-and-buyers/first-ten-customers.md` |

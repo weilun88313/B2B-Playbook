@@ -2,32 +2,34 @@
 
 > **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
 
-**Status:** Domain guide published · 4 tactic playbooks published
+**Status:** Domain guide published · 5 tactic playbooks published
 
 **Last reviewed:** 2026-08-29
 
 ## Scope
 
-This domain turns a broad market ambition into explicit choices about markets, accounts, people, problems, buying situations, and whether a real company has loved the product, paid, and started to pull. Its outputs should make later positioning, channel, outbound, and account-program decisions more selective.
+This domain turns a broad market ambition into explicit choices about whether an idea has pain and pull, which markets and people matter, how they buy, how the first ten customers are found, and whether a real company has loved the product, paid, and started to pull.
 
-It owns market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, how the first ten customers are found, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](../02-product-marketing/)—or the channels used to *scale* reach. Early handmade outreach still starts here; repeatable outbound execution lives in [Outbound & prospecting](../05-outbound-and-prospecting/).
+It owns idea validation, market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, how the first ten customers are found, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](../02-product-marketing/)—or the channels used to *scale* reach. Early handmade outreach still starts here; repeatable outbound execution lives in [Outbound & prospecting](../05-outbound-and-prospecting/).
 
 ## Core decisions
 
-1. Which market or segment is attractive enough to pursue now?
-2. What observable traits make an account more or less likely to buy and succeed?
-3. Which people influence, evaluate, approve, use, block, or champion the purchase?
-4. What situation or trigger makes the problem urgent?
-5. What job is the buyer trying to make progress on?
-6. Which current behaviors, internal workarounds, and competing solutions must change?
-7. What evidence would disqualify the current market or buyer hypothesis?
-8. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
-9. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
+1. Does this idea show pain and pull—or is it still polite interest?
+2. Which market or segment is attractive enough to pursue now?
+3. What observable traits make an account more or less likely to buy and succeed?
+4. Which people influence, evaluate, approve, use, block, or champion the purchase?
+5. What situation or trigger makes the problem urgent?
+6. What job is the buyer trying to make progress on?
+7. Which current behaviors, internal workarounds, and competing solutions must change?
+8. What evidence would disqualify the current market or buyer hypothesis?
+9. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
+10. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
 
 ## Playbook map
 
 | Topic | Status | Operating question |
 |---|---|---|
+| [Idea validation](idea-validation.md) | Published | Does this idea have pain and pull, or is it still polite interest? |
 | [Ideal customer profile](icp.md) | Published | Which accounts deserve attention, and which should be excluded? |
 | [Buying committee](buying-committee.md) | Published | Who participates in the decision, and what does each role need? |
 | [First ten customers](first-ten-customers.md) | Published | How do you find and win the first ~10 companies that match the ICP? |
@@ -43,7 +45,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Establish market evidence and a segmentation model.
+1. Validate the idea for pain and pull with [idea validation](idea-validation.md) before treating a canvas as strategy.
 2. Define the ICP and explicit disqualifiers.
 3. Map the buying committee for the accounts that pass those filters.
 4. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
