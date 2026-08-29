@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 23 published playbooks · 41 curated tools · 16 reading sources · 9 domain guides · 8 domains with published playbooks
+**Current coverage:** 27 published playbooks · 5 working files · 41 curated tools · 16 reading sources · 9 domain guides · 8 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -31,6 +31,10 @@ It is designed to answer practical questions:
 - How should people, process, and performance run the book after the sale?
 - How should first value be educated and implemented without mixing the two jobs?
 - Can leadership defend the path to the number, or is the forecast theater?
+- What must a demo prove after the pitch, and how do we score it rather than a vibe?
+- When does fit and behavior justify a different action this week?
+- Can demand creation and sales capacity produce the same number?
+- What should a new sales leader actually do in 90 days?
 
 ### Read it like a book
 
@@ -51,7 +55,7 @@ The index is there so you (or an agent) can jump to a tactic. The pages are writ
 
 If that motion needs people on a number, they still need a written plan they can explain: [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md). If those people are SDRs/BDRs, they need a ramp that is a curriculum, not a Slack intro: [SDR onboarding](playbooks/05-outbound-and-prospecting/sdr-onboarding.md). Do not start there before the first customers exist.
 
-If you already have a sales motion and named accounts, the living file is [account planning](playbooks/06-account-field-and-partner/account-planning.md). After they buy, [customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) is the book and [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md) is first value. Whether the quarter’s number is real is [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md). None of these replace the twelve chapters above.
+If you already have a sales motion and named accounts, the living file is [account planning](playbooks/06-account-field-and-partner/account-planning.md). After they buy, [customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) is the book and [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md) is first value. Whether the quarter’s number is real is [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md). Whether next year’s number is even possible is [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md). None of these replace the twelve chapters above.
 
 If you only have ten minutes and there is no idea yet, start with [idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md). If the idea is still mush, start with [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md). If you already know the job, run the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one account. Jumping to cold email with no idea and no ICP is how teams stay busy.
 
@@ -60,6 +64,7 @@ If you only have ten minutes and there is no idea yet, start with [idea discover
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
+| **Working files** | Open a spreadsheet, scorecard, or 90-day outline in Google Sheets/Docs/Slides | [Browse the 5 working files](TEMPLATES.md) |
 | **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 41-tool directory](TOOLS.md) |
 | **Reading sources** | Find newsletters, podcasts, and operators worth following | [Browse the 16-source directory](RESOURCES.md) |
 | **Agent Skill** | Let a compatible AI agent route a task through the right method | [Install the Skill](#agent-skill) |
@@ -74,16 +79,16 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | # | Capability domain | Decision it owns | Current coverage |
 |---|---|---|---|
 | 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [Idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md), [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md), [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md), [first ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md), [product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) |
-| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md) |
+| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md), [demo](playbooks/02-product-marketing/demo.md) |
 | 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md); planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
 | 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md), [SDR onboarding](playbooks/05-outbound-and-prospecting/sdr-onboarding.md); planned: cold call, LinkedIn outbound |
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md), [account planning](playbooks/06-account-field-and-partner/account-planning.md); planned: ABM, affiliate, partner marketing |
 | 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
 | 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | [Customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md), [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md); planned: nurture, onboarding communication, customer education, community, advocacy, referral, renewal |
-| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | [Sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md); planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
+| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | [Sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md), [lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md), [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md), [sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md); planned: funnel, pipeline, scoring at account level, routing, CRM model, attribution, dashboards, experiments |
 
-Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md). The GTM-operations exceptions here are [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md) (a shared number has to be credited and paid), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md) (the path to that number has to be defensible), [account planning](playbooks/06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md) (the book after the sale). If the library later expands further into sales operations, it will use a separate top-level collection.
+Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md); the product walk after agreement is [demo](playbooks/02-product-marketing/demo.md). The GTM-operations exceptions here are [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md), [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md), [sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md), [lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md), [account planning](playbooks/06-account-field-and-partner/account-planning.md), and [customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md). If the library later expands further into sales operations, it will use a separate top-level collection.
 
 ### What every published playbook contains
 
@@ -93,13 +98,13 @@ Each completed tactic page includes:
 2. when to use it and when not to use it;
 3. strategy and operating principles;
 4. step-by-step execution, with at least one concrete mechanism or worked pattern;
-5. copyable templates;
+5. copyable templates, plus a [working file](TEMPLATES.md) when the work is a spreadsheet, scorecard, or 90-day deck;
 6. a pre-flight checklist;
 7. operating metrics and non-metrics;
 8. common mistakes;
 9. sources, evidence boundaries, a last-reviewed date, and a pointer to the next chapter.
 
-Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence. Templates and checklists stay on every page so an agent can execute; they are not a substitute for a chapter you can read. Named companies that appear inside playbooks are **attributed illustrations** from dated sources (founder interviews, practitioner essays). They are not the planned [Verified use cases](#start-with-one-decision) collection, which will only publish a company when this repository can point to a primary source and a date for *that* motion.
+Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence. Templates and checklists stay on every page so an agent can execute; they are not a substitute for a chapter you can read. When the job is a living spreadsheet or a 90-day deck, the blank lives in [TEMPLATES.md](TEMPLATES.md) so you can open it in Google Sheets, Docs, or Slides. Named companies that appear inside playbooks are **attributed illustrations** from dated sources (founder interviews, practitioner essays). They are not the planned [Verified use cases](#start-with-one-decision) collection, which will only publish a company when this repository can point to a primary source and a date for *that* motion.
 
 ### Tool directory
 
@@ -170,7 +175,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 23 篇已发布 Playbook · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 8 个领域已有正式 Playbook
+**当前覆盖：** 27 篇已发布 Playbook · 5 份工作文件 · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 8 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -195,6 +200,10 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 - 成交后这本书该怎么用人、流程、绩效来管？
 - 客户首次价值该怎么教育和落地，而不是把两件事混成一件？
 - 通往那个数字的路径能不能被辩护，还是预测只是演戏？
+- Demo 在讲完定位之后必须证明什么，怎么打分而不是凭感觉？
+- 匹配度和行为什么时候够得上换一种动作？
+- 需求端能造出来的、销售端能关得上的，是不是同一个数字？
+- 新来的销售负责人前 90 天到底该干什么？
 
 ### 像一本书那样读
 
@@ -215,7 +224,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 如果这条动作需要有人背数字，他们还需要一份能讲清楚的书面方案：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)。如果这些人是 SDR/BDR，入职必须是课程而不是欢迎辞：[SDR 入职](playbooks/05-outbound-and-prospecting/sdr-onboarding.md)。前几个客户还没出现时，不要从这里起头。
 
-如果你已经有销售动作和具名账户，活文件是 [账户规划](playbooks/06-account-field-and-partner/account-planning.md)。成交之后，[客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) 管这本书，[客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md) 管首次价值。季度数字是否真实，看 [预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)。这些都不能代替上面的十二章。
+如果你已经有销售动作和具名账户，活文件是 [账户规划](playbooks/06-account-field-and-partner/account-planning.md)。成交之后，[客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) 管这本书，[客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md) 管首次价值。季度数字是否真实，看 [预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)。明年那个数字是否可能，看 [GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)。这些都不能代替上面的十二章。
 
 如果只有十分钟，还没有想法：从 [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md) 开始。如果想法还是「挺有意思」：从 [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) 开始。如果已经知道要给谁做，再跑 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。没有想法也没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
 
@@ -224,6 +233,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 内容入口 | 用来解决什么问题 | 从这里开始 |
 |---|---|---|
 | **Playbooks 行动手册** | 查找具体的 B2B 营销能力、渠道或战术 | [浏览 Playbook 总索引](playbooks/) |
+| **Working files 工作文件** | 把记分表、表格或 90 天大纲放到 Google 表格/文档/幻灯片里用 | [浏览 5 份工作文件](TEMPLATES.md) |
 | **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 41 个产品的工具目录](TOOLS.md) |
 | **Reading sources 阅读源** | 查找值得长期关注的 Newsletter、播客和运营者 | [浏览包含 16 个来源的目录](RESOURCES.md) |
 | **Agent Skill 智能体技能** | 让兼容的人工智能智能体按正确方法处理任务 | [安装 Skill](#智能体-skill) |
@@ -238,16 +248,16 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 编号 | 能力域 | 负责的核心决策 | 当前覆盖 |
 |---|---|---|---|
 | 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md)、[想法验证](playbooks/01-strategy-and-buyers/idea-validation.md)、[ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)、[前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)、[产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) |
-| 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md) |
+| 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md)、[产品演示](playbooks/02-product-marketing/demo.md) |
 | 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)；计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
 | 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)、[SDR 入职](playbooks/05-outbound-and-prospecting/sdr-onboarding.md)；计划：Cold Call、LinkedIn Outbound |
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)、[生态增长](playbooks/06-account-field-and-partner/ecosystem.md)、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)；计划：ABM、Affiliate、合作伙伴营销 |
 | 07 | [网站与转化](playbooks/07-website-and-conversion/) | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
 | 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md)、[客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)；计划：培育、入职沟通、客户教育、客户社区、倡导、推荐、续约 |
-| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | [销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)；计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
+| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | [销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)、[线索评分](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md)、[GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)、[销售负责人 90 天](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md)；计划：漏斗、Pipeline、账户评分、路由、CRM 模型、归因、仪表盘、实验 |
 
-企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)。作为 GTM 运营例外放在这里的是：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)（共同的数字必须能计绩、能发得出）、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)（通往那个数字的路径必须能被辩护）、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)（具名账户的活文件），以及 [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)（成交后的这本书）。如果知识库未来进一步扩展到销售运营，将建立单独的顶层内容集合。
+企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)；达成共识之后的产品演示见 [产品演示](playbooks/02-product-marketing/demo.md)。作为 GTM 运营例外放在这里的是：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)、[GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)、[销售负责人 90 天](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md)、[线索评分](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md)、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)，以及 [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)。如果知识库未来进一步扩展到销售运营，将建立单独的顶层内容集合。
 
 ### 每篇已发布 Playbook 包含什么
 
@@ -257,13 +267,13 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 2. 什么时候适用、什么时候不适用；
 3. 策略与执行原则；
 4. 分步骤执行方法，并且至少有一个具体机制或可对照的模式；
-5. 可复制的模板；
+5. 可复制的模板；当工作是表格、记分表或 90 天大纲时，另有 [工作文件](TEMPLATES.md)；
 6. 执行前检查清单；
 7. 运营指标与不应误用的指标；
 8. 常见错误；
 9. 来源、证据边界、最后核验日期，以及下一章指向。
 
-计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。模板和清单留在每页上，是为了让智能体也能执行；它们不能代替一篇能读下去的章节。Playbook 正文里出现的具名公司，是带日期来源的**访谈/文章插图**，不是计划中的 [已验证 Use Cases](#从一个决策开始) 专栏。专栏只会在本仓库能指出该动作的一手来源和日期时才发布。
+计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。模板和清单留在每页上，是为了让智能体也能执行；它们不能代替一篇能读下去的章节。当工作是活表格或 90 天大纲时，空白文件在 [TEMPLATES.md](TEMPLATES.md)，可以导入 Google 表格、文档或幻灯片。Playbook 正文里出现的具名公司，是带日期来源的**访谈/文章插图**，不是计划中的 [已验证 Use Cases](#从一个决策开始) 专栏。专栏只会在本仓库能指出该动作的一手来源和日期时才发布。
 
 ### 工具目录
 
