@@ -2,15 +2,17 @@
 
 > **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?
 
-**Status:** Domain guide published · tactic playbooks planned
+**Status:** Domain guide published · 1 tactic playbook published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-29
 
 ## Scope
 
 This domain provides the operating system underneath B2B marketing. It defines shared lifecycle and pipeline language, data models, scoring, routing, measurement, experimentation, planning, technology governance, and privacy controls.
 
-It owns marketing operations and measurement decisions—not every tool configuration or the sales team's opportunity-management process. Its purpose is to make work observable, comparable, recoverable, and improvable without pretending attribution can prove causality on its own.
+It owns marketing operations and measurement decisions—not every tool configuration, and not the sales team's opportunity-management process or a full enterprise close. Its purpose is to make work observable, comparable, recoverable, and improvable without pretending attribution can prove causality on its own.
+
+Quota-carrying pay sits here as **GTM operations**: the number marketing and sales share has to be credited, calculated, and paid, or it is not a number. Papering, procurement, and multi-threaded close stay outside this taxonomy.
 
 ## Core decisions
 
@@ -21,11 +23,13 @@ It owns marketing operations and measurement decisions—not every tool configur
 5. Which metrics are leading indicators, business outcomes, diagnostics, or guardrails?
 6. Which questions require attribution, incrementality, experiments, or qualitative evidence?
 7. How will budget, technology, privacy, consent, data quality, and change control be governed?
+8. When people carry quota, how will they be paid against a credit rule the company can administer?
 
 ## Playbook map
 
 | Topic | Status | Operating question |
 |---|---|---|
+| Sales compensation | Published: [`sales-compensation.md`](sales-compensation.md) | How should quota-carrying people be paid, credited, told the plan, and paid on time? |
 | Measurement model | Planned: `measurement-model.md` | Which decisions should each metric support? |
 | Funnel model | Planned: `funnel-model.md` | How should audience and buyer progression be represented before pipeline? |
 | Pipeline model | Planned: `pipeline-model.md` | How should marketing contribution connect to qualified revenue progression? |
@@ -51,10 +55,14 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Build decision-oriented dashboards and explicit attribution boundaries.
 5. Add experimentation, budget, MarTech, privacy, and data-quality governance.
 
+When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) as a **parallel path**—after the role exists and a credit event can be named—not as step one of marketing ops.
+
 ## Interfaces with other domains
 
-- [Strategy & buyers](../01-strategy-and-buyers/) supplies qualification hypotheses and disqualifiers.
-- [Channels & distribution](../04-channels-and-distribution/) and [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation.
+- [Strategy & buyers](../01-strategy-and-buyers/) supplies qualification hypotheses and disqualifiers. Compensation for a hunter who still has no [first ten](../01-strategy-and-buyers/first-ten-customers.md) is premature.
+- [Product marketing](../02-product-marketing/) sets what the **buyer** pays ([pricing](../02-product-marketing/pricing-and-packaging.md)) and how the first meeting sounds ([sales enablement](../02-product-marketing/sales-enablement.md)). Seller pay is a different contract.
+- [Channels & distribution](../04-channels-and-distribution/) decides whether a quota-carrying role should exist ([channel strategy](../04-channels-and-distribution/channel-strategy.md)).
+- [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation.
 - [Account, field & partner marketing](../06-account-field-and-partner/) requires account-level orchestration, cost, and progression measurement.
 - [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) depends on reliable states, triggers, consent, and customer outcomes.
 
