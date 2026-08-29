@@ -2,9 +2,9 @@
 
 > **Decision owned:** How should the team create relevant conversations with accounts that have not raised a hand?
 
-**Status:** Domain guide published · 3 tactic playbooks published
+**Status:** Domain guide published · 4 tactic playbooks published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-29
 
 ## Scope
 
@@ -21,6 +21,7 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 5. How will domains, mailboxes, data, consent, and suppression be governed?
 6. How should positive, neutral, negative, and referral replies be handled?
 7. What evidence defines a qualified handoff rather than a booked meeting alone?
+8. How will a new SDR/BDR learn the written job, the number, the CRM law, and the last mile without inventing a private version?
 
 ## Playbook map
 
@@ -29,6 +30,7 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 | [Account research](account-research.md) | Published | What evidence is strong enough to justify outreach to this account? |
 | [Cold email](cold-email.md) | Published | How should a concise, relevant first-touch email be constructed and tested? |
 | [Multichannel sequence](multichannel-sequence.md) | Published | How should several touches work together without becoming repetitive noise? |
+| [SDR onboarding](sdr-onboarding.md) | Published | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
 | Contact research | Planned: `contact-research.md` | Which person and contact route are appropriate and permitted? |
 | Cold call | Planned: `cold-call.md` | How should a rep open, diagnose, and earn the next step by phone? |
 | LinkedIn outbound | Planned: `linkedin-outbound.md` | When and how should social context support a direct conversation? |
@@ -45,6 +47,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 3. Build channel-specific cold email, cold call, and LinkedIn methods.
 4. Combine them into evidence-aware sequences.
 5. Standardize reply handling, qualification feedback, and SDR handoff.
+6. When the motion needs hired SDRs, run [SDR onboarding](sdr-onboarding.md) so the written job exists before day one.
 
 ## Interfaces with other domains
 
@@ -52,7 +55,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 - [Product marketing](../02-product-marketing/) supplies differentiated claims, proof, and objection context.
 - [Channels & distribution](../04-channels-and-distribution/channel-strategy.md) decides when outbound is the primary motion rather than a side experiment.
 - [Account, field & partner marketing](../06-account-field-and-partner/) coordinates outreach when several people, channels, events, or partners surround one account.
-- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) owns data models, routing, suppression, attribution boundaries, and feedback loops.
+- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) owns data models, routing, suppression, attribution boundaries, feedback loops, and [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) for the number onboarding must teach.
 
 [Back to the playbook index](../README.md)
 

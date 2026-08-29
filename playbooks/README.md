@@ -37,6 +37,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Cold email | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold email](05-outbound-and-prospecting/cold-email.md) |
 | Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `cold-call.md` |
 | Multichannel sequence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) |
+| SDR / BDR onboarding | [Outbound & prospecting](05-outbound-and-prospecting/) | [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md) |
 | Event | [Account, field & partner](06-account-field-and-partner/) | [Event marketing](06-account-field-and-partner/event-marketing.md) |
 | Trade show | [Account, field & partner](06-account-field-and-partner/) | [Trade shows](06-account-field-and-partner/trade-shows.md) |
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
@@ -102,6 +103,7 @@ Published:
 - [Account research](05-outbound-and-prospecting/account-research.md)
 - [Cold email](05-outbound-and-prospecting/cold-email.md)
 - [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md)
+- [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md)
 
 Planned: contact research, cold call, LinkedIn outbound, email deliverability, reply handling, SDR handoff.
 

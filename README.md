@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 18 published playbooks · 41 curated tools · 16 reading sources · 9 domain guides · 7 domains with published playbooks
+**Current coverage:** 19 published playbooks · 41 curated tools · 16 reading sources · 9 domain guides · 7 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -45,7 +45,7 @@ The index is there so you (or an agent) can jump to a tactic. The pages are writ
 11. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md) — which motion actually creates customers
 12. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
 
-If that motion needs people on a number, they still need a written plan they can explain: [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md). Do not start there before the first customers exist.
+If that motion needs people on a number, they still need a written plan they can explain: [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md). If those people are SDRs/BDRs, they need a ramp that is a curriculum, not a Slack intro: [SDR onboarding](playbooks/05-outbound-and-prospecting/sdr-onboarding.md). Do not start there before the first customers exist.
 
 If you only have ten minutes and there is no idea yet, start with [idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md). If the idea is still mush, start with [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md). If you already know the job, run the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one account. Jumping to cold email with no idea and no ICP is how teams stay busy.
 
@@ -71,7 +71,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md); planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
-| 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md); planned: cold call, LinkedIn outbound |
+| 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md), [SDR onboarding](playbooks/05-outbound-and-prospecting/sdr-onboarding.md); planned: cold call, LinkedIn outbound |
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md); planned: ABM, affiliate, partner marketing |
 | 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
 | 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | Planned: nurture, onboarding, customer education, community, advocacy, referral, renewal |
@@ -164,7 +164,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 18 篇已发布 Playbook · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 7 个领域已有正式 Playbook
+**当前覆盖：** 19 篇已发布 Playbook · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 7 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -203,7 +203,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 11. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md) — 真正制造客户的是哪条动作
 12. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
 
-如果这条动作需要有人背数字，他们还需要一份能讲清楚的书面方案：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)。前几个客户还没出现时，不要从这里起头。
+如果这条动作需要有人背数字，他们还需要一份能讲清楚的书面方案：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)。如果这些人是 SDR/BDR，入职必须是课程而不是欢迎辞：[SDR 入职](playbooks/05-outbound-and-prospecting/sdr-onboarding.md)。前几个客户还没出现时，不要从这里起头。
 
 如果只有十分钟，还没有想法：从 [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md) 开始。如果想法还是「挺有意思」：从 [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) 开始。如果已经知道要给谁做，再跑 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。没有想法也没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
 
@@ -229,7 +229,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)；计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
-| 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)；计划：Cold Call、LinkedIn Outbound |
+| 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)、[SDR 入职](playbooks/05-outbound-and-prospecting/sdr-onboarding.md)；计划：Cold Call、LinkedIn Outbound |
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)、[生态增长](playbooks/06-account-field-and-partner/ecosystem.md)；计划：ABM、Affiliate、合作伙伴营销 |
 | 07 | [网站与转化](playbooks/07-website-and-conversion/) | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
 | 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | 计划：培育、Onboarding、客户教育、客户社区、倡导、推荐、续约 |
