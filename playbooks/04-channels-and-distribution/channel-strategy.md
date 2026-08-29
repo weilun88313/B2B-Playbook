@@ -23,6 +23,7 @@ This page chooses the motion. Execution lives in the linked playbooks. Expansion
 
 - The ICP and alternative are empty. Complete [ICP](../01-strategy-and-buyers/icp.md) and [positioning](../02-product-marketing/positioning.md) first.
 - Nobody loves the product enough to keep using it. Climb the [PMF ladder](../01-strategy-and-buyers/product-market-fit.md) before scaling a motion.
+- You do not yet have ~10 ICP-matching companies. Walk [first ten customers](../01-strategy-and-buyers/first-ten-customers.md) first—those tactics are handmade on purpose.
 - There is no working product a buyer can try or buy. Channel mix will not create pull.
 - The request is a seven-channel GTM deck for a board meeting.
 
@@ -142,7 +143,7 @@ Do not count channel count, campaign volume, or “we are now PLG” as outcomes
 
 ## What to read next
 
-If the primary is outbound, start with [account research](../05-outbound-and-prospecting/account-research.md). If it is sales-assist inbound, you need pages a champion can forward—[content strategy](../03-brand-story-and-content/content-strategy.md)—and a [pitch](../02-product-marketing/sales-enablement.md). If strangers already trust someone else, that is [ecosystem](../06-account-field-and-partner/ecosystem.md), added as **one** secondary, not as a seventh channel. Pricing and packaging still decide whether the motion can collect money: [pricing](../02-product-marketing/pricing-and-packaging.md).
+If you still need the first ten names, that work is [first ten customers](../01-strategy-and-buyers/first-ten-customers.md), not a channel mix. If the primary is outbound, start with [account research](../05-outbound-and-prospecting/account-research.md). If it is sales-assist inbound, you need pages a champion can forward—[content strategy](../03-brand-story-and-content/content-strategy.md)—and a [pitch](../02-product-marketing/sales-enablement.md). If strangers already trust someone else, that is [ecosystem](../06-account-field-and-partner/ecosystem.md), added as **one** secondary, not as a seventh channel. Pricing and packaging still decide whether the motion can collect money: [pricing](../02-product-marketing/pricing-and-packaging.md).
 
 ## Sources and evidence boundary
 

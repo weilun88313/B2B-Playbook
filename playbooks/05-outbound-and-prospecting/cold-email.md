@@ -26,6 +26,8 @@ Group accounts by a shared buyer, business job, current alternative, and observa
 
 Begin with a small batch. The purpose is to learn whether the evidence and message produce qualified conversations, not to maximize activity.
 
+Early, handmade targeting is the whole job. In Lenny Rachitsky’s first-ten interviews, **Retool** filtered Crunchbase for ops-heavy companies that were *not* SaaS and emailed both CTO and VP of operations; **Figma** DMed influential designers because the craftsperson chooses the tool; **Zip** asked for advice on LinkedIn so the first ten were cold enough to fail. That sequencing lives in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). This page is the email once the ring is cold.
+
 ### Step 2: confirm the research brief
 
 Use the [account-research playbook](account-research.md). Confirm account fit, trigger, current alternative, buying seat, sources, unknowns, and a stop condition before writing.
@@ -124,7 +126,7 @@ Open rate is a deliverability diagnostic, not a business outcome. Sent volume is
 
 ## What to read next
 
-One good email is not a system. Put it in a [multichannel sequence](multichannel-sequence.md). The meeting that email books should use the [pitch](../02-product-marketing/sales-enablement.md), not a feature tour.
+One good email is not a system. Put it in a [multichannel sequence](multichannel-sequence.md). The meeting that email books should use the [pitch](../02-product-marketing/sales-enablement.md), not a feature tour. If this is still the hunt for the first ten, stay in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md).
 
 ## Sources and evidence boundary
 

@@ -2,7 +2,7 @@
 
 > **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
 
-**Status:** Domain guide published · 3 tactic playbooks published
+**Status:** Domain guide published · 4 tactic playbooks published
 
 **Last reviewed:** 2026-08-29
 
@@ -10,7 +10,7 @@
 
 This domain turns a broad market ambition into explicit choices about markets, accounts, people, problems, buying situations, and whether a real company has loved the product, paid, and started to pull. Its outputs should make later positioning, channel, outbound, and account-program decisions more selective.
 
-It owns market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](../02-product-marketing/)—or the channels used to reach buyers.
+It owns market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, how the first ten customers are found, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](../02-product-marketing/)—or the channels used to *scale* reach. Early handmade outreach still starts here; repeatable outbound execution lives in [Outbound & prospecting](../05-outbound-and-prospecting/).
 
 ## Core decisions
 
@@ -21,7 +21,8 @@ It owns market and buyer evidence, segmentation logic, ICP boundaries, buying-gr
 5. What job is the buyer trying to make progress on?
 6. Which current behaviors, internal workarounds, and competing solutions must change?
 7. What evidence would disqualify the current market or buyer hypothesis?
-8. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
+8. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
+9. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
 
 ## Playbook map
 
@@ -29,6 +30,7 @@ It owns market and buyer evidence, segmentation logic, ICP boundaries, buying-gr
 |---|---|---|
 | [Ideal customer profile](icp.md) | Published | Which accounts deserve attention, and which should be excluded? |
 | [Buying committee](buying-committee.md) | Published | Who participates in the decision, and what does each role need? |
+| [First ten customers](first-ten-customers.md) | Published | How do you find and win the first ~10 companies that match the ICP? |
 | [Product-market fit](product-market-fit.md) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
 | Market research | Planned: `market-research.md` | What is true about the market beyond internal opinion? |
 | Segmentation | Planned: `segmentation.md` | Which groups differ enough to require a distinct strategy? |
@@ -44,15 +46,16 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 1. Establish market evidence and a segmentation model.
 2. Define the ICP and explicit disqualifiers.
 3. Map the buying committee for the accounts that pass those filters.
-4. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
-5. Add jobs, triggers, category entry points, and competitive alternatives.
-6. Feed the resulting evidence into positioning and channel selection.
+4. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
+5. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
+6. Add jobs, triggers, category entry points, and competitive alternatives.
+7. Feed the resulting evidence into positioning and channel selection.
 
 ## Interfaces with other domains
 
 - [Product marketing](../02-product-marketing/) turns buyer evidence into positioning, messaging, proof, and offers.
 - [Channels & distribution](../04-channels-and-distribution/) should not scale a motion until the PMF ladder has dated evidence.
-- [Outbound & prospecting](../05-outbound-and-prospecting/) converts account and persona hypotheses into targeted research and conversations.
+- [Outbound & prospecting](../05-outbound-and-prospecting/) is the execution layer when the first-ten ring is targeted cold outreach.
 - [Account, field & partner marketing](../06-account-field-and-partner/) uses account value, buying-group structure, and triggers to select coordinated programs.
 - [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) operationalizes qualification, scoring, routing, and feedback loops.
 

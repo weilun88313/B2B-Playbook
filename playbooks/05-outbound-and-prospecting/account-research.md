@@ -118,7 +118,7 @@ Copy:
 
 ## What to read next
 
-A researched account still needs a sentence: [cold email](cold-email.md). If the motion is not outbound, you named the wrong primary in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+A researched account still needs a sentence: [cold email](cold-email.md). If you do not yet have ten ICP-matching companies, start from [first ten customers](../01-strategy-and-buyers/first-ten-customers.md)—warm rings first. If the motion is not outbound, you named the wrong primary in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 
 ## Sources and evidence boundary
 

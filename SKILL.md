@@ -15,6 +15,7 @@ Produce a usable artifact or decision, not broad advice.
 | Scope a domain or plan a not-yet-published tactic | The relevant domain `README.md` linked from `playbooks/README.md` |
 | ICP or account qualification | `playbooks/01-strategy-and-buyers/icp.md` |
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
+| First ~10 customers (handmade, not scalable) | `playbooks/01-strategy-and-buyers/first-ten-customers.md` |
 | Product-market fit (love, pay, pull) | `playbooks/01-strategy-and-buyers/product-market-fit.md` |
 | Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |

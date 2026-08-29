@@ -48,7 +48,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Interfaces with other domains
 
-- [Strategy & buyers](../01-strategy-and-buyers/) defines the accounts, people, problems, and triggers that justify outreach.
+- [Strategy & buyers](../01-strategy-and-buyers/) defines the accounts, people, problems, and triggers that justify outreach. The first ~10 companies are a handmade hunt: [first ten customers](../01-strategy-and-buyers/first-ten-customers.md).
 - [Product marketing](../02-product-marketing/) supplies differentiated claims, proof, and objection context.
 - [Channels & distribution](../04-channels-and-distribution/channel-strategy.md) decides when outbound is the primary motion rather than a side experiment.
 - [Account, field & partner marketing](../06-account-field-and-partner/) coordinates outreach when several people, channels, events, or partners surround one account.

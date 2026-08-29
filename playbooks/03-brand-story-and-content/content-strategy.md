@@ -147,7 +147,7 @@ Impressions, AI citations, and time on page are diagnostics for “can anyone fi
 
 ## What to read next
 
-The pages only work if the story on them matches the first meeting: keep [positioning](../02-product-marketing/positioning.md) and the [pitch](../02-product-marketing/sales-enablement.md) in the same insight. Then decide whether content is the growth engine or an amplifier—[channel strategy](../04-channels-and-distribution/channel-strategy.md). If strangers already trust someone else in this market, that is [ecosystem](../06-account-field-and-partner/ecosystem.md), not another blog post.
+The pages only work if the story on them matches the first meeting: keep [positioning](../02-product-marketing/positioning.md) and the [pitch](../02-product-marketing/sales-enablement.md) in the same insight. Early audience-building (Front, Linear, Hex in the first-ten interviews) is how some teams *found* users; it is not a substitute for rows 1–4 once sales needs a forwardable URL. Then decide whether content is the growth engine or an amplifier—[channel strategy](../04-channels-and-distribution/channel-strategy.md). If strangers already trust someone else in this market, that is [ecosystem](../06-account-field-and-partner/ecosystem.md), not another blog post.
 
 ## Sources and evidence boundary
 
