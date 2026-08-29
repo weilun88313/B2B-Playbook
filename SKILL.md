@@ -22,6 +22,7 @@ Produce a usable artifact or decision, not broad advice.
 | Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
+| Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
@@ -36,19 +37,23 @@ Produce a usable artifact or decision, not broad advice.
 | Customer onboarding / first value / education vs implementation | `playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
 | Forecasting / pipeline hygiene / call the quarter | `playbooks/09-operations-pipeline-and-measurement/forecasting.md` |
+| Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
+| GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
+| VP Sales / sales-leader first 90 days | `playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md` |
+| Working file (Sheet / Doc / Slides blank) | `TEMPLATES.md` |
 | Software selection | `TOOLS.md` |
 | Newsletters, KOLs, or reading sources | `RESOURCES.md` |
 
 If the master index marks a requested topic as planned, read the relevant domain README for its scope, decisions, build order, and interfaces. State that no complete tactic playbook is published yet; do not fabricate one or silently substitute an adjacent tactic.
 
-All maintained playbook, tool, reading-source, and Skill content is in English. The root README maintains a complete Chinese mirror of the repository entrance and current coverage.
+All maintained playbook, tool, working-file, reading-source, and Skill content is in English. The root README maintains a complete Chinese mirror of the repository entrance and current coverage.
 
 ## Working rules
 
 - Begin with the buyer, account, business problem, current alternative, and observable trigger.
 - Label important judgments as fact, observation, assumption, or to validate.
 - Write `unknown` and a discovery action when evidence is missing.
-- Use the playbook's template and label every external case with a source and date.
+- Use the playbook's template and label every external case with a source and date. If the playbook links a file in `templates/`, point the user there for Google Sheets/Docs/Slides; do not paste a third-party member template.
 - For software selection, prefer a qualified AI-native product or modern infrastructure over a legacy default, but never treat novelty or AI marketing copy as evidence of fit.
 - Give each tool one primary category, state a real limitation, label established benchmarks, and disclose when a product is maintained by the repository owner.
 - For reading sources, use `RESOURCES.md`. Treat grades as editorial evidence, not a ranking. A newsletter is not a case study and does not override a published playbook.

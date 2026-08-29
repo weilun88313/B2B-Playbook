@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?
 
-**Status:** Domain guide published · 2 tactic playbooks published
+**Status:** Domain guide published · 5 tactic playbooks published
 
 **Last reviewed:** 2026-08-29
 
@@ -25,6 +25,9 @@ Quota-carrying pay and the **forecast** sit here as **GTM operations**: the numb
 7. How will budget, technology, privacy, consent, data quality, and change control be governed?
 8. When people carry quota, how will they be paid against a credit rule the company can administer?
 9. How will hygiene, stages, categories, and calls make a forecast that leadership can defend?
+10. When does person-level fit and behavior justify a different action?
+11. Can demand creation and sales capacity produce the same number?
+12. What should a new sales leader actually do in 90 days?
 
 ## Playbook map
 
@@ -32,11 +35,13 @@ Quota-carrying pay and the **forecast** sit here as **GTM operations**: the numb
 |---|---|---|
 | Sales compensation | Published: [`sales-compensation.md`](sales-compensation.md) | How should quota-carrying people be paid, credited, told the plan, and paid on time? |
 | Forecasting | Published: [`forecasting.md`](forecasting.md) | How should hygiene, stages, categories, and calls make a number leadership can defend? |
+| Lead scoring | Published: [`lead-scoring.md`](lead-scoring.md) | When does person-level fit and behavior justify a different action? |
+| GTM planning | Published: [`gtm-planning.md`](gtm-planning.md) | Can demand creation and sales capacity produce the same number? |
+| Sales-leadership ramp | Published: [`sales-leadership-ramp.md`](sales-leadership-ramp.md) | What should a new sales leader actually do in 90 days? |
 | Measurement model | Planned: `measurement-model.md` | Which decisions should each metric support? |
 | Funnel model | Planned: `funnel-model.md` | How should audience and buyer progression be represented before pipeline? |
 | Pipeline model | Planned: `pipeline-model.md` | How should marketing contribution connect to qualified revenue progression? |
 | Lifecycle stages | Planned: `lifecycle-stages.md` | Which shared states and transition rules should systems enforce? |
-| Lead scoring | Planned: `lead-scoring.md` | When does person-level fit and behavior justify a different action? |
 | Account scoring | Planned: `account-scoring.md` | How should account fit, engagement, relationships, and timing be combined? |
 | Routing and SLA | Planned: `routing-and-sla.md` | Who should act on each signal, by when, and with what context? |
 | CRM data model | Planned: `crm-data-model.md` | Which objects, fields, relationships, and sources form the commercial record? |
@@ -57,12 +62,12 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Build decision-oriented dashboards and explicit attribution boundaries.
 5. Add experimentation, budget, MarTech, privacy, and data-quality governance.
 
-When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. Forecasting is whether the path to that number is real.
+When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. Forecasting is whether the path to that number is real. Whether next year’s number is even possible is [GTM planning](gtm-planning.md). A new sales leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Inbound volume that needs a routing hypothesis uses [lead scoring](lead-scoring.md).
 
 ## Interfaces with other domains
 
 - [Strategy & buyers](../01-strategy-and-buyers/) supplies qualification hypotheses and disqualifiers. Compensation for a hunter who still has no [first ten](../01-strategy-and-buyers/first-ten-customers.md) is premature.
-- [Product marketing](../02-product-marketing/) sets what the **buyer** pays ([pricing](../02-product-marketing/pricing-and-packaging.md)) and how the first meeting sounds ([sales enablement](../02-product-marketing/sales-enablement.md)). Seller pay is a different contract.
+- [Product marketing](../02-product-marketing/) sets what the **buyer** pays ([pricing](../02-product-marketing/pricing-and-packaging.md)), how the first meeting sounds ([sales enablement](../02-product-marketing/sales-enablement.md)), and how the product walk is scored ([demo](../02-product-marketing/demo.md)). Seller pay is a different contract.
 - [Channels & distribution](../04-channels-and-distribution/) decides whether a quota-carrying role should exist ([channel strategy](../04-channels-and-distribution/channel-strategy.md)).
 - [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation. Hired SDRs need [onboarding](../05-outbound-and-prospecting/sdr-onboarding.md) that teaches the same credit rule [sales compensation](sales-compensation.md) writes.
 - [Account, field & partner marketing](../06-account-field-and-partner/) requires account-level orchestration, cost, and progression measurement. Named-account quality that feeds a call lives in [account planning](../06-account-field-and-partner/account-planning.md).

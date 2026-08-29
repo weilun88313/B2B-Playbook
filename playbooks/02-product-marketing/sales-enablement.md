@@ -149,7 +149,7 @@ Do not count slides shipped, demo length, or “we mentioned the problem” as e
 
 ## What to read next
 
-If the champion leaves the meeting sold and still cannot explain the choice internally, they need [content](../03-brand-story-and-content/content-strategy.md)—pages that carry the same insight. If they agree and have never been asked to pay, that is [pricing](pricing-and-packaging.md). If you do not yet know whether anyone would be angry if the product vanished, back up to [product-market fit](../01-strategy-and-buyers/product-market-fit.md). If someone else will carry a quota on those meetings, their pay plan is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md)—not a slide in the pitch.
+If the champion leaves the meeting sold and still cannot explain the choice internally, they need [content](../03-brand-story-and-content/content-strategy.md)—pages that carry the same insight. If they agreed the perfect world, the product walk is [demo](demo.md)—not a tour before agreement. If they agree and have never been asked to pay, that is [pricing](pricing-and-packaging.md). If you do not yet know whether anyone would be angry if the product vanished, back up to [product-market fit](../01-strategy-and-buyers/product-market-fit.md). If someone else will carry a quota on those meetings, their pay plan is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md)—not a slide in the pitch.
 
 ## Sources and evidence boundary
 

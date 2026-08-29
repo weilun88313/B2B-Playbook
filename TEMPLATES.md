@@ -1,0 +1,25 @@
+# Working files
+
+**Last reviewed:** 2026-08-29
+
+**Current coverage:** 5 working files
+
+These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
+
+Google “Make a copy” URLs are added here only after the owner publishes a view-only original. Until then, download from GitHub.
+
+| Working file | Format | Use it to | Playbook |
+|---|---|---|---|
+| [Demo scorecard](templates/demo-scorecard.xlsx) | Sheet | Score a demo on what happened, not how it felt | [Demo](playbooks/02-product-marketing/demo.md) |
+| [Lead-scoring ledger](templates/lead-scoring-ledger.xlsx) | Sheet | Write fit, intent, negative rules, and thresholds before the MAP | [Lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md) |
+| [Demand plan](templates/gtm-demand-plan.xlsx) | Sheet | Turn channel volume and conversion into pipeline math | [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) |
+| [Sales capacity](templates/gtm-sales-capacity.xlsx) | Sheet | Turn heads, quota, ramp, and cycle into a closeable number | [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) |
+| [Sales-leadership 90 days](templates/sales-leadership-90.md) | Doc / Slides outline | Run observe → quick wins → new course without a costume deck | [Sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
+
+Teaching-fill tabs are invented. They are not your forecast.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

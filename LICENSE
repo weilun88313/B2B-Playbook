@@ -22,9 +22,15 @@ You may:
 - link to the canonical repository;
 - quote brief excerpts for commentary, review, or education when you provide
   clear attribution and a link to the canonical repository, provided that the
-  excerpts do not substitute for the original Content; and
+  excerpts do not substitute for the original Content;
 - fork and use the repository through GitHub functionality to the extent
-  permitted directly by the GitHub Terms of Service.
+  permitted directly by the GitHub Terms of Service; and
+- make a private operating copy of an individual file in the `templates/`
+  directory for your own internal go-to-market work, including uploading that
+  file to Google Drive, Docs, Sheets, or Slides. That copy is for running your
+  company, not for republishing this library. Keep the copyright notice. You
+  may not sell the template set, host it as a public template gallery, or
+  present it as your product.
 
 3. Uses requiring prior written permission
 

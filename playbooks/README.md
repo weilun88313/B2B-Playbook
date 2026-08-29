@@ -7,7 +7,7 @@ Use this page to locate a specific B2B marketing motion. The library is organize
 1. **Capability domain:** the durable marketing function that owns the work.
 2. **Tactic playbook:** the specific motion, channel, or asset to execute.
 
-If you are reading rather than looking up, start with [Read it like a book](../README.md#read-it-like-a-book) in the root README, then follow each chapter’s “What to read next.” Software lives in [TOOLS.md](../TOOLS.md). Newsletters and operators live in [RESOURCES.md](../RESOURCES.md).
+If you are reading rather than looking up, start with [Read it like a book](../README.md#read-it-like-a-book) in the root README, then follow each chapter’s “What to read next.” Software lives in [TOOLS.md](../TOOLS.md). Newsletters and operators live in [RESOURCES.md](../RESOURCES.md). Spreadsheet and slide blanks live in [TEMPLATES.md](../TEMPLATES.md).
 
 Every capability domain has a published README that defines its decision, scope, boundaries, topic map, recommended build order, and interfaces with other domains. A domain guide is useful before every tactic is written, but it is not counted as a published tactic playbook.
 
@@ -26,6 +26,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
+| Demo / product walk | [Product marketing](02-product-marketing/) | [Demo](02-product-marketing/demo.md) |
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
@@ -49,6 +50,9 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
 | Sales compensation / quota pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) |
 | Forecast / pipeline hygiene | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Forecasting](09-operations-pipeline-and-measurement/forecasting.md) |
+| Lead scoring / MQL | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) |
+| GTM plan / capacity vs demand | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md) |
+| VP Sales / sales-leader 90 days | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
 | Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | Planned: `pipeline-model.md` |
 
 ## 01 · [Strategy & buyers](01-strategy-and-buyers/)
@@ -75,6 +79,7 @@ Published:
 - [Positioning](02-product-marketing/positioning.md)
 - [Pricing and packaging](02-product-marketing/pricing-and-packaging.md)
 - [Sales enablement](02-product-marketing/sales-enablement.md)
+- [Demo](02-product-marketing/demo.md)
 
 Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims.
 
@@ -149,8 +154,11 @@ Published:
 
 - [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md)
 - [Forecasting](09-operations-pipeline-and-measurement/forecasting.md)
+- [Lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md)
+- [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md)
+- [Sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md)
 
-Planned: measurement model, funnel model, pipeline model, lifecycle stages, lead scoring, account scoring, routing, CRM data model, attribution, dashboards, experimentation, budget and planning, MarTech governance, privacy and compliance operations.
+Planned: measurement model, funnel model, pipeline model, lifecycle stages, account scoring, routing, CRM data model, attribution, dashboards, experimentation, budget and planning, MarTech governance, privacy and compliance operations.
 
 ## Domain guide contract
 
@@ -173,7 +181,7 @@ Every published tactic playbook should contain:
 2. when to use and when not to use it;
 3. strategy and operating principles;
 4. step-by-step execution, with at least one concrete mechanism or worked pattern;
-5. copyable templates;
+5. copyable templates, plus a [working file](../TEMPLATES.md) when the work is a spreadsheet, scorecard, or 90-day deck;
 6. a pre-flight checklist;
 7. operating metrics and non-metrics;
 8. common mistakes;
@@ -187,7 +195,7 @@ Every published tactic playbook should contain:
 
 Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
-Enterprise selling as a full cycle is outside this marketing taxonomy. The GTM-operations exceptions that live here are [sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) (quota has to be credited and paid), [forecasting](09-operations-pipeline-and-measurement/forecasting.md) (the path to the number has to be defensible), [account planning](06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) (the book after the sale). Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
+Enterprise selling as a full cycle is outside this marketing taxonomy. The GTM-operations exceptions that live here are [sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) (quota has to be credited and paid), [forecasting](09-operations-pipeline-and-measurement/forecasting.md) (the path to the number has to be defensible), [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md) (demand and capacity have to meet), [sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) (a new sales leader’s first 90 days), [lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) (routing, not a personality), [account planning](06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) (the book after the sale). Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
 
 ---
 
