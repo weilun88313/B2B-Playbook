@@ -27,6 +27,7 @@ Produce a usable artifact or decision, not broad advice.
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
+| SDR / BDR onboarding or ramp | `playbooks/05-outbound-and-prospecting/sdr-onboarding.md` |
 | Event strategy | `playbooks/06-account-field-and-partner/event-marketing.md` |
 | Trade-show execution | `playbooks/06-account-field-and-partner/trade-shows.md` |
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |

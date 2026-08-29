@@ -126,7 +126,7 @@ Open rate is a deliverability diagnostic, not a business outcome. Sent volume is
 
 ## What to read next
 
-One good email is not a system. Put it in a [multichannel sequence](multichannel-sequence.md). The meeting that email books should use the [pitch](../02-product-marketing/sales-enablement.md), not a feature tour. If this is still the hunt for the first ten, stay in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md).
+One good email is not a system. Put it in a [multichannel sequence](multichannel-sequence.md). The meeting that email books should use the [pitch](../02-product-marketing/sales-enablement.md), not a feature tour. If this is still the hunt for the first ten, stay in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). If someone else will send these emails on a quota, that is [SDR onboarding](sdr-onboarding.md).
 
 ## Sources and evidence boundary
 

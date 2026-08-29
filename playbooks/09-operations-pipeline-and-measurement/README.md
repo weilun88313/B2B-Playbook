@@ -62,7 +62,7 @@ When the go-to-market motion includes quota-carrying sellers, run [sales compens
 - [Strategy & buyers](../01-strategy-and-buyers/) supplies qualification hypotheses and disqualifiers. Compensation for a hunter who still has no [first ten](../01-strategy-and-buyers/first-ten-customers.md) is premature.
 - [Product marketing](../02-product-marketing/) sets what the **buyer** pays ([pricing](../02-product-marketing/pricing-and-packaging.md)) and how the first meeting sounds ([sales enablement](../02-product-marketing/sales-enablement.md)). Seller pay is a different contract.
 - [Channels & distribution](../04-channels-and-distribution/) decides whether a quota-carrying role should exist ([channel strategy](../04-channels-and-distribution/channel-strategy.md)).
-- [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation.
+- [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation. Hired SDRs need [onboarding](../05-outbound-and-prospecting/sdr-onboarding.md) that teaches the same credit rule [sales compensation](sales-compensation.md) writes.
 - [Account, field & partner marketing](../06-account-field-and-partner/) requires account-level orchestration, cost, and progression measurement.
 - [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) depends on reliable states, triggers, consent, and customer outcomes.
 
