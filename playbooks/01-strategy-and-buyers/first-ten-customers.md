@@ -4,7 +4,7 @@
 
 None of the ways you will get your first ten B2B customers will scale. That is why they work. Later you will name a [primary motion](../04-channels-and-distribution/channel-strategy.md). Now you are in hand-to-hand combat: a named person, a trust you already have or can earn, and a product unfinished enough that only trust gets it into production.
 
-This chapter sits after you can name an [ICP](icp.md). It sits before you treat [product-market fit](product-market-fit.md) as a ladder you are climbing. If the idea itself is still polite interest, stay in [idea validation](idea-validation.md). Ten logos that do not match the ICP, or ten friends who will never pay, do not count.
+This chapter sits after you can name an [ICP](icp.md). It sits before you treat [product-market fit](product-market-fit.md) as a ladder you are climbing. If you do not have a candidate, start at [idea discovery](idea-discovery.md). If the idea itself is still polite interest, stay in [idea validation](idea-validation.md). Ten logos that do not match the ICP, or ten friends who will never pay, do not count.
 
 The sequence is concentric circles. Start where trust is highest, then step outward only when the inner ring is exhausted or is lying to you.
 
@@ -18,6 +18,7 @@ The sequence is concentric circles. Start where trust is highest, then step outw
 ## Do not use this when
 
 - You cannot name who should buy. Complete [ICP](icp.md) first.
+- There is no candidate yet. Start at [idea discovery](idea-discovery.md).
 - Pain and pull are still mush. Complete [idea validation](idea-validation.md) first.
 - You already have repeatable pull and are choosing a scale motion. That is [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 - You want a playbook that replaces sitting with one company until they succeed. That is still [PMF](product-market-fit.md).

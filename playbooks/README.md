@@ -17,6 +17,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 
 | Looking for | Domain | Playbook / status |
 |---|---|---|
+| Idea discovery | [Strategy & buyers](01-strategy-and-buyers/) | [Idea discovery](01-strategy-and-buyers/idea-discovery.md) |
 | Idea validation | [Strategy & buyers](01-strategy-and-buyers/) | [Idea validation](01-strategy-and-buyers/idea-validation.md) |
 | ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
@@ -50,6 +51,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 
 Published:
 
+- [Idea discovery](01-strategy-and-buyers/idea-discovery.md)
 - [Idea validation](01-strategy-and-buyers/idea-validation.md)
 - [Ideal customer profile](01-strategy-and-buyers/icp.md)
 - [Buying committee](01-strategy-and-buyers/buying-committee.md)

@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 16 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
+**Current coverage:** 17 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -16,6 +16,7 @@ B2B Playbook is a publicly readable, owner-maintained knowledge base for B2B mar
 
 It is designed to answer practical questions:
 
+- Where did this idea come from, and is it even a candidate?
 - Is this idea real pain and pull, or still polite interest?
 - Which market, account, and buyer should we prioritize?
 - How will we find and win the first ~10 companies that match that profile?
@@ -29,19 +30,20 @@ It is designed to answer practical questions:
 
 The index is there so you (or an agent) can jump to a tactic. The pages are written so a person can read them in order and want the next chapter. Follow each page’s **What to read next**. Skip ahead only when you already have that chapter’s decision in writing.
 
-1. [Idea validation](playbooks/01-strategy-and-buyers/idea-validation.md) — whether the idea has pain and pull
-2. [Ideal customer profile](playbooks/01-strategy-and-buyers/icp.md) — who deserves attention this week
-3. [Buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) — who has to say yes
-4. [First ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md) — how you find and win them (handmade, not scalable)
-5. [Product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) — whether anyone loves it, pays, and starts to pull
-6. [Positioning](playbooks/02-product-marketing/positioning.md) — why they should change from the current alternative
-7. [Sales enablement](playbooks/02-product-marketing/sales-enablement.md) — how that sounds in the first meeting
-8. [Pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md) — what they pay, and when you ask
-9. [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) — which pages a champion can forward
-10. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md) — which motion actually creates customers
-11. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
+1. [Idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md) — where the idea came from, and whether it is a candidate
+2. [Idea validation](playbooks/01-strategy-and-buyers/idea-validation.md) — whether the idea has pain and pull
+3. [Ideal customer profile](playbooks/01-strategy-and-buyers/icp.md) — who deserves attention this week
+4. [Buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) — who has to say yes
+5. [First ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md) — how you find and win them (handmade, not scalable)
+6. [Product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) — whether anyone loves it, pays, and starts to pull
+7. [Positioning](playbooks/02-product-marketing/positioning.md) — why they should change from the current alternative
+8. [Sales enablement](playbooks/02-product-marketing/sales-enablement.md) — how that sounds in the first meeting
+9. [Pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md) — what they pay, and when you ask
+10. [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) — which pages a champion can forward
+11. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md) — which motion actually creates customers
+12. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
 
-If you only have ten minutes and the idea is still mush, start with [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md). If you already know the job, run the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one account. Jumping to cold email with no idea and no ICP is how teams stay busy.
+If you only have ten minutes and there is no idea yet, start with [idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md). If the idea is still mush, start with [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md). If you already know the job, run the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) on one account. Jumping to cold email with no idea and no ICP is how teams stay busy.
 
 ### Start with one decision
 
@@ -60,7 +62,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 
 | # | Capability domain | Decision it owns | Current coverage |
 |---|---|---|---|
-| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [Idea validation](playbooks/01-strategy-and-buyers/idea-validation.md), [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md), [first ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md), [product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) |
+| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [Idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md), [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md), [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md), [first ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md), [product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) |
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md); planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
@@ -153,7 +155,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 16 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
+**当前覆盖：** 17 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -163,6 +165,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 它主要回答这些实际问题：
 
+- 这个想法从哪来，现在算不算一个候选？
 - 这个想法是真痛真拉力，还是客套的「挺有意思」？
 - 应该优先选择哪个市场、账户和买家？
 - 如何找到并拿下符合画像的前约 10 家公司？
@@ -176,19 +179,20 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 索引是为了让你（或智能体）能跳到某一战术。正文是按章节写的，读完一章应该想读下一章。顺着每页末尾的 **What to read next** 走。只有当你已经把那一章的决策写下来了，才跳章。
 
-1. [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) — 想法有没有痛点和拉力
-2. [理想客户画像](playbooks/01-strategy-and-buyers/icp.md) — 本周谁值得投入
-3. [购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) — 谁必须点头
-4. [前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md) — 怎么找到并拿下他们（贴身，不能规模化）
-5. [产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) — 是否有人爱用、付钱、开始拉动
-6. [定位](playbooks/02-product-marketing/positioning.md) — 为什么他们该离开现状
-7. [销售赋能](playbooks/02-product-marketing/sales-enablement.md) — 第一次会上怎么讲
-8. [定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md) — 收多少、何时开口
-9. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md) — 冠军买家能转发哪些页面
-10. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md) — 真正制造客户的是哪条动作
-11. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
+1. [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md) — 想法从哪来，现在算不算一个候选
+2. [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) — 想法有没有痛点和拉力
+3. [理想客户画像](playbooks/01-strategy-and-buyers/icp.md) — 本周谁值得投入
+4. [购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) — 谁必须点头
+5. [前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md) — 怎么找到并拿下他们（贴身，不能规模化）
+6. [产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) — 是否有人爱用、付钱、开始拉动
+7. [定位](playbooks/02-product-marketing/positioning.md) — 为什么他们该离开现状
+8. [销售赋能](playbooks/02-product-marketing/sales-enablement.md) — 第一次会上怎么讲
+9. [定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md) — 收多少、何时开口
+10. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md) — 冠军买家能转发哪些页面
+11. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md) — 真正制造客户的是哪条动作
+12. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
 
-如果只有十分钟，而想法还是「挺有意思」：从 [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) 开始。如果已经知道要给谁做，再跑 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。没有想法也没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
+如果只有十分钟，还没有想法：从 [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md) 开始。如果想法还是「挺有意思」：从 [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md) 开始。如果已经知道要给谁做，再跑 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。没有想法也没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
 
 ### 从一个决策开始
 
@@ -207,7 +211,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 | 编号 | 能力域 | 负责的核心决策 | 当前覆盖 |
 |---|---|---|---|
-| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md)、[ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)、[前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)、[产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) |
+| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md)、[想法验证](playbooks/01-strategy-and-buyers/idea-validation.md)、[ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)、[前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)、[产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) |
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)；计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |

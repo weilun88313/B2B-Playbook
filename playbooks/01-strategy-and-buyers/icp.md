@@ -14,7 +14,7 @@ If you cannot say why this account is T1 and that one is a pass, later chapters 
 
 ## Do not use this when
 
-- You have fewer than eight serious customer conversations. Validate the idea first: [idea validation](idea-validation.md).
+- You have fewer than eight serious customer conversations. If there is no candidate yet, start at [idea discovery](idea-discovery.md). Otherwise validate first: [idea validation](idea-validation.md).
 - You want a document that proves everyone can be a customer.
 - The inputs come only from model-generated guesses.
 
@@ -174,7 +174,7 @@ Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate
 
 ## What to read next
 
-Once the idea has pain and pull ([idea validation](idea-validation.md)), map the people who have to say yes: [buying committee](buying-committee.md). Then go get them: [first ten customers](first-ten-customers.md). Whether they love it and pay is [product-market fit](product-market-fit.md).
+A candidate without proof still belongs in [idea discovery](idea-discovery.md) or [idea validation](idea-validation.md). Once the idea has pain and pull, map the people who have to say yes: [buying committee](buying-committee.md). Then go get them: [first ten customers](first-ten-customers.md). Whether they love it and pay is [product-market fit](product-market-fit.md).
 
 ## Sources and evidence boundary
 
