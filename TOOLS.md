@@ -6,7 +6,7 @@
 
 **Last reviewed:** 2026-08-29
 
-This is not a complete market map or a paid ranking. It is a deliberately small, modern-by-default shortlist. A newer product is not automatically better: every entry must solve a defined B2B job, expose a meaningful limitation, and have a current official product or documentation page.
+This is not a complete market map or a paid ranking. It is a deliberately small, modern-by-default shortlist. A newer product is not automatically better: every entry must solve a defined B2B job, expose a meaningful limitation, and have a current official product or documentation page. Newsletters and operators live in [RESOURCES.md](RESOURCES.md).
 
 No placement is paid. Lensmor is built and maintained by Ivan Xu, the owner of this repository; its relationship is disclosed in the entry below. All other tools are included independently.
 
