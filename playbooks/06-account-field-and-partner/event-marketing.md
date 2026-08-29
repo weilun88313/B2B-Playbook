@@ -178,7 +178,7 @@ Badge scans, foot traffic, swag distributed, and raw meetings are activity—not
 
 ## What to read next
 
-If the format is a booth, the spend split and follow-up live in [trade shows](trade-shows.md). If the buyer already learns from people you do not employ, that is [ecosystem](ecosystem.md)—not a bigger sponsorship.
+If the format is a booth, the spend split and follow-up live in [trade shows](trade-shows.md). If the buyer already learns from people you do not employ, that is [ecosystem](ecosystem.md)—not a bigger sponsorship. A named account this event exists for should already have [account planning](account-planning.md).
 
 ## Sources and evidence boundary
 

@@ -41,10 +41,14 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Event | [Account, field & partner](06-account-field-and-partner/) | [Event marketing](06-account-field-and-partner/event-marketing.md) |
 | Trade show | [Account, field & partner](06-account-field-and-partner/) | [Trade shows](06-account-field-and-partner/trade-shows.md) |
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
+| Account planning / named-account 30/60/90 | [Account, field & partner](06-account-field-and-partner/) | [Account planning](06-account-field-and-partner/account-planning.md) |
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
 | Homepage | [Website & conversion](07-website-and-conversion/) | Planned: `homepage.md` |
+| Customer success / post-sale book | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer success](08-lifecycle-and-customer-marketing/customer-success.md) |
+| Customer onboarding / first value | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) |
 | Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
 | Sales compensation / quota pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) |
+| Forecast / pipeline hygiene | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Forecasting](09-operations-pipeline-and-measurement/forecasting.md) |
 | Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | Planned: `pipeline-model.md` |
 
 ## 01 · [Strategy & buyers](01-strategy-and-buyers/)
@@ -116,6 +120,7 @@ Published:
 - [Event marketing](06-account-field-and-partner/event-marketing.md)
 - [Trade shows](06-account-field-and-partner/trade-shows.md)
 - [Ecosystem](06-account-field-and-partner/ecosystem.md)
+- [Account planning](06-account-field-and-partner/account-planning.md)
 
 Planned: ABM strategy, one-to-one ABM, one-to-few ABM, executive dinners, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
 
@@ -129,6 +134,11 @@ Planned: homepage, landing page, product page, comparison page, lead magnet, dem
 
 **Decision:** How will the company educate, retain, expand, and mobilize customers after initial interest or purchase?
 
+Published:
+
+- [Customer success](08-lifecycle-and-customer-marketing/customer-success.md)
+- [Customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md)
+
 Planned: lead nurture, lifecycle email, onboarding communication, customer education, customer community, advocacy, referrals, reviews, expansion, renewal.
 
 ## 09 · [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/)
@@ -138,6 +148,7 @@ Planned: lead nurture, lifecycle email, onboarding communication, customer educa
 Published:
 
 - [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md)
+- [Forecasting](09-operations-pipeline-and-measurement/forecasting.md)
 
 Planned: measurement model, funnel model, pipeline model, lifecycle stages, lead scoring, account scoring, routing, CRM data model, attribution, dashboards, experimentation, budget and planning, MarTech governance, privacy and compliance operations.
 
@@ -176,7 +187,7 @@ Every published tactic playbook should contain:
 
 Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
-Enterprise selling as a full cycle is outside this marketing taxonomy. [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) is the exception that lives here as GTM operations: quota has to be credited and paid. Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
+Enterprise selling as a full cycle is outside this marketing taxonomy. The GTM-operations exceptions that live here are [sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) (quota has to be credited and paid), [forecasting](09-operations-pipeline-and-measurement/forecasting.md) (the path to the number has to be defensible), [account planning](06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) (the book after the sale). Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
 
 ---
 

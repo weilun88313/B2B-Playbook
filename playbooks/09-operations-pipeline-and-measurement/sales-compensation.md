@@ -264,7 +264,7 @@ Do not count a finished kickoff deck, the number of SPIFs, or resemblance to a f
 
 ## What to read next
 
-What the market pays is still [pricing](../02-product-marketing/pricing-and-packaging.md). How the first meeting sounds is [sales enablement](../02-product-marketing/sales-enablement.md). Whether this role should exist is [channel strategy](../04-channels-and-distribution/channel-strategy.md). If the hire is an SDR/BDR, the number is useless until they can do the job: [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). If you do not yet have the first handful of customers, do not start here—[first ten](../01-strategy-and-buyers/first-ten-customers.md). Shared language for the number you will later credit belongs in this domain’s later pipeline work; until that page exists, write the credit event in the plan itself so marketing and sales are not using two definitions of “won.”
+What the market pays is still [pricing](../02-product-marketing/pricing-and-packaging.md). How the first meeting sounds is [sales enablement](../02-product-marketing/sales-enablement.md). Whether this role should exist is [channel strategy](../04-channels-and-distribution/channel-strategy.md). If the hire is an SDR/BDR, the number is useless until they can do the job: [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether leadership can trust the path to the number is [forecasting](forecasting.md). If you do not yet have the first handful of customers, do not start here—[first ten](../01-strategy-and-buyers/first-ten-customers.md). Write the credit event in the plan itself so marketing and sales are not using two definitions of “won.”
 
 ## Sources and evidence boundary
 

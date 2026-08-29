@@ -2,15 +2,17 @@
 
 > **Decision owned:** How should the company educate, retain, expand, and mobilize customers after initial interest or purchase?
 
-**Status:** Domain guide published · tactic playbooks planned
+**Status:** Domain guide published · 2 tactic playbooks published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-29
 
 ## Scope
 
 This domain coordinates communication and value delivery across the relationship after a buyer first identifies themselves and especially after purchase. It connects nurture, onboarding communication, education, adoption, community, advocacy, expansion, and renewal.
 
-It owns audience-state communication, customer education, lifecycle programs, community participation, review and referral programs, advocacy, and expansion or renewal support. It does not own the product's in-app user experience, customer-support operations, or account-management process, though it must interface with all three.
+It owns audience-state communication, customer education, lifecycle programs, community participation, review and referral programs, advocacy, and expansion or renewal support. It does not own the product's in-app user experience or a full ITIL support stack.
+
+**Customer success** operating cadence (roles, handoff, renewals, tiers) and **customer onboarding** (education versus implementation) sit here as GTM lifecycle operations. Ticket tooling remains support.
 
 ## Core decisions
 
@@ -21,14 +23,18 @@ It owns audience-state communication, customer education, lifecycle programs, co
 5. What value does the customer receive before being asked for advocacy, referral, or expansion?
 6. Which messages should be automated, and which require human judgment?
 7. How will engagement, adoption, retention, expansion, and customer trust be measured?
+8. Who owns renewals and upsells, and what does a week of CS actually inspect?
+9. What is education versus implementation, and how do we measure launch versus value?
 
 ## Playbook map
 
 | Topic | Status | Operating question |
 |---|---|---|
+| [Customer success](customer-success.md) | Published | How should people, process, and performance run the book after the sale? |
+| [Customer onboarding](customer-onboarding.md) | Published | How should first value be educated and implemented without mixing the two jobs? |
 | Lead nurture | Planned: `lead-nurture.md` | How should known buyers learn and progress before a sales conversation? |
 | Lifecycle email | Planned: `lifecycle-email.md` | Which event, state, or behavior should trigger which communication? |
-| Onboarding communication | Planned: `onboarding-communication.md` | What must a new customer know and do to reach first value? |
+| Onboarding communication | Planned: `onboarding-communication.md` | What must a new customer know and do to reach first value in *messages*? |
 | Customer education | Planned: `customer-education.md` | Which knowledge helps users adopt the product and achieve outcomes? |
 | Customer community | Planned: `customer-community.md` | When can customers help one another learn, connect, and succeed? |
 | Customer advocacy | Planned: `customer-advocacy.md` | How should willing customers participate without being overused? |
@@ -43,18 +49,19 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 ## Recommended build order
 
 1. Define lifecycle states, ownership, entry criteria, and success outcomes.
-2. Build lead nurture, onboarding communication, and customer education around real questions and behaviors.
-3. Connect product, success, support, and CRM signals to lifecycle programs.
-4. Add community, advocacy, review, and referral motions after customer value is proven.
-5. Build expansion, renewal, win-back, and measurement loops without sacrificing trust.
+2. If customers already exist, write [customer success](customer-success.md) (who owns the book) and [customer onboarding](customer-onboarding.md) (how they reach first value).
+3. Build lead nurture, onboarding communication, and customer education around real questions and behaviors.
+4. Connect product, success, support, and CRM signals to lifecycle programs.
+5. Add community, advocacy, review, and referral motions after customer value is proven.
+6. Build expansion, renewal, win-back, and measurement loops without sacrificing trust.
 
 ## Interfaces with other domains
 
 - [Product marketing](../02-product-marketing/) supplies the promise, use-case framing, proof, and expansion narrative.
 - [Brand, story & content](../03-brand-story-and-content/) supplies education and story formats that can be adapted across the lifecycle.
 - [Website & conversion](../07-website-and-conversion/) captures the first known interaction and hosts buyer or customer resources.
-- [Account, field & partner marketing](../06-account-field-and-partner/ecosystem.md) turns named customers and communities into complement partners, not only lifecycle audiences.
-- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs lifecycle stages, triggers, data quality, consent, and reporting.
+- [Account, field & partner marketing](../06-account-field-and-partner/) turns named customers and communities into complement partners; the living file is [account planning](../06-account-field-and-partner/account-planning.md).
+- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) governs lifecycle stages, triggers, data quality, consent, reporting, [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md), and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md).
 
 [Back to the playbook index](../README.md)
 
