@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 29 published playbooks · 7 working files · 41 curated tools · 16 reading sources · 9 domain guides · 8 domains with published playbooks
+**Current coverage:** 32 published playbooks · 9 working files · 41 curated tools · 16 reading sources · 9 domain guides · 8 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -37,6 +37,9 @@ It is designed to answer practical questions:
 - What should a new sales leader actually do in 90 days?
 - Which objects and fields are the commercial record, and what will we refuse to migrate?
 - Which job may a tool do, and when do we remove it?
+- How should weekly meetings split pipeline, forecast, and coaching?
+- When is commission safe, and how do we reverse or advance it without improvising?
+- How should RevOps be paid without a second sales quota?
 
 ### Read it like a book
 
@@ -66,7 +69,7 @@ If you only have ten minutes and there is no idea yet, start with [idea discover
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
-| **Working files** | Open a spreadsheet, scorecard, or 90-day outline in Google Sheets/Docs/Slides | [Browse the 7 working files](TEMPLATES.md) |
+| **Working files** | Open a spreadsheet, scorecard, or 90-day outline in Google Sheets/Docs/Slides | [Browse the 9 working files](TEMPLATES.md) |
 | **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 41-tool directory](TOOLS.md) |
 | **Reading sources** | Find newsletters, podcasts, and operators worth following | [Browse the 16-source directory](RESOURCES.md) |
 | **Agent Skill** | Let a compatible AI agent route a task through the right method | [Install the Skill](#agent-skill) |
@@ -88,9 +91,9 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md), [account planning](playbooks/06-account-field-and-partner/account-planning.md); planned: ABM, affiliate, partner marketing |
 | 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
 | 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | [Customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md), [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md); planned: nurture, onboarding communication, customer education, community, advocacy, referral, renewal |
-| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | [Sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md), [lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md), [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md), [sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md), [CRM data model](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md), [MarTech governance](playbooks/09-operations-pipeline-and-measurement/martech-governance.md); planned: funnel, pipeline, account scoring, routing, attribution, dashboards, experiments |
+| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | [Sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md), [lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md), [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md), [sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md), [CRM data model](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md), [MarTech governance](playbooks/09-operations-pipeline-and-measurement/martech-governance.md), [sales operating cadence](playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md), [incentive timing](playbooks/09-operations-pipeline-and-measurement/incentive-timing.md), [RevOps compensation](playbooks/09-operations-pipeline-and-measurement/revops-compensation.md); planned: funnel, pipeline, account scoring, routing, attribution, dashboards, experiments |
 
-Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md); the product walk after agreement is [demo](playbooks/02-product-marketing/demo.md). The GTM-operations exceptions here are [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md), [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md), [sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md), [lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md), [CRM data model](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md), [MarTech governance](playbooks/09-operations-pipeline-and-measurement/martech-governance.md), [account planning](playbooks/06-account-field-and-partner/account-planning.md), and [customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md). If the library later expands further into sales operations, it will use a separate top-level collection.
+Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md); the product walk after agreement is [demo](playbooks/02-product-marketing/demo.md). The GTM-operations exceptions here are [sales compensation](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md), [forecasting](playbooks/09-operations-pipeline-and-measurement/forecasting.md), [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md), [sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md), [lead scoring](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md), [CRM data model](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md), [MarTech governance](playbooks/09-operations-pipeline-and-measurement/martech-governance.md), [sales operating cadence](playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md), [incentive timing](playbooks/09-operations-pipeline-and-measurement/incentive-timing.md), [RevOps compensation](playbooks/09-operations-pipeline-and-measurement/revops-compensation.md), [account planning](playbooks/06-account-field-and-partner/account-planning.md), and [customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md). If the library later expands further into sales operations, it will use a separate top-level collection.
 
 ### What every published playbook contains
 
@@ -177,7 +180,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 29 篇已发布 Playbook · 7 份工作文件 · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 8 个领域已有正式 Playbook
+**当前覆盖：** 32 篇已发布 Playbook · 9 份工作文件 · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 8 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -208,6 +211,9 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 - 新来的销售负责人前 90 天到底该干什么？
 - 哪些对象和字段才是商业记录，哪些我们拒绝迁移？
 - 一个工具被允许干什么，什么时候该拿掉？
+- 周会该怎么拆开 pipeline、预测和辅导，而不是开成一场大杂烩？
+- 提成什么时候算安全，怎么追回或预支才不会靠 Slack 即兴？
+- RevOps 该怎么发钱，而不是再背一份销售配额？
 
 ### 像一本书那样读
 
@@ -237,7 +243,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 内容入口 | 用来解决什么问题 | 从这里开始 |
 |---|---|---|
 | **Playbooks 行动手册** | 查找具体的 B2B 营销能力、渠道或战术 | [浏览 Playbook 总索引](playbooks/) |
-| **Working files 工作文件** | 把记分表、表格或 90 天大纲放到 Google 表格/文档/幻灯片里用 | [浏览 7 份工作文件](TEMPLATES.md) |
+| **Working files 工作文件** | 把记分表、表格或 90 天大纲放到 Google 表格/文档/幻灯片里用 | [浏览 9 份工作文件](TEMPLATES.md) |
 | **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 41 个产品的工具目录](TOOLS.md) |
 | **Reading sources 阅读源** | 查找值得长期关注的 Newsletter、播客和运营者 | [浏览包含 16 个来源的目录](RESOURCES.md) |
 | **Agent Skill 智能体技能** | 让兼容的人工智能智能体按正确方法处理任务 | [安装 Skill](#智能体-skill) |
@@ -259,9 +265,9 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)、[生态增长](playbooks/06-account-field-and-partner/ecosystem.md)、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)；计划：ABM、Affiliate、合作伙伴营销 |
 | 07 | [网站与转化](playbooks/07-website-and-conversion/) | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
 | 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md)、[客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)；计划：培育、入职沟通、客户教育、客户社区、倡导、推荐、续约 |
-| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | [销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)、[线索评分](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md)、[GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)、[销售负责人 90 天](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md)、[CRM 数据模型](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md)、[MarTech 治理](playbooks/09-operations-pipeline-and-measurement/martech-governance.md)；计划：漏斗、Pipeline、账户评分、路由、归因、仪表盘、实验 |
+| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | [销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)、[线索评分](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md)、[GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)、[销售负责人 90 天](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md)、[CRM 数据模型](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md)、[MarTech 治理](playbooks/09-operations-pipeline-and-measurement/martech-governance.md)、[销售运营节奏](playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md)、[激励时点](playbooks/09-operations-pipeline-and-measurement/incentive-timing.md)、[RevOps 薪酬](playbooks/09-operations-pipeline-and-measurement/revops-compensation.md)；计划：漏斗、Pipeline、账户评分、路由、归因、仪表盘、实验 |
 
-企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)；达成共识之后的产品演示见 [产品演示](playbooks/02-product-marketing/demo.md)。作为 GTM 运营例外放在这里的是：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)、[GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)、[销售负责人 90 天](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md)、[线索评分](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md)、[CRM 数据模型](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md)、[MarTech 治理](playbooks/09-operations-pipeline-and-measurement/martech-governance.md)、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)，以及 [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)。如果知识库未来进一步扩展到销售运营，将建立单独的顶层内容集合。
+企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)；达成共识之后的产品演示见 [产品演示](playbooks/02-product-marketing/demo.md)。作为 GTM 运营例外放在这里的是：[销售薪酬](playbooks/09-operations-pipeline-and-measurement/sales-compensation.md)、[预测](playbooks/09-operations-pipeline-and-measurement/forecasting.md)、[GTM 规划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md)、[销售负责人 90 天](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md)、[线索评分](playbooks/09-operations-pipeline-and-measurement/lead-scoring.md)、[CRM 数据模型](playbooks/09-operations-pipeline-and-measurement/crm-data-model.md)、[MarTech 治理](playbooks/09-operations-pipeline-and-measurement/martech-governance.md)、[销售运营节奏](playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md)、[激励时点](playbooks/09-operations-pipeline-and-measurement/incentive-timing.md)、[RevOps 薪酬](playbooks/09-operations-pipeline-and-measurement/revops-compensation.md)、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)，以及 [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md) / [客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)。如果知识库未来进一步扩展到销售运营，将建立单独的顶层内容集合。
 
 ### 每篇已发布 Playbook 包含什么
 

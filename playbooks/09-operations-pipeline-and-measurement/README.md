@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?
 
-**Status:** Domain guide published · 7 tactic playbooks published
+**Status:** Domain guide published · 10 tactic playbooks published
 
 **Last reviewed:** 2026-08-29
 
@@ -12,7 +12,7 @@ This domain provides the operating system underneath B2B marketing. It defines s
 
 It owns marketing operations and measurement decisions—not every tool configuration, and not the sales team's opportunity-management process or a full enterprise close. Its purpose is to make work observable, comparable, recoverable, and improvable without pretending attribution can prove causality on its own.
 
-Quota-carrying pay and the **forecast** sit here as **GTM operations**: the number marketing and sales share has to be credited, calculated, paid, *and* defended. Papering, procurement, and multi-threaded close stay outside this taxonomy.
+Quota-carrying pay, **when** that pay is safe, the **forecast**, and the **weekly calendar** that keeps those jobs from eating each other sit here as **GTM operations**. Papering, procurement, and multi-threaded close stay outside this taxonomy.
 
 ## Core decisions
 
@@ -30,6 +30,9 @@ Quota-carrying pay and the **forecast** sit here as **GTM operations**: the numb
 12. What should a new sales leader actually do in 90 days?
 13. Which objects and fields are the commercial record, and what will we refuse to migrate?
 14. Which job may a tool do, and when do we remove it?
+15. How should weekly meetings split pipeline, forecast, and coaching?
+16. When is commission safe, and how do we reverse or advance it without improvising?
+17. How should RevOps be paid without a second sales quota?
 
 ## Playbook map
 
@@ -42,6 +45,9 @@ Quota-carrying pay and the **forecast** sit here as **GTM operations**: the numb
 | Sales-leadership ramp | Published: [`sales-leadership-ramp.md`](sales-leadership-ramp.md) | What should a new sales leader actually do in 90 days? |
 | CRM data model | Published: [`crm-data-model.md`](crm-data-model.md) | Which objects and fields are the commercial record, and what will we refuse to migrate? |
 | MarTech governance | Published: [`martech-governance.md`](martech-governance.md) | Which job may a tool do, and when do we remove it? |
+| Sales operating cadence | Published: [`sales-operating-cadence.md`](sales-operating-cadence.md) | How should weekly meetings split pipeline, forecast, and coaching? |
+| Incentive timing | Published: [`incentive-timing.md`](incentive-timing.md) | When is commission safe, and how do we reverse or advance it without improvising? |
+| RevOps compensation | Published: [`revops-compensation.md`](revops-compensation.md) | How should RevOps be paid without a second sales quota? |
 | Measurement model | Planned: `measurement-model.md` | Which decisions should each metric support? |
 | Funnel model | Planned: `funnel-model.md` | How should audience and buyer progression be represented before pipeline? |
 | Pipeline model | Planned: `pipeline-model.md` | How should marketing contribution connect to qualified revenue progression? |
@@ -64,7 +70,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Build decision-oriented dashboards and explicit attribution boundaries.
 5. Add experimentation, budget, MarTech, privacy, and data-quality governance.
 
-When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. Forecasting is whether the path to that number is real. Whether next year’s number is even possible is [GTM planning](gtm-planning.md). A new sales leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Inbound volume that needs a routing hypothesis uses [lead scoring](lead-scoring.md). The commercial record is [CRM data model](crm-data-model.md). Tools that write into it need [MarTech governance](martech-governance.md).
+When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. [Incentive timing](incentive-timing.md) is when that pay is safe. Forecasting is whether the path to that number is real. The calendar that keeps pipe-gen, the call, and coaching from sharing one hour is [sales operating cadence](sales-operating-cadence.md). Whether next year’s number is even possible is [GTM planning](gtm-planning.md). A new sales leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Ops leaders are not a second AE quota: [RevOps compensation](revops-compensation.md). Inbound volume that needs a routing hypothesis uses [lead scoring](lead-scoring.md). The commercial record is [CRM data model](crm-data-model.md). Tools that write into it need [MarTech governance](martech-governance.md).
 
 ## Interfaces with other domains
 

@@ -748,6 +748,153 @@ def build_vendor_eval():
     wb.save(OUT / "vendor-evaluation.xlsx")
 
 
+def build_sales_cadence():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Quarter clock"
+    banner(s, 1, 8, "B2B Playbook · Sales operating cadence")
+    note(
+        s,
+        2,
+        8,
+        "One meeting, one question. Yellow = inputs. Week 13 is a quarter, not a slogan. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "Fiscal quarter"
+    input_cell(s["B4"])
+    s["C4"] = "Owner"
+    input_cell(s["D4"])
+    s["E4"] = "Meetings we deleted"
+    s.merge_cells("F4:H4")
+    input_cell(s["F4"])
+    header_row(
+        s,
+        6,
+        [
+            "Week (1–13)",
+            "Meeting",
+            "Question on the invite",
+            "Owner",
+            "Duration (min)",
+            "Who attends",
+            "Walk-in artifact",
+            "Output / action log",
+        ],
+    )
+    for r in range(7, 33):
+        for c in range(1, 9):
+            input_cell(s.cell(r, c))
+        if r <= 19:
+            s.cell(r, 1).value = r - 6
+    col_widths(s, [14, 18, 32, 16, 16, 22, 28, 28])
+
+    j = wb.create_sheet("Jobs")
+    banner(j, 1, 4, "Split these or two of them lose.")
+    header_row(j, 3, ["Job", "Question", "Must not become", "Home this quarter"])
+    rows = [
+        ("Pipe-gen", "What will be in the pipeline?", "A second forecast roll-up", ""),
+        ("Forecast", "How much will close this period?", "Pipe-gen or coaching", ""),
+        ("Deal coaching", "What unblocks these few deals?", "A tour of the whole book", ""),
+        ("1:1", "Skill + this person's call", "A private forecast committee", ""),
+        ("Monthly strategy", "What do we stop or change?", "A longer forecast", ""),
+        ("QBR", "Last quarter vs plan; next 13 weeks", "Overtime forecast", ""),
+    ]
+    for i, row in enumerate(rows, 4):
+        j.cell(i, 1, row[0]).font = font_label
+        j.cell(i, 2, row[1]).alignment = wrap
+        j.cell(i, 3, row[2]).alignment = wrap
+        input_cell(j.cell(i, 4), row[3])
+        j.row_dimensions[i].height = 28
+    col_widths(j, [18, 36, 36, 28])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not your calendar. Delete before this is the live invite list.")
+    t["A3"] = "Split"
+    t["B3"] = "Monday forecast 25 min. Wednesday pipe-gen 40 min. Thursday coaching two deals."
+    t["A4"] = "Delete"
+    t["B4"] = "Friday pipeline standup that repeated Monday."
+    t["A5"] = "QBR"
+    t["B5"] = "Week 13. Publish next quarter's clock before week 1."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 36
+    col_widths(t, [12, 100])
+    wb.save(OUT / "sales-cadence.xlsx")
+
+
+def build_incentive_timing():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Clawback holdback"
+    banner(s, 1, 2, "B2B Playbook · Incentive timing")
+    note(
+        s,
+        2,
+        2,
+        "Pay timing follows revenue risk. Yellow = inputs. Not legal advice. Copyright © 2026 Ivan Xu.",
+    )
+    labels = [
+        (4, "Credit event (from the plan)"),
+        (5, "Revenue risks we will not ignore"),
+        (6, "Pay at credit / holdback / pay-on-cash"),
+        (7, "Triggers"),
+        (8, "Window start / end"),
+        (9, "Recovery method"),
+        (10, "Cap per cycle"),
+        (11, "Quota: dollars only or credit too"),
+        (12, "Where the rep sees remaining risk"),
+        (13, "Calculator / system / payday"),
+        (14, "Counsel reviewed (date)"),
+    ]
+    for r, lab in labels:
+        s.cell(r, 1, lab).font = font_label
+        input_cell(s.cell(r, 2))
+        s.row_dimensions[r].height = 22
+    col_widths(s, [40, 70])
+
+    d = wb.create_sheet("Draws")
+    banner(d, 1, 11, "Exceptions only. If this sheet is full, the quota or the book is wrong.")
+    header_row(
+        d,
+        3,
+        [
+            "Person / role",
+            "Why timing (not a miss)",
+            "Recoverable / non-recoverable",
+            "Monthly amount",
+            "% of target monthly variable",
+            "Start",
+            "End",
+            "Recovery cap",
+            "Stacked on reduced quota? (yes/no)",
+            "Approvers",
+            "Balance owner",
+        ],
+    )
+    for r in range(4, 16):
+        for c in range(1, 12):
+            input_cell(d.cell(r, c))
+        d.row_dimensions[r].height = 28
+    col_widths(d, [18, 28, 24, 16, 18, 12, 12, 14, 22, 18, 16])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not a vendor table. Delete before payroll.")
+    t["A3"] = "Holdback"
+    t["B3"] = "80% at credit, 20% until first invoice or 45 days."
+    t["A4"] = "Clawback"
+    t["B4"] = "Cancel or never-pay inside 90 days. Recover from future commissions. Cap 40% of period variable. Quota stays."
+    t["A5"] = "Draw"
+    t["B5"] = "One new AE, 3 months, recoverable, 80% of target monthly variable. Not a team-wide Q2 patch."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [12, 100])
+    wb.save(OUT / "incentive-timing.xlsx")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     build_demo()
@@ -756,4 +903,6 @@ if __name__ == "__main__":
     build_capacity()
     build_crm_map()
     build_vendor_eval()
+    build_sales_cadence()
+    build_incentive_timing()
     print("wrote", sorted(p.name for p in OUT.glob("*.xlsx")))
