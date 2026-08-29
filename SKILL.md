@@ -37,6 +37,9 @@ Produce a usable artifact or decision, not broad advice.
 | Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
 | Customer success / post-sale book | `playbooks/08-lifecycle-and-customer-marketing/customer-success.md` |
 | Customer onboarding / first value / education vs implementation | `playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md` |
+| Onboarding packet / welcome / handoff notes | `playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md` |
+| CCO / VP CS first 90 days | `playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md` |
+| CS workspace / health fields / 4Rs | `playbooks/08-lifecycle-and-customer-marketing/cs-workspace.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
 | Clawbacks, holdbacks, or sales draws | `playbooks/09-operations-pipeline-and-measurement/incentive-timing.md` |
 | RevOps / sales-ops leader variable pay | `playbooks/09-operations-pipeline-and-measurement/revops-compensation.md` |

@@ -88,6 +88,8 @@ Your CS file should answer:
 
 Tiers (named 1/2/3 in CRM) exist to change coverage and QBR depth—not to print a slide. Coverage that cannot be staffed is a lie.
 
+Write the **exception plays** before you need them (one page each, not a novel): champion leaves (continuity in the account **and** whether they are a new-logo motion elsewhere—do not mix the two); customer goes dark; invoice unpaid; expected churn vs surprise churn; they outgrow the product. The CS file that only describes the happy path is a brochure.
+
 ### Step 7: ramp CS like a job, not a shadow week
 
 A new hire needs, in writing: product, this playbook, shadowing, demo/call listening, email/call patterns, renewal conversation, CRM how-to, territories and rules of engagement, [ICP](../01-strategy-and-buyers/icp.md). Then live queue or a tiny book with a manager on the first accounts. Same spirit as [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md): **exit tests**, not “sit with Jordan.”
@@ -120,6 +122,7 @@ Forty customers. One CSM, one associate. AE still closes. Renewals sit in CS; up
 - Tier rule and what coverage each tier actually gets:
 - Renewal object, upsell object, churn report:
 - Success-milestone → expansion and → advocacy:
+- Exception plays we have in writing (dark, unpaid, champion-left, churn types, outgrow):
 - New-hire weeks and exit tests:
 
 ## Pre-flight checklist
@@ -156,7 +159,7 @@ Do not count town halls held, values posters, or resemblance to a sample 2021 CS
 
 ## What to read next
 
-First value is [customer onboarding](customer-onboarding.md). The commercial number is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account thinking stays in [account planning](../06-account-field-and-partner/account-planning.md). If they have not bought yet, this page is premature.
+First value is [customer onboarding](customer-onboarding.md); what they receive in writing is [onboarding communication](onboarding-communication.md). The record CSMs open on Monday is [CS workspace](cs-workspace.md). A new CS executive’s first 90 days are [CS-leadership ramp](cs-leadership-ramp.md). The commercial number is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account thinking stays in [account planning](../06-account-field-and-partner/account-planning.md). If they have not bought yet, this page is premature.
 
 ## Sources and evidence boundary
 

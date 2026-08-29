@@ -154,7 +154,7 @@ Do not count LMS enrollments, kickoff decks, or a named methodology with no docu
 
 ## What to read next
 
-The ongoing book is [customer success](customer-success.md). The promise they bought is [positioning](../02-product-marketing/positioning.md) and [pricing](../02-product-marketing/pricing-and-packaging.md). Whether implementation revenue is in the number is [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account context is [account planning](../06-account-field-and-partner/account-planning.md).
+The ongoing book is [customer success](customer-success.md). What they receive in writing is [onboarding communication](onboarding-communication.md). The promise they bought is [positioning](../02-product-marketing/positioning.md) and [pricing](../02-product-marketing/pricing-and-packaging.md). Whether implementation revenue is in the number is [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account context is [account planning](../06-account-field-and-partner/account-planning.md).
 
 ## Sources and evidence boundary
 
