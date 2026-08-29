@@ -102,7 +102,7 @@ Do not count objects created, or resemblance to a Salesforce-shaped template, as
 
 ## What to read next
 
-What the score **does** at a threshold is [lead scoring](lead-scoring.md). Whether a tool may write into this record is [MarTech governance](martech-governance.md). The number people call sits in [forecasting](forecasting.md). If you are still inventing the commercial motion, stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+What the score **does** at a threshold is [lead scoring](lead-scoring.md). Whether a tool may write into this record is [MarTech governance](martech-governance.md). Post-sale intelligence (value, cadence, renewal, risk) is [CS workspace](../08-lifecycle-and-customer-marketing/cs-workspace.md). The number people call sits in [forecasting](forecasting.md). If you are still inventing the commercial motion, stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 
 ## Sources and evidence boundary
 

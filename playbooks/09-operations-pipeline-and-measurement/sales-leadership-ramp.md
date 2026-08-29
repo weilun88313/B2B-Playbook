@@ -106,7 +106,7 @@ Do not count slides delivered to the board in week two as ramp success.
 
 ## What to read next
 
-The number people carry is [sales compensation](sales-compensation.md). Whether that number is real is [forecasting](forecasting.md). How the week splits pipe-gen, forecast, and coaching is [sales operating cadence](sales-operating-cadence.md). Whether you can staff it is [GTM planning](gtm-planning.md). How first meetings sound is the [pitch](../02-product-marketing/sales-enablement.md) and the [demo](../02-product-marketing/demo.md). If the team is SDRs, their curriculum is [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
+The number people carry is [sales compensation](sales-compensation.md). Whether that number is real is [forecasting](forecasting.md). How the week splits pipe-gen, forecast, and coaching is [sales operating cadence](sales-operating-cadence.md). Whether you can staff it is [GTM planning](gtm-planning.md). A new CS executive’s 90 days are [CS-leadership ramp](../08-lifecycle-and-customer-marketing/cs-leadership-ramp.md)—not this page. How first meetings sound is the [pitch](../02-product-marketing/sales-enablement.md) and the [demo](../02-product-marketing/demo.md). If the team is SDRs, their curriculum is [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
 
 ## Sources and evidence boundary
 

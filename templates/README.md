@@ -1,6 +1,6 @@
 # Working files
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 Playbook pages teach the method. Files in this folder are the **blank you actually fill**. Markdown checklists stay on the page so an agent can execute; these files exist so a human can work in Sheets, Docs, or Slides without fighting GitHub preview.
 

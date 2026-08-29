@@ -1001,6 +1001,59 @@ def build_answer_visibility():
     wb.save(OUT / "answer-visibility.xlsx")
 
 
+def build_cs_workspace():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Fields"
+    banner(s, 1, 7, "B2B Playbook · CS workspace")
+    note(
+        s,
+        2,
+        7,
+        "Every field serves realization, relationship, renewal, or risk—or it is killed. Yellow = inputs. Not a HubSpot property dump. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "System of record"
+    input_cell(s["B4"])
+    s["C4"] = "Freeze date"
+    input_cell(s["D4"])
+    s["E4"] = "From-system (if migrating)"
+    s.merge_cells("F4:G4")
+    input_cell(s["F4"])
+    header_row(
+        s,
+        6,
+        [
+            "Object / field",
+            "Job (realization / relationship / renewal / risk)",
+            "Populated records",
+            "Keep / kill / transform",
+            "Monday view it feeds",
+            "Automation? (yes/no)",
+            "Notes",
+        ],
+    )
+    for r in range(7, 32):
+        for c in range(1, 8):
+            input_cell(s.cell(r, c))
+    col_widths(s, [28, 36, 18, 20, 22, 16, 32])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not a vendor schema. Delete before this is the live map.")
+    t["A3"] = "Keep"
+    t["B3"] = "First-value date, next QBR, renewal opp + forecast stages, at-risk reason + owner."
+    t["A4"] = "Kill"
+    t["B4"] = "Health 0–100 with no formula. Duplicate sentiment customs."
+    t["A5"] = "Refuse"
+    t["B5"] = "Syncing a fourth CS tool 'in case.' Automating save-path judgment."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [12, 100])
+    wb.save(OUT / "cs-workspace.xlsx")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     build_demo()
@@ -1013,4 +1066,5 @@ if __name__ == "__main__":
     build_incentive_timing()
     build_experiment_ledger()
     build_answer_visibility()
+    build_cs_workspace()
     print("wrote", sorted(p.name for p in OUT.glob("*.xlsx")))
