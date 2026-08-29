@@ -118,7 +118,7 @@ Do not count “model turned on” or resemblance to a HubSpot sample guide as s
 
 ## What to read next
 
-Who may be touched at all is [ICP](../01-strategy-and-buyers/icp.md). What the first meeting must teach is the [pitch](../02-product-marketing/sales-enablement.md). If humans work the queue, they need [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether marketing can **create** the volume behind the scores is [GTM planning](gtm-planning.md). Routing SLAs (still planned in this domain) are the sister of this page—until that file exists, write the SLA in the ledger.
+Who may be touched at all is [ICP](../01-strategy-and-buyers/icp.md). What the first meeting must teach is the [pitch](../02-product-marketing/sales-enablement.md). If humans work the queue, they need [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether marketing can **create** the volume behind the scores is [GTM planning](gtm-planning.md). Routing SLAs (still planned in this domain) are the sister of this page—until that file exists, write the SLA in the ledger. The fields the score writes into are [CRM data model](crm-data-model.md).
 
 ## Sources and evidence boundary
 
