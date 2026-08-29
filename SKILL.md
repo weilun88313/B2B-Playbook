@@ -24,7 +24,9 @@ Produce a usable artifact or decision, not broad advice.
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
 | Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
+| AI teammate / GPT / Gem instructions for a GTM job | `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
+| SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
@@ -42,6 +44,7 @@ Produce a usable artifact or decision, not broad advice.
 | Weekly sales meetings / 13-week cadence | `playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md` |
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
+| GTM tests / hypotheses / experiment log | `playbooks/09-operations-pipeline-and-measurement/experimentation.md` |
 | VP Sales / sales-leader first 90 days | `playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md` |
 | CRM data model / field map / migration | `playbooks/09-operations-pipeline-and-measurement/crm-data-model.md` |
 | MarTech governance / vendor bake-off | `playbooks/09-operations-pipeline-and-measurement/martech-governance.md` |
