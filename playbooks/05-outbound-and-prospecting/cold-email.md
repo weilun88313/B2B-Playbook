@@ -112,6 +112,10 @@ Open rate is a deliverability diagnostic, not a business outcome. Sent volume is
 - Hiding uncertainty inside confident claims.
 - Continuing after a correction, opt-out, or disqualification.
 
+## What to read next
+
+One good email is not a system. Put it in a [multichannel sequence](multichannel-sequence.md). The meeting that email books should use the [pitch](../02-product-marketing/sales-enablement.md), not a feature tour.
+
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Sender identity, data use, notices, opt-out handling, and other requirements vary by jurisdiction and channel; review them with qualified owners. This playbook is not legal advice.

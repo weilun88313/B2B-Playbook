@@ -4,7 +4,7 @@
 
 **Status:** Domain guide published · 1 tactic playbook published
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 ## Scope
 
@@ -41,7 +41,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Name the primary growth motion with [channel strategy](channel-strategy.md) before buying more channels.
+1. Name the primary growth motion with [channel strategy](channel-strategy.md) before buying more channels—only after [product-market fit](../01-strategy-and-buyers/product-market-fit.md) has a dated rung.
 2. Select one primary creation or capture path that matches that motion.
 3. Build native creative, distribution, and conversion loops for those channels.
 4. Add paid, earned, review, and partner amplification where evidence supports it.

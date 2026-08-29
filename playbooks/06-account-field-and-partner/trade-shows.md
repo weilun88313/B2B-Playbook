@@ -117,6 +117,10 @@ This is an effort-allocation heuristic, not an ROI formula.
 - Sending one generic follow-up to everyone.
 - Claiming pipeline from meetings without qualified next actions.
 
+## What to read next
+
+The meetings you booked still need a story: [sales enablement](../02-product-marketing/sales-enablement.md). Whether a show should exist at all is [event marketing](event-marketing.md). Partners who already own the aisle are [ecosystem](ecosystem.md).
+
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Event data rights, badge consent, labor rules, and outreach requirements vary; review them with qualified owners.

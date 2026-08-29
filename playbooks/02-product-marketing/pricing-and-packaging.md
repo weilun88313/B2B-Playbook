@@ -1,10 +1,12 @@
 # Pricing and packaging
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
+
+A year of free users who give generous product advice is a common way to delay the only question that matters: **who will pay, and for what?** Unpaid usage is a weak signal. People who will not pay still have opinions. Founders then underprice the thing they built, because “startup software should be cheap,” and spend a quarter designing four editions for a tenth customer who does not exist yet.
 
 Early B2B pricing is a learning system: charge soon enough to find who will pay, high enough to match value, simple enough to explain, and scheduled for revisit. It is not a four-tier spreadsheet that must survive the next decade.
 
-Positioning names the alternative and the result. Pricing converts that result into a number a champion can defend. Complete [positioning](positioning.md) first so you are not discounting a slogan.
+Positioning names the alternative and the result. Pricing converts that result into a number a champion can defend. Complete [positioning](positioning.md) first so you are not discounting a slogan. If nobody loves the product in production, charging will not create [fit](../01-strategy-and-buyers/product-market-fit.md)—but refusing to charge will hide whether fit was ever going to include a buyer.
 
 ## Use this when
 
@@ -25,6 +27,8 @@ Positioning names the alternative and the result. Pricing converts that result i
 
 Unpaid usage is a weak signal. People who will not pay still give advice. Ask “will you pay for this?” while the product is early. A year of free users who collapse to a token amount is a lost year of finding someone who will.
 
+In one founder interview set, teams that delayed charging (including stories told around Amplitude, Zip, and Front) later described the delay as lost learning, not kindness. Treat those as illustrations with dates in the source, not as a command to copy their later list price.
+
 Exceptions exist (delaying monetization to become the default tool inside companies). Treat delay as an explicit strategy with a date, not as fear of asking.
 
 Early revenue also buys focus: less fundraising theater, more time on customers. That is a side effect, not a reason to underprice.
@@ -33,9 +37,7 @@ Early revenue also buys focus: less fundraising theater, more time on customers.
 
 Founders systematically underprice what they built. Whatever number feels comfortable, test a higher one. A first account executive will often quote deals the founder would never have asked for.
 
-A practical loop used by several teams: raise price on the next similar deal until it stops working, then triangulate. Anchor on **value** (time saved, headcount not hired, revenue unlocked, risk reduced)—not on “startup software should be cheap.”
-
-If a dominant incumbent already trained the market on a model (per seat, pay-as-you-go, annual license), default to that model unless you have a strong reason to deviate. Deviating is a teaching cost.
+A practical loop used by several teams: raise price on the next similar deal until it stops working, then triangulate. Anchor on **value** (time saved, headcount not hired, revenue unlocked, risk reduced)—not on “startup software should be cheap.” How the market already buys (seat vs consumption) is Step 4.
 
 ### Step 3: keep the first offer stupid-simple
 
@@ -49,7 +51,14 @@ Be decent to design partners who used unfinished software: simplicity and a clea
 
 For seat-based products, seats are often enough at the start.
 
-For usage-based products, name the **utility metric**: the unit the buyer already believes is “more value.” Easy-to-meter units (API calls, tests, rows) fail when they punish the behavior you want (testing every build, splitting a monolith) or when they do not track value (lines of code, number of apps).
+For usage-based products, name the **utility metric**: the unit the buyer already believes is “more value.” Easy-to-meter units (API calls, tests, rows) fail when they punish the behavior you want or when they do not track value.
+
+Two shapes from that same interview set, useful as tests rather than as prices to copy:
+
+- Charging per **test run** can punish the team for testing every build. A unit closer to **who derives value** (for example contributing developers, in Snyk’s telling) may track the job better.
+- Putting a dollar on **share** or **invite** can tax the loop that spreads the product. Coda’s version of this warning: do not meter the action you need to be free unless you are deliberately applying a brake.
+
+If a dominant incumbent already trained the market on a model (per seat, pay-as-you-go, annual license), default to that model unless you have a strong reason to deviate. Databricks’ version: buyers already understood cloud consumption the way Amazon had taught it. Deviating is a teaching cost.
 
 If you cannot measure the true value unit yet, quote by hand for a while and listen: do they understand the metric, and do they accept where they sit on the curve? Made-up quotes are research, not a forever price book.
 
@@ -125,6 +134,10 @@ Do not count a completed pricing workshop, the number of tiers, or alignment wit
 - Copying an incumbent’s price without their category power.
 - Letting a single customer invent a billing model the systems and contracts cannot run.
 - Putting a dollar sign on the action that spreads the product (share, invite, test-every-build) unless that is a deliberate brake.
+
+## What to read next
+
+The number only holds if the champion can tell the value story: stay inside [positioning](positioning.md) and the [pitch](sales-enablement.md). How you collect the number is a channel fact—[channel strategy](../04-channels-and-distribution/channel-strategy.md). If you are still counting unpaid “love,” that is the [PMF ladder](../01-strategy-and-buyers/product-market-fit.md), not a packaging workshop.
 
 ## Sources and evidence boundary
 

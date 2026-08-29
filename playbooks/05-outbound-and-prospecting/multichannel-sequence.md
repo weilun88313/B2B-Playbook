@@ -96,6 +96,10 @@ Sent volume, touch count, and open rate are operating diagnostics—not business
 - Measuring activity without account or seat progression.
 - Running separate suppression lists in disconnected tools.
 
+## What to read next
+
+Replies that become meetings still need a story: [sales enablement](../02-product-marketing/sales-enablement.md). If the sequence is creating volume without love or pay, that is [product-market fit](../01-strategy-and-buyers/product-market-fit.md), not a copy problem.
+
 ## Sources and evidence boundary
 
 Channel permissions, platform rules, and applicable laws vary. Review the target jurisdiction and channel with qualified owners; this playbook is not legal advice.

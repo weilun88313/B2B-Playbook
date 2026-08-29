@@ -1,8 +1,10 @@
 # Ideal customer profile (ICP)
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
-Turn a market into observable account filters and different next actions—not “everyone interested in this category.”
+Most B2B teams do not have an ICP. They have a category they wish were a market, and a slide of logos they would like to close. An ICP turns a market into **observable account filters and different next actions**—not “everyone interested in this category.”
+
+If you cannot say why this account is T1 and that one is a pass, later chapters (positioning, outbound, events) will only scale the same confusion.
 
 ## Use this when
 
@@ -150,6 +152,10 @@ Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate
 - Treating total addressable market as a list of active accounts.
 - Hiding unknowns behind model-generated detail.
 - Letting sales pursue T3 accounts without recording an exception.
+
+## What to read next
+
+Once the account filters are written, map the people who have to say yes: [buying committee](buying-committee.md). Then check whether anyone in that shape of company actually loves the product and pays: [product-market fit](product-market-fit.md).
 
 ## Sources and evidence boundary
 

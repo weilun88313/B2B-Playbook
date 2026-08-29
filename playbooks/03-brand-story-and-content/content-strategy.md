@@ -1,10 +1,12 @@
 # Content strategy
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
-Content strategy is the decision of which buyer questions deserve a durable page—and in what order—so sales can send a link that helps an evaluation move.
+A team can publish twice a week and still have nothing a champion can forward. Analytics look like growth. Sales still pastes the homepage into the evaluation thread and hopes. The champion still cannot answer “why not keep the spreadsheet” without booking another call.
 
-Volume, calendars, and “thought leadership” are production systems. They only become demand generation when a champion can use the asset to explain the problem, compare a real alternative, or answer an internal objection.
+Content strategy is the decision of **which buyer questions get a durable URL, and in what order**, so the next meeting does not start from zero. Volume, calendars, and “thought leadership” are production systems. They become demand generation only when someone inside the account can use a page to explain the problem, compare a real alternative, or survive an internal objection.
+
+This chapter assumes you already know who the champion is and what they would keep using if you vanished—[ICP](../01-strategy-and-buyers/icp.md) and [positioning](../02-product-marketing/positioning.md). If those are empty, a content engine will only scale confusion.
 
 ## Use this when
 
@@ -21,14 +23,18 @@ Volume, calendars, and “thought leadership” are production systems. They onl
 
 ## Operating method
 
-### Step 1: collect decision questions, not interest topics
+### Step 1: steal the questions from live deals, not from a brainstorm
 
-Ask sales (or review the last ten serious conversations) for the questions buyers ask when they are deciding whether to continue. Write each as a buyer-voiced question. Typical shapes:
+Sit with the last ten serious conversations—call notes, lost-deal write-ups, the Slack thread after a demo. Write down only the questions buyers asked when they were deciding whether to continue. Phrase each in their voice.
+
+Typical shapes, because most B2B evaluations rhyme:
 
 - Can we keep doing this with the current process or spreadsheet?
 - How should we choose between this category and the incumbent system?
 - Do we have to replace another platform first?
-- Where does the data live, and what will security review actually ask?
+- Where does the data live, and what will security actually ask?
+
+A useful test: if the question would still be asked after a clever LinkedIn post, it belongs on a page. If it would only be asked by someone browsing for ideas, it is education—later.
 
 Do not start from “what would this audience find interesting.” Interest is not a buying motion.
 
@@ -56,7 +62,7 @@ Complete one topic brief per page. The page may have only:
 - one primary buying-committee seat;
 - one next step (a scoped demo, a sample, or forwarding the comparison page).
 
-“A complete introduction to the platform” is not a primary question.
+“A complete introduction to the platform” is not a primary question. A champion who needs three answers should get three URLs, not one essay that tries to be the website.
 
 Comparison structure stays in the [positioning comparison-page outline](../02-product-marketing/positioning.md#comparison-page-outline) until the website playbook for comparison pages is published. This playbook decides whether that page exists and which alternative it covers.
 
@@ -64,11 +70,27 @@ Comparison structure stays in the [positioning comparison-page outline](../02-pr
 
 Before writing, answer: will sales drop this URL into an evaluation thread? If not, the page is brand or education. That can be valid, but it is not demand generation and should not occupy the first four rows.
 
-A comparison page must let a champion discuss the conditions under which each option wins.
+A comparison page must let a champion discuss the conditions under which each option wins—including “keep doing nothing.” A feature grid that always crowns you is a brochure.
 
 ### Step 5: refuse unfinished pages
 
-Run the pre-flight checklist. A page that fails it is a draft, not a published asset.
+Run the pre-flight checklist. A page that fails it is a draft, not a published asset. Publishing a thin comparison to “look complete” trains sales to stop sending it.
+
+## How a finished map reads
+
+This is a **worksheet fill**, not a customer case study. Suppose the last ten conversations keep repeating the same four questions. The map is done when each question has a URL a seller would actually paste:
+
+| Order | Buyer question (their voice) | Page job | Primary seat | Next step | Status |
+|---|---|---|---|---|---|
+| 1 | “Is this for ops teams who still live in email, or is it an ITSM rollout?” | Category + seat | Champion | Scoped walkthrough of *their* queue, not a platform tour | Live |
+| 2 | “We already run this in a spreadsheet / shared inbox. When is that no longer enough?” | Alternative / when to switch | Champion | Forward to the comparison page if they already have a named tool | Live |
+| 3 | “We are also looking at {incumbent that actually appears in deals}. How should we choose?” | Comparison | Champion + economic buyer | Conditions under which each path wins, including status quo | Draft until checklist passes |
+| 4 | “What will security ask, and where does the data live?” | Constraint | Technical buyer | Link to the questionnaire owner; do not invent certifications | Brief complete; page not started |
+| 5 | “How are teams in this category thinking about the problem this year?” | Education | Champion | Cite in a follow-up only after 1–4 exist | Not this quarter |
+
+If row 3 names a famous vendor the team never loses to, the map is performing again. Pull the alternative from win/loss notes, not from a competitor-slide habit.
+
+A week of work that produces only row 5 is how blogs get busy and pipelines stay empty.
 
 ## Copyable templates
 
@@ -88,7 +110,7 @@ Use one brief per page. If it cannot be completed, do not start production.
 
 ### Decision-page map
 
-Keep the live map to eight rows or fewer.
+Keep the live map to eight rows or fewer. Fill from conversations, then assign URLs.
 
 | Order | Buyer question | Page or URL | Primary seat | Next step | Status |
 |---|---|---|---|---|---|
@@ -126,10 +148,17 @@ Impressions, AI citations, and time on page are diagnostics for “can anyone fi
 - Building comparison pages against a famous vendor the team never actually loses to.
 - Leading with thought leadership while category, alternative, and comparison pages are missing.
 - Counting traffic as pipeline because the URL was on a blog subdomain.
+- Publishing a comparison that cannot admit when the status quo still wins.
+
+## What to read next
+
+The pages only work if the story on them matches the first meeting: keep [positioning](../02-product-marketing/positioning.md) and the [pitch](../02-product-marketing/sales-enablement.md) in the same insight. Then decide whether content is the growth engine or an amplifier—[channel strategy](../04-channels-and-distribution/channel-strategy.md). If strangers already trust someone else in this market, that is [ecosystem](../06-account-field-and-partner/ecosystem.md), not another blog post.
 
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. It does not claim a universal content ROI model. Proof on any live page must stay inside dated, checkable product, customer, security, and performance evidence. Fictional companies and anonymous “case studies” are not evidence.
+
+The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
 
 ---
 
