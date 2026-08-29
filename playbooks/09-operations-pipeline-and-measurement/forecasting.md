@@ -190,7 +190,7 @@ Do not count forecast meetings held, or a decorated inspection tree, as success.
 
 ## What to read next
 
-Pay still sits in [sales compensation](sales-compensation.md). Whether next year is even possible is [GTM planning](gtm-planning.md). The record underneath the call is [CRM data model](crm-data-model.md). Deal quality sits in [account planning](../06-account-field-and-partner/account-planning.md) and the [pitch](../02-product-marketing/sales-enablement.md). After close, hygiene continues in [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). Creating pipeline is not a forecast meeting: [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [outbound](../05-outbound-and-prospecting/).
+Pay still sits in [sales compensation](sales-compensation.md). Whether next year is even possible is [GTM planning](gtm-planning.md). The record underneath the call is [CRM data model](crm-data-model.md). How meetings split so the call is not also pipe-gen and coaching is [sales operating cadence](sales-operating-cadence.md). Deal quality sits in [account planning](../06-account-field-and-partner/account-planning.md) and the [pitch](../02-product-marketing/sales-enablement.md). After close, hygiene continues in [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). Creating pipeline is not a forecast meeting: [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [outbound](../05-outbound-and-prospecting/).
 
 ## Sources and evidence boundary
 

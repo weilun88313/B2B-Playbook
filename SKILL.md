@@ -36,7 +36,10 @@ Produce a usable artifact or decision, not broad advice.
 | Customer success / post-sale book | `playbooks/08-lifecycle-and-customer-marketing/customer-success.md` |
 | Customer onboarding / first value / education vs implementation | `playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
+| Clawbacks, holdbacks, or sales draws | `playbooks/09-operations-pipeline-and-measurement/incentive-timing.md` |
+| RevOps / sales-ops leader variable pay | `playbooks/09-operations-pipeline-and-measurement/revops-compensation.md` |
 | Forecasting / pipeline hygiene / call the quarter | `playbooks/09-operations-pipeline-and-measurement/forecasting.md` |
+| Weekly sales meetings / 13-week cadence | `playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md` |
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
 | VP Sales / sales-leader first 90 days | `playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md` |

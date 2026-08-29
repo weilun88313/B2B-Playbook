@@ -55,6 +55,9 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | VP Sales / sales-leader 90 days | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
 | CRM fields / migration map | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md) |
 | MarTech / vendor bake-off | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md) |
+| Sales meetings / 13-week cadence | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales operating cadence](09-operations-pipeline-and-measurement/sales-operating-cadence.md) |
+| Clawbacks / draws / holdbacks | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Incentive timing](09-operations-pipeline-and-measurement/incentive-timing.md) |
+| RevOps / sales-ops leader pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [RevOps compensation](09-operations-pipeline-and-measurement/revops-compensation.md) |
 | Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | Planned: `pipeline-model.md` |
 
 ## 01 · [Strategy & buyers](01-strategy-and-buyers/)
@@ -161,6 +164,9 @@ Published:
 - [Sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md)
 - [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md)
 - [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md)
+- [Sales operating cadence](09-operations-pipeline-and-measurement/sales-operating-cadence.md)
+- [Incentive timing](09-operations-pipeline-and-measurement/incentive-timing.md)
+- [RevOps compensation](09-operations-pipeline-and-measurement/revops-compensation.md)
 
 Planned: measurement model, funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution, dashboards, experimentation, budget and planning, privacy and compliance operations.
 
@@ -199,7 +205,7 @@ Every published tactic playbook should contain:
 
 Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
-Enterprise selling as a full cycle is outside this marketing taxonomy. The GTM-operations exceptions that live here are [sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) (quota has to be credited and paid), [forecasting](09-operations-pipeline-and-measurement/forecasting.md) (the path to the number has to be defensible), [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md) (demand and capacity have to meet), [sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) (a new sales leader’s first 90 days), [lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) (routing, not a personality), [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md) (the commercial record), [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md) (which job a tool may do), [account planning](06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) (the book after the sale). Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
+Enterprise selling as a full cycle is outside this marketing taxonomy. The GTM-operations exceptions that live here are [sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) (quota has to be credited and paid), [incentive timing](09-operations-pipeline-and-measurement/incentive-timing.md) (when that pay is safe), [RevOps compensation](09-operations-pipeline-and-measurement/revops-compensation.md) (ops is not a second AE quota), [forecasting](09-operations-pipeline-and-measurement/forecasting.md) (the path to the number has to be defensible), [sales operating cadence](09-operations-pipeline-and-measurement/sales-operating-cadence.md) (pipe-gen, the call, and coaching do not share one hour), [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md) (demand and capacity have to meet), [sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) (a new sales leader’s first 90 days), [lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) (routing, not a personality), [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md) (the commercial record), [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md) (which job a tool may do), [account planning](06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) (the book after the sale). Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
 
 ---
 
