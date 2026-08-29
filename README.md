@@ -104,7 +104,7 @@ Every third-party link uses `ref=b2b-playbook` only for referral-source identifi
 
 ### Reading sources
 
-[RESOURCES.md](RESOURCES.md) is a short directory of newsletters, podcasts, and operators. It sits beside the tool directory: software is for a job; a feed is for staying literate. Sources are graded A / B / C by editorial evidence (recurring operator recommendation vs practical use vs observe-only), not by popularity. A newsletter is not a playbook and is not a verified use case.
+[RESOURCES.md](RESOURCES.md) is a short directory of newsletters, podcasts, and operators. It sits beside the tool directory: software is for a job; a feed is for staying literate. Sources are graded A / B / C by editorial evidence (recurring operator recommendation vs practical use vs observe-only), not by popularity. Each row also states **free / freemium / paid** and a public list price when one exists. A newsletter is not a playbook and is not a verified use case.
 
 ### Agent Skill
 
