@@ -42,11 +42,15 @@ If organic inbound is absent, do not paper over it with ads.
 
 Name the motion from the last ten to twenty wins, not from a slide titled “we are PLG.” A CRM default of “inbound” that was actually a founder intro is not evidence.
 
+Named illustrations from that 2023 interview set (how *they* arrived, not a menu to copy):
+
+- **Self-serve inbound** is a product fact: a new user can reach value without a human. **Figma** is the usual shorthand for “open it and work.” If your buyer cannot do that, you do not have this motion yet.
+- **Sales-assist inbound:** demand shows up; a seller still walks evaluation. **Databricks** tried a more zero-touch console path and watched revenue flatten until sales was back in the motion.
+- **Outbound:** the team creates the conversation because the buyer will not raise a hand. Do not borrow another company’s later mix until your last 20 wins name *your* primary.
+
 ### Step 2: do not force product-led growth
 
-Self-serve is a product and activation fact, not a values statement. If a new user cannot swipe a card and get value quickly, turning off sales to “be PLG” can stall revenue.
-
-In Lenny Rachitsky’s 2023 interview set, Databricks tried a more zero-touch console path and watched revenue flatten until sales was back in the motion. That is one founder’s illustration, not a law—but it is the failure mode this step exists to catch. Enterprise deals that need a champion, security review, and a committee are sales-assist or outbound until proven otherwise.
+Self-serve is a product and activation fact, not a values statement. If a new user cannot swipe a card and get value quickly, turning off sales to “be PLG” can stall revenue. The Databricks episode above is that failure mode. Enterprise deals that need a champion, security review, and a committee are sales-assist or outbound until proven otherwise.
 
 Expect to build a sales team eventually. The question is when, not whether.
 
@@ -76,6 +80,12 @@ In one interview set of later-successful B2B companies, median time from foundin
 Use the 1.5-year-after-first-customer line as a **worry trigger** if you want to compare yourself to that survivor set. It is not a promise, a fundraise requirement, or your OKR. Validate against your own first-customer date and ACV. Pricing timing is in [pricing and packaging](../02-product-marketing/pricing-and-packaging.md).
 
 ## Copyable templates
+
+### How a filled motion one-pager reads
+
+Teaching fill: last 20 wins were demos booked from inbound and referrals; nobody activated alone. Primary = **sales-assist inbound**. Secondary this quarter = one [content](../03-brand-story-and-content/content-strategy.md) comparison page, not ads. Site door = request a scoped conversation. Stop rule for content: if sales has not pasted the URL into an evaluation thread in 90 days, pause publishing.
+
+Copy:
 
 ### Motion one-pager
 

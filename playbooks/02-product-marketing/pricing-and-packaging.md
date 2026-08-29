@@ -72,6 +72,15 @@ The first hard packaging change (for example an org or security tier) will feel 
 
 ## Copyable templates
 
+### How a filled price card reads
+
+Teaching fill from the same 2023 interview set, not a price book to copy.
+
+- **Snyk-shaped metric:** per test run is easy to meter and punishes testing every build. A unit closer to who derives value (contributing developers, in that telling) survives the “does this punish good behavior?” test.
+- **Coda-shaped brake:** a dollar on share or invite taxes the loop you need to be free.
+- **Databricks-shaped model:** buyers already understood cloud consumption the way Amazon had taught it; inventing a new commercial language is a teaching cost.
+- **Amplitude / Zip / Front-shaped timing:** delaying the ask felt kind; they later described it as lost learning.
+
 ### Early price card
 
 - Champion seat and alternative:
@@ -90,9 +99,12 @@ The first hard packaging change (for example an org or security tier) will feel 
 
 | Candidate unit | Easy to meter? | Tracks value? | Punishes a behavior we want? | Buyer understands it? | Keep / kill |
 |---|---|---|---|---|---|
-| | | | | | |
+| API calls / test runs | Yes | Often no | Yes—teams stop testing or splitting work | Sometimes | Kill unless the job *is* the call |
+| Seats | Yes | Yes, if value is per human | Rarely, unless you need viral share | Usually | Keep at the start for seat products |
+| Contributing developers (Snyk-shaped) | Harder | Closer to who gets safer code | Less than per-test | Needs a one-sentence explain | Test live |
+| Share / invite (Coda-shaped) | Yes | No—it meters spread | Yes | Painfully | Kill unless you want a brake |
 
-Kill units that are easy to bill and wrong to optimize.
+Kill units that are easy to bill and wrong to optimize. Copy: write your candidate units through the same five columns.
 
 ### Revisit agenda (30 minutes)
 

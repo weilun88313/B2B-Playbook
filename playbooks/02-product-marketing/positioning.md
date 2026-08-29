@@ -1,6 +1,6 @@
 # Positioning
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 Positioning is the shortest credible explanation of why a specific buyer should change from the current alternative.
 
@@ -136,7 +136,22 @@ The homepage, first outbound paragraph, and demo opening should share this struc
 
 ## Copyable templates
 
+### How a filled positioning worksheet reads
 
+Teaching fill, using the **Help Scout** shape from April Dunford’s pitch work (not a claim about Help Scout’s current homepage). Champion: head of support. Alternative: shared inbox vs a traditional help desk.
+
+> When a support lead faces ticket volume that a shared inbox can no longer report on, a customer-service platform helps them run support as a growth function without forcing the team into a help desk they will not live in.
+
+So-what ladder for that fill:
+
+| Layer | Draft |
+|---|---|
+| Capability | Shared-inbox simplicity plus reporting and workflows the inbox lacks |
+| So what? | The team will actually use it, and the lead can still run the operation |
+| Business result | Support stops being only a cost center; customers get a designed experience |
+| Stop test | One more “so what?” becomes “save money / be efficient”—stop at the line above |
+
+Copy the blanks for *your* product.
 
 ### Positioning worksheet
 
@@ -164,15 +179,12 @@ Executive version:
 
 
 
-### So-what ladder
+### So-what ladder (copy)
 
-
-| Layer           | Prompt                                                                                                      | Draft |
-| --------------- | ----------------------------------------------------------------------------------------------------------- | ----- |
-| Capability      | What can we do that the alternative cannot?                                                                 |       |
-| So what?        | Why does the champion care in their job?                                                                    |       |
-| Business result | What changes in a number or a risk they already own?                                                        |       |
-| Stop test       | If we ask “so what?” once more, do we get a claim any competitor could copy? If yes, keep the previous line |       |
+- Capability (what we can do that the alternative cannot):
+- So what? (why the champion cares in their job):
+- Business result (a number or risk they already own):
+- Stop test (one more “so what?” becomes a generic claim—keep the previous line):
 
 
 
@@ -188,14 +200,17 @@ Executive version:
 7. **Proof:** dated, verifiable evidence
 8. **Next step:** one decision-specific action
 
+Teaching fill for the criteria grid (shared inbox vs help desk, same Help Scout shape):
 
-| Criterion            | Current alternative | Proposed approach | Evidence needed |
-| -------------------- | ------------------- | ----------------- | --------------- |
-| Business result      |                     |                   |                 |
-| Implementation       |                     |                   |                 |
-| Workflow ownership   |                     |                   |                 |
-| Data and security    |                     |                   |                 |
-| Total operating cost |                     |                   |                 |
+| Criterion | Current alternative (shared inbox) | Proposed approach | Evidence needed |
+|---|---|---|---|
+| Business result | Fast and familiar; reporting falls apart | Team will use it *and* the lead can run the queue | Dated proof a team switched and kept using it |
+| Implementation | Already live | Migration of history and macros | Scope of what stays in email |
+| Workflow ownership | Anyone with the inbox | Named roles, SLAs, collision handling | Who owns the queue today |
+| Data and security | Whatever Google/Microsoft already granted | Your DPA, SSO, retention | Their questionnaire, not a slogan |
+| Total operating cost | “Free” except lost tickets and heroics | Seat or inbox price vs the cost of missed SLAs | Their own missed-SLA story |
+
+Copy: for each criterion, write current alternative / your approach / evidence still missing.
 
 
 

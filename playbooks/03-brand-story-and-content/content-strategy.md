@@ -110,14 +110,9 @@ Use one brief per page. If it cannot be completed, do not start production.
 
 ### Decision-page map
 
-Keep the live map to eight rows or fewer. Fill from conversations, then assign URLs.
+Keep the live map to eight rows or fewer. The filled example is in [How a finished map reads](#how-a-finished-map-reads). Copy:
 
-| Order | Buyer question | Page or URL | Primary seat | Next step | Status |
-|---|---|---|---|---|---|
-| 1 | | | | | Draft / checklist passed / live |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
+- Order / buyer question / URL / primary seat / next step / status (repeat):
 
 ## Pre-flight checklist
 

@@ -30,6 +30,18 @@ Choose one account and collect only verifiable information:
 
 Write `unknown` when evidence is missing.
 
+### How a filled field test reads
+
+This is a **worksheet fill**, not a customer case study. Suppose sales keeps losing deals after the security questionnaire.
+
+- Business job: produce evidence packs for customer security reviews without a shared Drive of screenshots.
+- Scale signal: ~400 employees, a named VP of customer operations (careers page, dated).
+- Current alternative: spreadsheet + email threads with the security lead.
+- Trigger this quarter: two lost deals cited questionnaire turnaround; three “security engineer” jobs posted this month.
+- Seats: champion = head of customer ops; economic buyer = unknown; blocker = security.
+
+Score (0/1/2): use-case 2, budget 1, alternative 2, trigger 2, committee 1 → **8, T1**. Default action: one-to-one research to name the security lead before a personalized next step. Not T1: a 12-person agency that “might need this someday” with no trigger.
+
 ### 1. Apply disqualifiers
 
 Write at least five hard exclusions. If an account matches one, classify it as T3 without rescuing it through scoring.
@@ -38,13 +50,13 @@ Write at least five hard exclusions. If an account matches one, classify it as T
 
 Use only 0, 1, or 2. Total: 0–10.
 
-| Dimension | 0 | 1 | 2 | Account |
-|---|---|---|---|---|
-| Use-case fit | Not their job | Partly related | A current business priority | |
-| Budget / operating fit | Clearly unable or too small | Borderline | Budget owner and process match | |
-| Alternative clarity | Unknown | Category is known | Tool or process is named | |
-| Observable trigger | None | Weak signal | Dated event, renewal, deadline, or incident | |
-| Committee visibility | One unknown contact | Two seats are visible | Economic buyer or blocker is visible | |
+| Dimension | 0 | 1 | 2 |
+|---|---|---|---|
+| Use-case fit | Not their job | Partly related | A current business priority |
+| Budget / operating fit | Clearly unable or too small | Borderline | Budget owner and process match |
+| Alternative clarity | Unknown | Category is known | Tool or process is named |
+| Observable trigger | None | Weak signal | Dated event, renewal, deadline, or incident |
+| Committee visibility | One unknown contact | Two seats are visible | Economic buyer or blocker is visible |
 
 Default rules:
 
@@ -84,6 +96,8 @@ Examples include no purchasing function, an unsupported contracting model, no bu
 
 “SMB,” “mid-market,” and “enterprise” are not filters by themselves.
 
+**Snyk**, in Lenny Rachitsky’s PMF interviews, is the named warning for this page: developers can love a product for a long time before a **buyer** will pay for the commercial version. An ICP that only names users, and never names who signs, will keep filling the pipeline with love and no revenue. **Amplitude**’s version of the same discipline: about half the week with customers, not a workshop that invents filters.
+
 ### Step 3: map the buying committee separately
 
 After an account passes qualification, use the [buying-committee playbook](buying-committee.md) to map the economic buyer, champion, technical buyer, blocker, operator, and procurement path. Do not use committee completeness to rescue a low-fit account.
@@ -94,24 +108,29 @@ Score five recent accounts. If the accounts that actually progress do not match 
 
 ## Copyable templates
 
+### How a filled ICP canvas reads
+
+> We prioritize the head of customer operations at B2B software companies (~200–1,000 employees) when they are trying to turn around customer security questionnaires, currently use a spreadsheet and a shared drive, and face a lost deal or a new security-hire spike this quarter.
+
+| Area | Definition (teaching fill) | How to filter a list |
+|---|---|---|
+| Industry and business job | B2B software whose customers run security reviews | Job posts, G2 categories, event lists for security/ops |
+| Operating scale / ability to buy | Budget owner exists; not a five-person shop | Headcount band, named VP, entity that can sign SaaS |
+| Trigger | Lost deal citing security, questionnaire SLA, new security hire | Careers page this quarter, win/loss notes |
+| Disqualifiers | No security review in the sales cycle; consumer-only; we cannot sign their DPA | Explicit exclusion rules |
+
+Hard disqualifiers in that fill: no purchasing function; consumer-only; cannot support their residency rule; champion is an intern with no operator behind them; they already standardized on a named incumbent we never beat.
+
+Copy the blanks below for *your* market.
+
 ### ICP canvas
 
 > We prioritize ___ (role) at ___ (company/context) when they are trying to ___ (business job), currently use ___ (alternative), and face ___ (observable trigger).
 
-| Area | Definition | How to filter a list |
-|---|---|---|
-| Industry and business job | | Keywords, directories, event categories |
-| Operating scale / ability to buy | | Budget owner, entity count, process maturity |
-| Trigger | | Hiring, renewal, event, deadline, public incident |
-| Disqualifiers | | Explicit exclusion rules |
-
-Hard disqualifiers:
-
-1.
-2.
-3.
-4.
-5.
+- Industry and business job:
+- Operating scale / ability to buy:
+- Trigger:
+- Hard disqualifiers (at least five):
 
 ### Account decision
 
@@ -160,6 +179,8 @@ Once the account filters are written, map the people who have to say yes: [buyin
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Thresholds and dimensions are starting hypotheses; validate them against dated wins, losses, disqualifications, and segment economics.
+
+The user-versus-buyer warning and the half-week-with-customers discipline draw on founder interviews collected by Lenny Rachitsky ([Lenny’s Newsletter, 2023-09-12](https://www.lennysnewsletter.com/p/finding-product-market-fit?ref=b2b-playbook)). Snyk and Amplitude are that author’s illustrations, not ICP templates to copy.
 
 ---
 

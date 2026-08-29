@@ -47,14 +47,20 @@ Do not try to be pretty good for everyone. Get the thing **damn useful for one c
 
 That looks like watching them do the job—payroll, a support queue, their own data—not interviewing them about features. It looks like calling the moment they get stuck, because they will pick up. It looks like treating a weekend bug as a red alert even before you have launched.
 
-It does **not** look like becoming a requirements printer. One early Coda customer listed 25 reasonable items and said they would return when those shipped. Half the team heard a gift. The other half heard a hole in the wrong shape of product. They did not finish the list. They built the document they meant to build, and it took more than a year to return to the list. Pain is real; the requested shape may not be the product.
+In Lenny Rachitsky’s 2023 interviews that is not abstract:
+
+- **Hex:** you will not be pretty good for everyone; get damn useful for *one* company first.
+- **Gusto:** founders sat next to the first ~30 customers while those companies ran payroll on the product.
+- **Gong and Retool:** watch the real work; call when they stall.
+- **Figma:** treated an unfinished product in a real company (Coda) as a production incident, not a beta courtesy.
+- **Amplitude:** about half the founding team’s time talking to customers, half building. A year of building for people who will never pay is a common way to burn the 9–18 months.
+
+It does **not** look like becoming a requirements printer. One early **Coda** customer listed 25 reasonable items and said they would return when those shipped. Half the team heard a gift. The other half heard a hole in the wrong shape of product. They did not finish the list. They built the document they meant to build, and it took more than a year to return to the list. Pain is real; the requested shape may not be the product.
 
 Two earlier fits are allowed while the product is still thin:
 
-- **Message-market fit:** strangers understand the story (press, cold outbound replies, an elevator pitch that does not bounce) before the product fully delivers it.
-- **Product-user fit vs product-buyer fit:** users may love it a year before a buyer will pay for the commercial version.
-
-Spend about half the founding team’s time talking to customers—not as a slogan. Engineers default to building. A year of building for people who will never pay is a common way to waste the 9–18 months.
+- **Message-market fit (Ramp, in that telling):** strangers understand the story—press, cold replies, a pitch that does not bounce—before the product fully delivers it.
+- **Product-user fit vs product-buyer fit (Snyk, in that telling):** users may love it a year before a buyer will pay for the commercial version. That is an [ICP](icp.md) problem, not only a pricing problem.
 
 ### Step 2: one company pays a meaningful amount
 
@@ -98,24 +104,38 @@ Do not use these questions as a workshop theme. Use them to change who you sit w
 
 ## Copyable templates
 
-### Ladder card (one page)
+### How a filled ladder card reads
 
-| Rung | Evidence we have | Date | Still missing |
+This is a **worksheet fill**, not a customer case study. A team that would tell the board “we have PMF” often looks like this when they are forced to date each rung:
+
+| Rung | Evidence we have | Label | Still missing |
 |---|---|---|---|
-| One company loves and uses it in production | | | |
-| They would be harmed if we vanished for a week | | | |
-| One company pays five–six figures / year | | | |
-| 3–10 paying companies, and we can name the next | | | |
-| Pull: inbound or word of mouth from strangers | | | |
-| Growth holds without a heroic campaign | | | |
+| One company loves and uses it in production | Design partner #1 runs a weekly job on it; we watched them last Tuesday | Fact | We have not sat with a second company doing the same job |
+| They would be harmed if we vanished for a week | Slack lit up when we shipped a bug on a Saturday | Observation | Nobody has said they would miss payroll, a queue, or a close if we disappeared |
+| One company pays five–six figures / year | They asked for a “friends” invoice at $500 so procurement has a PO | Fact | The number is a token. Real ACV is still unasked |
+| 3–10 paying companies, and we can name the next | Two other logos in a pilot Slack | Assumption | Both unpaid. We cannot name who closes after the first real invoice |
+| Pull: inbound or word of mouth from strangers | Three “inbound” forms last month | Assumption | All three met us at the conference we staffed |
+| Growth holds without a heroic campaign | MRR ticked up the week we launched on Product Hunt | Observation | The two weeks after that were flat |
 
-Mark each line fact / observation / assumption. A friend-and-family logo is not production love.
+Highest honest rung here: **love in production, not pay, not pull.** Friend-and-family logos, token invoices, and conference forms do not move the line.
+
+Copy the empty card below. Fill it for *your* company this week. Mark each line fact / observation / assumption.
+
+### Ladder card (copy)
+
+- One company loves and uses it in production — evidence / date / still missing:
+- They would be harmed if we vanished for a week — evidence / date / still missing:
+- One company pays five–six figures / year — evidence / date / still missing:
+- 3–10 paying companies, and we can name the next — evidence / date / still missing:
+- Pull: inbound or word of mouth from strangers — evidence / date / still missing:
+- Growth holds without a heroic campaign — evidence / date / still missing:
 
 ### Weekly founder split
 
+A split that is lying to itself: 4 hours on calls, 36 hours building, “this week’s one company” still blank. The target until step 3 is real is about **half and half**, and the company has a name.
+
 - Hours talking to buyers and watching them work:
 - Hours building:
-- Target: about half and half until step 3 is real
 - This week’s one company:
 
 ## Pre-flight checklist

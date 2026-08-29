@@ -67,7 +67,26 @@ Product, marketing, and sellers who still run early calls should write the pitch
 
 ### Pitch one-pager
 
+Teaching fill: **Help Scout** shape from April Dunford (structure only).
+
 **Setup**
+
+- Insight: customer service is a growth function, not a cost center. (A rival that opens with “support is hard” fails the test.)
+- Approaches: shared inbox (easy; breaks at reporting/scale) vs traditional help desk (powerful; painful to live in).
+- Perfect world: easy enough that people use it, advanced enough to run the operation, designed around the customer’s experience.
+- Disqualify if they say: they want a full ITSM suite, or they insist support must stay a ticket factory with no CX job.
+
+**Follow-through**
+
+| Perfect-world requirement | What we show | Proof (dated) |
+|---|---|---|
+| Easy enough to use | Shared-inbox workflow, not a 40-field ticket form | A named team that switched and stayed—your evidence, not a borrowed logo |
+| Advanced enough to run | Reporting, collision, SLAs | Same |
+| Experience-designed | Customer-facing touches that a raw inbox cannot do | Same |
+
+Copy the blanks for *your* insight.
+
+**Setup (copy)**
 
 - Insight (must be unique to us):
 - Approaches we will teach (status quo + 1–2 others), each with a strength and a break:
@@ -76,9 +95,7 @@ Product, marketing, and sellers who still run early calls should write the pitch
 
 **Follow-through** (only what proves the perfect world)
 
-| Perfect-world requirement | What we show | Proof (dated) |
-|---|---|---|
-| | | |
+- Perfect-world requirement / what we show / dated proof (repeat per line):
 
 **Discovery questions inside setup** (not a separate interrogation)
 
