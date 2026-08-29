@@ -1,6 +1,6 @@
 # B2B marketing playbook index
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 
@@ -19,6 +19,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
+| Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
@@ -57,8 +58,9 @@ Published:
 
 - [Positioning](02-product-marketing/positioning.md)
 - [Pricing and packaging](02-product-marketing/pricing-and-packaging.md)
+- [Sales enablement](02-product-marketing/sales-enablement.md)
 
-Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims, sales enablement.
+Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims.
 
 ## 03 · [Brand, story & content](03-brand-story-and-content/)
 

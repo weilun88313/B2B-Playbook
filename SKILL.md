@@ -17,6 +17,7 @@ Produce a usable artifact or decision, not broad advice.
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
 | Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |
+| First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |

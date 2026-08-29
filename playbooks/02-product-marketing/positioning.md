@@ -14,12 +14,16 @@ It is not a slogan, a product roadmap, or a future vision. It explains why the p
 - Comparison pages list features but ignore the current alternative and switching cost.
 - The team is adding a second product and does not know whether to position the company, the product, or a bundle.
 
+
+
 ## Do not use this when
 
 - The ICP is empty. Complete [ICP](../01-strategy-and-buyers/icp.md) first.
 - The team wants a positioning document to substitute for product evidence.
 - The current alternative is described only as “the traditional way.”
 - The session is meant to set the product roadmap. Positioning describes how you win now; strategy decides what you build next.
+
+
 
 ## Operating method
 
@@ -31,12 +35,14 @@ Ask: if we did not exist, what would this prospect do?
 
 That list is the only competitor set that matters. Internal lists usually disagree because each function is biased:
 
+
 | Seat | Typical distortion |
 |---|---|
 | Marketing | Treats ad spend, events, and media presence as competitive strength—even when the name never appears on a short list |
 | Product | Adds horizon competitors that cause no pain in live deals today |
 | Sales | Over-weights the vendor that won one whale; files status-quo losses as “no decision” or “not yet” |
 | Founder | Uses an outdated battlefield, an acquired segment they do not yet know, or a fundraising future the sales team cannot deliver |
+
 
 Keep the list in the near term: sell what is on the truck. Treat the status quo—spreadsheet, incumbent process, agency, internal hire, or doing nothing—as a competitor. In B2B, a large share of opportunities end in “no decision.” Some of those are indecision; some are a real vote for the current way. Positioning has to win both. Do not treat the 50% / 80% figures from published consulting notes as your funnel until you count your own losses.
 
@@ -97,6 +103,8 @@ A reader who never opens the blog should still identify:
 - one clear next step;
 - one likely operational constraint, such as security, data, deployment, integration, or implementation effort.
 
+
+
 ### Step 7: build comparisons only for real decisions
 
 Create a comparison page only when the alternative appears repeatedly in sales conversations. Include where the alternative is stronger. Refusing to name its strengths makes the page less credible and less useful to a champion.
@@ -107,12 +115,14 @@ Be explicit about **what** you are positioning: one product, a group of products
 
 For multiple products, lock the go-to-market motion **before** the positioning workshop:
 
-| How you sell | How you position |
-|---|---|
-| Each product sold on its own, no obvious bundle | Company as an umbrella; product positions cascade underneath |
-| A lead product first, then cross-sell or upsell | Position the lead product for new accounts. Position add-ons as the best choice **for accounts that already own the lead product**—not as the best standalone product in that category for anyone |
+
+| How you sell                                                      | How you position                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Each product sold on its own, no obvious bundle                   | Company as an umbrella; product positions cascade underneath                                                                                                                                                                                                 |
+| A lead product first, then cross-sell or upsell                   | Position the lead product for new accounts. Position add-ons as the best choice **for accounts that already own the lead product**—not as the best standalone product in that category for anyone                                                            |
 | Same account buys several products together, or in no fixed order | Position a family or suite and teach why buying together is better. Whether SKUs can be purchased separately is packaging, not positioning. Do not use “platform” unless the products are actually integrated and extensible; many buyers hear it as “suite” |
-| Completely different types of companies | Position the products separately. Add a company umbrella only when credibility in one market actually helps the other. If it does not, keep the stories apart |
+| Completely different types of companies                           | Position the products separately. Add a company umbrella only when credibility in one market actually helps the other. If it does not, keep the stories apart                                                                                                |
+
 
 Do not assemble a positioning team until this choice is written down.
 
@@ -122,9 +132,11 @@ Turn the same positioning into a 20-second verbal story:
 
 > Trigger → crack in the alternative → result → one confirmation question.
 
-The homepage, first outbound paragraph, and demo opening should share this structure.
+The homepage, first outbound paragraph, and demo opening should share this structure. The full first-meeting version—setup then follow-through—is in [sales enablement](sales-enablement.md).
 
 ## Copyable templates
+
+
 
 ### Positioning worksheet
 
@@ -150,14 +162,20 @@ Executive version:
 
 > We are changing from ___ to ___ because ___.
 
+
+
 ### So-what ladder
 
-| Layer | Prompt | Draft |
-|---|---|---|
-| Capability | What can we do that the alternative cannot? | |
-| So what? | Why does the champion care in their job? | |
-| Business result | What changes in a number or a risk they already own? | |
-| Stop test | If we ask “so what?” once more, do we get a claim any competitor could copy? If yes, keep the previous line | |
+
+| Layer           | Prompt                                                                                                      | Draft |
+| --------------- | ----------------------------------------------------------------------------------------------------------- | ----- |
+| Capability      | What can we do that the alternative cannot?                                                                 |       |
+| So what?        | Why does the champion care in their job?                                                                    |       |
+| Business result | What changes in a number or a risk they already own?                                                        |       |
+| Stop test       | If we ask “so what?” once more, do we get a claim any competitor could copy? If yes, keep the previous line |       |
+
+
+
 
 ### Comparison-page outline
 
@@ -170,13 +188,17 @@ Executive version:
 7. **Proof:** dated, verifiable evidence
 8. **Next step:** one decision-specific action
 
-| Criterion | Current alternative | Proposed approach | Evidence needed |
-|---|---|---|---|
-| Business result | | | |
-| Implementation | | | |
-| Workflow ownership | | | |
-| Data and security | | | |
-| Total operating cost | | | |
+
+| Criterion            | Current alternative | Proposed approach | Evidence needed |
+| -------------------- | ------------------- | ----------------- | --------------- |
+| Business result      |                     |                   |                 |
+| Implementation       |                     |                   |                 |
+| Workflow ownership   |                     |                   |                 |
+| Data and security    |                     |                   |                 |
+| Total operating cost |                     |                   |                 |
+
+
+
 
 ## Homepage checklist
 
@@ -193,16 +215,20 @@ Executive version:
 - [ ] The same positioning can open an outbound conversation or demo.
 - [ ] What is being positioned (product vs family vs company) matches how the team sells.
 
+
+
 ## Metrics
 
-| Metric | How to use it |
-|---|---|
-| Message recall | Ask a new teammate or prospect to repeat what the product is for after one exposure |
-| Qualified CTA rate | Qualified visitors or target accounts taking the intended next step / qualified visitors exposed |
-| Alternative specificity | Opportunities where the current tool or process is named / qualified opportunities |
-| Status-quo loss share | Opportunities lost to “no decision” or the current process / qualified opportunities—validate against your CRM, do not import someone else’s percentage |
-| Short-list agreement | Marketing, product, and sales names on the live competitor list that match recent deals |
-| Sales-language consistency | Calls or emails using trigger → alternative → result / reviewed sample |
+
+| Metric                     | How to use it                                                                                                                                           |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Message recall             | Ask a new teammate or prospect to repeat what the product is for after one exposure                                                                     |
+| Qualified CTA rate         | Qualified visitors or target accounts taking the intended next step / qualified visitors exposed                                                        |
+| Alternative specificity    | Opportunities where the current tool or process is named / qualified opportunities                                                                      |
+| Status-quo loss share      | Opportunities lost to “no decision” or the current process / qualified opportunities—validate against your CRM, do not import someone else’s percentage |
+| Short-list agreement       | Marketing, product, and sales names on the live competitor list that match recent deals                                                                 |
+| Sales-language consistency | Calls or emails using trigger → alternative → result / reviewed sample                                                                                  |
+
 
 Do not count a completed messaging workshop, slogan volume, unqualified traffic, or curiosity clicks as positioning outcomes.
 
@@ -219,6 +245,8 @@ Do not count a completed messaging workshop, slogan volume, unqualified traffic,
 - Inventing company-level positioning for a single product because a future platform is planned.
 - Claiming differentiation without verifiable proof.
 - Allowing the homepage, outbound message, and sales story to contradict one another.
+
+
 
 ## Sources and evidence boundary
 

@@ -2,9 +2,9 @@
 
 > **Decision owned:** What should the market understand, believe, compare, and buy?
 
-**Status:** Domain guide published · 2 tactic playbooks published
+**Status:** Domain guide published · 3 tactic playbooks published
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 ## Scope
 
@@ -33,7 +33,7 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 | [Pricing and packaging](pricing-and-packaging.md) | Published | How should the offer convert differentiated value into a number the champion can defend? |
 | Product launch | Planned: `product-launch.md` | How should a product change become a coordinated market event? |
 | Proof and claims | Planned: `proof-and-claims.md` | Which evidence is strong enough to support each commercial claim? |
-| Sales enablement | Planned: `sales-enablement.md` | Which reusable narratives and assets help sellers guide a buying decision? |
+| [Sales enablement](sales-enablement.md) | Published | How should positioning become a first meeting that helps the buyer choose? |
 
 Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
 
@@ -43,7 +43,8 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 2. Set a simple price that can be asked for now, using [pricing and packaging](pricing-and-packaging.md).
 3. Build the message hierarchy and value proposition.
 4. Establish proof, claims, and competitive-intelligence standards.
-5. Package the system for website, content, sales, partner, and lifecycle use.
+5. Turn positioning into the [sales pitch](sales-enablement.md) so the story does not die in first meetings.
+6. Package remaining assets for website, content, partners, and lifecycle.
 
 ## Interfaces with other domains
 
