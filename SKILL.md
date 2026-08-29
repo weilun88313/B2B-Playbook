@@ -40,6 +40,8 @@ Produce a usable artifact or decision, not broad advice.
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
 | VP Sales / sales-leader first 90 days | `playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md` |
+| CRM data model / field map / migration | `playbooks/09-operations-pipeline-and-measurement/crm-data-model.md` |
+| MarTech governance / vendor bake-off | `playbooks/09-operations-pipeline-and-measurement/martech-governance.md` |
 | Working file (Sheet / Doc / Slides blank) | `TEMPLATES.md` |
 | Software selection | `TOOLS.md` |
 | Newsletters, KOLs, or reading sources | `RESOURCES.md` |

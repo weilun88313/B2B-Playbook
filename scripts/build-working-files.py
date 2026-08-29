@@ -595,10 +595,165 @@ def build_capacity():
     wb.save(OUT / "gtm-sales-capacity.xlsx")
 
 
+def _object_sheet(wb, title):
+    ws = wb.create_sheet(title)
+    banner(ws, 1, 9, f"B2B Playbook · {title} field map")
+    note(ws, 2, 9, "Left = legacy. Right = new org. Types must match. Yellow = inputs. Copyright © 2026 Ivan Xu.")
+    header_row(
+        ws,
+        4,
+        [
+            "Legacy label",
+            "Legacy API name",
+            "Legacy type",
+            "Populated records",
+            "Keep / kill / transform",
+            "New label",
+            "New API name",
+            "New type",
+            "Standard or custom",
+        ],
+    )
+    for r in range(5, 35):
+        for c in range(1, 10):
+            input_cell(ws.cell(r, c))
+    col_widths(ws, [22, 22, 16, 18, 18, 22, 22, 16, 18])
+    return ws
+
+
+def build_crm_map():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Scope"
+    banner(s, 1, 4, "B2B Playbook · CRM field map")
+    note(
+        s,
+        2,
+        4,
+        "Map left to right. Count populated records before you keep a field. Duplicate an object tab for Task, Contract, or custom objects. Copyright © 2026 Ivan Xu.",
+    )
+    labels = [
+        (4, "From-org"),
+        (5, "To-org"),
+        (6, "Freeze date"),
+        (7, "Owner"),
+        (8, "Objects we will not move"),
+        (9, "Population rule (below n → kill)"),
+    ]
+    for r, lab in labels:
+        s.cell(r, 1, lab).font = font_label
+        s.merge_cells(start_row=r, start_column=2, end_row=r, end_column=4)
+        input_cell(s.cell(r, 2))
+    col_widths(s, [36, 28, 20, 20])
+
+    for name in ("Lead", "Account", "Contact", "Opportunity"):
+        _object_sheet(wb, name)
+
+    p = wb.create_sheet("Picklists")
+    banner(p, 1, 4, "Every picklist and multi-select. Stage values must match the forecast page.")
+    header_row(p, 3, ["Object", "Field", "Value", "Notes"])
+    for r in range(4, 40):
+        for c in range(1, 5):
+            input_cell(p.cell(r, c))
+    col_widths(p, [18, 28, 28, 40])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not your schema. Delete before this is the migration spec.")
+    t["A3"] = "Keep"
+    t["B3"] = "Lead email, company, source, score, owner. Opportunity amount, close date, stage, next step, forecast category."
+    t["A4"] = "Kill"
+    t["B4"] = "Unused UTM customs with almost no populated rows. Vibe field named Temperature."
+    t["A5"] = "Picklist"
+    t["B5"] = "Stages = the five names on the forecast page. Retire Open / Working / Hot."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [12, 100])
+    wb.save(OUT / "crm-field-map.xlsx")
+
+
+def build_vendor_eval():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Jobs"
+    banner(s, 1, 6, "B2B Playbook · Vendor evaluation")
+    note(
+        s,
+        2,
+        6,
+        "Split jobs before vendors. Community scores are prompts, not your score. Yellow = inputs. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "Bake-off owner"
+    input_cell(s["B4"])
+    s["C4"] = "Review / kill date"
+    input_cell(s["D4"])
+    s["A5"] = "Required CRM writes (two-way?)"
+    s.merge_cells("B5:F5")
+    input_cell(s["B5"])
+    header_row(
+        s,
+        7,
+        [
+            "Job (cadence / CI / forecast / other)",
+            "Who lives in it weekly",
+            "Must write to CRM",
+            "In this buy? (yes/no)",
+            "Why / why not",
+            "Notes",
+        ],
+    )
+    for r in range(8, 14):
+        for c in range(1, 7):
+            input_cell(s.cell(r, c))
+    col_widths(s, [36, 22, 22, 16, 40, 28])
+
+    v = wb.create_sheet("Bake-off")
+    banner(v, 1, 8, "One row per vendor you will actually talk to. Do not paste a published 9.2/10.")
+    header_row(
+        v,
+        3,
+        [
+            "Vendor",
+            "Jobs it claims",
+            "Win reasons (their buyers / our tests)",
+            "Opportunity areas we will test",
+            "Pricing model",
+            "Time-to-live-in-tool (our range)",
+            "Two-way CRM sync (yes/no/unknown)",
+            "Alternatives they were compared to",
+        ],
+    )
+    for r in range(4, 10):
+        for c in range(1, 9):
+            input_cell(v.cell(r, c))
+            v.row_dimensions[r].height = 36
+    col_widths(v, [18, 22, 36, 36, 20, 24, 22, 28])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not a ranking. Delete before procurement.")
+    t["A3"] = "Jobs"
+    t["B3"] = "Cadence this year. Conversation intelligence later. Forecast stays in CRM."
+    t["A4"] = "Tests"
+    t["B4"] = "Two-way opportunity sync, cadence builder in our objects, support in our hours. Not a borrowed satisfaction score."
+    t["A5"] = "Kill"
+    t["B5"] = "If required fields cannot sync two-way, it is a no—not phase two."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [12, 100])
+    wb.save(OUT / "vendor-evaluation.xlsx")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     build_demo()
     build_lead_scoring()
     build_demand()
     build_capacity()
-    print("wrote", list(OUT.glob("*.xlsx")))
+    build_crm_map()
+    build_vendor_eval()
+    print("wrote", sorted(p.name for p in OUT.glob("*.xlsx")))
