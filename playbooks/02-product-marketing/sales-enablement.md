@@ -1,0 +1,132 @@
+# Sales enablement
+
+**Last reviewed:** 2026-08-29
+
+Sales enablement here is the shared **pitch**: a story that helps a stressed buyer choose with confidence. It is not a feature walkthrough, a logo slide, or the full enterprise sales cycle.
+
+The real opponent in many B2B software deals is **no decision**. Buyers are often more afraid of messing up than of missing out. A recommender who does not understand the market will delay, keep the status quo, and stay off the hook. Teaching the market—including the status quo—is the pitch’s job.
+
+This page translates [positioning](positioning.md) into a meeting. Opportunity stages, papering, and procurement remain outside this marketing taxonomy. Use it when the motion is sales-assist or outbound; see [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+
+## Use this when
+
+- Demos log in and click through features until time runs out.
+- Positioning exists in a doc and dies the moment sales starts talking.
+- Deals stall as “no decision” even when the status quo is painful.
+- Marketing, product, and sales cannot tell the same story in the first 10 minutes.
+
+## Do not use this when
+
+- Positioning is empty. Complete [positioning](positioning.md) first—especially alternatives, differentiated value, and the champion.
+- The buyer can activate and pay with no human. Do not bolt a 40-minute pitch onto a self-serve motion.
+- The meeting is a security questionnaire or a legal redline. Those are objections after the champion is sold.
+
+## Operating method
+
+The pitch has two parts. **Setup** aligns the buyer with your point of view on the *whole* market. **Follow-through** proves only the differentiated value that matches that view. Features never appear outside the value they deliver.
+
+### Step 1: remember who is in the chair
+
+The economic buyer often delegates. The person on the call may never have bought this category, does not know which features matter, and will be blamed if the team hates the choice. Trials do not answer audit, security, integration, or “will my boss hate this.”
+
+The easiest move for that person is delay. Your pitch has to make a confident recommendation *safer* than waiting.
+
+### Step 2: write the setup (conversation, not a monologue)
+
+Setup should take a few minutes and stay a dialogue: Does this match how you see it? What do you use today? What else have you looked at? That is discovery. Do not save all questions for a BANT interrogation after a 30-feature tour.
+
+**1. Insight.** What must the buyer believe so that *your* differentiated value matters? It is your point of view on the job—not a generic “problem” or trend any competitor could claim.
+
+Test: could a rival open with the same sentence? If yes, it is not insight.
+
+**2. Alternative approaches.** Teach the market as **approaches**, not a dunk on named logos: status quo, the obvious adjacent category, the “full suite.” For each: what it is good at, and where it breaks for a customer like this. This is how you position every path they could take, including doing nothing. It is also how you cure indecision: they can finally see the trade-offs.
+
+**3. Perfect world.** Close the setup: given those trade-offs, what would a right solution have to do? If they agree, the rest of the meeting is proof. If they disagree, **disqualify**—you have nothing they want. Do not keep demoing.
+
+### Step 3: follow through only on that perfect world
+
+Demo and proof exist to show *how you deliver* the agreed list—not to exhaust the product. Show what gets replaced, what stays, how value shows up in the business, and one dated proof point. Stop when the list is covered.
+
+Do not walk shared-inbox features and help-desk features as if the overlap were the story. The story is why this approach wins for this buyer.
+
+### Step 4: build it with the same room that built positioning
+
+Product, marketing, and sellers who still run early calls should write the pitch together. Otherwise the positioning workshop produces a document and the live meeting reverts to a tour. One structure across homepage, outbound open, and first sales meeting; the 20-second version stays in [positioning](positioning.md#step-9-synchronize-the-spoken-version).
+
+## Copyable templates
+
+### Pitch one-pager
+
+**Setup**
+
+- Insight (must be unique to us):
+- Approaches we will teach (status quo + 1–2 others), each with a strength and a break:
+- Perfect-world sentence we will ask them to agree with:
+- Disqualify if they say:
+
+**Follow-through** (only what proves the perfect world)
+
+| Perfect-world requirement | What we show | Proof (dated) |
+|---|---|---|
+| | | |
+
+**Discovery questions inside setup** (not a separate interrogation)
+
+- What they use today:
+- What they have already considered:
+- Where the insight did or did not land:
+
+### Setup vs walkthrough
+
+| Walkthrough | This pitch |
+|---|---|
+| Login → features until time runs out | Insight → approaches → perfect world → only matching proof |
+| Buyer must infer why us | You teach why each path wins and loses |
+| Vague “problem” any vendor could claim | Insight a competitor would not open with |
+| Demo is the meeting | Demo is follow-through after agreement |
+| Keep pitching if they shrug | Disqualify if they reject the perfect world |
+
+## Pre-flight checklist
+
+- [ ] Positioning alternatives and value themes are written; this pitch does not invent a new story.
+- [ ] Insight fails the “could a competitor say this?” test.
+- [ ] Status quo is an approach on the list, not “no decision” in CRM only.
+- [ ] Approaches are categories of how the job is done, not a hit list of logos—unless a name is already on their short list.
+- [ ] Perfect world is a yes/no the champion can answer.
+- [ ] “No” has a disqualify action, not a longer demo.
+- [ ] Every demo block maps to one perfect-world line.
+- [ ] Setup is questions, not a TED talk.
+- [ ] Marketing, product, and an AE who still takes first meetings signed the same one-pager.
+
+## Metrics
+
+| Metric | Diagnostic use |
+|---|---|
+| Setup agreement | Meetings where the champion explicitly agrees the perfect world / sampled first meetings |
+| Walkthrough relapse | Recorded calls that start in the product before insight and alternatives |
+| No-decision rate | Qualified opportunities closed-lost as no decision or delay—your CRM, not a borrowed 40–60% |
+| Disqualify hygiene | Opportunities stopped after rejected perfect world, instead of endless demos |
+| Story consistency | First meetings, outbound opens, and homepage using the same insight and approaches |
+
+Do not count slides shipped, demo length, or “we mentioned the problem” as enablement outcomes.
+
+## Common mistakes
+
+- Opening with company history, logos, or a problem slide every vendor could use.
+- Teaching features and leaving “why us” to the buyer.
+- Pitching named competitors the prospect has never met, and skipping the status quo.
+- Treating indecision as a pricing or urgency tactic (FOMO) instead of a teaching failure.
+- Demoing after the buyer has already rejected the perfect world.
+- Letting positioning stay in marketing while sales runs a tour.
+
+## Sources and evidence boundary
+
+This is an owner-maintained operating synthesis. It is not a script guaranteed to close, and it is not legal, procurement, or security advice.
+
+The setup / follow-through structure, insight vs generic problem, teaching alternative *approaches*, the perfect-world agree-or-disqualify gate, and the claim that many B2B processes end in no decision because buyers cannot choose confidently draw on April Dunford’s sales-pitch guidance ([Lenny’s Newsletter, 2023-10-17](https://www.lennysnewsletter.com/p/how-to-build-a-killer-sales-pitch?ref=b2b-playbook)), which builds on her positioning work. The 40–60% “no decision” range is attributed there to Dixon and McKenna, *The JOLT Effect*, from a large call-analysis sample; treat it as a named research claim and measure your own funnel. Worked examples in that source (including Help Scout and Postman) are the author’s illustrations, not independently audited case studies in this repository.
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

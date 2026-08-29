@@ -6,9 +6,9 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 12 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
+**Current coverage:** 13 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 ### What this is
 
@@ -40,7 +40,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | # | Capability domain | Decision it owns | Current coverage |
 |---|---|---|---|
 | 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) |
-| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md) |
+| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md); planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
 | 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md); planned: cold call, LinkedIn outbound |
@@ -49,7 +49,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | Planned: nurture, onboarding, customer education, community, advocacy, referral, renewal |
 | 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data, process, technology, and measurement make marketing repeatable | Planned: funnel, pipeline, scoring, routing, CRM model, attribution, dashboards, experiments |
 
-Enterprise selling is outside this marketing taxonomy. If the library later expands into sales, it will use a separate top-level collection.
+Enterprise selling as a full cycle (papering, procurement, multi-threaded close) is outside this marketing taxonomy. The shared first-meeting pitch lives in [sales enablement](playbooks/02-product-marketing/sales-enablement.md). If the library later expands into sales operations, it will use a separate top-level collection.
 
 ### What every published playbook contains
 
@@ -132,7 +132,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 12 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
+**当前覆盖：** 13 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-28
 
@@ -166,7 +166,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 编号 | 能力域 | 负责的核心决策 | 当前覆盖 |
 |---|---|---|---|
 | 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) |
-| 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md) |
+| 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)；计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
 | 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)；计划：Cold Call、LinkedIn Outbound |
@@ -175,7 +175,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | 计划：培育、Onboarding、客户教育、客户社区、倡导、推荐、续约 |
 | 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 如何通过数据、流程、技术和衡量体系让营销可以重复运行 | 计划：漏斗、Pipeline、评分、路由、CRM 模型、归因、仪表盘、实验 |
 
-企业销售不属于这套营销分类。如果知识库未来扩展到销售，将建立单独的顶层内容集合。
+企业销售全过程（合同、采购、多线程推进）不属于这套营销分类。第一次会议用的共用话术见 [销售赋能](playbooks/02-product-marketing/sales-enablement.md)。如果知识库未来扩展到销售运营，将建立单独的顶层内容集合。
 
 ### 每篇已发布 Playbook 包含什么
 
