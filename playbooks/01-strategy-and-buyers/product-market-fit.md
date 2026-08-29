@@ -8,7 +8,7 @@ What you can do is stop treating PMF as a binary switch. In B2B it is a process 
 
 You still need a starting line. The founders Lenny Rachitsky interviewed did not wait for a feeling of completion. They climbed a ladder: one company that loves the product, one that pays real money, several that do both, then pull instead of push, then growth that does not depend on a heroic week.
 
-This chapter is that ladder. It sits after you can name an [ICP](icp.md). It sits before you scale a [channel](../04-channels-and-distribution/channel-strategy.md). Word of mouth is usually a **symptom** of this chapter, not a budget line in the next one.
+This chapter is that ladder. It sits after you can name an [ICP](icp.md) and after you have a way to [find the first ten](first-ten-customers.md). It sits before you scale a [channel](../04-channels-and-distribution/channel-strategy.md). Word of mouth is usually a **symptom** of this chapter, not a budget line in the next one.
 
 ## Use this when
 
@@ -20,6 +20,7 @@ This chapter is that ladder. It sits after you can name an [ICP](icp.md). It sit
 ## Do not use this when
 
 - You have not talked to real buyers. Fill [ICP](icp.md) from conversations first.
+- You have no path to a first company. Walk [first ten customers](first-ten-customers.md) before arguing about fit.
 - You want a metric that replaces sitting with one company until they succeed.
 - You are using “we lack PMF” as a reason not to [ask for money](../02-product-marketing/pricing-and-packaging.md).
 
@@ -171,7 +172,7 @@ Do not count GitHub stars, waitlist size, or “the vision is working” as a ru
 
 ## What to read next
 
-You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
+You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You still need a way to reach them: [first ten customers](first-ten-customers.md). You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
 
 ## Sources and evidence boundary
 

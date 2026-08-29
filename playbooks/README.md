@@ -19,6 +19,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 |---|---|---|
 | ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
+| First 10 customers | [Strategy & buyers](01-strategy-and-buyers/) | [First ten customers](01-strategy-and-buyers/first-ten-customers.md) |
 | Product-market fit | [Strategy & buyers](01-strategy-and-buyers/) | [Product-market fit](01-strategy-and-buyers/product-market-fit.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
@@ -50,6 +51,7 @@ Published:
 
 - [Ideal customer profile](01-strategy-and-buyers/icp.md)
 - [Buying committee](01-strategy-and-buyers/buying-committee.md)
+- [First ten customers](01-strategy-and-buyers/first-ten-customers.md)
 - [Product-market fit](01-strategy-and-buyers/product-market-fit.md)
 
 Planned: market research, segmentation, buyer journey, jobs to be done, category entry points, competitive alternatives.

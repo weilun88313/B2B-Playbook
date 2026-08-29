@@ -133,7 +133,7 @@ A map that lists six titles and zero evidence is still empty. Copy the fields be
 
 ## What to read next
 
-A complete map of seats is not fit. See whether those people love the product and pay: [product-market fit](product-market-fit.md). When they will sit in a room with you, the story they need is [positioning](../02-product-marketing/positioning.md).
+A complete map of seats is not a customer. Go get ICP-matching companies: [first ten customers](first-ten-customers.md). Whether those people love the product and pay is [product-market fit](product-market-fit.md). When they will sit in a room with you, the story they need is [positioning](../02-product-marketing/positioning.md).
 
 ## Sources and evidence boundary
 
