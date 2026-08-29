@@ -4,7 +4,7 @@
 
 Nearly half the B2B companies in one later-successful interview set went through at least one failed idea first. Some went through ten. Christina Cacioppo’s version: the first couple of ideas were total crap. Retool was Venmo for the U.K. Amplitude was voice-to-text. Segment was a classroom lecture tool. Vanta was B2B Alexa. Notion was a no-code website builder. Loom was a marketplace for hiring experts. Slack was a game. Box was a Facebook photo box.
 
-The question is not “do we have a slogan.” It is: **is this a real idea, or more crap?** This chapter sits before [ICP](icp.md). You are still allowed to be wrong about *who*. You are not allowed to go all-in on polite interest.
+The question is not “do we have a slogan.” It is: **is this a real idea, or more crap?** This chapter sits after [idea discovery](idea-discovery.md) and before [ICP](icp.md). You are still allowed to be wrong about *who*. You are not allowed to go all-in on polite interest.
 
 All four paths below are different investments in the same two things: **pain** (the problem matters) and **pull** (they actually want *your* way). Product-market fit—love, pay, pull at a growing scale—is a later ladder: [PMF](product-market-fit.md).
 
@@ -17,6 +17,7 @@ All four paths below are different investments in the same two things: **pain** 
 
 ## Do not use this when
 
+- You do not have a candidate yet—no path, no three ingredients. That is [idea discovery](idea-discovery.md).
 - You already have dated evidence of pay, usage, emotion, or cold inbound and are choosing *who* to serve. That is [ICP](icp.md).
 - You are hunting the first ten logos. That is [first ten customers](first-ten-customers.md).
 - You want a metric that replaces talking to people. There isn’t one.
@@ -179,7 +180,7 @@ Do not count a completed interview sprint, a landing page, or “we’re in stea
 
 ## What to read next
 
-If pain and pull are real, name **who**: [ICP](icp.md), then [buying committee](buying-committee.md). Then [find the first ten](first-ten-customers.md)—warm rings and targeted cold, which is also how you keep validating. Whether they love it and pay at a growing scale is [product-market fit](product-market-fit.md). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) to save a mushy idea.
+If you still do not have a candidate, go back to [idea discovery](idea-discovery.md). If pain and pull are real, name **who**: [ICP](icp.md), then [buying committee](buying-committee.md). Then [find the first ten](first-ten-customers.md)—warm rings and targeted cold, which is also how you keep validating. Whether they love it and pay at a growing scale is [product-market fit](product-market-fit.md). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) to save a mushy idea.
 
 ## Sources and evidence boundary
 
