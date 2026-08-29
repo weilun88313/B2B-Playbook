@@ -1,6 +1,6 @@
 # Multichannel sequence
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
 A multichannel sequence coordinates email, phone, professional networks, partners, events, and useful assets around one account hypothesis. It is not the same message copied across more channels.
 
@@ -49,20 +49,25 @@ Every step must add information. “Just following up” is not a strategy.
 
 ## Copyable template
 
+Teaching fill (same questionnaire-pack hypothesis as [account research](account-research.md)):
+
+| Step | Channel | Evidence / value added | Message or action | Delay | Stop when |
+|---|---|---|---|---|---|
+| 1 | Email | Dated jobs + spreadsheet alternative | Two-sentence first message | Day 0 | Premise is false |
+| 2 | Phone | Who owns the last questionnaire | One discovery question, not a recap of the email | Day 3 | Alternative corrected |
+| 3 | LinkedIn | Professional context only | Comment or note that adds a seat question | After a reply or a week | Correct seat known |
+| 4 | Email | Comparison page from [content strategy](../03-brand-story-and-content/content-strategy.md) | Artifact, not “just checking in” | When they ask how to choose | They decline |
+| 5 | Original channel | Close the loop | Pause until a dated trigger | After no qualified signal | Done |
+
+Copy: segment, trigger, seat, alternative, then five steps with a distinct job each.
+
 - Segment / account tier:
 - Shared trigger:
 - Target buying seat:
 - Current alternative hypothesis:
 - Desired buyer decision:
 - Suppression source of truth:
-
-| Step | Channel | Evidence / value added | Message or action | Delay | Owner | Stop condition |
-|---|---|---|---|---|---|---|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
+- Steps 1–5 (channel / evidence added / action / delay / owner / stop):
 
 ## Pre-flight checklist
 

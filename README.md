@@ -82,7 +82,7 @@ Each completed tactic page includes:
 8. common mistakes;
 9. sources, evidence boundaries, a last-reviewed date, and a pointer to the next chapter.
 
-Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence. Templates and checklists stay on every page so an agent can execute; they are not a substitute for a chapter you can read.
+Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence. Templates and checklists stay on every page so an agent can execute; they are not a substitute for a chapter you can read. Named companies that appear inside playbooks are **attributed illustrations** from dated sources (founder interviews, practitioner essays). They are not the planned [Verified use cases](#start-with-one-decision) collection, which will only publish a company when this repository can point to a primary source and a date for *that* motion.
 
 ### Tool directory
 
@@ -225,7 +225,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 8. 常见错误；
 9. 来源、证据边界、最后核验日期，以及下一章指向。
 
-计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。模板和清单留在每页上，是为了让智能体也能执行；它们不能代替一篇能读下去的章节。
+计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。模板和清单留在每页上，是为了让智能体也能执行；它们不能代替一篇能读下去的章节。Playbook 正文里出现的具名公司，是带日期来源的**访谈/文章插图**，不是计划中的 [已验证 Use Cases](#从一个决策开始) 专栏。专栏只会在本仓库能指出该动作的一手来源和日期时才发布。
 
 ### 工具目录
 

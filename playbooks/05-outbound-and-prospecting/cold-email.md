@@ -1,6 +1,6 @@
 # Cold email
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
 Cold email tests whether a relevant account and buying seat will engage with a specific business hypothesis. Email is the delivery channel, not the strategy.
 
@@ -58,7 +58,17 @@ Weak replies can come from the wrong accounts, wrong seat, weak trigger, poor ti
 
 ## Copyable templates
 
-### First message
+### How a filled first message reads
+
+Teaching fill—not a sendable email to a real company:
+
+**Subject:** Security packs after a hiring spike
+
+> Your careers page listed three security-engineer roles this month. Teams in that situation often still assemble customer-review evidence in a spreadsheet. Is that already solved, or worth a 20-minute look at how the pack gets built?
+
+Close-the-loop: you will stop unless a dated trigger appears (renewal, a named security lead, another lost deal).
+
+### First message (copy)
 
 **Subject:** [trigger or decision]
 

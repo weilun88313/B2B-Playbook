@@ -70,6 +70,14 @@ Pick the partner type that already sits on the buyer’s path. Prove the flywhee
 
 A useful pattern: become the best option **inside one ecosystem** the buyer already chose, then expand. Positioning add-ons the same way—best for accounts that already own the lead product—is in the [positioning playbook](../02-product-marketing/positioning.md#step-8-position-the-way-you-sell).
 
+Named illustrations in Emily Kramer’s 2025 write-up (her claims on her date, not this repository’s benchmarks):
+
+- **Supabase / Vercel-shaped:** grow as the default complement *inside* a platform or community the developer already chose, not as a lonely brand blog.
+- **HubSpot-shaped:** agencies and channel partners who already sit with the buying seats—coverage × composition, not a logo wall.
+- **Gamma / creator-shaped:** practitioners who already teach the buyer; the company amplifies rather than manufacturing trust from zero. Treat “half of growth” style figures as that author’s dated claim.
+- **Clay / integration-shaped:** the product sits in the workflow the buyer already runs; the partner is the pipe, not a rented list.
+- **Vanta / Tracksuit / Arrows:** named in that piece as ecosystem examples; copy the *motion*, not the screenshot metrics.
+
 ### Step 5: run the flywheel across channels you already use
 
 Ecosystem is not a sixth silo. Attach it to work that already exists:
@@ -90,13 +98,21 @@ A signed logo, a Discord member, or a creator post is activity. The motion is wo
 
 ## Copyable templates
 
-### Ecosystem map
+### How a filled ecosystem map reads
 
-| Partner | Type | Coverage (high / med / low) | Composition (high / med / low) | Access they already have | Our ask | Their win | Buyer win | Owner | Status |
+Teaching fill: one implementation agency that already serves your ICP (HubSpot-shaped channel partner), not ten logos.
+
+| Partner | Type | Coverage | Composition | Access they already have | Our ask | Their win | Buyer win | Owner | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | | Scout / live / pause |
+| Named agency that implements the incumbent stack | Channel | Med | High | Quarterly QBR with ops leads | Referral into two T1 accounts / quarter | A pack they can leave behind; early product access | A trusted intro, not a cold sequence | Founder + one AE | Live |
 
-Keep the live map to the partners you can actually work this quarter. A long spreadsheet of logos is a radar, not a program.
+Win-win-win: we get qualified conversations; they get a deliverable their client will thank them for; the buyer gets a comparison they can forward. If the third sentence is “they post our PDF,” it is not a program.
+
+Copy: one row this quarter, not a spreadsheet of maybe-partners.
+
+### Ecosystem map (copy)
+
+- Partner / type / coverage / composition / access / our ask / their win / buyer win / owner / status:
 
 ### Win-win-win brief (one partner)
 

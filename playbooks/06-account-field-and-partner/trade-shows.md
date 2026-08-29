@@ -1,6 +1,6 @@
 # Trade shows
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
 A trade show is a time-bounded account-access program. Booth traffic and badge scans are inputs; qualified next actions are the output.
 
@@ -55,18 +55,20 @@ This is an effort-allocation heuristic, not an ROI formula.
 
 ## Copyable templates
 
-### Meeting brief
+### How a filled meeting brief reads
 
-| Field | Notes |
-|---|---|
-| Account / tier | |
-| Person / buying seat | |
-| Trigger | |
-| Current alternative | |
-| Facts and assumptions | |
-| Unknowns | |
-| Intended next step | |
-| Owner / time / location | |
+Same shape as [event marketing](event-marketing.md): T1 account, champion booked, trigger = questionnaire losses, next step = working session with the operator, not a badge scan.
+
+### Meeting brief (copy)
+
+- Account / tier:
+- Person / buying seat:
+- Trigger:
+- Current alternative:
+- Facts and assumptions:
+- Unknowns:
+- Intended next step:
+- Owner / time / location:
 
 ### Conversation capture
 

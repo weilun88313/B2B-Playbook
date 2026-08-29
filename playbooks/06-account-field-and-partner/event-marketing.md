@@ -1,6 +1,6 @@
 # Event marketing
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
 Event marketing uses owned, sponsored, partner, and industry events to create access, memory, evidence, and qualified next actions. The format follows the objective; a booth is not the strategy.
 
@@ -82,6 +82,10 @@ Follow-up should restate the buyer's words, the agreed next step, the owner, and
 
 ## Copyable templates
 
+### How a filled event brief reads
+
+Teaching fill: a 400-person industry dinner, not a booth. Decision: **attend** because four T1 accounts already accepted a 20-minute slot. Score: access to named seats, not foot traffic. Skip if those meetings cannot be booked beforehand.
+
 ### Event brief
 
 - Event and date:
@@ -94,18 +98,29 @@ Follow-up should restate the buyer's words, the agreed next step, the owner, and
 - Budget and staff capacity:
 - Stop or downgrade condition:
 
-### Meeting brief
+### How a filled meeting brief reads
 
-| Field | Notes |
+| Field | Teaching fill |
 |---|---|
-| Account and person | |
-| Buying seat | |
-| Trigger | |
-| Current alternative | |
-| Evidence | |
-| Unknowns | |
-| Intended next step | |
-| Owner / time / location | |
+| Account and person | T1 account; head of customer ops who booked |
+| Buying seat | Champion; economic buyer still unknown |
+| Trigger | Two lost deals citing questionnaire time |
+| Current alternative | Spreadsheet + shared drive |
+| Evidence | Their words on the booking note |
+| Unknowns | Who in security can stop a vendor |
+| Intended next step | 30-minute working session with the operator who builds the pack |
+| Owner / time / location | AE name; 14:00, quiet table, not the noisy aisle |
+
+### Meeting brief (copy)
+
+- Account and person:
+- Buying seat:
+- Trigger:
+- Current alternative:
+- Evidence:
+- Unknowns:
+- Intended next step:
+- Owner / time / location:
 
 ### Follow-up
 

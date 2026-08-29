@@ -31,6 +31,8 @@ This chapter names the seats so the next conversation has a job. It is not an or
 
 One person may hold several seats. A seat may also be shared across a committee.
 
+April Dunford’s sales-pitch work is the named reminder for this page: the person who took the demo is often not a category expert, will be blamed if the team hates the choice, and will delay rather than pick. The **champion** is the one who can carry the story when you leave. **Help Scout** and **Postman** pitches in that source still have to survive security, procurement, and an economic buyer—you do not write a separate slogan for each seat; you map them.
+
 ## Operating method
 
 ### Step 1: begin with the decision
@@ -60,6 +62,21 @@ Record changes in influence, objections, timing, approval, and implementation ow
 
 ## Copyable template
 
+### How a filled committee map reads
+
+This is a **worksheet fill**, not a named customer. Decision: replace a spreadsheet of security-evidence screenshots with a durable pack. Trigger: two lost deals this quarter.
+
+| Seat | Name / role | What they care about | Influence | Evidence | Unknown / next action |
+|---|---|---|---|---|---|
+| Economic buyer | VP Customer Ops (assumed) | Questionnaire SLA vs lost revenue | High if they own the number | Observation: they booked the first call | Confirm who signs; ask after they agree the job is theirs |
+| Champion | Head of customer ops | Can they forward a pack without another meeting | High if they send internal mail | Fact: they asked for a comparison page | Watch for a forward this week |
+| Technical buyer | Security lead | Data residency, SSO, audit log | Can stop | Unknown | Ask champion who ran the last questionnaire |
+| Blocker | Same security lead, or IT | Control of vendor list | High if they own the list | Assumption | Do not skip; book 20 minutes on their questions |
+| Operator | Customer-ops specialist | Does the pack take longer than the spreadsheet | Low budget, high adoption | Observation: they live in the sheet | Sit with them once |
+| Procurement / legal | Unknown | DPA, MSA | Can delay after yes | To validate | Ask who onboarded the last SaaS tool |
+
+A map that lists six titles and zero evidence is still empty. Copy the fields below.
+
 ### Decision context
 
 - Account:
@@ -68,16 +85,14 @@ Record changes in influence, objections, timing, approval, and implementation ow
 - Trigger and date:
 - Target decision date:
 
-### Committee map
+### Committee map (copy)
 
-| Seat | Name / role | What they care about | Influence | Evidence | Unknown / next action |
-|---|---|---|---|---|---|
-| Economic buyer | | | | | |
-| Champion | | | | | |
-| Technical buyer | | | | | |
-| Blocker | | | | | |
-| Operator | | | | | |
-| Procurement / legal | | | | | |
+- Economic buyer — name / care / influence / evidence / next action:
+- Champion — name / care / influence / evidence / next action:
+- Technical buyer — name / care / influence / evidence / next action:
+- Blocker — name / care / influence / evidence / next action:
+- Operator — name / care / influence / evidence / next action:
+- Procurement / legal — name / care / influence / evidence / next action:
 
 ### Relationship questions
 
@@ -123,6 +138,8 @@ A complete map of seats is not fit. See whether those people love the product an
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. Role names are working categories, not universal organizational truth. Validate them against the account's actual process, policies, and participants.
+
+The champion-versus-recommender risk draws on April Dunford’s sales-pitch guidance ([Lenny’s Newsletter, 2023-10-17](https://www.lennysnewsletter.com/p/how-to-build-a-killer-sales-pitch?ref=b2b-playbook)). Help Scout and Postman are that author’s pitch illustrations, not org charts to copy.
 
 ---
 

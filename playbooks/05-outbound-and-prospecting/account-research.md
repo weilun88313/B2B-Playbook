@@ -1,6 +1,6 @@
 # Account research
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
 Account research turns public, permitted evidence into a decision about whether to contact an account, which seat to approach, and what hypothesis to test.
 
@@ -34,15 +34,28 @@ Research the account before the person. A highly personalized message to the wro
 
 This prevents browsing from turning into unbounded collection.
 
+### How a filled hypothesis reads
+
+> A ~400-employee B2B SaaS may fit because customer ops owns security questionnaires, and three security-engineer jobs this month may make pack turnaround urgent now. The likely current alternative is a spreadsheet plus a shared drive, owned by customer ops; the main unknown is who in security can stop a vendor.
+
+Do not use a real account name you cannot source. The sentence shape is the artifact.
+
 ### Step 2: collect evidence with source and date
 
 Useful sources may include company websites, filings, job posts, official announcements, event directories, product documentation, interviews, and permitted commercial data. A source proves only what it actually states.
 
 ### Step 3: classify each item
 
-| Item | Source / date | Fact, observation, assumption, or to validate | Decision impact |
+Teaching fill:
+
+| Item | Source / date | Label | Decision impact |
 |---|---|---|---|
-| | | | |
+| Three “security engineer” jobs | Careers page / this month | Fact | Trigger score 2; still not a budget |
+| “We take security seriously” | Homepage / undated | Observation | Not a trigger |
+| CISO will sign | None | Assumption | Do not write it into the email |
+| Who ran the last questionnaire | — | To validate | Discovery action before send |
+
+Copy: item / source-date / label / impact. Stop when you can pursue, test, pause, or disqualify.
 
 ### Step 4: decide whether the trigger is real
 
@@ -57,6 +70,10 @@ Use the [buying-committee playbook](../01-strategy-and-buyers/buying-committee.m
 Research ends when the team can pursue, test, pause, or disqualify the account. It does not end when every field is full.
 
 ## Copyable research brief
+
+Teaching fill of the same account: tier T1 (score 8); job = questionnaire packs; trigger = jobs + lost-deal notes; alternative = spreadsheet; seat = head of customer ops; stop if security refuses vendors this quarter.
+
+Copy:
 
 - Account:
 - ICP tier and evidence:
