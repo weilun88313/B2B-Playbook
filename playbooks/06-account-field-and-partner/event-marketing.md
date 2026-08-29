@@ -161,6 +161,10 @@ Badge scans, foot traffic, swag distributed, and raw meetings are activity—not
 - Waiting until after the event to assign follow-up owners.
 - Claiming pipeline from registrations or conversations without qualified progression.
 
+## What to read next
+
+If the format is a booth, the spend split and follow-up live in [trade shows](trade-shows.md). If the buyer already learns from people you do not employ, that is [ecosystem](ecosystem.md)—not a bigger sponsorship.
+
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. The 40 / 20 / 40 allocation belongs in the specific [trade-show playbook](trade-shows.md), where it is presented as a heuristic rather than a benchmark or promise.

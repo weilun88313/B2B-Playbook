@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 13 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
+**Current coverage:** 14 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -17,10 +17,27 @@ B2B Playbook is a publicly readable, owner-maintained knowledge base for B2B mar
 It is designed to answer practical questions:
 
 - Which market, account, and buyer should we prioritize?
+- Do they love the product, pay, and start to pull—or are we still on the first company?
 - What should the market understand and believe?
 - Which channel or motion fits the decision in front of us?
 - What evidence would justify the next action?
 - Which tool is appropriate for the job?
+
+### Read it like a book
+
+The index is there so you (or an agent) can jump to a tactic. The pages are written so a person can read them in order and want the next chapter. Follow each page’s **What to read next**. Skip ahead only when you already have that chapter’s decision in writing.
+
+1. [Ideal customer profile](playbooks/01-strategy-and-buyers/icp.md) — who deserves attention this week
+2. [Buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) — who has to say yes
+3. [Product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) — whether anyone loves it, pays, and starts to pull
+4. [Positioning](playbooks/02-product-marketing/positioning.md) — why they should change from the current alternative
+5. [Sales enablement](playbooks/02-product-marketing/sales-enablement.md) — how that sounds in the first meeting
+6. [Pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md) — what they pay, and when you ask
+7. [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) — which pages a champion can forward
+8. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md) — which motion actually creates customers
+9. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
+
+If you only have ten minutes, still start with the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test). Jumping to cold email with no ICP is how teams stay busy.
 
 ### Start with one decision
 
@@ -39,7 +56,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 
 | # | Capability domain | Decision it owns | Current coverage |
 |---|---|---|---|
-| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md) |
+| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, which organizations and people matter, and how they buy | [ICP](playbooks/01-strategy-and-buyers/icp.md), [buying committee](playbooks/01-strategy-and-buyers/buying-committee.md), [product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md) |
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md); planned: LinkedIn organic, SEO, paid media, PR, review sites, content distribution |
@@ -55,17 +72,17 @@ Enterprise selling as a full cycle (papering, procurement, multi-threaded close)
 
 Each completed tactic page includes:
 
-1. what it is;
+1. a judgment a practitioner can argue with—not only a glossary definition;
 2. when to use it and when not to use it;
 3. strategy and operating principles;
-4. step-by-step execution;
+4. step-by-step execution, with at least one concrete mechanism or worked pattern;
 5. copyable templates;
 6. a pre-flight checklist;
 7. operating metrics and non-metrics;
-8. common mistakes; and
-9. sources, evidence boundaries, and a last-reviewed date.
+8. common mistakes;
+9. sources, evidence boundaries, a last-reviewed date, and a pointer to the next chapter.
 
-Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence.
+Planned topics remain in the master index until the page is complete. The repository does not publish empty placeholders, fictional examples, or anonymous “case studies” presented as evidence. Templates and checklists stay on every page so an agent can execute; they are not a substitute for a chapter you can read.
 
 ### Tool directory
 
@@ -132,7 +149,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 13 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
+**当前覆盖：** 14 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -143,10 +160,27 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 它主要回答这些实际问题：
 
 - 应该优先选择哪个市场、账户和买家？
+- 他们是否已经爱用、付钱、开始被拉动——还是仍停在第一家公司？
 - 应该让市场理解和相信什么？
 - 当前决策适合哪个渠道或营销动作？
 - 哪些证据足以支持下一步行动？
 - 哪个软件工具适合当前任务？
+
+### 像一本书那样读
+
+索引是为了让你（或智能体）能跳到某一战术。正文是按章节写的，读完一章应该想读下一章。顺着每页末尾的 **What to read next** 走。只有当你已经把那一章的决策写下来了，才跳章。
+
+1. [理想客户画像](playbooks/01-strategy-and-buyers/icp.md) — 本周谁值得投入
+2. [购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) — 谁必须点头
+3. [产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) — 是否有人爱用、付钱、开始拉动
+4. [定位](playbooks/02-product-marketing/positioning.md) — 为什么他们该离开现状
+5. [销售赋能](playbooks/02-product-marketing/sales-enablement.md) — 第一次会上怎么讲
+6. [定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md) — 收多少、何时开口
+7. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md) — 冠军买家能转发哪些页面
+8. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md) — 真正制造客户的是哪条动作
+9. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
+
+如果只有十分钟，仍然从 [ICP 十分钟实战测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) 开始。没有 ICP 就跳进冷邮件，是团队一直很忙的原因。
 
 ### 从一个决策开始
 
@@ -165,7 +199,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 | 编号 | 能力域 | 负责的核心决策 | 当前覆盖 |
 |---|---|---|---|
-| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md) |
+| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争、哪些组织和人重要，以及他们如何购买 | [ICP 理想客户画像](playbooks/01-strategy-and-buyers/icp.md)、[购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)、[产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md) |
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md) |
 | 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)；计划：LinkedIn 自然内容、SEO、付费媒体、公关、评论网站、内容分发 |
@@ -181,17 +215,17 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 每个完成的战术页面都包含：
 
-1. 它是什么；
+1. 一个从业者可以争论的判断——不只是词条定义；
 2. 什么时候适用、什么时候不适用；
 3. 策略与执行原则；
-4. 分步骤执行方法；
+4. 分步骤执行方法，并且至少有一个具体机制或可对照的模式；
 5. 可复制的模板；
 6. 执行前检查清单；
 7. 运营指标与不应误用的指标；
-8. 常见错误；以及
-9. 来源、证据边界和最后核验日期。
+8. 常见错误；
+9. 来源、证据边界、最后核验日期，以及下一章指向。
 
-计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。
+计划中的主题会继续保留在总索引里，直到页面达到完整发布标准。仓库不会发布空占位页面、虚构案例，也不会把匿名“案例研究”当成事实证据。模板和清单留在每页上，是为了让智能体也能执行；它们不能代替一篇能读下去的章节。
 
 ### 工具目录
 

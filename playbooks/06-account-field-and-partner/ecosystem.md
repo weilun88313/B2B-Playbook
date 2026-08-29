@@ -1,6 +1,6 @@
 # Ecosystem
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 Ecosystem is a growth motion that reaches the target audience through people and companies who already have access and trust—creators, channel partners, communities, integrations, associations, customers, and specialists who speak the buyer’s language.
 
@@ -157,6 +157,10 @@ Named growth figures in public write-ups (developer counts, “half of growth,�
 - Using the partner’s audience as a rented list while giving them nothing they can show their buyers.
 - Measuring the program as a media buy (impressions) instead of qualified access.
 - Dropping the relationship once the first campaign “worked,” which resets you to zero.
+
+## What to read next
+
+Ecosystem is usually a **secondary** motion. Name the primary first in [channel strategy](../04-channels-and-distribution/channel-strategy.md). Partners still need pages they can send: [content strategy](../03-brand-story-and-content/content-strategy.md). If you do not yet have customers who would introduce you, that is still [product-market fit](../01-strategy-and-buyers/product-market-fit.md).
 
 ## Sources and evidence boundary
 

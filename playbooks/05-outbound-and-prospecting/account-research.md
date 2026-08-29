@@ -99,6 +99,10 @@ Research ends when the team can pursue, test, pause, or disqualify the account. 
 - Researching indefinitely because there is no stop rule.
 - Hiding uncertainty inside confident personalization.
 
+## What to read next
+
+A researched account still needs a sentence: [cold email](cold-email.md). If the motion is not outbound, you named the wrong primary in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+
 ## Sources and evidence boundary
 
 This method does not authorize access to personal, restricted, or improperly obtained data. Review data rights, platform terms, privacy obligations, and applicable law before collection or use.

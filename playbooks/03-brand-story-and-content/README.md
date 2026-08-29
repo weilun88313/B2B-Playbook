@@ -4,7 +4,7 @@
 
 **Status:** Domain guide published · 1 tactic playbook published
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
 ## Scope
 

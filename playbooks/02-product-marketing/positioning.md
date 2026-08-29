@@ -246,7 +246,9 @@ Do not count a completed messaging workshop, slogan volume, unqualified traffic,
 - Claiming differentiation without verifiable proof.
 - Allowing the homepage, outbound message, and sales story to contradict one another.
 
+## What to read next
 
+The first meeting should use this story, not a tour: [sales enablement](sales-enablement.md). The number a champion can defend is [pricing](pricing-and-packaging.md). The pages they forward after the call are [content strategy](../03-brand-story-and-content/content-strategy.md).
 
 ## Sources and evidence boundary
 

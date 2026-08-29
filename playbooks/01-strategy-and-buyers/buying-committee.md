@@ -1,8 +1,10 @@
 # Buying committee
 
-**Last reviewed:** 2026-08-24
+**Last reviewed:** 2026-08-29
 
-A B2B purchase is made by a system of people with different incentives, authority, and risk—not by a single persona.
+A B2B purchase is made by a system of people with different incentives, authority, and risk—not by a single persona. The friendly contact who took the demo is often not the person who can spend, and not the person who can block.
+
+This chapter names the seats so the next conversation has a job. It is not an org chart to decorate a slide.
 
 ## Use this when
 
@@ -113,6 +115,10 @@ Record changes in influence, objections, timing, approval, and implementation ow
 - Ignoring operators because they lack budget authority.
 - Treating procurement or security as paperwork instead of decision participants.
 - Hiding unknowns to make the opportunity appear complete.
+
+## What to read next
+
+A complete map of seats is not fit. See whether those people love the product and pay: [product-market fit](product-market-fit.md). When they will sit in a room with you, the story they need is [positioning](../02-product-marketing/positioning.md).
 
 ## Sources and evidence boundary
 

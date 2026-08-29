@@ -1,10 +1,14 @@
 # Channel strategy
 
-**Last reviewed:** 2026-08-28
+**Last reviewed:** 2026-08-29
 
-Channel strategy is the decision of **which growth motion is primary**, and which one new channel is worth exploring next. It is not a plan to run inbound, outbound, content, ads, and partnerships at once.
+The temptation after a few customers is to become a full go-to-market department overnight: a blog, ads, partners, outbound, a self-serve signup, a conference booth. Famous companies used all of those **at some point**. They did not run all of them in the same quarter while still looking for the first repeatable motion.
+
+Channel strategy is the decision of **which growth motion is primary**, and which one new channel is worth exploring next.
 
 For B2B companies that later became well known, most scaled growth came from one of three motions: self-serve organic inbound, sales-assist organic inbound, or outbound sales. Content, paid ads, and partnerships can matter. They are usually amplifiers or later engines—not a substitute for naming the primary motion.
+
+Word of mouth sitting under inbound is usually a **symptom of [product-market fit](../01-strategy-and-buyers/product-market-fit.md)**, not a channel you can buy. If organic inbound is absent, ads will not invent it.
 
 This page chooses the motion. Execution lives in the linked playbooks. Expansion revenue from existing customers is owned by [lifecycle](../08-lifecycle-and-customer-marketing/); it is a real lever and is not covered here.
 
@@ -18,6 +22,7 @@ This page chooses the motion. Execution lives in the linked playbooks. Expansion
 ## Do not use this when
 
 - The ICP and alternative are empty. Complete [ICP](../01-strategy-and-buyers/icp.md) and [positioning](../02-product-marketing/positioning.md) first.
+- Nobody loves the product enough to keep using it. Climb the [PMF ladder](../01-strategy-and-buyers/product-market-fit.md) before scaling a motion.
 - There is no working product a buyer can try or buy. Channel mix will not create pull.
 - The request is a seven-channel GTM deck for a board meeting.
 
@@ -33,11 +38,15 @@ Pick **one** primary. Use what is already happening, not the motion that sounds 
 | **Sales-assist inbound** | Demand arrives (referral, site, word of mouth) and a seller walks the buyer through evaluation | Required to activate and close | Users cannot get to value alone; “Request a demo” is the real door |
 | **Outbound sales** | The team creates the conversation | Required from the first serious account | The buyer will not raise a hand; seats and triggers are findable |
 
-Word of mouth sitting under inbound is usually a **symptom of product-market fit**, not a channel you can buy. If organic inbound is absent, do not paper over it with ads.
+If organic inbound is absent, do not paper over it with ads.
+
+Name the motion from the last ten to twenty wins, not from a slide titled “we are PLG.” A CRM default of “inbound” that was actually a founder intro is not evidence.
 
 ### Step 2: do not force product-led growth
 
-Self-serve is a product and activation fact, not a values statement. If a new user cannot swipe a card and get value quickly, turning off sales to “be PLG” can stall revenue. Enterprise deals that need a champion, security review, and a committee are sales-assist or outbound until proven otherwise.
+Self-serve is a product and activation fact, not a values statement. If a new user cannot swipe a card and get value quickly, turning off sales to “be PLG” can stall revenue.
+
+In Lenny Rachitsky’s 2023 interview set, Databricks tried a more zero-touch console path and watched revenue flatten until sales was back in the motion. That is one founder’s illustration, not a law—but it is the failure mode this step exists to catch. Enterprise deals that need a champion, security review, and a committee are sales-assist or outbound until proven otherwise.
 
 Expect to build a sales team eventually. The question is when, not whether.
 
@@ -120,6 +129,10 @@ Do not count channel count, campaign volume, or “we are now PLG” as outcomes
 - Starting paid ads before the primary motion and offer are named.
 - Launching partnerships as a time sink with no [win-win-win](../06-account-field-and-partner/ecosystem.md).
 - Publishing a content calendar instead of a [decision-page map](../03-brand-story-and-content/content-strategy.md).
+
+## What to read next
+
+If the primary is outbound, start with [account research](../05-outbound-and-prospecting/account-research.md). If it is sales-assist inbound, you need pages a champion can forward—[content strategy](../03-brand-story-and-content/content-strategy.md)—and a [pitch](../02-product-marketing/sales-enablement.md). If strangers already trust someone else, that is [ecosystem](../06-account-field-and-partner/ecosystem.md), added as **one** secondary, not as a seventh channel. Pricing and packaging still decide whether the motion can collect money: [pricing](../02-product-marketing/pricing-and-packaging.md).
 
 ## Sources and evidence boundary
 

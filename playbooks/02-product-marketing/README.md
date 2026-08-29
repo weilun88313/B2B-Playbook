@@ -48,7 +48,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Interfaces with other domains
 
-- [Strategy & buyers](../01-strategy-and-buyers/) supplies segmentation, ICP, buying-group, problem, and alternative evidence.
+- [Strategy & buyers](../01-strategy-and-buyers/) supplies segmentation, ICP, buying-group, problem, and alternative evidence, plus the [product-market fit](../01-strategy-and-buyers/product-market-fit.md) ladder.
 - [Brand, story & content](../03-brand-story-and-content/) expands product truth into memorable narratives and educational assets.
 - [Channels & distribution](../04-channels-and-distribution/channel-strategy.md) decides whether price is collected self-serve, with sales-assist, or on outbound.
 - [Website & conversion](../07-website-and-conversion/) turns the message hierarchy into buyer-facing pages and paths.

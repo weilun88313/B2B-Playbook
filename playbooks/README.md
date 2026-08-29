@@ -7,6 +7,8 @@ Use this page to locate a specific B2B marketing motion. The library is organize
 1. **Capability domain:** the durable marketing function that owns the work.
 2. **Tactic playbook:** the specific motion, channel, or asset to execute.
 
+If you are reading rather than looking up, start with [Read it like a book](../README.md#read-it-like-a-book) in the root README, then follow each chapter’s “What to read next.”
+
 Every capability domain has a published README that defines its decision, scope, boundaries, topic map, recommended build order, and interfaces with other domains. A domain guide is useful before every tactic is written, but it is not counted as a published tactic playbook.
 
 A tactic receives its own Markdown file only when its execution guidance, templates, metrics, and evidence are complete. Planned filenames appear in the master and domain maps without empty tactic pages.
@@ -17,6 +19,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 |---|---|---|
 | ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
+| Product-market fit | [Strategy & buyers](01-strategy-and-buyers/) | [Product-market fit](01-strategy-and-buyers/product-market-fit.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
@@ -47,6 +50,7 @@ Published:
 
 - [Ideal customer profile](01-strategy-and-buyers/icp.md)
 - [Buying committee](01-strategy-and-buyers/buying-committee.md)
+- [Product-market fit](01-strategy-and-buyers/product-market-fit.md)
 
 Planned: market research, segmentation, buyer journey, jobs to be done, category entry points, competitive alternatives.
 
@@ -141,15 +145,15 @@ A domain guide may be published before its tactic playbooks. It must never label
 
 Every published tactic playbook should contain:
 
-1. what it is;
+1. a judgment a practitioner can argue with—not only a glossary definition;
 2. when to use and when not to use it;
 3. strategy and operating principles;
-4. step-by-step execution;
+4. step-by-step execution, with at least one concrete mechanism or worked pattern;
 5. copyable templates;
 6. a pre-flight checklist;
 7. operating metrics and non-metrics;
 8. common mistakes;
-9. sources and a last-reviewed date.
+9. sources, a last-reviewed date, and a **what to read next** pointer so a cover-to-cover reader is not dumped back into an index.
 
 ## Architecture rationale
 
