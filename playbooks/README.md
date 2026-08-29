@@ -7,7 +7,7 @@ Use this page to locate a specific B2B marketing motion. The library is organize
 1. **Capability domain:** the durable marketing function that owns the work.
 2. **Tactic playbook:** the specific motion, channel, or asset to execute.
 
-If you are reading rather than looking up, start with [Read it like a book](../README.md#read-it-like-a-book) in the root README, then follow each chapter’s “What to read next.”
+If you are reading rather than looking up, start with [Read it like a book](../README.md#read-it-like-a-book) in the root README, then follow each chapter’s “What to read next.” Software lives in [TOOLS.md](../TOOLS.md). Newsletters and operators live in [RESOURCES.md](../RESOURCES.md).
 
 Every capability domain has a published README that defines its decision, scope, boundaries, topic map, recommended build order, and interfaces with other domains. A domain guide is useful before every tactic is written, but it is not counted as a published tactic playbook.
 

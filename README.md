@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 17 published playbooks · 41 curated tools · 9 domain guides · 6 domains with published playbooks
+**Current coverage:** 17 published playbooks · 41 curated tools · 16 reading sources · 9 domain guides · 6 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -25,6 +25,7 @@ It is designed to answer practical questions:
 - Which channel or motion fits the decision in front of us?
 - What evidence would justify the next action?
 - Which tool is appropriate for the job?
+- Which public operators and newsletters are worth following without treating a feed as strategy?
 
 ### Read it like a book
 
@@ -51,6 +52,7 @@ If you only have ten minutes and there is no idea yet, start with [idea discover
 |---|---|---|
 | **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
 | **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 41-tool directory](TOOLS.md) |
+| **Reading sources** | Find newsletters, podcasts, and operators worth following | [Browse the 16-source directory](RESOURCES.md) |
 | **Agent Skill** | Let a compatible AI agent route a task through the right method | [Install the Skill](#agent-skill) |
 | **Verified use cases** | Study how a specific company executed a specific B2B motion | Planned—only named companies with traceable sources will be published |
 
@@ -99,6 +101,10 @@ Each product has one primary job, a reason it stands out, and a reason to avoid 
 Lensmor is built and maintained by Ivan Xu, the owner of this repository; that relationship is disclosed in its entry and does not exempt it from the same evidence and limitation standard.
 
 Every third-party link uses `ref=b2b-playbook` only for referral-source identification. It is not an affiliate code and does not affect inclusion, ranking, or price.
+
+### Reading sources
+
+[RESOURCES.md](RESOURCES.md) is a short directory of newsletters, podcasts, and operators. It sits beside the tool directory: software is for a job; a feed is for staying literate. Sources are graded A / B / C by editorial evidence (recurring operator recommendation vs practical use vs observe-only), not by popularity. A newsletter is not a playbook and is not a verified use case.
 
 ### Agent Skill
 
@@ -155,7 +161,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 17 篇已发布 Playbook · 41 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
+**当前覆盖：** 17 篇已发布 Playbook · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 6 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -174,6 +180,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 - 当前决策适合哪个渠道或营销动作？
 - 哪些证据足以支持下一步行动？
 - 哪个软件工具适合当前任务？
+- 哪些公开运营者和 Newsletter 值得长期看，同时又不会把信息流当成战略？
 
 ### 像一本书那样读
 
@@ -200,6 +207,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 |---|---|---|
 | **Playbooks 行动手册** | 查找具体的 B2B 营销能力、渠道或战术 | [浏览 Playbook 总索引](playbooks/) |
 | **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 41 个产品的工具目录](TOOLS.md) |
+| **Reading sources 阅读源** | 查找值得长期关注的 Newsletter、播客和运营者 | [浏览包含 16 个来源的目录](RESOURCES.md) |
 | **Agent Skill 智能体技能** | 让兼容的人工智能智能体按正确方法处理任务 | [安装 Skill](#智能体-skill) |
 | **已验证 Use Cases** | 研究某家具体企业如何执行某项具体 B2B 营销动作 | 计划中——只发布有企业名称和可追溯来源的案例 |
 
@@ -248,6 +256,10 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 Lensmor 由本仓库作者 Ivan Xu 创建并维护；这一关系会在对应条目中公开披露，Lensmor 仍需遵守与其他产品相同的证据和限制标准。
 
 所有第三方外链都使用 `ref=b2b-playbook`，仅用于让目标网站识别访问来源。它不是 Affiliate Code，也不影响工具的收录、排序或价格。
+
+### 阅读源
+
+[RESOURCES.md](RESOURCES.md) 是一份短名单：Newsletter、播客和运营者。它和工具目录并列——软件服务一个任务，信息流用来保持识字。来源按 A / B / C 做编辑证据分级（反复被运营者点名 / 有人在用并能讲清场景 / 仅观察），不是人气榜。Newsletter 不能代替 Playbook，也不能当成已验证案例。
 
 ### 智能体 Skill
 
