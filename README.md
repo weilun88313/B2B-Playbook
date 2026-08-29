@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 17 published playbooks · 36 curated tools · 9 domain guides · 6 domains with published playbooks
+**Current coverage:** 17 published playbooks · 41 curated tools · 9 domain guides · 6 domains with published playbooks
 
 **Last reviewed:** 2026-08-29
 
@@ -50,7 +50,7 @@ If you only have ten minutes and there is no idea yet, start with [idea discover
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
-| **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 36-tool directory](TOOLS.md) |
+| **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 41-tool directory](TOOLS.md) |
 | **Agent Skill** | Let a compatible AI agent route a task through the right method | [Install the Skill](#agent-skill) |
 | **Verified use cases** | Study how a specific company executed a specific B2B motion | Planned—only named companies with traceable sources will be published |
 
@@ -92,7 +92,7 @@ Planned topics remain in the master index until the page is complete. The reposi
 
 ### Tool directory
 
-[TOOLS.md](TOOLS.md) is an AI-native B2B GTM directory with 36 products across 13 operating categories. It distinguishes AI-native products, modern infrastructure, and a small number of established benchmarks instead of mixing every vendor into one flat list.
+[TOOLS.md](TOOLS.md) is an AI-native B2B GTM directory with 41 products across 13 operating categories. It distinguishes AI-native products, modern infrastructure, and a small number of established benchmarks instead of mixing every vendor into one flat list.
 
 Each product has one primary job, a reason it stands out, and a reason to avoid or validate it. Newer does not automatically mean better. The directory is not a ranking and does not replace security, privacy, deliverability, procurement, or legal review.
 
@@ -155,7 +155,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 17 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
+**当前覆盖：** 17 篇已发布 Playbook · 41 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-29
 
@@ -199,7 +199,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 内容入口 | 用来解决什么问题 | 从这里开始 |
 |---|---|---|
 | **Playbooks 行动手册** | 查找具体的 B2B 营销能力、渠道或战术 | [浏览 Playbook 总索引](playbooks/) |
-| **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 36 个产品的工具目录](TOOLS.md) |
+| **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 41 个产品的工具目录](TOOLS.md) |
 | **Agent Skill 智能体技能** | 让兼容的人工智能智能体按正确方法处理任务 | [安装 Skill](#智能体-skill) |
 | **已验证 Use Cases** | 研究某家具体企业如何执行某项具体 B2B 营销动作 | 计划中——只发布有企业名称和可追溯来源的案例 |
 
@@ -241,7 +241,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 ### 工具目录
 
-[TOOLS.md](TOOLS.md) 是一份 AI-native B2B GTM 工具目录，包含 13 个任务类目和 36 个产品。它明确区分 AI-native 产品、新一代基础设施和少量传统基准，而不是把所有厂商混成一张平铺清单。
+[TOOLS.md](TOOLS.md) 是一份 AI-native B2B GTM 工具目录，包含 13 个任务类目和 41 个产品。它明确区分 AI-native 产品、新一代基础设施和少量传统基准，而不是把所有厂商混成一张平铺清单。
 
 每个产品只有一个主任务，同时说明突出原因和需要回避或验证的条件。“更新”不自动等于“更好”。工具目录不是排行榜，也不能代替安全、隐私、邮件送达、采购或法律审查。
 
