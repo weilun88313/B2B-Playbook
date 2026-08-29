@@ -134,7 +134,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 **当前覆盖：** 13 篇已发布 Playbook · 36 个精选工具 · 9 个领域指南 · 6 个领域已有正式 Playbook
 
-**最后核验：** 2026-08-28
+**最后核验：** 2026-08-29
 
 ### 这是什么
 
