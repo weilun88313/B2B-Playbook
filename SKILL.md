@@ -31,7 +31,11 @@ Produce a usable artifact or decision, not broad advice.
 | Event strategy | `playbooks/06-account-field-and-partner/event-marketing.md` |
 | Trade-show execution | `playbooks/06-account-field-and-partner/trade-shows.md` |
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
+| Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
+| Customer success / post-sale book | `playbooks/08-lifecycle-and-customer-marketing/customer-success.md` |
+| Customer onboarding / first value / education vs implementation | `playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
+| Forecasting / pipeline hygiene / call the quarter | `playbooks/09-operations-pipeline-and-measurement/forecasting.md` |
 | Software selection | `TOOLS.md` |
 | Newsletters, KOLs, or reading sources | `RESOURCES.md` |
 

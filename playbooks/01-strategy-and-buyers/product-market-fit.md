@@ -172,7 +172,7 @@ Do not count GitHub stars, waitlist size, or “the vision is working” as a ru
 
 ## What to read next
 
-You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You still need a way to reach them: [first ten customers](first-ten-customers.md). You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
+You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You still need a way to reach them: [first ten customers](first-ten-customers.md). You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). After they pay, first value is [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) and the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
 
 ## Sources and evidence boundary
 

@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?
 
-**Status:** Domain guide published · 1 tactic playbook published
+**Status:** Domain guide published · 2 tactic playbooks published
 
 **Last reviewed:** 2026-08-29
 
@@ -12,7 +12,7 @@ This domain provides the operating system underneath B2B marketing. It defines s
 
 It owns marketing operations and measurement decisions—not every tool configuration, and not the sales team's opportunity-management process or a full enterprise close. Its purpose is to make work observable, comparable, recoverable, and improvable without pretending attribution can prove causality on its own.
 
-Quota-carrying pay sits here as **GTM operations**: the number marketing and sales share has to be credited, calculated, and paid, or it is not a number. Papering, procurement, and multi-threaded close stay outside this taxonomy.
+Quota-carrying pay and the **forecast** sit here as **GTM operations**: the number marketing and sales share has to be credited, calculated, paid, *and* defended. Papering, procurement, and multi-threaded close stay outside this taxonomy.
 
 ## Core decisions
 
@@ -24,12 +24,14 @@ Quota-carrying pay sits here as **GTM operations**: the number marketing and sal
 6. Which questions require attribution, incrementality, experiments, or qualitative evidence?
 7. How will budget, technology, privacy, consent, data quality, and change control be governed?
 8. When people carry quota, how will they be paid against a credit rule the company can administer?
+9. How will hygiene, stages, categories, and calls make a forecast that leadership can defend?
 
 ## Playbook map
 
 | Topic | Status | Operating question |
 |---|---|---|
 | Sales compensation | Published: [`sales-compensation.md`](sales-compensation.md) | How should quota-carrying people be paid, credited, told the plan, and paid on time? |
+| Forecasting | Published: [`forecasting.md`](forecasting.md) | How should hygiene, stages, categories, and calls make a number leadership can defend? |
 | Measurement model | Planned: `measurement-model.md` | Which decisions should each metric support? |
 | Funnel model | Planned: `funnel-model.md` | How should audience and buyer progression be represented before pipeline? |
 | Pipeline model | Planned: `pipeline-model.md` | How should marketing contribution connect to qualified revenue progression? |
@@ -55,7 +57,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Build decision-oriented dashboards and explicit attribution boundaries.
 5. Add experimentation, budget, MarTech, privacy, and data-quality governance.
 
-When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) as a **parallel path**—after the role exists and a credit event can be named—not as step one of marketing ops.
+When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. Forecasting is whether the path to that number is real.
 
 ## Interfaces with other domains
 
@@ -63,8 +65,8 @@ When the go-to-market motion includes quota-carrying sellers, run [sales compens
 - [Product marketing](../02-product-marketing/) sets what the **buyer** pays ([pricing](../02-product-marketing/pricing-and-packaging.md)) and how the first meeting sounds ([sales enablement](../02-product-marketing/sales-enablement.md)). Seller pay is a different contract.
 - [Channels & distribution](../04-channels-and-distribution/) decides whether a quota-carrying role should exist ([channel strategy](../04-channels-and-distribution/channel-strategy.md)).
 - [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation. Hired SDRs need [onboarding](../05-outbound-and-prospecting/sdr-onboarding.md) that teaches the same credit rule [sales compensation](sales-compensation.md) writes.
-- [Account, field & partner marketing](../06-account-field-and-partner/) requires account-level orchestration, cost, and progression measurement.
-- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) depends on reliable states, triggers, consent, and customer outcomes.
+- [Account, field & partner marketing](../06-account-field-and-partner/) requires account-level orchestration, cost, and progression measurement. Named-account quality that feeds a call lives in [account planning](../06-account-field-and-partner/account-planning.md).
+- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) depends on reliable states, triggers, consent, and customer outcomes. After close, [customer success](../08-lifecycle-and-customer-marketing/customer-success.md) and [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) keep the book observable.
 
 [Back to the playbook index](../README.md)
 
