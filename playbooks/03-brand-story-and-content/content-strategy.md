@@ -70,7 +70,7 @@ Complete one topic brief per page. The page may have only:
 
 “A complete introduction to the platform” is not a primary question. A champion who needs three answers should get three URLs, not one essay that tries to be the website.
 
-Comparison structure stays in the [positioning comparison-page outline](../02-product-marketing/positioning.md#comparison-page-outline) until the website playbook for comparison pages is published. This playbook decides whether that page exists and which alternative it covers.
+Comparison structure is executed on the [comparison page](../07-website-and-conversion/comparison-page.md). The outline still lives in [positioning](../02-product-marketing/positioning.md#comparison-page-outline). This playbook decides whether that page exists and which alternative it covers.
 
 ### Step 5: name the working artifact
 

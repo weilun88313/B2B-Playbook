@@ -109,7 +109,7 @@ Do not count generated variants, domains warmed, or “personalization %” as f
 
 ## What to read next
 
-The brief for one logo is [account research](account-research.md). The temperature of the week is [buying signals](buying-signals.md). The written first touch is [cold email](cold-email.md). Whether market, product, channel, and model are even the same company is [four fits](../01-strategy-and-buyers/four-fits.md). After the sentence works, a hired SDR still needs a curriculum: [SDR onboarding](sdr-onboarding.md).
+The brief for one logo is [account research](account-research.md). The temperature of the week is [buying signals](buying-signals.md). The written first touch is [cold email](cold-email.md). The live channel after the sentence works is [cold call](cold-call.md). Whether market, product, channel, and model are even the same company is [four fits](../01-strategy-and-buyers/four-fits.md). After the sentence works, a hired SDR still needs a curriculum: [SDR onboarding](sdr-onboarding.md).
 
 ## Sources and evidence boundary
 

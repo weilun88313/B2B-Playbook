@@ -4,7 +4,7 @@
 
 A go-to-market plan that has not named its assumptions is a speech. [GTM planning](gtm-planning.md) asks whether demand and capacity can produce the same number. This page asks **which belief we will try to disprove this quarter**, in a test small enough to finish, before we scale the campaign, the ICP slice, or the channel mix.
 
-This is not a statistics course, not a website CRO lab (that still lives with [website](../07-website-and-conversion/) when the page is the treatment), and not an excuse to run twelve “tests” that cannot change a decision. Attribution theater stays in the planned attribution page. Here the unit is a **hypothesis with an owner and a kill date**.
+This is not a statistics course, not a website CRO lab (that still lives with [website](../07-website-and-conversion/) when the page is the treatment), and not an excuse to run twelve “tests” that cannot change a decision. Attribution theater—one ROAS to rank a podcast against branded search—stays in [measurement model](measurement-model.md). Here the unit is a **hypothesis with an owner and a kill date**.
 
 ## Use this when
 

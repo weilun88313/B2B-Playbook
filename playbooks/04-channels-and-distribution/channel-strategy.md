@@ -62,12 +62,13 @@ Treat the remaining channels as a menu, not a checklist:
 | Secondary | What it is | Open this playbook |
 |---|---|---|
 | Content / SEO | Durable pages and search demand | [Content strategy](../03-brand-story-and-content/content-strategy.md); [SEO and AEO](seo-and-aeo.md) |
+| LinkedIn organic | Memory in a professional feed—people, not the logo | [LinkedIn organic](linkedin-organic.md) |
 | Peer rooms | A credible intro in a community the buyer already chose | [Peer community](community.md) |
 | Creator / operator media | Co-created artifact with overlap, not a rented mention | [Creator partnership](creator-partnership.md) |
 | Small table | Role-locked dinner or roundtable | [Executive dinners](../06-account-field-and-partner/executive-dinners.md) |
 | Launch day | Product Hunt as a one-day amplifier | [Product Hunt](product-hunt.md)—not a standing channel |
 | Syndication | Rented fills that survive audience, verification, and post-fill gates | [Content syndication](content-syndication.md) |
-| Paid ads | Capture or test on Google, LinkedIn, and a few high-trust placements | Paid search / paid social pages are still planned; do not start here if the primary motion is unnamed |
+| Paid ads | Capture or test on Google, LinkedIn, and a few high-trust placements | [Paid media](paid-media.md)—one job, two scoreboards. Do not start here if the primary motion is unnamed |
 | Partnerships | Access through companies and people who already have trust | [Ecosystem](../06-account-field-and-partner/ecosystem.md) |
 | Outbound (if not primary) | Created conversations | [Outbound](../05-outbound-and-prospecting/) |
 
@@ -75,7 +76,7 @@ A useful rule: you are probably already living in one of the three primaries. As
 
 ### Step 4: match the site door to the motion
 
-- Self-serve: signup, activation, and a credit-card or equivalent path. See planned [website](../07-website-and-conversion/) work.
+- Self-serve: signup, activation, and a credit-card or equivalent path. The scan still starts on the [homepage](../07-website-and-conversion/homepage.md).
 - Sales-assist: a decision-specific demo or conversation request, not a fake self-serve that dumps every visitor into a form.
 - Outbound: the site still has to pass the [homepage 10-second test](../02-product-marketing/positioning.md); it is not the acquisition engine.
 
