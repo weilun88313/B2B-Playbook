@@ -132,7 +132,7 @@ Do not treat bounce rate, time-on-page, or “brand lift” as a homepage score.
 
 ## What to read next
 
-The commercial number on the site is the [pricing page](pricing-page.md). The page a champion forwards when a named tool is already in the deal is the [comparison page](comparison-page.md). The form behind the sales-assist door is [demo request](demo-request.md). If the scan still fails, go back to [positioning](../02-product-marketing/positioning.md). Which URLs to write after `/` is [content strategy](../03-brand-story-and-content/content-strategy.md).
+A campaign click that must not land on `/` is a [landing page](landing-page.md). The commercial number on the site is the [pricing page](pricing-page.md). The page a champion forwards when a named tool is already in the deal is the [comparison page](comparison-page.md). The form behind the sales-assist door is [demo request](demo-request.md). If the scan still fails, go back to [positioning](../02-product-marketing/positioning.md). Which URLs to write after `/` is [content strategy](../03-brand-story-and-content/content-strategy.md).
 
 ## Sources and evidence boundary
 

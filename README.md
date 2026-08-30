@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 62 published playbooks · 40 working files · 43 curated tools · 19 reading sources · 9 domain guides
+**Current coverage:** 64 published playbooks · 42 working files · 43 curated tools · 19 reading sources · 9 domain guides
 
 **Last reviewed:** 2026-08-30
 
@@ -48,7 +48,7 @@ After positioning, the site scan starts at the [homepage](playbooks/07-website-a
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a capability, channel, or tactic | [Master index](playbooks/) |
-| **Working files** | Open a sheet, scorecard, or 90-day outline | [40 working files](TEMPLATES.md) |
+| **Working files** | Open a sheet, scorecard, or 90-day outline | [42 working files](TEMPLATES.md) |
 | **Tools** | Pick software for a defined job | [43-tool directory](TOOLS.md) |
 | **Reading sources** | Follow operators without treating a feed as strategy | [19-source directory](RESOURCES.md) |
 | **Agent Skill** | Route a task through the right method | [Install](#agent-skill) |
@@ -62,11 +62,11 @@ Two levels: a **domain** owns a durable decision; a **tactic** executes one moti
 |---|---|---|---|
 | 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, and who buys | 7 |
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand and buy | 5 |
-| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | What future buyers remember before they are in-market | 1 |
+| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | What future buyers remember before they are in-market | 2 |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where the market repeatedly encounters the offer | 8 |
 | 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create conversations that have not been requested | 9 |
 | 06 | [Account, field & partner](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around named accounts | 5 |
-| 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned pages help a buyer take the next step | 4 |
+| 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned pages help a buyer take the next step | 5 |
 | 08 | [Lifecycle & customer](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, and expand after interest or purchase | 7 |
 | 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data and process make the system repeatable | 16 |
 
@@ -135,7 +135,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察的工作。
 
-**当前覆盖：** 62 篇已发布 Playbook · 40 份工作文件 · 43 个精选工具 · 19 个阅读源 · 9 个领域指南
+**当前覆盖：** 64 篇已发布 Playbook · 42 份工作文件 · 43 个精选工具 · 19 个阅读源 · 9 个领域指南
 
 **最后核验：** 2026-08-30
 
@@ -177,7 +177,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 | 内容入口 | 用来解决什么 | 从这里开始 |
 |---|---|---|
 | **Playbooks** | 查找能力、渠道或战术 | [总索引](playbooks/) |
-| **工作文件** | 打开表格、记分表或 90 天大纲 | [40 份工作文件](TEMPLATES.md) |
+| **工作文件** | 打开表格、记分表或 90 天大纲 | [42 份工作文件](TEMPLATES.md) |
 | **工具** | 为明确任务选软件 | [43 个产品](TOOLS.md) |
 | **阅读源** | 跟运营者，不把信息流当战略 | [19 个来源](RESOURCES.md) |
 | **Agent Skill** | 把任务路由到正确方法 | [安装](#智能体-skill) |
@@ -191,11 +191,11 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 |---|---|---|---|
 | 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争，谁来买 | 7 |
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场该理解并购买什么 | 5 |
-| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 进采购期前记住什么 | 1 |
+| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 进采购期前记住什么 | 2 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场在哪里反复碰到你 | 8 |
 | 05 | [主动外联与潜客](playbooks/05-outbound-and-prospecting/) | 如何发起未被请求的对话 | 9 |
 | 06 | [大客户、线下与伙伴](playbooks/06-account-field-and-partner/) | 如何围着具名账户协同 | 5 |
-| 07 | [网站与转化](playbooks/07-website-and-conversion/) | 自有页面如何帮买家走下一步 | 4 |
+| 07 | [网站与转化](playbooks/07-website-and-conversion/) | 自有页面如何帮买家走下一步 | 5 |
 | 08 | [生命周期与客户](playbooks/08-lifecycle-and-customer-marketing/) | 兴趣或成交之后如何教育、留存、扩展 | 7 |
 | 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 数据和流程如何让系统可重复 | 16 |
 

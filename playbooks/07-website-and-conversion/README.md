@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should owned digital experiences help buyers understand, evaluate, and take the next step?
 
-**Status:** Domain guide published · 4 tactic playbooks published
+**Status:** Domain guide published · 5 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -30,8 +30,8 @@ It owns information architecture, core marketing pages, evaluation content, conv
 | [Comparison page](comparison-page.md) | Published | How should alternatives be compared fairly and credibly? |
 | [Pricing page](pricing-page.md) | Published | What pricing and packaging information helps a buyer self-qualify? |
 | [Demo request](demo-request.md) | Published | How should a high-intent buyer understand and enter the next step? |
+| [Landing page](landing-page.md) | Published | How should one campaign promise lead to one relevant next step? |
 | Website strategy | Planned: `website-strategy.md` | Which audiences, questions, journeys, and conversions should the site support? |
-| Landing page | Planned: `landing-page.md` | How should one campaign promise lead to one relevant next step? |
 | Product page | Planned: `product-page.md` | How should capabilities connect to outcomes, use cases, and proof? |
 | Documentation and resource center | Planned: `documentation-and-resource-center.md` | How should evaluators and users find authoritative implementation knowledge? |
 | Lead magnet | Planned: `lead-magnet.md` | When is an exchange of information valuable enough to justify a form? |

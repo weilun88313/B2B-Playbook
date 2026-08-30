@@ -2,7 +2,7 @@
 
 **Last reviewed:** 2026-08-30
 
-**Current coverage:** 40 working files
+**Current coverage:** 42 working files
 
 These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
 
@@ -38,6 +38,8 @@ Google “Make a copy” URLs are added here only after the owner publishes a vi
 | [Message-market-fit card](templates/message-market-fit.md) | Doc | One offer, one handmade batch, scale gate | [Message-market fit](playbooks/05-outbound-and-prospecting/message-market-fit.md) |
 | [Campaign brief (GACC)](templates/campaign-brief.md) | Doc | Goal, audience, unique take, channels before production | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) |
 | [Company-cadence card](templates/company-cadence.md) | Doc | Fiscal close, rock, lightning strike, offset | [Company cadence](playbooks/09-operations-pipeline-and-measurement/company-cadence.md) |
+| [Case-study brief](templates/case-study.md) | Doc | Named customer, dated result, friction, approval | [Case study](playbooks/03-brand-story-and-content/case-study.md) |
+| [Landing-page brief](templates/landing-page.md) | Doc | One promise, one door, kill date | [Landing page](playbooks/07-website-and-conversion/landing-page.md) |
 | [Homepage brief](templates/homepage.md) | Doc | Scan, one door, proof that can be pasted | [Homepage](playbooks/07-website-and-conversion/homepage.md) |
 | [Comparison-page brief](templates/comparison-page.md) | Doc | One alternative, where they win, switching path | [Comparison page](playbooks/07-website-and-conversion/comparison-page.md) |
 | [Pricing-page brief](templates/pricing-page.md) | Doc | Unit in five seconds, ≤5 plans, what is public | [Pricing page](playbooks/07-website-and-conversion/pricing-page.md) |

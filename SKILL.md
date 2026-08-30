@@ -26,6 +26,7 @@ Produce a usable artifact or decision, not broad advice.
 | Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
 | Crowded category / prevention value / friction of the fix | `playbooks/02-product-marketing/change-friction.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
+| Case study / customer story / proof URL | `playbooks/03-brand-story-and-content/case-study.md` |
 | Campaign / content brief (goal, audience, unique take, channels) | `playbooks/03-brand-story-and-content/content-strategy.md` then `templates/campaign-brief.md` |
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
@@ -51,6 +52,7 @@ Produce a usable artifact or decision, not broad advice.
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
 | Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
 | Homepage / 10-second scan / site door | `playbooks/07-website-and-conversion/homepage.md` |
+| Landing page / campaign URL / message match | `playbooks/07-website-and-conversion/landing-page.md` |
 | Comparison page / vs page / competitor URL | `playbooks/07-website-and-conversion/comparison-page.md` |
 | Pricing page / show the number / value metric on site | `playbooks/07-website-and-conversion/pricing-page.md` |
 | Demo request / high-intent form / speed-to-lead | `playbooks/07-website-and-conversion/demo-request.md` |
