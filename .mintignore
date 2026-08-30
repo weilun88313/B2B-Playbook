@@ -1,0 +1,11 @@
+# Build and agent internals — not reader pages
+scripts/
+LICENSE
+AGENTS.md
+.cursor/
+
+# Re-include collection and domain guides. Mintlify ignores README.md by
+# default; these files are the published maps, not GitHub boilerplate.
+!playbooks/README.md
+!playbooks/**/README.md
+!templates/README.md
