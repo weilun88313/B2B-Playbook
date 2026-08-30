@@ -2,7 +2,7 @@
 
 **Last reviewed:** 2026-08-30
 
-**Current coverage:** 18 working files
+**Current coverage:** 20 working files
 
 These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
 
@@ -27,6 +27,8 @@ Google “Make a copy” URLs are added here only after the owner publishes a vi
 | [GTM AI maturity](templates/gtm-ai-maturity.xlsx) | Sheet | Score each motion 0–4; climb one rung on a channel that already works | [GTM AI maturity](playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity.md) |
 | [AI use-case score](templates/ai-use-case-score.xlsx) | Sheet | Rank problems by payoff, probability, and org load—not by demo | [AI use-case selection](playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md) |
 | [AI workflow card](templates/ai-workflow.md) | Doc | Artifact, stages, gates, collapse, and send rules before you build | [AI workflow](playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) |
+| [Contact data](templates/contact-data.xlsx) | Sheet | Test coverage, valid line, and right-person on *your* slice | [Contact data](playbooks/05-outbound-and-prospecting/contact-data.md) |
+| [Revenue churn card](templates/revenue-churn.md) | Doc | Freeze five movements; show gross next to net | [Revenue churn](playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md) |
 | [Sales-leadership 90 days](templates/sales-leadership-90.md) | Doc / Slides outline | Run observe → quick wins → new course without a costume deck | [Sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
 
 Teaching-fill tabs are invented. They are not your forecast.

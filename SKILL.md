@@ -23,11 +23,13 @@ Produce a usable artifact or decision, not broad advice.
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
 | Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
+| Crowded category / prevention value / friction of the fix | `playbooks/02-product-marketing/change-friction.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
+| Mobile / phone data / right-person numbers | `playbooks/05-outbound-and-prospecting/contact-data.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
 | SDR / BDR onboarding or ramp | `playbooks/05-outbound-and-prospecting/sdr-onboarding.md` |
@@ -40,6 +42,7 @@ Produce a usable artifact or decision, not broad advice.
 | Onboarding packet / welcome / handoff notes | `playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md` |
 | CCO / VP CS first 90 days | `playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md` |
 | CS workspace / health fields / 4Rs | `playbooks/08-lifecycle-and-customer-marketing/cs-workspace.md` |
+| Gross vs net revenue churn / NRR leak | `playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
 | Clawbacks, holdbacks, or sales draws | `playbooks/09-operations-pipeline-and-measurement/incentive-timing.md` |
 | RevOps / sales-ops leader variable pay | `playbooks/09-operations-pipeline-and-measurement/revops-compensation.md` |

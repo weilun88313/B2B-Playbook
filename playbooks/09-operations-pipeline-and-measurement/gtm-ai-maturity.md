@@ -129,6 +129,8 @@ The six-rung shape (random → assisted steps → end-to-end on working channels
 
 A circulated community spreadsheet of GTM AI products (company / site / use-case tags) is a **logo list**, not a maturity score. It is not imported into [TOOLS.md](../../TOOLS.md).
 
+A global survey that more companies “use AI” while attributed EBIT stays flat is also not your rung ([McKinsey QuantumBlack, *The State of AI*](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?ref=b2b-playbook), 2026 edition as reported). That series is a **method prompt** (adoption ≠ profit; high performers talk about redesigned work). Its percentages, “high performer” cuts, and consulting narrative are **not** this library’s facts.
+
 ---
 
 Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
