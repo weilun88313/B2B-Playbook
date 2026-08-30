@@ -1054,6 +1054,105 @@ def build_cs_workspace():
     wb.save(OUT / "cs-workspace.xlsx")
 
 
+def build_gtm_ai_maturity():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Motions"
+    banner(s, 1, 6, "B2B Playbook · GTM AI maturity")
+    note(
+        s,
+        2,
+        6,
+        "Score the motion you have. Climb one rung on a channel that already works. Yellow = inputs. Rung 5 is not an operating target. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "Company / period"
+    input_cell(s["B4"])
+    s["C4"] = "Context file the tools may read"
+    s.merge_cells("D4:F4")
+    input_cell(s["D4"])
+    header_row(
+        s,
+        6,
+        [
+            "Motion",
+            "Rung (0–4)",
+            "Evidence",
+            "Already produces a sales-usable step? (yes/no)",
+            "What the next rung requires",
+            "Refuse to automate",
+        ],
+    )
+    for r in range(7, 20):
+        for c in range(1, 7):
+            input_cell(s.cell(r, c))
+    col_widths(s, [22, 14, 36, 28, 36, 28])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not a customer. Delete before this is the live score.")
+    t["A3"] = "Outbound"
+    t["B3"] = "Rung 2: research + draft + CRM note. Founder still edits every DM."
+    t["A4"] = "Events"
+    t["B4"] = "Rung 0. Do not automate invites."
+    t["A5"] = "Refuse"
+    t["B5"] = "A command center SOW, a community logo sheet as the stack, rung-5 language in a board slide."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [14, 100])
+    wb.save(OUT / "gtm-ai-maturity.xlsx")
+
+
+def build_ai_use_case_score():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Bets"
+    banner(s, 1, 8, "B2B Playbook · AI use-case selection")
+    note(
+        s,
+        2,
+        8,
+        "Problem first. Possibilities include not-AI. Yellow = inputs. Not a vendor catalog. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "Quarter / owner"
+    input_cell(s["B4"])
+    header_row(
+        s,
+        6,
+        [
+            "Problem (this quarter)",
+            "Root cause we can act on",
+            "Possibilities (include one non-AI)",
+            "Payoff (number we will defend)",
+            "Probability + why",
+            "Perspiration by team",
+            "Do / wait / other problem",
+            "Experiment row (link or id)",
+        ],
+    )
+    for r in range(7, 16):
+        for c in range(1, 9):
+            input_cell(s.cell(r, c))
+    col_widths(s, [26, 28, 32, 26, 22, 24, 20, 22])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not Owner.com. Delete before this is the live card.")
+    t["A3"] = "Problem"
+    t["B3"] = "First meetings from content do not match ICP; AEs burn the week."
+    t["A4"] = "Choice"
+    t["B4"] = "Pre-call brief with a review gate + tighter form. Not a new chat SKU."
+    t["A5"] = "Refuse"
+    t["B5"] = "Payoff as 'efficiency.' A community AI spreadsheet as the winner."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [12, 100])
+    wb.save(OUT / "ai-use-case-score.xlsx")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     build_demo()
@@ -1067,4 +1166,6 @@ if __name__ == "__main__":
     build_experiment_ledger()
     build_answer_visibility()
     build_cs_workspace()
+    build_gtm_ai_maturity()
+    build_ai_use_case_score()
     print("wrote", sorted(p.name for p in OUT.glob("*.xlsx")))

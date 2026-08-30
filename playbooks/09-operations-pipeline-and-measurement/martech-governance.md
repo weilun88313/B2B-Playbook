@@ -111,7 +111,7 @@ Do not count vendor demos attended, or a 9.2/10 in a partner PDF, as governance.
 
 ## What to read next
 
-The record the tools must obey is [CRM data model](crm-data-model.md). Sequences live in [multichannel sequence](../05-outbound-and-prospecting/multichannel-sequence.md). The call still lives in [forecasting](forecasting.md). Product names for a defined job start in [TOOLS.md](../../TOOLS.md).
+The record the tools must obey is [CRM data model](crm-data-model.md). Sequences live in [multichannel sequence](../05-outbound-and-prospecting/multichannel-sequence.md). The call still lives in [forecasting](forecasting.md). Product names for a defined job start in [TOOLS.md](../../TOOLS.md). A community logo sheet is not the stack—pick the problem in [AI use-case selection](ai-use-case-selection.md) and the rung in [GTM AI maturity](gtm-ai-maturity.md) first.
 
 ## Sources and evidence boundary
 

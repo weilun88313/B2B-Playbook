@@ -129,7 +129,7 @@ Do not count posts published, or a survey’s “% of leaders seeing AI leads,�
 
 ## What to read next
 
-The URLs are [content strategy](../03-brand-story-and-content/content-strategy.md). The motion is [channel strategy](channel-strategy.md). Tests of message and channel still need a hypothesis card: [experimentation](../09-operations-pipeline-and-measurement/experimentation.md). Review sites as a *program* remain a planned page in this domain; until then, treat listings as a citation surface with an owner. If strangers already trust someone else, that is [ecosystem](../06-account-field-and-partner/ecosystem.md).
+The URLs are [content strategy](../03-brand-story-and-content/content-strategy.md). The motion is [channel strategy](channel-strategy.md). Tests of message and channel still need a hypothesis card: [experimentation](../09-operations-pipeline-and-measurement/experimentation.md). Agents that *use* those facts still need stages and a send gate: [AI workflow](../09-operations-pipeline-and-measurement/ai-workflow.md). Review sites as a *program* remain a planned page in this domain; until then, treat listings as a citation surface with an owner. If strangers already trust someone else, that is [ecosystem](../06-account-field-and-partner/ecosystem.md).
 
 ## Sources and evidence boundary
 
