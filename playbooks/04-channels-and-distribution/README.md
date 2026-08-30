@@ -2,7 +2,7 @@
 
 > **Decision owned:** Where and how should the market repeatedly encounter the company's ideas and offers?
 
-**Status:** Domain guide published · 8 tactic playbooks published
+**Status:** Domain guide published · 9 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -38,7 +38,7 @@ It owns organic distribution, SEO and answer-engine visibility, paid media, reta
 | Paid social | Planned: `paid-social.md` | Channel-specific creation buys. The job decision lives in [paid media](paid-media.md). |
 | Retargeting | Planned: `retargeting.md` | Follow-on frequency and exclusions. The job decision lives in [paid media](paid-media.md). |
 | PR and media | Planned: `pr-and-media.md` | Which genuinely newsworthy story can earn credible third-party attention? |
-| Review sites | Planned: `review-sites.md` | How should the company earn and activate authentic buyer-visible reviews? |
+| [Review sites](review-sites.md) | Published | How should authentic buyer-visible reviews be earned, governed, and used? |
 | Content distribution | Planned: `content-distribution.md` | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](content-syndication.md). |
 | Content repurposing | Planned: `content-repurposing.md` | How should one strong idea become channel-native formats without losing meaning? |
 
@@ -52,7 +52,8 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Make owned answers findable in search and answer engines with [SEO and AEO](seo-and-aeo.md) when inbound capture or citations matter.
 5. At high ACV, try [peer community](community.md) or a [creator partnership](creator-partnership.md) before ads or [syndication](content-syndication.md). Product Hunt is a [one-day amplifier](product-hunt.md), not a path.
 6. If the feed is the room, write [LinkedIn organic](linkedin-organic.md) before buying it. If you will pay, write the job on [paid media](paid-media.md) first.
-7. Standardize cross-channel reuse, frequency, experiments, and measurement.
+7. If buyers already compare you on listings, write [review sites](review-sites.md) before treating a star rating as a campaign.
+8. Standardize cross-channel reuse, frequency, experiments, and measurement.
 
 ## Interfaces with other domains
 

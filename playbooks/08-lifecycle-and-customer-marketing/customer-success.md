@@ -159,7 +159,7 @@ Do not count town halls held, values posters, or resemblance to a sample 2021 CS
 
 ## What to read next
 
-First value is [customer onboarding](customer-onboarding.md); what they receive in writing is [onboarding communication](onboarding-communication.md). The record CSMs open on Monday is [CS workspace](cs-workspace.md). A new CS executive’s first 90 days are [CS-leadership ramp](cs-leadership-ramp.md). Gross vs net on the book is [revenue churn](revenue-churn.md). The commercial number is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account thinking stays in [account planning](../06-account-field-and-partner/account-planning.md). If they have not bought yet, this page is premature.
+First value is [customer onboarding](customer-onboarding.md); what they receive in writing is [onboarding communication](onboarding-communication.md). The record CSMs open on Monday is [CS workspace](cs-workspace.md). A new CS executive’s first 90 days are [CS-leadership ramp](cs-leadership-ramp.md). Gross vs net on the book is [revenue churn](revenue-churn.md). Additional value on evidence is [expansion marketing](expansion-marketing.md); the clock before the commercial path is [renewal marketing](renewal-marketing.md). The commercial number is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account thinking stays in [account planning](../06-account-field-and-partner/account-planning.md). If they have not bought yet, this page is premature.
 
 ## Sources and evidence boundary
 

@@ -2,7 +2,7 @@
 
 **Last reviewed:** 2026-08-30
 
-**Current coverage:** 42 working files
+**Current coverage:** 48 working files
 
 These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
 
@@ -50,6 +50,12 @@ Google “Make a copy” URLs are added here only after the owner publishes a vi
 | [Measurement card](templates/measurement-model.md) | Doc | Two scoreboards, HDYHAU, disagreement rule | [Measurement model](playbooks/09-operations-pipeline-and-measurement/measurement-model.md) |
 | [Cold-call card](templates/cold-call.md) | Doc | Context, problem scene, interest, reaction | [Cold call](playbooks/05-outbound-and-prospecting/cold-call.md) |
 | [LinkedIn outbound card](templates/linkedin-outbound.md) | Doc | Artifact, public comment, no pitch in the connect | [LinkedIn outbound](playbooks/05-outbound-and-prospecting/linkedin-outbound.md) |
+| [ABM system card](templates/abm-strategy.md) | Doc | Capacity, tiers, and what T3 is not allowed to be | [ABM strategy](playbooks/06-account-field-and-partner/abm-strategy.md) |
+| [Expansion card](templates/expansion-marketing.md) | Doc | Realization gate, triggers, one next job | [Expansion marketing](playbooks/08-lifecycle-and-customer-marketing/expansion-marketing.md) |
+| [Renewal card](templates/renewal-marketing.md) | Doc | Horizon clock and value packet before commercial | [Renewal marketing](playbooks/08-lifecycle-and-customer-marketing/renewal-marketing.md) |
+| [White-paper brief](templates/white-paper.md) | Doc | One sourced claim; gate off unless the exchange is worth it | [White paper](playbooks/03-brand-story-and-content/white-paper.md) |
+| [Review-site card](templates/review-sites.md) | Doc | Ask after value; do not draft their review | [Review sites](playbooks/04-channels-and-distribution/review-sites.md) |
+| [Interaction card](templates/forms-and-chat.md) | Doc | Job first; chat is not a second demo queue | [Forms and chat](playbooks/07-website-and-conversion/forms-and-chat.md) |
 | [Revenue churn card](templates/revenue-churn.md) | Doc | Freeze five movements; show gross next to net | [Revenue churn](playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md) |
 | [Sales-leadership 90 days](templates/sales-leadership-90.md) | Doc / Slides outline | Run observe → quick wins → new course without a costume deck | [Sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
 

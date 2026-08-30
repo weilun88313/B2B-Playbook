@@ -115,7 +115,7 @@ Do not count resemblance to a SaaS glossary, or a vendor’s top-decile cell, as
 
 ## What to read next
 
-Who runs the book is [customer success](customer-success.md). First value is [customer onboarding](customer-onboarding.md). Whether next year can close is [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md). Pay still cares when the dollar is safe: [incentive timing](../09-operations-pipeline-and-measurement/incentive-timing.md).
+Who runs the book is [customer success](customer-success.md). First value is [customer onboarding](customer-onboarding.md). Additional value that must not hide this leak is [expansion marketing](expansion-marketing.md). The clock before the commercial path is [renewal marketing](renewal-marketing.md). Whether next year can close is [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md). Pay still cares when the dollar is safe: [incentive timing](../09-operations-pipeline-and-measurement/incentive-timing.md).
 
 ## Sources and evidence boundary
 

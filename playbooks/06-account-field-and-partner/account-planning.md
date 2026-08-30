@@ -171,7 +171,7 @@ Do not count pages in a template, SWOT workshops completed, or “strategic” t
 
 ## What to read next
 
-Seats still live in the [buying committee](../01-strategy-and-buyers/buying-committee.md). Outreach inside the plan is [account research](../05-outbound-and-prospecting/account-research.md) and, if you hired the role, [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Events for this account are [event marketing](event-marketing.md). After they buy, the file should not die—[customer success](../08-lifecycle-and-customer-marketing/customer-success.md) and [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md). Whether the quarter’s number is real is [forecasting](../09-operations-pipeline-and-measurement/forecasting.md).
+Which logos deserve this file is [ABM strategy](abm-strategy.md). Seats still live in the [buying committee](../01-strategy-and-buyers/buying-committee.md). Outreach inside the plan is [account research](../05-outbound-and-prospecting/account-research.md) and, if you hired the role, [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Events for this account are [event marketing](event-marketing.md). After they buy, the file should not die—[customer success](../08-lifecycle-and-customer-marketing/customer-success.md) and [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md). Whether the quarter’s number is real is [forecasting](../09-operations-pipeline-and-measurement/forecasting.md).
 
 ## Sources and evidence boundary
 

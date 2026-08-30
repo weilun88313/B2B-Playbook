@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should owned digital experiences help buyers understand, evaluate, and take the next step?
 
-**Status:** Domain guide published · 5 tactic playbooks published
+**Status:** Domain guide published · 6 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -35,7 +35,7 @@ It owns information architecture, core marketing pages, evaluation content, conv
 | Product page | Planned: `product-page.md` | How should capabilities connect to outcomes, use cases, and proof? |
 | Documentation and resource center | Planned: `documentation-and-resource-center.md` | How should evaluators and users find authoritative implementation knowledge? |
 | Lead magnet | Planned: `lead-magnet.md` | When is an exchange of information valuable enough to justify a form? |
-| Forms and chat | Planned: `forms-and-chat.md` | Which interaction collects enough context without creating avoidable friction? |
+| [Forms and chat](forms-and-chat.md) | Published | Which interaction collects enough context without creating avoidable friction? |
 | Conversion-rate optimization | Planned: `conversion-rate-optimization.md` | Which evidence-based change can improve a defined buyer progression? |
 | Self-service buying | Planned: `self-service-buying.md` | Which parts of evaluation and purchase can happen without a scheduled meeting? |
 
@@ -47,7 +47,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 2. Make the [homepage](homepage.md) pass a 10-second scan and match the [channel](../04-channels-and-distribution/channel-strategy.md) door.
 3. Publish the [comparison](comparison-page.md) only for alternatives that repeat in deals, then the [pricing page](pricing-page.md) that shows the unit.
 4. Open a scoped [demo request](demo-request.md) for sales-assist; do not put that CTA on every URL.
-5. Add landing pages, forms/chat, performance, accessibility, and CRO only after those four exist.
+5. A campaign URL is a [landing page](landing-page.md). How much to collect—and whether chat is allowed—is [forms and chat](forms-and-chat.md). CRO and self-service stay planned.
 
 ## Interfaces with other domains
 

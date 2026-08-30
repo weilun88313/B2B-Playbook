@@ -126,7 +126,7 @@ Do not count objects created, or resemblance to a paid HubSpot CS manual, as a w
 
 ## What to read next
 
-The jobs this record serves are [customer success](customer-success.md). Implementation clocks are [customer onboarding](customer-onboarding.md). The commercial spine is [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md). Tools still need [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md). A new CS leader’s audit of this workspace is [CS-leadership ramp](cs-leadership-ramp.md).
+The jobs this record serves are [customer success](customer-success.md). Implementation clocks are [customer onboarding](customer-onboarding.md). Additional value on evidence is [expansion marketing](expansion-marketing.md). The clock before the commercial path is [renewal marketing](renewal-marketing.md). The commercial spine is [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md). Tools still need [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md). A new CS leader’s audit of this workspace is [CS-leadership ramp](cs-leadership-ramp.md).
 
 ## Sources and evidence boundary
 

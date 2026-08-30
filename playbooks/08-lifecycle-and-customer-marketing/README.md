@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should the company educate, retain, expand, and mobilize customers after initial interest or purchase?
 
-**Status:** Domain guide published · 7 tactic playbooks published
+**Status:** Domain guide published · 9 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -41,14 +41,14 @@ It owns audience-state communication, customer education, lifecycle programs, co
 | CS workspace | Published: [`cs-workspace.md`](cs-workspace.md) | Which post-sale fields must exist so CS can see value, cadence, renewal, and risk? |
 | Revenue churn | Published: [`revenue-churn.md`](revenue-churn.md) | How do we measure revenue leaving the book without letting net hide the leak? |
 | [Lead nurture](lead-nurture.md) | Published | How should a known person learn by state—before they are in-market? |
+| [Expansion marketing](expansion-marketing.md) | Published | When may additional value be introduced—on evidence, not on a launch calendar? |
+| [Renewal marketing](renewal-marketing.md) | Published | How should value be recognized and risk reduced before the commercial path? |
 | Lifecycle email | Planned: `lifecycle-email.md` | Which event, state, or behavior should trigger which communication? |
 | Customer education | Planned: `customer-education.md` | Which knowledge helps users adopt the product and achieve outcomes? |
 | Customer community | Planned: `customer-community.md` | When can customers help one another learn, connect, and succeed? |
 | Customer advocacy | Planned: `customer-advocacy.md` | How should willing customers participate without being overused? |
 | Referral program | Planned: `referral-program.md` | What value exchange can make trusted introductions repeatable? |
-| Review program | Planned: `review-program.md` | How should authentic reviews be requested, governed, and activated? |
-| Expansion marketing | Planned: `expansion-marketing.md` | Which evidence and triggers justify introducing additional value? |
-| Renewal marketing | Planned: `renewal-marketing.md` | How should value recognition and risk reduction support renewal? |
+| Review program | Planned: `review-program.md` | How should authentic reviews be requested, governed, and activated? Buyer-visible listings live in [review sites](../04-channels-and-distribution/review-sites.md). |
 | Win-back | Planned: `win-back.md` | When and how should an inactive or former customer be re-engaged? |
 
 Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
@@ -61,7 +61,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Known people who are not ready for a walk use [lead nurture](lead-nurture.md) by state—not a seven-email drip. Customer education stays planned.
 5. Connect product, success, support, and CRM signals to lifecycle programs.
 6. Add community, advocacy, review, and referral motions after customer value is proven.
-7. Build expansion, renewal, win-back, and measurement loops without sacrificing trust.
+7. Introduce additional value only on evidence ([expansion marketing](expansion-marketing.md)). Recognize value before the commercial path ([renewal marketing](renewal-marketing.md)). Win-back stays planned.
 
 ## Interfaces with other domains
 

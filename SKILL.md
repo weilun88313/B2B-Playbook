@@ -27,6 +27,7 @@ Produce a usable artifact or decision, not broad advice.
 | Crowded category / prevention value / friction of the fix | `playbooks/02-product-marketing/change-friction.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | Case study / customer story / proof URL | `playbooks/03-brand-story-and-content/case-study.md` |
+| White paper / sourced long argument / ungated default | `playbooks/03-brand-story-and-content/white-paper.md` |
 | Campaign / content brief (goal, audience, unique take, channels) | `playbooks/03-brand-story-and-content/content-strategy.md` then `templates/campaign-brief.md` |
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
@@ -37,6 +38,7 @@ Produce a usable artifact or decision, not broad advice.
 | Content syndication / rented MQLs | `playbooks/04-channels-and-distribution/content-syndication.md` |
 | LinkedIn organic / founder feed / company page | `playbooks/04-channels-and-distribution/linkedin-organic.md` |
 | Paid ads / creation vs capture / retargeting job | `playbooks/04-channels-and-distribution/paid-media.md` |
+| Review sites / G2 / buyer-visible reviews | `playbooks/04-channels-and-distribution/review-sites.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Buying signal / job change / funding / which sentence this week | `playbooks/05-outbound-and-prospecting/buying-signals.md` |
 | Message-market fit / before AI SDR / handmade outbound test | `playbooks/05-outbound-and-prospecting/message-market-fit.md` |
@@ -51,11 +53,13 @@ Produce a usable artifact or decision, not broad advice.
 | Executive dinner / small roundtable | `playbooks/06-account-field-and-partner/executive-dinners.md` |
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
 | Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
+| ABM / account tiers / what is not ABM | `playbooks/06-account-field-and-partner/abm-strategy.md` |
 | Homepage / 10-second scan / site door | `playbooks/07-website-and-conversion/homepage.md` |
 | Landing page / campaign URL / message match | `playbooks/07-website-and-conversion/landing-page.md` |
 | Comparison page / vs page / competitor URL | `playbooks/07-website-and-conversion/comparison-page.md` |
 | Pricing page / show the number / value metric on site | `playbooks/07-website-and-conversion/pricing-page.md` |
 | Demo request / high-intent form / speed-to-lead | `playbooks/07-website-and-conversion/demo-request.md` |
+| Forms / chat / what to collect / HDYHAU | `playbooks/07-website-and-conversion/forms-and-chat.md` |
 | Customer success / post-sale book | `playbooks/08-lifecycle-and-customer-marketing/customer-success.md` |
 | Customer onboarding / first value / education vs implementation | `playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md` |
 | Onboarding packet / welcome / handoff notes | `playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md` |
@@ -63,6 +67,8 @@ Produce a usable artifact or decision, not broad advice.
 | CS workspace / health fields / 4Rs | `playbooks/08-lifecycle-and-customer-marketing/cs-workspace.md` |
 | Gross vs net revenue churn / NRR leak | `playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md` |
 | Lead nurture / drip / pre-sale education | `playbooks/08-lifecycle-and-customer-marketing/lead-nurture.md` |
+| Expansion / upsell / land and expand | `playbooks/08-lifecycle-and-customer-marketing/expansion-marketing.md` |
+| Renewal / value packet / horizon clock | `playbooks/08-lifecycle-and-customer-marketing/renewal-marketing.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
 | Clawbacks, holdbacks, or sales draws | `playbooks/09-operations-pipeline-and-measurement/incentive-timing.md` |
 | RevOps / sales-ops leader variable pay | `playbooks/09-operations-pipeline-and-measurement/revops-compensation.md` |

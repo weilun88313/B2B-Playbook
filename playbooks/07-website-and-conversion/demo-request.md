@@ -122,7 +122,7 @@ Do not treat form-fill volume or “MQL from demo page” as the score. A smalle
 
 ## What to read next
 
-The walk itself is [demo](../02-product-marketing/demo.md). Routing math for *non*-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). How HDYHAU sits next to software attribution is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). People who raised a hand too early, or who are not ready for a walk, are [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). The number they may want before they submit is the [pricing page](pricing-page.md).
+The walk itself is [demo](../02-product-marketing/demo.md). How short this form is allowed to be—and whether chat is a second queue—is [forms and chat](forms-and-chat.md). Routing math for *non*-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). How HDYHAU sits next to software attribution is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). People who raised a hand too early, or who are not ready for a walk, are [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). The number they may want before they submit is the [pricing page](pricing-page.md).
 
 ## Sources and evidence boundary
 

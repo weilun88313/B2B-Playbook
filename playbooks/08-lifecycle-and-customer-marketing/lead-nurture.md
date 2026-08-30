@@ -128,7 +128,7 @@ Do not treat email open rate, drip completion, or “nurtured MQLs” as success
 
 ## What to read next
 
-The pages you are allowed to send are [content strategy](../03-brand-story-and-content/content-strategy.md). The form that must not enter this stream is [demo request](../07-website-and-conversion/demo-request.md). When a score may notify a human is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). Paying to stay visible to the 95 is [paid media](../04-channels-and-distribution/paid-media.md) or [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md)—not a longer drip. After they buy, leave this page: [customer onboarding](customer-onboarding.md).
+The pages you are allowed to send are [content strategy](../03-brand-story-and-content/content-strategy.md). The form that must not enter this stream is [demo request](../07-website-and-conversion/demo-request.md); how much a quieter surface may collect is [forms and chat](../07-website-and-conversion/forms-and-chat.md). When a score may notify a human is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). Paying to stay visible to the 95 is [paid media](../04-channels-and-distribution/paid-media.md) or [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md)—not a longer drip. After they buy, leave this page: [customer onboarding](customer-onboarding.md).
 
 ## Sources and evidence boundary
 
