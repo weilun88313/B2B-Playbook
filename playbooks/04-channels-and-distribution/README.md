@@ -2,9 +2,9 @@
 
 > **Decision owned:** Where and how should the market repeatedly encounter the company's ideas and offers?
 
-**Status:** Domain guide published · 2 tactic playbooks published
+**Status:** Domain guide published · 6 tactic playbooks published
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 ## Scope
 
@@ -28,13 +28,17 @@ It owns organic distribution, SEO and answer-engine visibility, paid media, reta
 |---|---|---|
 | [Channel strategy](channel-strategy.md) | Published | Which growth motion is primary, and which one channel is worth adding next? |
 | SEO and AEO | Published: [`seo-and-aeo.md`](seo-and-aeo.md) | How should useful content become discoverable through search and answer engines? |
+| [Peer community](community.md) | Published | Where does a high-ACV buyer already trust peers, and what do we contribute before we extract? |
+| [Creator partnership](creator-partnership.md) | Published | Which operator’s audience is actually our ICP, and what artifact do we co-create? |
+| [Product Hunt](product-hunt.md) | Published | What is a launch day allowed to do—and when must the motion close? |
+| [Content syndication](content-syndication.md) | Published | When may a rented fill enter the queue? |
 | LinkedIn organic | Planned: `linkedin-organic.md` | How should people and company pages build repeated professional attention? |
 | Paid search | Planned: `paid-search.md` | When should the company capture explicit problem or category demand? |
 | Paid social | Planned: `paid-social.md` | How can paid reach build memory, educate accounts, or test messages? |
 | Retargeting | Planned: `retargeting.md` | How should prior attention be followed up without waste or intrusive frequency? |
 | PR and media | Planned: `pr-and-media.md` | Which genuinely newsworthy story can earn credible third-party attention? |
 | Review sites | Planned: `review-sites.md` | How should the company earn and activate authentic buyer-visible reviews? |
-| Content distribution | Planned: `content-distribution.md` | How should each important asset reach the audiences it was built for? |
+| Content distribution | Planned: `content-distribution.md` | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](content-syndication.md). |
 | Content repurposing | Planned: `content-repurposing.md` | How should one strong idea become channel-native formats without losing meaning? |
 
 Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
@@ -45,8 +49,9 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 2. Select one primary creation or capture path that matches that motion.
 3. Build native creative, distribution, and conversion loops for those channels.
 4. Make owned answers findable in search and answer engines with [SEO and AEO](seo-and-aeo.md) when inbound capture or citations matter.
-5. Add paid, earned, review, and partner amplification where evidence supports it.
-6. Standardize cross-channel reuse, frequency, experiments, and measurement.
+5. At high ACV, try [peer community](community.md) or a [creator partnership](creator-partnership.md) before ads or [syndication](content-syndication.md). Product Hunt is a [one-day amplifier](product-hunt.md), not a path.
+6. Add paid, earned, review, and partner amplification where evidence supports it.
+7. Standardize cross-channel reuse, frequency, experiments, and measurement.
 
 ## Interfaces with other domains
 

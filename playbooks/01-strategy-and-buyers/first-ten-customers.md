@@ -140,7 +140,7 @@ Friends who fail the ICP stay off the customer count. Zip-shaped test: mark whet
 - [ ] Cold outreach has a targeting rule we could explain to a stranger (funding date, vertical, seat pair)—not a purchased title dump.
 - [ ] Investor/accelerator work is *our* mail to a mined list, not a calendar hold for “intros.”
 - [ ] Community time includes a gift (talk, teardown, help) before a pitch.
-- [ ] Press and Product Hunt are not the plan for week one.
+- [ ] Press and Product Hunt are not the plan for week one. A later launch day is [Product Hunt](../04-channels-and-distribution/product-hunt.md)—an amplifier, not a channel.
 - [ ] We can name the pioneer who might be first—and why they would take the risk.
 - [ ] Logos that churned or never used the product in production were removed from the ten.
 

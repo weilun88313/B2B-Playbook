@@ -6,7 +6,7 @@
 
 **Last reviewed:** 2026-08-29
 
-Playbooks say how to operate. [TOOLS.md](TOOLS.md) says which software fits a job. This page says **where a practitioner can keep learning** without treating a feed as a strategy.
+Playbooks say how to operate. [TOOLS.md](TOOLS.md) says which software fits a job. This page says **where a practitioner can keep learning** without treating a feed as a strategy. Working *with* a named operator—overlap, a co-created artifact, disclosure—is [creator partnership](playbooks/04-channels-and-distribution/creator-partnership.md), not a row on this list.
 
 It is not a paid-community membership pitch, not an affiliate list, and not a substitute for dated evidence on a tactic page. Subscribe to two or three. A twelfth newsletter will not invent an ICP.
 

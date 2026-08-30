@@ -28,6 +28,10 @@ Produce a usable artifact or decision, not broad advice.
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |
+| Vertical community / peer intro / AMA in an existing room | `playbooks/04-channels-and-distribution/community.md` |
+| KOL / newsletter / podcast partnership / co-create | `playbooks/04-channels-and-distribution/creator-partnership.md` |
+| Product Hunt / launch-day amplifier | `playbooks/04-channels-and-distribution/product-hunt.md` |
+| Content syndication / rented MQLs | `playbooks/04-channels-and-distribution/content-syndication.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Buying signal / job change / funding / which sentence this week | `playbooks/05-outbound-and-prospecting/buying-signals.md` |
 | Mobile / phone data / right-person numbers | `playbooks/05-outbound-and-prospecting/contact-data.md` |
@@ -36,6 +40,7 @@ Produce a usable artifact or decision, not broad advice.
 | SDR / BDR onboarding or ramp | `playbooks/05-outbound-and-prospecting/sdr-onboarding.md` |
 | Event strategy | `playbooks/06-account-field-and-partner/event-marketing.md` |
 | Trade-show execution | `playbooks/06-account-field-and-partner/trade-shows.md` |
+| Executive dinner / small roundtable | `playbooks/06-account-field-and-partner/executive-dinners.md` |
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
 | Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
 | Customer success / post-sale book | `playbooks/08-lifecycle-and-customer-marketing/customer-success.md` |
@@ -61,6 +66,7 @@ Produce a usable artifact or decision, not broad advice.
 | Working file (Sheet / Doc / Slides blank) | `TEMPLATES.md` |
 | Software selection | `TOOLS.md` |
 | Newsletters, KOLs, or reading sources | `RESOURCES.md` |
+| Partner with a newsletter or operator (not just read them) | `playbooks/04-channels-and-distribution/creator-partnership.md` |
 
 If the master index marks a requested topic as planned, read the relevant domain README for its scope, decisions, build order, and interfaces. State that no complete tactic playbook is published yet; do not fabricate one or silently substitute an adjacent tactic.
 

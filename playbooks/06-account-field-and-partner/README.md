@@ -2,9 +2,9 @@
 
 > **Decision owned:** How should marketing and sales coordinate around high-value accounts, physical access, and ecosystem leverage?
 
-**Status:** Domain guide published · 4 tactic playbooks published
+**Status:** Domain guide published · 5 tactic playbooks published
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 ## Scope
 
@@ -31,12 +31,12 @@ A living **account plan** for a named high-value account sits here so marketing 
 |---|---|---|
 | [Event marketing](event-marketing.md) | Published | How should an event support a defined account, relationship, and pipeline objective? |
 | [Trade shows](trade-shows.md) | Published | How should a team select, prepare for, execute, and follow up on a trade show? |
+| [Executive dinners](executive-dinners.md) | Published | How can a small, role-locked table create a relationship and a next step? |
 | [Ecosystem](ecosystem.md) | Published | How should the company grow through partners who already have access and trust? |
 | [Account planning](account-planning.md) | Published | What is going on in this named account, and what will we do in 30/60/90 days? |
 | ABM strategy | Planned: `abm-strategy.md` | Which accounts, tiers, resources, and outcomes define the ABM system? |
 | One-to-one ABM | Planned: `one-to-one-abm.md` | What justifies a bespoke program for one account? |
 | One-to-few ABM | Planned: `one-to-few-abm.md` | Which shared problem can support a small account-cluster program? |
-| Executive dinners | Planned: `executive-dinners.md` | How can a small in-person experience create credible peer access? |
 | Direct mail | Planned: `direct-mail.md` | When can a physical touch create useful attention rather than waste? |
 | Partner marketing | Planned: `partner-marketing.md` | How should two companies create and capture shared demand inside the [ecosystem](ecosystem.md) flywheel? |
 | Affiliate program | Planned: `affiliate-program.md` | What economics, controls, and enablement make referrals repeatable? |
@@ -50,7 +50,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 1. Define account tiers, buying groups, goals, and resource thresholds.
 2. For a named account that already deserves the time, write an [account plan](account-planning.md) before a campaign calendar.
 3. Map complements and run one [ecosystem](ecosystem.md) program before treating partner work as a calendar of co-branded tactics.
-4. Build field and event methods around selected account outcomes.
+4. Build field and event methods around selected account outcomes. A booth is [trade shows](trade-shows.md); a role-locked night is [executive dinners](executive-dinners.md).
 5. Add partner, affiliate, channel, and co-marketing operating models as named slices of the same flywheel.
 6. Connect program signals, follow-up, and account progression to the CRM.
 
