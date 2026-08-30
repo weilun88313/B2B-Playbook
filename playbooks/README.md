@@ -32,7 +32,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Case study / customer proof | [Brand, story & content](03-brand-story-and-content/) | [Case study](03-brand-story-and-content/case-study.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
-| White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
+| White paper | [Brand, story & content](03-brand-story-and-content/) | [White paper](03-brand-story-and-content/white-paper.md) |
 | Community (owned) | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
 | Peer room / existing community | [Channels & distribution](04-channels-and-distribution/) | [Peer community](04-channels-and-distribution/community.md) |
 | Channel strategy / PLG vs sales | [Channels & distribution](04-channels-and-distribution/) | [Channel strategy](04-channels-and-distribution/channel-strategy.md) |
@@ -42,6 +42,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Content syndication | [Channels & distribution](04-channels-and-distribution/) | [Content syndication](04-channels-and-distribution/content-syndication.md) |
 | LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | [LinkedIn organic](04-channels-and-distribution/linkedin-organic.md) |
 | Paid ads / creation vs capture | [Channels & distribution](04-channels-and-distribution/) | [Paid media](04-channels-and-distribution/paid-media.md) |
+| Review sites / G2 / buyer-visible reviews | [Channels & distribution](04-channels-and-distribution/) | [Review sites](04-channels-and-distribution/review-sites.md) |
 | LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | [LinkedIn outbound](05-outbound-and-prospecting/linkedin-outbound.md) |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
 | Buying signal / job change / which sentence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Buying signals](05-outbound-and-prospecting/buying-signals.md) |
@@ -56,13 +57,17 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Dinner / roundtable | [Account, field & partner](06-account-field-and-partner/) | [Executive dinners](06-account-field-and-partner/executive-dinners.md) |
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](06-account-field-and-partner/) | [Account planning](06-account-field-and-partner/account-planning.md) |
+| ABM / account tiers / 1:1 vs 1:few | [Account, field & partner](06-account-field-and-partner/) | [ABM strategy](06-account-field-and-partner/abm-strategy.md) |
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
 | Homepage | [Website & conversion](07-website-and-conversion/) | [Homepage](07-website-and-conversion/homepage.md) |
 | Comparison page | [Website & conversion](07-website-and-conversion/) | [Comparison page](07-website-and-conversion/comparison-page.md) |
 | Pricing page | [Website & conversion](07-website-and-conversion/) | [Pricing page](07-website-and-conversion/pricing-page.md) |
 | Demo request / high-intent form | [Website & conversion](07-website-and-conversion/) | [Demo request](07-website-and-conversion/demo-request.md) |
 | Landing page / campaign URL | [Website & conversion](07-website-and-conversion/) | [Landing page](07-website-and-conversion/landing-page.md) |
+| Forms / chat / what to collect | [Website & conversion](07-website-and-conversion/) | [Forms and chat](07-website-and-conversion/forms-and-chat.md) |
 | Lead nurture / pre-sale drip | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Lead nurture](08-lifecycle-and-customer-marketing/lead-nurture.md) |
+| Expansion / upsell / land and expand | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Expansion marketing](08-lifecycle-and-customer-marketing/expansion-marketing.md) |
+| Renewal / value packet / horizon clock | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Renewal marketing](08-lifecycle-and-customer-marketing/renewal-marketing.md) |
 | Measurement / attribution / HDYHAU | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Measurement model](09-operations-pipeline-and-measurement/measurement-model.md) |
 | Customer success / post-sale book | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer success](08-lifecycle-and-customer-marketing/customer-success.md) |
 | Customer onboarding / first value | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) |
@@ -126,8 +131,9 @@ Published:
 
 - [Content strategy](03-brand-story-and-content/content-strategy.md)
 - [Case study](03-brand-story-and-content/case-study.md)
+- [White paper](03-brand-story-and-content/white-paper.md)
 
-Planned: brand strategy, brand narrative, founder story, thought leadership, white paper, newsletter, webinar, podcast, video, community-led growth.
+Planned: brand strategy, brand narrative, founder story, thought leadership, newsletter, webinar, podcast, video, community-led growth.
 
 ## 04 · [Channels & distribution](04-channels-and-distribution/)
 
@@ -143,8 +149,9 @@ Published:
 - [Content syndication](04-channels-and-distribution/content-syndication.md)
 - [LinkedIn organic](04-channels-and-distribution/linkedin-organic.md)
 - [Paid media](04-channels-and-distribution/paid-media.md)
+- [Review sites](04-channels-and-distribution/review-sites.md)
 
-Planned: paid search, paid social, retargeting (execution under [paid media](04-channels-and-distribution/paid-media.md)), PR and media, review sites, content distribution, content repurposing.
+Planned: paid search, paid social, retargeting (execution under [paid media](04-channels-and-distribution/paid-media.md)), PR and media, content distribution, content repurposing.
 
 ## 05 · [Outbound & prospecting](05-outbound-and-prospecting/)
 
@@ -175,8 +182,9 @@ Published:
 - [Executive dinners](06-account-field-and-partner/executive-dinners.md)
 - [Ecosystem](06-account-field-and-partner/ecosystem.md)
 - [Account planning](06-account-field-and-partner/account-planning.md)
+- [ABM strategy](06-account-field-and-partner/abm-strategy.md)
 
-Planned: ABM strategy, one-to-one ABM, one-to-few ABM, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
+Planned: one-to-one ABM, one-to-few ABM, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
 
 ## 07 · [Website & conversion](07-website-and-conversion/)
 
@@ -189,8 +197,9 @@ Published:
 - [Pricing page](07-website-and-conversion/pricing-page.md)
 - [Demo request](07-website-and-conversion/demo-request.md)
 - [Landing page](07-website-and-conversion/landing-page.md)
+- [Forms and chat](07-website-and-conversion/forms-and-chat.md)
 
-Planned: website strategy, product page, lead magnet, forms and chat, conversion-rate optimization, self-service buying, documentation.
+Planned: website strategy, product page, lead magnet, conversion-rate optimization, self-service buying, documentation.
 
 ## 08 · [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/)
 
@@ -205,8 +214,10 @@ Published:
 - [CS workspace](08-lifecycle-and-customer-marketing/cs-workspace.md)
 - [Revenue churn](08-lifecycle-and-customer-marketing/revenue-churn.md)
 - [Lead nurture](08-lifecycle-and-customer-marketing/lead-nurture.md)
+- [Expansion marketing](08-lifecycle-and-customer-marketing/expansion-marketing.md)
+- [Renewal marketing](08-lifecycle-and-customer-marketing/renewal-marketing.md)
 
-Planned: lifecycle email, customer education, customer community, advocacy, referrals, reviews, expansion, renewal.
+Planned: lifecycle email, customer education, customer community, advocacy, referrals, reviews, win-back.
 
 ## 09 · [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/)
 

@@ -129,7 +129,7 @@ Do not treat case-study pageviews, “content downloads,” or count of publishe
 
 ## What to read next
 
-Which URL this sits on is [content strategy](content-strategy.md). The scan that must still work without this story is the [homepage](../07-website-and-conversion/homepage.md). A campaign that needs one promise and one door is a [landing page](../07-website-and-conversion/landing-page.md). After they buy, do not recycle this page as onboarding: [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md). White paper remains planned; do not stretch a case into a research asset.
+Which URL this sits on is [content strategy](content-strategy.md). The scan that must still work without this story is the [homepage](../07-website-and-conversion/homepage.md). A campaign that needs one promise and one door is a [landing page](../07-website-and-conversion/landing-page.md). After they buy, do not recycle this page as onboarding: [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md). A sourced method is a [white paper](white-paper.md)—do not stretch a case into a research asset.
 
 ## Sources and evidence boundary
 

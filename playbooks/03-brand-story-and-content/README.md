@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should future buyers remember, trust, and learn from the company before they are in market?
 
-**Status:** Domain guide published · 2 tactic playbooks published
+**Status:** Domain guide published · 3 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -32,7 +32,7 @@ It owns brand narrative, founder story, thought leadership, editorial strategy, 
 | Thought leadership | Planned: `thought-leadership.md` | What original, defensible idea can help the market think differently? |
 | Content strategy | [Published](content-strategy.md) | Which audience questions deserve a durable page, and in what order? |
 | [Case study](case-study.md) | Published | How should a named customer's context, action, and result become forwardable proof? |
-| White paper | Planned: `white-paper.md` | When does a complex argument require a sourced, long-form asset? |
+| [White paper](white-paper.md) | Published | When does a sourced long argument deserve a URL—and when must it stay ungated? |
 | Newsletter | Planned: `newsletter.md` | What recurring editorial promise will make an audience choose to return? |
 | Webinar | Planned: `webinar.md` | How can a live educational session create useful participation and reusable content? |
 | Podcast | Planned: `podcast.md` | When can a recurring conversation format deepen authority and relationships? |
@@ -46,7 +46,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 1. If sales already hears repeating evaluation questions, publish a [content strategy](content-strategy.md) map before a brand workshop.
 2. Define the brand narrative, audience, editorial point of view, and evidence rules.
 3. Build founder story and thought leadership from real experience and research.
-4. When a customer will go on the record, write a [case study](case-study.md). White papers stay planned.
+4. When a customer will go on the record, write a [case study](case-study.md). When a method needs sources, write a [white paper](white-paper.md).
 5. Add recurring formats—newsletter, webinar, video, podcast, or community—only when ownership is sustainable.
 
 ## Interfaces with other domains
