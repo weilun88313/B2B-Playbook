@@ -115,7 +115,7 @@ Do not count credits purchased, or resemblance to a 10-provider blog, as a data 
 
 ## What to read next
 
-Whether they deserve a touch is [account research](account-research.md). The written first touch is [cold email](cold-email.md). Sequence shape is [multichannel sequence](multichannel-sequence.md). Hired SDRs still need [SDR onboarding](sdr-onboarding.md). Tools for a defined job start in [TOOLS.md](../../TOOLS.md); this page is the test those tools must pass.
+Whether they deserve a touch is [account research](account-research.md). Whether a dated change changes the week is [buying signals](buying-signals.md). The written first touch is [cold email](cold-email.md). Sequence shape is [multichannel sequence](multichannel-sequence.md). Hired SDRs still need [SDR onboarding](sdr-onboarding.md). Tools for a defined job start in [TOOLS.md](../../TOOLS.md); this page is the test those tools must pass.
 
 ## Sources and evidence boundary
 

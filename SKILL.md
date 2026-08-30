@@ -29,6 +29,7 @@ Produce a usable artifact or decision, not broad advice.
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
+| Buying signal / job change / funding / which sentence this week | `playbooks/05-outbound-and-prospecting/buying-signals.md` |
 | Mobile / phone data / right-person numbers | `playbooks/05-outbound-and-prospecting/contact-data.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
