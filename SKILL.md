@@ -92,7 +92,7 @@ Produce a usable artifact or decision, not broad advice.
 
 If the master index marks a requested topic as planned, read the relevant domain README for its scope, decisions, build order, and interfaces. State that no complete tactic playbook is published yet; do not fabricate one or silently substitute an adjacent tactic.
 
-All maintained playbook, tool, working-file, reading-source, and Skill content is in English. The root README maintains a complete Chinese mirror of the repository entrance and current coverage.
+All maintained playbook, tool, working-file, reading-source, and Skill content is in English. The root README is English. A Chinese entrance lives in `README.zh.md` and must stay a full mirror of coverage counts.
 
 ## Working rules
 
