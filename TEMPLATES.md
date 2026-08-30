@@ -2,7 +2,7 @@
 
 **Last reviewed:** 2026-08-30
 
-**Current coverage:** 21 working files
+**Current coverage:** 26 working files
 
 These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
 
@@ -29,6 +29,11 @@ Google “Make a copy” URLs are added here only after the owner publishes a vi
 | [AI workflow card](templates/ai-workflow.md) | Doc | Artifact, stages, gates, collapse, and send rules before you build | [AI workflow](playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) |
 | [Contact data](templates/contact-data.xlsx) | Sheet | Test coverage, valid line, and right-person on *your* slice | [Contact data](playbooks/05-outbound-and-prospecting/contact-data.md) |
 | [Buying-signal card](templates/buying-signals.md) | Doc | Temperature, two independent facts, window, and the sentence the change earns | [Buying signals](playbooks/05-outbound-and-prospecting/buying-signals.md) |
+| [Peer-community room card](templates/community.md) | Doc | One existing room, one contribution, endorsement we will accept | [Peer community](playbooks/04-channels-and-distribution/community.md) |
+| [Creator-partnership card](templates/creator-partnership.md) | Doc | Overlap, unique cut, three wins, disclosure | [Creator partnership](playbooks/04-channels-and-distribution/creator-partnership.md) |
+| [Executive-dinner table card](templates/executive-dinners.md) | Doc | One seat, one question, 8–12 guests | [Executive dinners](playbooks/06-account-field-and-partner/executive-dinners.md) |
+| [Show capture](templates/show-capture.md) | Doc | Qualification, interaction signals, post-show rank—not scan order | [Trade shows](playbooks/06-account-field-and-partner/trade-shows.md) |
+| [Content-syndication test](templates/content-syndication.md) | Doc | Audience sample, verification, post-fill signal, 90-day cap | [Content syndication](playbooks/04-channels-and-distribution/content-syndication.md) |
 | [Revenue churn card](templates/revenue-churn.md) | Doc | Freeze five movements; show gross next to net | [Revenue churn](playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md) |
 | [Sales-leadership 90 days](templates/sales-leadership-90.md) | Doc / Slides outline | Run observe → quick wins → new course without a costume deck | [Sales-leadership ramp](playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
 

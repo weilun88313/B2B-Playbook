@@ -37,7 +37,7 @@ It owns brand narrative, founder story, thought leadership, editorial strategy, 
 | Webinar | Planned: `webinar.md` | How can a live educational session create useful participation and reusable content? |
 | Podcast | Planned: `podcast.md` | When can a recurring conversation format deepen authority and relationships? |
 | Video | Planned: `video.md` | Which ideas become clearer or more memorable through visual explanation? |
-| Community-led growth | Planned: `community-led-growth.md` | When can a practitioner community create learning, trust, and market insight? |
+| Community-led growth | Planned: `community-led-growth.md` | When can an *owned* practitioner community create learning, trust, and market insight? Entering a room that already exists is [peer community](../04-channels-and-distribution/community.md). |
 
 Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
 

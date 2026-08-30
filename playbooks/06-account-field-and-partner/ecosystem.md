@@ -176,7 +176,7 @@ Named growth figures in public write-ups (developer counts, â€œhalf of growth,â€
 
 ## What to read next
 
-Ecosystem is usually a **secondary** motion. Name the primary first in [channel strategy](../04-channels-and-distribution/channel-strategy.md). Partners still need pages they can send: [content strategy](../03-brand-story-and-content/content-strategy.md). If you do not yet have customers who would introduce you, that is still [product-market fit](../01-strategy-and-buyers/product-market-fit.md).
+Ecosystem is usually a **secondary** motion. Name the primary first in [channel strategy](../04-channels-and-distribution/channel-strategy.md). One existing room is [peer community](../04-channels-and-distribution/community.md). One named voice is [creator partnership](../04-channels-and-distribution/creator-partnership.md). Partners still need pages they can send: [content strategy](../03-brand-story-and-content/content-strategy.md). If you do not yet have customers who would introduce you, that is still [product-market fit](../01-strategy-and-buyers/product-market-fit.md).
 
 ## Sources and evidence boundary
 

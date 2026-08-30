@@ -31,9 +31,13 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
-| Community | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
+| Community (owned) | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
+| Peer room / existing community | [Channels & distribution](04-channels-and-distribution/) | [Peer community](04-channels-and-distribution/community.md) |
 | Channel strategy / PLG vs sales | [Channels & distribution](04-channels-and-distribution/) | [Channel strategy](04-channels-and-distribution/channel-strategy.md) |
 | SEO / AEO / AI search visibility | [Channels & distribution](04-channels-and-distribution/) | [SEO and AEO](04-channels-and-distribution/seo-and-aeo.md) |
+| Newsletter / podcast / KOL partnership | [Channels & distribution](04-channels-and-distribution/) | [Creator partnership](04-channels-and-distribution/creator-partnership.md) |
+| Product Hunt / launch day | [Channels & distribution](04-channels-and-distribution/) | [Product Hunt](04-channels-and-distribution/product-hunt.md) |
+| Content syndication | [Channels & distribution](04-channels-and-distribution/) | [Content syndication](04-channels-and-distribution/content-syndication.md) |
 | LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | Planned: `linkedin-organic.md` |
 | LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
@@ -45,6 +49,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | SDR / BDR onboarding | [Outbound & prospecting](05-outbound-and-prospecting/) | [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md) |
 | Event | [Account, field & partner](06-account-field-and-partner/) | [Event marketing](06-account-field-and-partner/event-marketing.md) |
 | Trade show | [Account, field & partner](06-account-field-and-partner/) | [Trade shows](06-account-field-and-partner/trade-shows.md) |
+| Dinner / roundtable | [Account, field & partner](06-account-field-and-partner/) | [Executive dinners](06-account-field-and-partner/executive-dinners.md) |
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](06-account-field-and-partner/) | [Account planning](06-account-field-and-partner/account-planning.md) |
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
@@ -119,6 +124,10 @@ Published:
 
 - [Channel strategy](04-channels-and-distribution/channel-strategy.md)
 - [SEO and AEO](04-channels-and-distribution/seo-and-aeo.md)
+- [Peer community](04-channels-and-distribution/community.md)
+- [Creator partnership](04-channels-and-distribution/creator-partnership.md)
+- [Product Hunt](04-channels-and-distribution/product-hunt.md)
+- [Content syndication](04-channels-and-distribution/content-syndication.md)
 
 Planned: LinkedIn organic, paid search, paid social, retargeting, PR and media, review sites, content distribution, content repurposing.
 
@@ -145,6 +154,7 @@ Published:
 
 - [Event marketing](06-account-field-and-partner/event-marketing.md)
 - [Trade shows](06-account-field-and-partner/trade-shows.md)
+- [Executive dinners](06-account-field-and-partner/executive-dinners.md)
 - [Ecosystem](06-account-field-and-partner/ecosystem.md)
 - [Account planning](06-account-field-and-partner/account-planning.md)
 
