@@ -1,3 +1,8 @@
+---
+title: "CS workspace"
+sidebarTitle: "CS Workspace"
+---
+
 # CS workspace
 
 **Last reviewed:** 2026-08-30

@@ -1,3 +1,8 @@
+---
+title: "Customer success"
+sidebarTitle: "Customer Success"
+---
+
 # Customer success
 
 **Last reviewed:** 2026-08-29

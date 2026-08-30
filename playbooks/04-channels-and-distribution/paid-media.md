@@ -1,3 +1,8 @@
+---
+title: "Paid media"
+sidebarTitle: "Paid Media"
+---
+
 # Paid media
 
 **Last reviewed:** 2026-08-30
@@ -35,13 +40,13 @@ Platform-specific execution (Google exact-match hygiene, LinkedIn conversation a
 
 ## One rule
 
-**Do not buy creation with a capture scoreboard.** If the ad is meant to be remembered, last-click CPL will “prove” it failed. If the ad is meant to harvest “{category} software,” judge it on qualified conversations and sales-accepted pipeline—not on impressions.
+**Do not buy creation with a capture scoreboard.** If the ad is meant to be remembered, last-click CPL will “prove” it failed. If the ad is meant to harvest “&#123;category&#125; software,” judge it on qualified conversations and sales-accepted pipeline—not on impressions.
 
 ## Operating method
 
 ### Step 1: refuse the budget until the job is one sentence
 
-Write: *this money exists to [create memory in {category} / capture {query or high-intent URL}] for [seat], and we will read [scoreboard].* If the sentence contains both jobs, split the budget. One campaign object cannot optimize for both.
+Write: *this money exists to [create memory in &#123;category&#125; / capture &#123;query or high-intent URL&#125;] for [seat], and we will read [scoreboard].* If the sentence contains both jobs, split the budget. One campaign object cannot optimize for both.
 
 ### Step 2: default the split toward the 95—once you can afford a second buy
 
@@ -75,7 +80,7 @@ Sales-assist. Category queries exist. Founder already posts.
 
 | Field | Fill |
 |---|---|
-| Capture job | Exact/phrase on “{job} for {seat}” and the one incumbent that appears in deals → comparison + demo request |
+| Capture job | Exact/phrase on “&#123;job&#125; for &#123;seat&#125;” and the one incumbent that appears in deals → comparison + demo request |
 | Creation job | None this quarter—founder organic is the 95. Revisit when we will not cut it in week three. |
 | Retargeting | Pricing and demo visitors only, 14 days, cap frequency. No blog retarget. |
 | Will not buy | Lead-gen form ads to a 40-field gate. Conversation ads that skip the site. |

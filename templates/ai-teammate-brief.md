@@ -1,3 +1,8 @@
+---
+title: "AI teammate brief"
+sidebarTitle: "AI Teammate Brief"
+---
+
 # AI teammate brief
 
 **Last reviewed:** 2026-08-30

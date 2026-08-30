@@ -1,3 +1,8 @@
+---
+title: "First ten customers"
+sidebarTitle: "First Ten Customers"
+---
+
 # First ten customers
 
 **Last reviewed:** 2026-08-29

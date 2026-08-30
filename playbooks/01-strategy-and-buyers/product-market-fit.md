@@ -1,3 +1,8 @@
+---
+title: "Product-market fit"
+sidebarTitle: "Product Market Fit"
+---
+
 # Product-market fit
 
 **Last reviewed:** 2026-08-30

@@ -1,3 +1,8 @@
+---
+title: "Sales enablement"
+sidebarTitle: "Sales Enablement"
+---
+
 # Sales enablement
 
 **Last reviewed:** 2026-08-29

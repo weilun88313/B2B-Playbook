@@ -1,3 +1,8 @@
+---
+title: "SDR onboarding"
+sidebarTitle: "SDR Onboarding"
+---
+
 # SDR onboarding
 
 **Last reviewed:** 2026-08-29

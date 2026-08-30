@@ -1,3 +1,8 @@
+---
+title: "Revenue churn card"
+sidebarTitle: "Revenue Churn"
+---
+
 # Revenue churn card
 
 B2B Playbook working file. Read [revenue churn](../playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md) first.

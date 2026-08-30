@@ -1,3 +1,8 @@
+---
+title: "White paper"
+sidebarTitle: "White Paper"
+---
+
 # White paper
 
 **Last reviewed:** 2026-08-30

@@ -1,3 +1,8 @@
+---
+title: "LinkedIn outbound"
+sidebarTitle: "Linkedin Outbound"
+---
+
 # LinkedIn outbound
 
 **Last reviewed:** 2026-08-30

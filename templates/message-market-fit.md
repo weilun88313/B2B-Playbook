@@ -1,3 +1,8 @@
+---
+title: "Message-market-fit card"
+sidebarTitle: "Message Market Fit"
+---
+
 # Message-market-fit card
 
 B2B Playbook working file. Read [message-market fit](../playbooks/05-outbound-and-prospecting/message-market-fit.md) first.

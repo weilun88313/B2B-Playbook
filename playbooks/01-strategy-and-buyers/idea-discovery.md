@@ -1,3 +1,8 @@
+---
+title: "Idea discovery"
+sidebarTitle: "Idea Discovery"
+---
+
 # Idea discovery
 
 **Last reviewed:** 2026-08-29

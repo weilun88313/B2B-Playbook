@@ -1,3 +1,8 @@
+---
+title: "GTM planning"
+sidebarTitle: "GTM Planning"
+---
+
 # GTM planning
 
 **Last reviewed:** 2026-08-29

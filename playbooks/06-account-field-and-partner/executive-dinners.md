@@ -1,3 +1,8 @@
+---
+title: "Executive dinners"
+sidebarTitle: "Executive Dinners"
+---
+
 # Executive dinners
 
 **Last reviewed:** 2026-08-30

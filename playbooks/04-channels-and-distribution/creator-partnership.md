@@ -1,3 +1,8 @@
+---
+title: "Creator partnership"
+sidebarTitle: "Creator Partnership"
+---
+
 # Creator partnership
 
 **Last reviewed:** 2026-08-30

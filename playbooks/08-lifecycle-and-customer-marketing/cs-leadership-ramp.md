@@ -1,3 +1,8 @@
+---
+title: "CS-leadership ramp"
+sidebarTitle: "CS Leadership Ramp"
+---
+
 # CS-leadership ramp
 
 **Last reviewed:** 2026-08-30

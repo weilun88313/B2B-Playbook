@@ -1,3 +1,8 @@
+---
+title: "Lead nurture"
+sidebarTitle: "Lead Nurture"
+---
+
 # Lead nurture
 
 **Last reviewed:** 2026-08-30
@@ -80,7 +85,7 @@ Webinar list of ops leads. Comparison page exists. Demo form is scoped.
 | Default send | Monthly: one scene + comparison or constraint URL. Product name optional. |
 | Trigger upgrade | Pricing or `/walkthrough` visit → human SLA, drip pauses |
 | Gate | None on comparison. Optional: queue-template working file, one field (work email) |
-| Exit | Hand-raise, disqualify, or “pause until {date}” |
+| Exit | Hand-raise, disqualify, or “pause until &#123;date&#125;” |
 | Will not do | Seven-email “value then ask.” Points for webinar attendance alone. |
 
 ## Copy: nurture-state card (fill)

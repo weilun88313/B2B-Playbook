@@ -1,3 +1,8 @@
+---
+title: "Homepage brief"
+sidebarTitle: "Homepage"
+---
+
 # Homepage brief
 
 B2B Playbook working file. Read [homepage](../playbooks/07-website-and-conversion/homepage.md) first.

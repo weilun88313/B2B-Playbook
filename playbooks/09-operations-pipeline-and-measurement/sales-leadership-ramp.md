@@ -1,3 +1,8 @@
+---
+title: "Sales-leadership ramp"
+sidebarTitle: "Sales Leadership Ramp"
+---
+
 # Sales-leadership ramp
 
 **Last reviewed:** 2026-08-29

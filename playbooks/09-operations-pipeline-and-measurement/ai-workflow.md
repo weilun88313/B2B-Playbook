@@ -1,3 +1,8 @@
+---
+title: "AI workflow"
+sidebarTitle: "AI Workflow"
+---
+
 # AI workflow
 
 **Last reviewed:** 2026-08-30

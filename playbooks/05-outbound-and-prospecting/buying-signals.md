@@ -1,3 +1,8 @@
+---
+title: "Buying signals"
+sidebarTitle: "Buying Signals"
+---
+
 # Buying signals
 
 **Last reviewed:** 2026-08-30

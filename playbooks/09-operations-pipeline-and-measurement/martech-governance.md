@@ -1,3 +1,8 @@
+---
+title: "MarTech governance"
+sidebarTitle: "Martech Governance"
+---
+
 # MarTech governance
 
 **Last reviewed:** 2026-08-29

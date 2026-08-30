@@ -1,3 +1,8 @@
+---
+title: "Case-study brief"
+sidebarTitle: "Case Study"
+---
+
 # Case-study brief
 
 B2B Playbook working file. Read [case study](../playbooks/03-brand-story-and-content/case-study.md) first.

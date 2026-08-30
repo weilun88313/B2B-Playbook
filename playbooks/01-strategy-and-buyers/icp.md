@@ -1,3 +1,8 @@
+---
+title: "Ideal customer profile (ICP)"
+sidebarTitle: "ICP"
+---
+
 # Ideal customer profile (ICP)
 
 **Last reviewed:** 2026-08-29

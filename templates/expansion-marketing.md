@@ -1,3 +1,8 @@
+---
+title: "Expansion card"
+sidebarTitle: "Expansion Marketing"
+---
+
 # Expansion card
 
 B2B Playbook working file. Read [expansion marketing](../playbooks/08-lifecycle-and-customer-marketing/expansion-marketing.md) first.

@@ -1,3 +1,8 @@
+---
+title: "Cold call"
+sidebarTitle: "Cold Call"
+---
+
 # Cold call
 
 **Last reviewed:** 2026-08-30

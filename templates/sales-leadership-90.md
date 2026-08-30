@@ -1,3 +1,8 @@
+---
+title: "Sales-leadership 90 days"
+sidebarTitle: "Sales Leadership 90"
+---
+
 # Sales-leadership 90 days
 
 B2B Playbook working file. Read [sales-leadership ramp](../playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md) first.

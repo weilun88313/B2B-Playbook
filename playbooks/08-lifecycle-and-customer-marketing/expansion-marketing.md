@@ -1,3 +1,8 @@
+---
+title: "Expansion marketing"
+sidebarTitle: "Expansion Marketing"
+---
+
 # Expansion marketing
 
 **Last reviewed:** 2026-08-30

@@ -1,3 +1,8 @@
+---
+title: "Demo request"
+sidebarTitle: "Demo Request"
+---
+
 # Demo request
 
 **Last reviewed:** 2026-08-30

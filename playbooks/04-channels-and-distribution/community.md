@@ -1,3 +1,8 @@
+---
+title: "Peer community"
+sidebarTitle: "Community"
+---
+
 # Peer community
 
 **Last reviewed:** 2026-08-30

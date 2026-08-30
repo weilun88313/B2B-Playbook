@@ -1,3 +1,8 @@
+---
+title: "Pricing page"
+sidebarTitle: "Pricing Page"
+---
+
 # Pricing page
 
 **Last reviewed:** 2026-08-30

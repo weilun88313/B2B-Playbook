@@ -1,3 +1,8 @@
+---
+title: "Channel strategy"
+sidebarTitle: "Channel Strategy"
+---
+
 # Channel strategy
 
 **Last reviewed:** 2026-08-29
