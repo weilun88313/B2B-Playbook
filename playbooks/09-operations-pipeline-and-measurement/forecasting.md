@@ -2,8 +2,6 @@
 title: "Forecasting"
 ---
 
-# Forecasting
-
 **Last reviewed:** 2026-08-29
 
 Repeatability starts with **pipeline hygiene**. Hygiene makes a forecast possible. A forecast that you can defend makes a number you can hit. A number you hit is how you keep a reputation inside the company. Skipping to “call the quarter” on dirty opportunities is how forecasts become theater—and how you lose the right to be believed.

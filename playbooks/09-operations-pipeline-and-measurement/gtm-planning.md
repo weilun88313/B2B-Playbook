@@ -3,8 +3,6 @@ title: "GTM planning"
 sidebarTitle: "GTM Planning"
 ---
 
-# GTM planning
-
 **Last reviewed:** 2026-08-29
 
 A revenue target with no **parents** is a wish. The number has two parents that must meet: **what demand can create** (channel volume × conversion) and **what sales can close** (heads × quota × ramp × cycle × retention). If marketing’s waterfall and sales’ capacity file disagree, you do not have a plan. You have two spreadsheets.

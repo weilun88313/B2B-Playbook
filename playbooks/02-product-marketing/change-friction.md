@@ -3,8 +3,6 @@ title: "Change friction"
 sidebarTitle: "Change Friction"
 ---
 
-# Change friction
-
 **Last reviewed:** 2026-08-30
 
 In a crowded category the buyer already believes there is a problem. Headlines create need. What they cannot see is **value as something that happened**—especially when the job is prevention, risk, or “keep the lights on.” The meeting dies as a bake-off of features. [Sales enablement](sales-enablement.md) is the shared first-meeting story. This page is the qualification that story must survive: **what we reduce, what we replace, what inaction costs—and whether they will live through the fix.**

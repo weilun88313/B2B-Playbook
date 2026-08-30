@@ -3,8 +3,6 @@ title: "Sales enablement"
 sidebarTitle: "Sales Enablement"
 ---
 
-# Sales enablement
-
 **Last reviewed:** 2026-08-29
 
 Most first meetings die the same way: the seller logs in, clicks features until the hour is gone, and leaves the buyer to infer “why us.” The buyer is often not a category expert. They were asked to recommend something. They are more afraid of recommending the wrong tool than of missing a better one. The safest move is delay. **No decision** wins, and nobody gets blamed.

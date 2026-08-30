@@ -3,8 +3,6 @@ title: "Account planning"
 sidebarTitle: "Account Planning"
 ---
 
-# Account planning
-
 **Last reviewed:** 2026-08-29
 
 An [ICP](../01-strategy-and-buyers/icp.md) says who deserves attention. A [buying committee](../01-strategy-and-buyers/buying-committee.md) map says who must say yes. An **account plan** is the living file that answers: **what is going on in this company, what we will do in the next 30/60/90 days, and who owns each move.** Without it, “strategic account” is a label on a CRM record.

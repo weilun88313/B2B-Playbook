@@ -3,8 +3,6 @@ title: "SDR onboarding"
 sidebarTitle: "SDR Onboarding"
 ---
 
-# SDR onboarding
-
 **Last reviewed:** 2026-08-29
 
 A login, a Slack intro, and “shadow someone for a week” is not onboarding. It is how a new SDR invents a private version of the job: their own definition of a meeting, their own CRM hygiene, their own idea of what “qualified” means. Ninety days later you have activity and no system.

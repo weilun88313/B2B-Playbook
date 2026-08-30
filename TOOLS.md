@@ -3,8 +3,6 @@ title: "AI-native B2B GTM tool directory"
 sidebarTitle: "Tools"
 ---
 
-# AI-native B2B GTM tool directory
-
 > A curated directory of modern software for researching markets, creating demand, reaching buyers, operating revenue workflows, and measuring results.
 
 **Directory release:** 43 tools · 14 operating categories

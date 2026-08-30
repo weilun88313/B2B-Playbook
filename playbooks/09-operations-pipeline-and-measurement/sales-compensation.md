@@ -3,8 +3,6 @@ title: "Sales compensation"
 sidebarTitle: "Sales Compensation"
 ---
 
-# Sales compensation
-
 **Last reviewed:** 2026-08-29
 
 [Pricing](../02-product-marketing/pricing-and-packaging.md) is what the **buyer** pays. This page is what a **quota-carrying person** earns. Mixing the two is how teams “discount to win” and then wonder why nobody hits number.

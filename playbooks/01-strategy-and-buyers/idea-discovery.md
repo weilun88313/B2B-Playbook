@@ -3,8 +3,6 @@ title: "Idea discovery"
 sidebarTitle: "Idea Discovery"
 ---
 
-# Idea discovery
-
 **Last reviewed:** 2026-08-29
 
 A surprising share of later-famous B2B companies did **not** start because the founder felt the pain at the last job. In Lenny Rachitsky’s 2023 interviews that path was only about **40%**. The majority of those founders also had no special credential in the space they entered. About **20%** were solo. Following any recipe still will not guarantee a company. It improves the odds of picking a problem worth years.

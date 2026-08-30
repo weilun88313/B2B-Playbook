@@ -3,8 +3,6 @@ title: "Buying-signal card"
 sidebarTitle: "Buying Signals"
 ---
 
-# Buying-signal card
-
 B2B Playbook working file. Read [buying signals](../playbooks/05-outbound-and-prospecting/buying-signals.md) first.
 
 One account. One week. Delete teaching notes. Do not paste a third-party trigger list as the live queue.

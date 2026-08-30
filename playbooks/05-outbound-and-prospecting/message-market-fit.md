@@ -3,8 +3,6 @@ title: "Message-market fit"
 sidebarTitle: "Message Market Fit"
 ---
 
-# Message-market fit
-
 **Last reviewed:** 2026-08-30
 
 [Buying signals](buying-signals.md) decide which dated change may change the week. [Cold email](cold-email.md) writes the two sentences. This page is the **gate in front of automation**: whether that offer and that sentence already produce qualified conversations in a handmade batch—before a sequence, a waterfall, or an “AI SDR” multiplies them.

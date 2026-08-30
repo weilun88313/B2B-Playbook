@@ -3,8 +3,6 @@ title: "Pricing-page brief"
 sidebarTitle: "Pricing Page"
 ---
 
-# Pricing-page brief
-
 B2B Playbook working file. Read [pricing page](../playbooks/07-website-and-conversion/pricing-page.md) first.
 
 The unit is already decided on pricing and packaging. This file is the public scan.

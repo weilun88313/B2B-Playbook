@@ -3,8 +3,6 @@ title: "Cold-call card"
 sidebarTitle: "Cold Call"
 ---
 
-# Cold-call card
-
 B2B Playbook working file. Read [cold call](../playbooks/05-outbound-and-prospecting/cold-call.md) first.
 
 Context → problem scene → interest. Handle the reaction before the objection.

@@ -3,8 +3,6 @@ title: "Content syndication"
 sidebarTitle: "Content Syndication"
 ---
 
-# Content syndication
-
 **Last reviewed:** 2026-08-30
 
 Syndication is paying a publisher to put your asset in front of *their* audience and hand you the form fills. It is not [content strategy](../03-brand-story-and-content/content-strategy.md)—that decides which page exists. It is not [SEO and AEO](seo-and-aeo.md)—that is how owned answers get found. It is a **rented list with a PDF attached**.

@@ -3,8 +3,6 @@ title: "White paper"
 sidebarTitle: "White Paper"
 ---
 
-# White paper
-
 **Last reviewed:** 2026-08-30
 
 A 28-page PDF that restates the homepage and asks for a meeting on page 3 is a brochure with a cover. [Content strategy](content-strategy.md) decides whether a long argument deserves a URL. This page owns **when a sourced, long-form asset is the right shape**—and when you must write the comparison or the [case study](case-study.md) instead.

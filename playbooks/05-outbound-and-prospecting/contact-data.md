@@ -3,8 +3,6 @@ title: "Contact data"
 sidebarTitle: "Contact Data"
 ---
 
-# Contact data
-
 **Last reviewed:** 2026-08-30
 
 Coverage is the number vendors advertise. It is also the weakest question. A row that “has a phone” is not a conversation. [Account research](account-research.md) decides whether the *account* deserves a touch. This page decides whether the **route**—especially a mobile—is real, theirs, and worth a human’s hour.

@@ -3,8 +3,6 @@ title: "Company cadence"
 sidebarTitle: "Company Cadence"
 ---
 
-# Company cadence
-
 **Last reviewed:** 2026-08-30
 
 [Sales operating cadence](sales-operating-cadence.md) splits the **weekly** jobs: pipe-gen, forecast, coaching. This page is the **quarterly superstructure**: sales and finance on one calendar, product and marketing on another, snapped together so a launch does not land on a close and a close does not starve the next release.

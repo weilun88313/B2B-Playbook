@@ -3,8 +3,6 @@ title: "Onboarding welcome packet"
 sidebarTitle: "Onboarding Welcome"
 ---
 
-# Onboarding welcome packet
-
 B2B Playbook working file. Read [onboarding communication](../playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md) first.
 
 Fill for **this** customer. Delete teaching notes. Do not paste a third-party welcome email as the live sequence.

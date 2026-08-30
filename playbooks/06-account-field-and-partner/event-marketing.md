@@ -3,8 +3,6 @@ title: "Event marketing"
 sidebarTitle: "Event Marketing"
 ---
 
-# Event marketing
-
 **Last reviewed:** 2026-08-29
 
 Event marketing uses owned, sponsored, partner, and industry events to create access, memory, evidence, and qualified next actions. The format follows the objective; a booth is not the strategy.

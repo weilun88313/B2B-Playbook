@@ -3,8 +3,6 @@ title: "Peer community"
 sidebarTitle: "Community"
 ---
 
-# Peer community
-
 **Last reviewed:** 2026-08-30
 
 For high-ACV B2B, **one credible intro inside a room that already debates the job** usually beats a month of generic reach. [Ecosystem](../06-account-field-and-partner/ecosystem.md) is the company flywheel. This page is the **room**: which existing vertical community we enter, what we contribute before we extract, and what “peer endorsement” is allowed to mean.

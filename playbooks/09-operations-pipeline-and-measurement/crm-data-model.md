@@ -3,8 +3,6 @@ title: "CRM data model"
 sidebarTitle: "CRM Data Model"
 ---
 
-# CRM data model
-
 **Last reviewed:** 2026-08-29
 
 A CRM is a **commercial record**: the objects, fields, relationships, and sources the company will actually operate. It is not a museum of every field anyone ever added. Migrating without a map is how junk travels, integrations break, and [forecasting](forecasting.md) inherits two dictionaries for “stage.”

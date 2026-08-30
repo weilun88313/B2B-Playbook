@@ -3,8 +3,6 @@ title: "CS-leadership ramp"
 sidebarTitle: "CS Leadership Ramp"
 ---
 
-# CS-leadership ramp
-
 **Last reviewed:** 2026-08-30
 
 A new VP of Sales with a vision deck in week one has not started. A new **chief customer / VP CS** with a “CS is a growth engine” slide and no at-risk list has not started either. The first 90 days are **see the book as it is → reset the charter and the numbers → ship visible standards**. Skip to hiring CSMs because a template said “day 90: scale” and you will staff a fire department.

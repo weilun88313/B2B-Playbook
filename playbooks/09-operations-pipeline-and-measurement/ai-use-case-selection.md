@@ -3,8 +3,6 @@ title: "AI use-case selection"
 sidebarTitle: "AI Use Case Selection"
 ---
 
-# AI use-case selection
-
 **Last reviewed:** 2026-08-30
 
 Most AI programs fail the selection step, not the model. Someone forwards a demo. An investor sends a “interesting” SKU. The team starts three experiments and finishes none. Frontline people learn that last month’s tool is already forgotten. Then the next experiment is dead on arrival.

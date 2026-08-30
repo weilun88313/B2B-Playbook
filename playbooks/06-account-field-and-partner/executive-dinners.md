@@ -3,8 +3,6 @@ title: "Executive dinners"
 sidebarTitle: "Executive Dinners"
 ---
 
-# Executive dinners
-
 **Last reviewed:** 2026-08-30
 
 A dinner or roundtable is a **small, role-locked room**. The guest list is the product. A mixer with a sponsor logo and three personas at every table is a reception. [Event marketing](event-marketing.md) still decides attend / host / skip. This page is the format: fewer people, one seat, one question—so a relationship and a next step can actually happen.

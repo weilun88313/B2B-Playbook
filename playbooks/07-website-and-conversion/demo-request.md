@@ -3,8 +3,6 @@ title: "Demo request"
 sidebarTitle: "Demo Request"
 ---
 
-# Demo request
-
 **Last reviewed:** 2026-08-30
 
 A “Request a demo” form that asks for a work email and a company size, then dumps every submit into a 30-minute platform tour, is a lead bucket. The [homepage](homepage.md) door and the [demo](../02-product-marketing/demo.md) walk are different jobs. This page owns the **high-intent path**: what the buyer should understand before they raise a hand, what you collect, and what happens in the first hour after submit.

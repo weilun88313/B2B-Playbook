@@ -3,8 +3,6 @@ title: "Sales operating cadence"
 sidebarTitle: "Sales Operating Cadence"
 ---
 
-# Sales operating cadence
-
 **Last reviewed:** 2026-08-29
 
 A forecast meeting that also “does coaching” and also “talks pipe gen” is not efficient. It is three jobs sharing one hour so that two of them lose. [Forecasting](forecasting.md) designs the call. This page designs the **calendar**: which question gets its own meeting, on which week of the quarter, and what you will delete.

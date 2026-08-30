@@ -3,8 +3,6 @@ title: "Expansion marketing"
 sidebarTitle: "Expansion Marketing"
 ---
 
-# Expansion marketing
-
 **Last reviewed:** 2026-08-30
 
 An AE who “checks in” on a happy logo because quota is light is not expansion. [Customer success](customer-success.md) already says who is paid for upsells. [Revenue churn](revenue-churn.md) already says expansion must not hide the leak. This page is **when additional value is allowed to be introduced**—on evidence the account already produced, not on a product-launch calendar.

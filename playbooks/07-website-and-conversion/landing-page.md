@@ -3,8 +3,6 @@ title: "Landing page"
 sidebarTitle: "Landing Page"
 ---
 
-# Landing page
-
 **Last reviewed:** 2026-08-30
 
 A landing page that restates the homepage and adds a form is a tax on the click you already paid for. The [homepage](homepage.md) is the standing scan. This page is **one campaign promise, kept on one URL, with one next step**.

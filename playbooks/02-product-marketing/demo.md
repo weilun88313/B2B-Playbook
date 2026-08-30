@@ -2,8 +2,6 @@
 title: "Demo"
 ---
 
-# Demo
-
 **Last reviewed:** 2026-08-29
 
 A demo that “went well” is not evidence. Feelings do not close deals. **Execution does.** If you cannot say which seats were in the room, which discovery pain each click served, and what meeting you booked next, you ran a tour. You did not run a demo.

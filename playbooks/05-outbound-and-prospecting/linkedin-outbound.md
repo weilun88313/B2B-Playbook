@@ -3,8 +3,6 @@ title: "LinkedIn outbound"
 sidebarTitle: "Linkedin Outbound"
 ---
 
-# LinkedIn outbound
-
 **Last reviewed:** 2026-08-30
 
 A connection request that says “I’d love to share how we help companies like yours” is email with worse deliverability and a higher ban risk. This page is **when social context is allowed to support a direct conversation**—and when it must stay in [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md) instead.

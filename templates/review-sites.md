@@ -3,8 +3,6 @@ title: "Review-site card"
 sidebarTitle: "Review Sites"
 ---
 
-# Review-site card
-
 B2B Playbook working file. Read [review sites](../playbooks/04-channels-and-distribution/review-sites.md) first.
 
 Ask after value. Do not draft their review.

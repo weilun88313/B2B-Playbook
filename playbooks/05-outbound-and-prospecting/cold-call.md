@@ -3,8 +3,6 @@ title: "Cold call"
 sidebarTitle: "Cold Call"
 ---
 
-# Cold call
-
 **Last reviewed:** 2026-08-30
 
 A cold call that opens like a telemarketer (“how are you / did I catch you at a bad time”) and then pitches a platform is why people quit the phone. This page is **how a rep earns thirty seconds, names a problem the buyer can see, and handles the reaction to the interruption**—not the product objection.

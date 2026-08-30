@@ -3,8 +3,6 @@ title: "RevOps compensation"
 sidebarTitle: "Revops Compensation"
 ---
 
-# RevOps compensation
-
 **Last reviewed:** 2026-08-29
 
 Quota-carrying pay lives in [sales compensation](sales-compensation.md). This page is for the people who **design the system**—forecast hygiene, routing, credit, the CRM map—not a second hunter OTE on the same dollar. Paying RevOps like an AE (a bookings quota they do not own) is how you get quiet sabotage or quiet job hunting. Paying them a vague “company bonus, leadership discretion” is how a systems role learns the plan is theater.

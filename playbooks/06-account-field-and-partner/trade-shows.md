@@ -3,8 +3,6 @@ title: "Trade shows"
 sidebarTitle: "Trade Shows"
 ---
 
-# Trade shows
-
 **Last reviewed:** 2026-08-30
 
 A trade show is a time-bounded account-access program. Booth traffic and badge scans are **receipts**. Qualified next actions are the output. The scan proves they walked past. It does not prove a job, a seat, a trigger, or a week.

@@ -3,8 +3,6 @@ title: "Lead nurture"
 sidebarTitle: "Lead Nurture"
 ---
 
-# Lead nurture
-
 **Last reviewed:** 2026-08-30
 
 A seven-email drip that restates the homepage and asks for a meeting in email three is not nurture. It is leftover demand-gen theater. This page is **how a known person who is not ready for a sales conversation keeps learning**—by state and by question—until a real signal says the job changed.

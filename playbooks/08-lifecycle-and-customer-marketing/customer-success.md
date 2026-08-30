@@ -3,8 +3,6 @@ title: "Customer success"
 sidebarTitle: "Customer Success"
 ---
 
-# Customer success
-
 **Last reviewed:** 2026-08-29
 
 Customer success is not “be nice after the sale.” It is **people, process, and performance management** on the book you already won. If renewals, expansion, and support each have a different story of the customer, you do not have a CS motion. You have three teams sharing a logo.

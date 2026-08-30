@@ -2,8 +2,6 @@
 title: "Product Hunt"
 ---
 
-# Product Hunt
-
 **Last reviewed:** 2026-08-30
 
 Product Hunt is a **one-day concentrator**: launch energy, comments, and a screenshot other people can forward. It is not a growth motion. [Channel strategy](channel-strategy.md) still names the primary. [First ten customers](../01-strategy-and-buyers/first-ten-customers.md) already refuses to let Product Hunt be week-one.

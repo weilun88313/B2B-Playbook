@@ -3,8 +3,6 @@ title: "Renewal marketing"
 sidebarTitle: "Renewal Marketing"
 ---
 
-# Renewal marketing
-
 **Last reviewed:** 2026-08-30
 
 A discount email in the last two weeks of the term is not a renewal motion. [Customer success](customer-success.md) owns the book and who is paid for the renewal. [CS workspace](cs-workspace.md) already asks whether you can see the date and the risk. This page is **how value is recognized and risk is reduced before the commercial conversation**—so the renewal is a confirmation, not a rescue.

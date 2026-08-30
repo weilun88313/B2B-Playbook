@@ -3,8 +3,6 @@ title: "Incentive timing"
 sidebarTitle: "Incentive Timing"
 ---
 
-# Incentive timing
-
 **Last reviewed:** 2026-08-29
 
 [Sales compensation](sales-compensation.md) writes **what** pays. This page writes **when** the money is safe—and what happens when it is not. If you pay 100% at signature on usage, implementation, or uncollected invoices, you already have a clawback program. You just have not admitted it.

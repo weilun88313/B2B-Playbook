@@ -3,8 +3,6 @@ title: "Account research"
 sidebarTitle: "Account Research"
 ---
 
-# Account research
-
 **Last reviewed:** 2026-08-29
 
 Account research turns public, permitted evidence into a decision about whether to contact an account, which seat to approach, and what hypothesis to test.

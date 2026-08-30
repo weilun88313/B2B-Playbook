@@ -3,8 +3,6 @@ title: "Content strategy"
 sidebarTitle: "Content Strategy"
 ---
 
-# Content strategy
-
 **Last reviewed:** 2026-08-30
 
 A team can publish twice a week and still have nothing a champion can forward. Analytics look like growth. Sales still pastes the homepage into the evaluation thread and hopes. The champion still cannot answer “why not keep the spreadsheet” without booking another call.

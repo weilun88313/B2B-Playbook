@@ -3,8 +3,6 @@ title: "Buying signals"
 sidebarTitle: "Buying Signals"
 ---
 
-# Buying signals
-
 **Last reviewed:** 2026-08-30
 
 [Account research](account-research.md) writes one hypothesis for one logo. This page is the **system**: which dated changes you hunt, how hot they are, and what temperature of message they earn. A funding headline pasted into last month’s cold email is not a signal program. It is a news alert with a send button.

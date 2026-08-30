@@ -3,8 +3,6 @@ title: "Buying committee"
 sidebarTitle: "Buying Committee"
 ---
 
-# Buying committee
-
 **Last reviewed:** 2026-08-29
 
 A B2B purchase is made by a system of people with different incentives, authority, and risk—not by a single persona. The friendly contact who took the demo is often not the person who can spend, and not the person who can block.

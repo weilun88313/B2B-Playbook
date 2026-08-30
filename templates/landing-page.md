@@ -3,8 +3,6 @@ title: "Landing-page brief"
 sidebarTitle: "Landing Page"
 ---
 
-# Landing-page brief
-
 B2B Playbook working file. Read [landing page](../playbooks/07-website-and-conversion/landing-page.md) first.
 
 One promise. One door. A kill date. Delete teaching notes.
