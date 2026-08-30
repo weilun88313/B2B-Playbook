@@ -1,5 +1,6 @@
 ---
 title: "05 · Outbound & prospecting"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** How should the team create relevant conversations with accounts that have not raised a hand?

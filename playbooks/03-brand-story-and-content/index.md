@@ -1,5 +1,6 @@
 ---
 title: "03 · Brand, story & content"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** How should future buyers remember, trust, and learn from the company before they are in market?

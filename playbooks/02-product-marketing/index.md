@@ -1,5 +1,6 @@
 ---
 title: "02 · Product marketing"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** What should the market understand, believe, compare, and buy?
