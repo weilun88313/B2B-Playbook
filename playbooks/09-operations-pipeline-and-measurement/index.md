@@ -1,0 +1,101 @@
+---
+title: "09 · Operations, pipeline & measurement"
+---
+
+> **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?
+
+**Status:** Domain guide published · 16 tactic playbooks published
+
+**Last reviewed:** 2026-08-30
+
+## Scope
+
+This domain provides the operating system underneath B2B marketing. It defines shared lifecycle and pipeline language, data models, scoring, routing, measurement, experimentation, planning, technology governance, and privacy controls.
+
+It owns marketing operations and measurement decisions—not every tool configuration, and not the sales team's opportunity-management process or a full enterprise close. Its purpose is to make work observable, comparable, recoverable, and improvable without pretending attribution can prove causality on its own.
+
+Quota-carrying pay, **when** that pay is safe, the **forecast**, and the **weekly calendar** that keeps those jobs from eating each other sit here as **GTM operations**. Papering, procurement, and multi-threaded close stay outside this taxonomy.
+
+## Core decisions
+
+1. Which lifecycle, funnel, account, and pipeline states need shared definitions?
+2. Which events and fields are required to observe meaningful progression?
+3. How should qualification, scoring, routing, ownership, and service levels work?
+4. What belongs in the CRM, warehouse, automation layer, and reporting layer?
+5. Which metrics are leading indicators, business outcomes, diagnostics, or guardrails?
+6. Which questions require attribution, incrementality, experiments, or qualitative evidence?
+7. How will budget, technology, privacy, consent, data quality, and change control be governed?
+8. When people carry quota, how will they be paid against a credit rule the company can administer?
+9. How will hygiene, stages, categories, and calls make a forecast that leadership can defend?
+10. When does person-level fit and behavior justify a different action?
+11. Can demand creation and sales capacity produce the same number?
+12. What should a new sales leader actually do in 90 days?
+13. Which objects and fields are the commercial record, and what will we refuse to migrate?
+14. Which job may a tool do, and when do we remove it?
+15. How should weekly meetings split pipeline, forecast, and coaching?
+16. When is commission safe, and how do we reverse or advance it without improvising?
+17. How should RevOps be paid without a second sales quota?
+18. Which test can produce a credible learning or causal estimate?
+19. Where does each GTM motion sit on the AI ladder, and which rung do we climb next?
+20. Which company problem deserves an AI bet this quarter—not which tool?
+21. What artifact, gate, and collapse must exist before we build a workflow?
+22. How do the sales–finance and product–marketing calendars snap together without a launch on the close?
+
+## Playbook map
+
+| Topic | Status | Operating question |
+|---|---|---|
+| Sales compensation | Published: [`sales-compensation.md`](sales-compensation.md) | How should quota-carrying people be paid, credited, told the plan, and paid on time? |
+| Forecasting | Published: [`forecasting.md`](forecasting.md) | How should hygiene, stages, categories, and calls make a number leadership can defend? |
+| Lead scoring | Published: [`lead-scoring.md`](lead-scoring.md) | When does person-level fit and behavior justify a different action? |
+| GTM planning | Published: [`gtm-planning.md`](gtm-planning.md) | Can demand creation and sales capacity produce the same number? |
+| Sales-leadership ramp | Published: [`sales-leadership-ramp.md`](sales-leadership-ramp.md) | What should a new sales leader actually do in 90 days? |
+| CRM data model | Published: [`crm-data-model.md`](crm-data-model.md) | Which objects and fields are the commercial record, and what will we refuse to migrate? |
+| MarTech governance | Published: [`martech-governance.md`](martech-governance.md) | Which job may a tool do, and when do we remove it? |
+| Sales operating cadence | Published: [`sales-operating-cadence.md`](sales-operating-cadence.md) | How should weekly meetings split pipeline, forecast, and coaching? |
+| Company cadence | Published: [`company-cadence.md`](company-cadence.md) | How do the sales–finance and product–marketing calendars snap together? |
+| Incentive timing | Published: [`incentive-timing.md`](incentive-timing.md) | When is commission safe, and how do we reverse or advance it without improvising? |
+| RevOps compensation | Published: [`revops-compensation.md`](revops-compensation.md) | How should RevOps be paid without a second sales quota? |
+| Experimentation | Published: [`experimentation.md`](experimentation.md) | Which test can produce a credible learning or causal estimate? |
+| GTM AI maturity | Published: [`gtm-ai-maturity.md`](gtm-ai-maturity.md) | Where does each motion sit on the AI ladder, and which rung do we climb next? |
+| AI use-case selection | Published: [`ai-use-case-selection.md`](ai-use-case-selection.md) | Which company problem deserves an AI bet this quarter—not which tool? |
+| AI workflow | Published: [`ai-workflow.md`](ai-workflow.md) | What artifact, gate, and collapse must exist before we build? |
+| [Measurement model](measurement-model.md) | Published | Which decisions should each metric support—and what requires a human or a test? |
+| Funnel model | Planned: `funnel-model.md` | How should audience and buyer progression be represented before pipeline? |
+| Pipeline model | Planned: `pipeline-model.md` | How should marketing contribution connect to qualified revenue progression? |
+| Lifecycle stages | Planned: `lifecycle-stages.md` | Which shared states and transition rules should systems enforce? |
+| Account scoring | Planned: `account-scoring.md` | How should account fit, engagement, relationships, and timing be combined? |
+| Routing and SLA | Planned: `routing-and-sla.md` | Who should act on each signal, by when, and with what context? |
+| Attribution | Planned: `attribution.md` | Deeper model math. Two scoreboards and HDYHAU already live in [measurement model](measurement-model.md). |
+| Dashboards | Planned: `dashboards.md` | Which views help an operator make a recurring decision? |
+| Budget and planning | Planned: `budget-and-planning.md` | How should resources follow strategy, capacity, evidence, and risk? |
+| Privacy and compliance operations | Planned: `privacy-and-compliance-operations.md` | How should consent, lawful use, retention, access, and deletion be operationalized? |
+
+Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
+
+## Recommended build order
+
+1. Agree on lifecycle, funnel, pipeline, ownership, and success definitions.
+2. Define the minimum CRM and event data model required to observe them.
+3. Implement qualification, scoring, routing, suppression, and service levels.
+4. Write [measurement model](measurement-model.md) (two scoreboards + HDYHAU) before buying another attribution schema. Dashboards stay planned.
+5. Add experimentation, budget, MarTech, privacy, and data-quality governance.
+
+When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. [Incentive timing](incentive-timing.md) is when that pay is safe. Forecasting is whether the path to that number is real. The calendar that keeps pipe-gen, the call, and coaching from sharing one hour is [sales operating cadence](sales-operating-cadence.md). The quarterly superstructure that keeps launch off the close is [company cadence](company-cadence.md). Whether next year’s number is even possible is [GTM planning](gtm-planning.md). Assumptions inside that plan that have not been tested belong in [experimentation](experimentation.md). A new sales leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Ops leaders are not a second AE quota: [RevOps compensation](revops-compensation.md). Inbound volume that needs a routing hypothesis uses [lead scoring](lead-scoring.md). The commercial record is [CRM data model](crm-data-model.md). Tools that write into it need [MarTech governance](martech-governance.md). Whether the team is actually climbing an AI ladder—or collecting seats—is [GTM AI maturity](gtm-ai-maturity.md). Which problem deserves a bet is [AI use-case selection](ai-use-case-selection.md). How that bet is staged is [AI workflow](ai-workflow.md). Which decisions a metric may support is [measurement model](measurement-model.md).
+
+## Interfaces with other domains
+
+- [Strategy & buyers](../01-strategy-and-buyers/) supplies qualification hypotheses and disqualifiers. Compensation for a hunter who still has no [first ten](../01-strategy-and-buyers/first-ten-customers.md) is premature.
+- [Product marketing](../02-product-marketing/) sets what the **buyer** pays ([pricing](../02-product-marketing/pricing-and-packaging.md)), how the first meeting sounds ([sales enablement](../02-product-marketing/sales-enablement.md)), and how the product walk is scored ([demo](../02-product-marketing/demo.md)). Seller pay is a different contract.
+- [Channels & distribution](../04-channels-and-distribution/) decides whether a quota-carrying role should exist ([channel strategy](../04-channels-and-distribution/channel-strategy.md)). Message and channel bets that are still assumptions use [experimentation](experimentation.md). Discoverability of owned answers is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md).
+- [Outbound & prospecting](../05-outbound-and-prospecting/) generate signals that require common capture and interpretation. Hired SDRs need [onboarding](../05-outbound-and-prospecting/sdr-onboarding.md) that teaches the same credit rule [sales compensation](sales-compensation.md) writes.
+- [Account, field & partner marketing](../06-account-field-and-partner/) requires account-level orchestration, cost, and progression measurement. Named-account quality that feeds a call lives in [account planning](../06-account-field-and-partner/account-planning.md).
+- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) depends on reliable states, triggers, consent, and customer outcomes. After close, [customer success](../08-lifecycle-and-customer-marketing/customer-success.md) and [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) keep the book observable; post-sale fields that serve CS sit in [CS workspace](../08-lifecycle-and-customer-marketing/cs-workspace.md).
+
+[Back to the playbook index](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

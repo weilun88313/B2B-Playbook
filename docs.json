@@ -33,12 +33,12 @@
           {
             "group": "Start here",
             "icon": "house",
-            "pages": ["index", "playbooks/README", "README.zh", "SKILL"]
+            "pages": ["index", "playbooks/index", "README.zh", "SKILL"]
           },
           {
             "group": "01 · Strategy & buyers",
             "icon": "bullseye",
-            "root": "playbooks/01-strategy-and-buyers/README",
+            "root": "playbooks/01-strategy-and-buyers/index",
             "pages": [
               "playbooks/01-strategy-and-buyers/idea-discovery",
               "playbooks/01-strategy-and-buyers/idea-validation",
@@ -52,7 +52,7 @@
           {
             "group": "02 · Product marketing",
             "icon": "message",
-            "root": "playbooks/02-product-marketing/README",
+            "root": "playbooks/02-product-marketing/index",
             "pages": [
               "playbooks/02-product-marketing/positioning",
               "playbooks/02-product-marketing/sales-enablement",
@@ -64,7 +64,7 @@
           {
             "group": "03 · Brand, story & content",
             "icon": "pen-nib",
-            "root": "playbooks/03-brand-story-and-content/README",
+            "root": "playbooks/03-brand-story-and-content/index",
             "pages": [
               "playbooks/03-brand-story-and-content/content-strategy",
               "playbooks/03-brand-story-and-content/case-study",
@@ -74,7 +74,7 @@
           {
             "group": "04 · Channels & distribution",
             "icon": "tower-broadcast",
-            "root": "playbooks/04-channels-and-distribution/README",
+            "root": "playbooks/04-channels-and-distribution/index",
             "pages": [
               "playbooks/04-channels-and-distribution/channel-strategy",
               "playbooks/04-channels-and-distribution/seo-and-aeo",
@@ -90,7 +90,7 @@
           {
             "group": "05 · Outbound & prospecting",
             "icon": "paper-plane",
-            "root": "playbooks/05-outbound-and-prospecting/README",
+            "root": "playbooks/05-outbound-and-prospecting/index",
             "pages": [
               "playbooks/05-outbound-and-prospecting/account-research",
               "playbooks/05-outbound-and-prospecting/buying-signals",
@@ -106,7 +106,7 @@
           {
             "group": "06 · Account, field & partner",
             "icon": "handshake",
-            "root": "playbooks/06-account-field-and-partner/README",
+            "root": "playbooks/06-account-field-and-partner/index",
             "pages": [
               "playbooks/06-account-field-and-partner/event-marketing",
               "playbooks/06-account-field-and-partner/trade-shows",
@@ -119,7 +119,7 @@
           {
             "group": "07 · Website & conversion",
             "icon": "window",
-            "root": "playbooks/07-website-and-conversion/README",
+            "root": "playbooks/07-website-and-conversion/index",
             "pages": [
               "playbooks/07-website-and-conversion/homepage",
               "playbooks/07-website-and-conversion/comparison-page",
@@ -132,7 +132,7 @@
           {
             "group": "08 · Lifecycle & customer",
             "icon": "arrows-spin",
-            "root": "playbooks/08-lifecycle-and-customer-marketing/README",
+            "root": "playbooks/08-lifecycle-and-customer-marketing/index",
             "pages": [
               "playbooks/08-lifecycle-and-customer-marketing/customer-success",
               "playbooks/08-lifecycle-and-customer-marketing/customer-onboarding",
@@ -148,7 +148,7 @@
           {
             "group": "09 · Operations, pipeline & measurement",
             "icon": "chart-line",
-            "root": "playbooks/09-operations-pipeline-and-measurement/README",
+            "root": "playbooks/09-operations-pipeline-and-measurement/index",
             "pages": [
               "playbooks/09-operations-pipeline-and-measurement/sales-compensation",
               "playbooks/09-operations-pipeline-and-measurement/forecasting",
@@ -176,7 +176,7 @@
         "groups": [
           {
             "group": "Catalog",
-            "pages": ["TEMPLATES", "templates/README"]
+            "pages": ["TEMPLATES", "templates/overview"]
           },
           {
             "group": "Briefs and cards",
@@ -230,5 +230,21 @@
         "pages": ["RESOURCES"]
       }
     ]
-  }
+  },
+  "redirects": [
+    { "source": "/playbooks/README", "destination": "/playbooks" },
+    { "source": "/playbooks/01-strategy-and-buyers/README", "destination": "/playbooks/01-strategy-and-buyers" },
+    { "source": "/playbooks/02-product-marketing/README", "destination": "/playbooks/02-product-marketing" },
+    { "source": "/playbooks/03-brand-story-and-content/README", "destination": "/playbooks/03-brand-story-and-content" },
+    { "source": "/playbooks/04-channels-and-distribution/README", "destination": "/playbooks/04-channels-and-distribution" },
+    { "source": "/playbooks/05-outbound-and-prospecting/README", "destination": "/playbooks/05-outbound-and-prospecting" },
+    { "source": "/playbooks/06-account-field-and-partner/README", "destination": "/playbooks/06-account-field-and-partner" },
+    { "source": "/playbooks/07-website-and-conversion/README", "destination": "/playbooks/07-website-and-conversion" },
+    { "source": "/playbooks/08-lifecycle-and-customer-marketing/README", "destination": "/playbooks/08-lifecycle-and-customer-marketing" },
+    { "source": "/playbooks/09-operations-pipeline-and-measurement/README", "destination": "/playbooks/09-operations-pipeline-and-measurement" },
+    { "source": "/templates/README", "destination": "/templates/overview" },
+    { "source": "/TOOLS", "destination": "/tools" },
+    { "source": "/RESOURCES", "destination": "/resources" },
+    { "source": "/TEMPLATES", "destination": "/templates" }
+  ]
 }

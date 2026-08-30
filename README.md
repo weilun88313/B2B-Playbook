@@ -6,9 +6,13 @@
 
 **Last reviewed:** 2026-08-30
 
+**Read the library:** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.site)
+
+This README is the GitHub entrance—coverage, how to start, and where source lives. The site is the reading surface.
+
 ### What this is
 
-An owner-maintained knowledge base for B2B marketers, founders, revenue teams, and AI agents. Durable capabilities sit in nine domains; each published tactic is an execution-ready page. The [master index](playbooks/) is where you look up a motion. This README is the entrance, not a second catalog.
+An owner-maintained knowledge base for B2B marketers, founders, revenue teams, and AI agents. Durable capabilities sit in nine domains; each published tactic is an execution-ready page. The [master index](playbooks/) is where you look up a motion on GitHub. This README is the repository entrance, not a second catalog.
 
 Typical questions this library is built for:
 
@@ -114,6 +118,7 @@ End a work cycle with one decision and one next test.
 
 - English is canonical for playbooks, tools, the Skill, and this README. Chinese is a secondary entrance in [README.zh.md](README.zh.md).
 - Coverage or structure changes update both files in the same commit.
+- Readers use the [Mintlify site](https://b2-b-playbook.mintlify.site). Mintlify ignores `README.md`, so domain and collection guides on the site are `index.md` (and `templates/overview.md`). When a map changes, update the GitHub README and the site copy in the same commit.
 - Ivan Xu (`weilun88313`) keeps one editorial voice. The library grows one complete tactic at a time.
 - A verified use case ships only with a named company, a primary source, and a date.
 
