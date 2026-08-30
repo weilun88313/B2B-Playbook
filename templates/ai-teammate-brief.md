@@ -1,8 +1,8 @@
 # AI teammate brief
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
-Use this after [content strategy](../playbooks/03-brand-story-and-content/content-strategy.md) (or another playbook) has named the job. Paste into your own GPT / Gem / Copilot / Claude Project / internal agent. Yellow thinking happens in the playbook; this file is the **instruction skeleton**.
+Use this after [AI workflow](../playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) (and the playbook that named the job) has the artifact and gates. Paste into your own GPT / Gem / Copilot / Claude Project / internal agent. Yellow thinking happens in the playbook; this file is the **instruction skeleton**.
 
 This is an original B2B Playbook blank. It is not a third-party prompt mill and not a command to hide system prompts from your own operators.
 

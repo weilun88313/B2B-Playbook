@@ -138,7 +138,7 @@ Do not count experiments launched, or a decorated “innovation” slide, as a t
 
 ## What to read next
 
-Whether the year can even close is [GTM planning](gtm-planning.md). Which pages exist before you test distribution is [content strategy](../03-brand-story-and-content/content-strategy.md). Which motion is primary is [channel strategy](../04-channels-and-distribution/channel-strategy.md). How buyers find you in search and answers is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md). Routing a validated signal is [lead scoring](lead-scoring.md).
+Whether the year can even close is [GTM planning](gtm-planning.md). Which AI problem deserves a bet before you open a test row is [AI use-case selection](ai-use-case-selection.md). Which pages exist before you test distribution is [content strategy](../03-brand-story-and-content/content-strategy.md). Which motion is primary is [channel strategy](../04-channels-and-distribution/channel-strategy.md). How buyers find you in search and answers is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md). Routing a validated signal is [lead scoring](lead-scoring.md).
 
 ## Sources and evidence boundary
 

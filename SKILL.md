@@ -24,7 +24,7 @@ Produce a usable artifact or decision, not broad advice.
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
 | Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
-| AI teammate / GPT / Gem instructions for a GTM job | `templates/ai-teammate-brief.md` |
+| AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
@@ -48,6 +48,9 @@ Produce a usable artifact or decision, not broad advice.
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
 | GTM tests / hypotheses / experiment log | `playbooks/09-operations-pipeline-and-measurement/experimentation.md` |
+| GTM AI maturity / “we are AI-native” | `playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity.md` |
+| Which AI use case / Five P’s / not which tool | `playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md` |
+| AI workflow / agent stages / HITL gates | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` |
 | VP Sales / sales-leader first 90 days | `playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md` |
 | CRM data model / field map / migration | `playbooks/09-operations-pipeline-and-measurement/crm-data-model.md` |
 | MarTech governance / vendor bake-off | `playbooks/09-operations-pipeline-and-measurement/martech-governance.md` |
