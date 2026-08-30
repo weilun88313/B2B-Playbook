@@ -2,9 +2,9 @@
 
 > A short list of newsletters, podcasts, and operators worth following—not a celebrity ranking.
 
-**Directory release:** 16 sources · 2 layers (long-term GTM · AI watchlist)
+**Directory release:** 19 sources · 2 layers (long-term GTM · AI watchlist)
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 Playbooks say how to operate. [TOOLS.md](TOOLS.md) says which software fits a job. This page says **where a practitioner can keep learning** without treating a feed as a strategy. Working *with* a named operator—overlap, a co-created artifact, disclosure—is [creator partnership](playbooks/04-channels-and-distribution/creator-partnership.md), not a row on this list.
 
@@ -50,6 +50,9 @@ Use these when you need a **stable operator voice** on metrics, early marketing,
 | [Clouded Judgement](https://cloudedjudgement.substack.com/?ref=b2b-playbook) | Public SaaS valuation and financial benchmarks | B | **Free** weekly Substack (no public premium tier listed). | Useful weekly tape for multiples and cloud software, not a GTM operating system | Public comps are not your price or your TAM. |
 | [Pavilion Topline / The Operator](https://www.joinpavilion.com/pricing?ref=b2b-playbook) | GTM trends, operator threads, manager viewpoint | A | **Paid** membership for the room the digest sits in. Associate **$1,375/year** ($115/month billed annually). Executive **$2,700/year** ($225/month billed annually). Teams and Gold: quote / invite. Currency varies by location. | Weekly digest of a large revenue-leader community | Community consensus is observation, not a playbook. This repository does not require Pavilion. |
 | [Lenny’s Newsletter](https://www.lennysnewsletter.com/?ref=b2b-playbook) | Product, growth, B2B kickoff interviews | A | **Freemium.** Free posts and podcast. Paid: **Annual $200/year**, **Insider $400/year** (Product Pass on the official pass page). Monthly paid exists on Substack checkout. | Primary dated source already used in this library’s idea, ICP, first-ten, PMF, and channel chapters | Survivor interviews. Each tactic page states the evidence boundary; do not flatten the series into a guarantee. |
+| [Elena Verna](https://www.elenaverna.com/?ref=b2b-playbook) | PLG, growth org, pricing pages, experiment cadence | A | **Freemium.** Public essays. Paid archive and extras on Substack checkout. | Recurring operator source for growth loops, racecar vs lubricant, and when *not* to A/B-test strategy | PLG-weighted. A framework list is not your org chart. Pair tests with [experimentation](playbooks/09-operations-pipeline-and-measurement/experimentation.md). |
+| [Brian Balfour](https://brianbalfour.com/four-fits-growth-framework?ref=b2b-playbook) | Four Fits: market, product, channel, model | A | **Freemium.** Original Four Fits series is public. Reforge courses and later essays are paid. | Method source for [four fits](playbooks/01-strategy-and-buyers/four-fits.md). The 2025 AI-era update is the dated refresh. | $100M language is venture framing, not this library’s OKR. Do not import HubSpot Sales as your card. |
+| [First Round Review](https://review.firstround.com/?ref=b2b-playbook) | PMF levels, founder-led sales, early operating systems | A | **Free** essays. PMF Method retreat is a separate application, not a newsletter paywall. | Open-sourced Levels of PMF (nascent → extreme; satisfaction / demand / efficiency) used as a method prompt on the [PMF](playbooks/01-strategy-and-buyers/product-market-fit.md) page | Investor lens and retreat marketing. Composite cases and Looker board numbers stay with that author. |
 
 April Dunford’s positioning work is cited on the [positioning](playbooks/02-product-marketing/positioning.md) page. It is a method source there, not a weekly feed, so it is not duplicated as a newsletter row.
 
@@ -70,8 +73,9 @@ A generic “AI partnerships” newsletter without a stable, checkable homepage 
 
 1. Pick **one** metrics voice (usually Kellblog or Clouded Judgement—not both as your operating system).
 2. Pick **one** early-marketing or demand voice that matches the job this week (MKT1, Growth Unhinged, Refine Labs, Exit Five, or Heinz).
-3. If you sell with humans, add **30MPC** or GTMnow. If you run RevOps, add RevOps Impact as B.
-4. Keep AI feeds in a separate folder. They do not get a vote on ICP.
+3. If the job is fit-before-channel, add **Brian Balfour** or First Round Review—not as a twelfth feed, as the method you already opened.
+4. If you sell with humans, add **30MPC** or GTMnow. If you run RevOps, add RevOps Impact as B.
+5. Keep AI feeds in a separate folder. They do not get a vote on ICP.
 
 If a source disagrees with a published playbook, the playbook wins until you can cite a dated primary source and change the page.
 

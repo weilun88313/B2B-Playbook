@@ -26,7 +26,7 @@ Group accounts by a shared buyer, business job, current alternative, and observa
 
 Begin with a small batch. The purpose is to learn whether the evidence and message produce qualified conversations, not to maximize activity.
 
-Early, handmade targeting is the whole job. In Lenny Rachitsky’s first-ten interviews, **Retool** filtered Crunchbase for ops-heavy companies that were *not* SaaS and emailed both CTO and VP of operations; **Figma** DMed influential designers because the craftsperson chooses the tool; **Zip** asked for advice on LinkedIn so the first ten were cold enough to fail. That sequencing lives in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). This page is the email once the ring is cold.
+Early, handmade targeting is the whole job. In Lenny Rachitsky’s first-ten interviews, **Retool** filtered Crunchbase for ops-heavy companies that were *not* SaaS and emailed both CTO and VP of operations; **Figma** DMed influential designers because the craftsperson chooses the tool; **Zip** asked for advice on LinkedIn so the first ten were cold enough to fail. That sequencing lives in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). This page is the email once the ring is cold. If you have not yet proven the offer on a handmade batch, stop at [message-market fit](message-market-fit.md).
 
 ### Step 2: confirm the research brief
 

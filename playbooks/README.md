@@ -23,6 +23,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
 | First 10 customers | [Strategy & buyers](01-strategy-and-buyers/) | [First ten customers](01-strategy-and-buyers/first-ten-customers.md) |
 | Product-market fit | [Strategy & buyers](01-strategy-and-buyers/) | [Product-market fit](01-strategy-and-buyers/product-market-fit.md) |
+| Four Fits / channel vs model | [Strategy & buyers](01-strategy-and-buyers/) | [Four Fits](01-strategy-and-buyers/four-fits.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
@@ -42,6 +43,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
 | Buying signal / job change / which sentence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Buying signals](05-outbound-and-prospecting/buying-signals.md) |
+| Message-market fit / before AI SDR | [Outbound & prospecting](05-outbound-and-prospecting/) | [Message-market fit](05-outbound-and-prospecting/message-market-fit.md) |
 | Cold email | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold email](05-outbound-and-prospecting/cold-email.md) |
 | Phone / mobile data quality | [Outbound & prospecting](05-outbound-and-prospecting/) | [Contact data](05-outbound-and-prospecting/contact-data.md) |
 | Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `cold-call.md` |
@@ -69,6 +71,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | CRM fields / migration map | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md) |
 | MarTech / vendor bake-off | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md) |
 | Sales meetings / 13-week cadence | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales operating cadence](09-operations-pipeline-and-measurement/sales-operating-cadence.md) |
+| Company cadence / launch vs close | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Company cadence](09-operations-pipeline-and-measurement/company-cadence.md) |
 | Clawbacks / draws / holdbacks | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Incentive timing](09-operations-pipeline-and-measurement/incentive-timing.md) |
 | RevOps / sales-ops leader pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [RevOps compensation](09-operations-pipeline-and-measurement/revops-compensation.md) |
 | GTM tests / hypotheses | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Experimentation](09-operations-pipeline-and-measurement/experimentation.md) |
@@ -89,6 +92,7 @@ Published:
 - [Buying committee](01-strategy-and-buyers/buying-committee.md)
 - [First ten customers](01-strategy-and-buyers/first-ten-customers.md)
 - [Product-market fit](01-strategy-and-buyers/product-market-fit.md)
+- [Four Fits](01-strategy-and-buyers/four-fits.md)
 
 Planned: market research, segmentation, buyer journey, jobs to be done, category entry points, competitive alternatives.
 
@@ -139,6 +143,7 @@ Published:
 
 - [Account research](05-outbound-and-prospecting/account-research.md)
 - [Buying signals](05-outbound-and-prospecting/buying-signals.md)
+- [Message-market fit](05-outbound-and-prospecting/message-market-fit.md)
 - [Cold email](05-outbound-and-prospecting/cold-email.md)
 - [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md)
 - [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md)
@@ -195,6 +200,7 @@ Published:
 - [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md)
 - [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md)
 - [Sales operating cadence](09-operations-pipeline-and-measurement/sales-operating-cadence.md)
+- [Company cadence](09-operations-pipeline-and-measurement/company-cadence.md)
 - [Incentive timing](09-operations-pipeline-and-measurement/incentive-timing.md)
 - [RevOps compensation](09-operations-pipeline-and-measurement/revops-compensation.md)
 - [Experimentation](09-operations-pipeline-and-measurement/experimentation.md)

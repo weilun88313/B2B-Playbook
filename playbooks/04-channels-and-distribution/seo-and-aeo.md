@@ -1,6 +1,6 @@
 # SEO and AEO
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 Search used to mean a list of links. Buyers increasingly ask a model a full question and get an answer with or without a click. [Content strategy](../03-brand-story-and-content/content-strategy.md) still decides **which questions get a durable URL**. This page decides **how that knowledge is findable**—on your site, in places models cite, and in the questions you actually test—without making sessions-in-GA the only scoreboard.
 
@@ -39,7 +39,9 @@ This is not “SEO is dead,” not a promise that LLMs replace the website, and 
 
 Start with the same evaluation questions [content strategy](../03-brand-story-and-content/content-strategy.md) already ranked. Add the **full questions** a buyer would type into an assistant (“what is the best _____ for a team that still lives in _____”). Keywords still matter as vocabulary; they are not the brief.
 
-Write a prompt test list: five to fifteen questions you will run in the tools your buyers actually use. Record the date, the answer, whether you are named, whether the facts are right, and which URL or third-party page it leaned on. That list is the experiment—see [experimentation](../09-operations-pipeline-and-measurement/experimentation.md)—not a vanity screenshot in Slack.
+Write a prompt test list and **freeze it**. Twenty to fifty high-intent questions, held for at least four weeks, beats a new prompt every meeting. Record the date, the model, the answer, whether you are named, whether the facts are right, shortlist position, and which URL or third-party page it leaned on. That table is the experiment—see [experimentation](../09-operations-pipeline-and-measurement/experimentation.md)—not a vanity screenshot in Slack.
+
+Citation share that moves to a decimal every month is not a KPI. Domains in answers churn; overlap across ChatGPT, Perplexity, and Overviews is thin. Measure **movement on a frozen set**, not a score that re-rolls.
 
 ### Step 2: make owned pages answer-shaped
 
@@ -62,12 +64,15 @@ If you cannot name the surface and the fact it should repeat, you are “doing P
 
 ### Step 4: change the dashboard before the board meeting
 
-Executives still want revenue and CAC. Organic sessions and rankings no longer tell the whole visibility story when answers are zero-click. Add **diagnostics** you can collect without pretending they are pipeline:
+Executives still want revenue and CAC. Organic sessions and rankings no longer tell the whole visibility story when answers are zero-click. Last-click “AI referral” under-counts the job the way a Super Bowl QR code under-counts the ad. Add a **ladder** you can collect without pretending the top rung is pipeline:
 
-- Mentioned in the prompt-test set (yes/no, and which tool).
-- Factual accuracy of the answer (wrong pricing, wrong category, dead product name).
-- Which URL or third-party source was cited.
-- Qualified conversations that *sales* can trace to “they asked an assistant”—rare, labeled, not modeled into 40% of sourced pipeline without evidence.
+- **Visibility (leading):** named or cited on the frozen prompt set, by model. Weekly.
+- **Comprehension (quality):** the answer describes the product accurately, not last year’s packaging. Weekly.
+- **Conversion (lagging):** signups or opportunities *sales* can trace to “they asked an assistant”—rare, labeled, not modeled into a sourced-pipeline percentage without evidence.
+
+A page models already cite is a better place to add agent-readable facts than a new URL nobody retrieves. Markdown that a crawler can parse beats schema theater. Different models will ignore the same page—test per model, the way you already test per channel. Do not treat `llms.txt` as a strategy until you can show a lift on *your* frozen set.
+
+Aggregate traffic can fall while the remaining visits convert harder. That is not “SEO is dead.” It is why sessions without a quality cut are a misleading growth metric.
 
 Do not replace [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) with “share of AI answers.” Brand spend vs demand spend is a portfolio choice; AI search is not a reason to abandon rows 1–4 of the content map.
 
@@ -99,7 +104,7 @@ Working file: [answer-visibility.xlsx](../../templates/answer-visibility.xlsx). 
 ## Pre-flight checklist
 
 - [ ] Decision-page rows 1–3 exist or are explicitly deferred.
-- [ ] Prompt list is questions from deals, not keyword daydreams.
+- [ ] Prompt list is questions from deals, not keyword daydreams—and frozen long enough to measure change.
 - [ ] Each question has an owned answer or a written “not yet.”
 - [ ] At least one non-owned citation surface has an owner, or we admitted we have none.
 - [ ] Dashboard includes accuracy, not only sessions.
@@ -111,9 +116,9 @@ Working file: [answer-visibility.xlsx](../../templates/answer-visibility.xlsx). 
 | Metric | Diagnostic use |
 |---|---|
 | Prompt-test hit rate (named, accurate) | Whether the knowledge is in the answer |
-| Stale facts in answers | Refresh debt |
+| Stale facts in answers | Refresh debt / comprehension |
 | Sales forwards of the owned URL | Whether AEO served the champion |
-| Sessions / rankings | Capture motion—partial under zero-click |
+| Sessions / rankings | Capture motion—partial under zero-click; useless without a quality cut |
 
 Do not count posts published, or a survey’s “% of leaders seeing AI leads,” as your program.
 
@@ -136,6 +141,8 @@ The URLs are [content strategy](../03-brand-story-and-content/content-strategy.m
 This is an owner-maintained operating synthesis. It is not an SEO ranking product, not a measurement vendor, and not a claim that LLMs replace websites.
 
 Question-shaped queries, zero-click as a measurement problem, owned pages plus citation surfaces (earned, reviews, public conversation), refresh/structure over raw volume, and diagnostics beyond sessions are distilled from a September 2025 industry report on AI-search visibility ([Kickstand × Pavilion, *The New Rules of Visibility*](https://5242563.fs1.hubspotusercontent-na1.net/hubfs/5242563/eBooks/Kickstand%20x%20Pavilion-TheNewRulesofVisibility-eBook.pdf?ref=b2b-playbook)). That report is a **method prompt**, not a source to copy. Its survey (606 marketing managers+, Jul 31–Aug 13 2025, NA/UK) percentages, industry splits, “AI-sourced leads,” and agency recommendations are **not** this library’s facts or a ranking. Named third-party claims inside the report (including Bain/Google consideration-set figures via HBR, 2022) stay with those authors—check the current source before you plan from them. Pavilion is a paid community listed in [RESOURCES.md](../../RESOURCES.md); membership is not required to use this page.
+
+The warning that aggregate traffic misleads when remaining visits convert harder, the visibility / comprehension / conversion split, and the instruction not to treat referral clicks as the whole AEO score draw on Kyle Poyar / Kevin Indig ([Growth Unhinged, 2025-11-02](https://www.growthunhinged.com/p/traffic-is-no-longer-reliable?ref=b2b-playbook) and [2026-07-15](https://www.growthunhinged.com/p/how-to-measure-the-impact-of-ai-search-the-right-way?ref=b2b-playbook)). Webflow conversion multiples, Pew/ChatGPT CTR figures, Profound churn rates, and vendor dashboards stay with those authors. They are not this library’s baseline. Serving markdown to known AI bots and testing per model is a **method prompt** from a public Ramp experiment ([builders.ramp.com, Marketing to AI agents](https://builders.ramp.com/post/marketing-to-ai-agents?ref=b2b-playbook)); bot-count and relay figures there are one company’s log, not a playbook SLA.
 
 ---
 

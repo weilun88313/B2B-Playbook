@@ -168,13 +168,15 @@ Do not count waitlist size, HN points, or “we announced.” Canva’s launch n
 
 ## What to read next
 
-You have names: keep the [committee](buying-committee.md) map honest so the first meeting is not a single thread. Whether those ten love it, pay, and start to pull is [product-market fit](product-market-fit.md). How you ask for money is [pricing](../02-product-marketing/pricing-and-packaging.md). How the first conversation sounds is the [pitch](../02-product-marketing/sales-enablement.md). If cold is the ring you are in, stay in [outbound](../05-outbound-and-prospecting/). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) until these ten exist as more than a slide. Do not design [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) for a team of one still closing by hand.
+You have names: keep the [committee](buying-committee.md) map honest so the first meeting is not a single thread. Whether those ten love it, pay, and start to pull is [product-market fit](product-market-fit.md). How you ask for money is [pricing](../02-product-marketing/pricing-and-packaging.md). How the first conversation sounds is the [pitch](../02-product-marketing/sales-enablement.md). If cold is the ring you are in, stay in [outbound](../05-outbound-and-prospecting/). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) until these ten exist as more than a slide. Do not design [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) for a team of one still closing by hand. Bake the narrative, the materials, and the first ~30 yourself before you hire a seller to invent them—[message-market fit](../05-outbound-and-prospecting/message-market-fit.md) is the outbound version of that gate. [Four Fits](four-fits.md) is whether the path you used for these ten can still be the company.
 
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. It will not produce ten customers for you.
 
 The seven-ring sequence, the claim that none of them scale, the simple three-step version, YC and First Round as unexpected early-user machines, and the concentric-trust takeaway draw on Lenny Rachitsky’s founder interviews ([Lenny’s Newsletter, 2023-09-05](https://www.lennysnewsletter.com/p/how-to-win-your-first-10-b2b-customers?ref=b2b-playbook)). Named episodes (Figma and Coda, Gong, Census, Hex, Okta, Gusto, Ramp, Notion, Retool, Zip, Vanta, Amplitude, Sprig, Carta, Snyk, Plaid, Databricks AMP camps, Persona, Front, Linear, Canva, Slack, Segment, Stytch, Loom, Salesforce/Blue Martini, and others) are that author’s illustrations, not audited case studies here. Friend-as-signal (Coda) versus friend-as-contamination (Zip) are both in the source; pick the test you mean.
+
+The founder-does-the-first-dozen sequence (narrative → materials → prospect → pitch → then hire) is the durable method in Pete Kazanjy’s *Founding Sales*. That book and its paid extras are not reproduced here. Use it as a **order-of-operations prompt**, not as a second playbook.
 
 ---
 

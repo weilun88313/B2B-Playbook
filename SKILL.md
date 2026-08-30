@@ -19,12 +19,14 @@ Produce a usable artifact or decision, not broad advice.
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
 | First ~10 customers (handmade, not scalable) | `playbooks/01-strategy-and-buyers/first-ten-customers.md` |
 | Product-market fit (love, pay, pull) | `playbooks/01-strategy-and-buyers/product-market-fit.md` |
+| Four Fits / market-product-channel-model | `playbooks/01-strategy-and-buyers/four-fits.md` |
 | Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
 | Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
 | Crowded category / prevention value / friction of the fix | `playbooks/02-product-marketing/change-friction.md` |
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
+| Campaign / content brief (goal, audience, unique take, channels) | `playbooks/03-brand-story-and-content/content-strategy.md` then `templates/campaign-brief.md` |
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |
@@ -34,6 +36,7 @@ Produce a usable artifact or decision, not broad advice.
 | Content syndication / rented MQLs | `playbooks/04-channels-and-distribution/content-syndication.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Buying signal / job change / funding / which sentence this week | `playbooks/05-outbound-and-prospecting/buying-signals.md` |
+| Message-market fit / before AI SDR / handmade outbound test | `playbooks/05-outbound-and-prospecting/message-market-fit.md` |
 | Mobile / phone data / right-person numbers | `playbooks/05-outbound-and-prospecting/contact-data.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
@@ -54,6 +57,7 @@ Produce a usable artifact or decision, not broad advice.
 | RevOps / sales-ops leader variable pay | `playbooks/09-operations-pipeline-and-measurement/revops-compensation.md` |
 | Forecasting / pipeline hygiene / call the quarter | `playbooks/09-operations-pipeline-and-measurement/forecasting.md` |
 | Weekly sales meetings / 13-week cadence | `playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence.md` |
+| Company cadence / launch vs close / lightning strike | `playbooks/09-operations-pipeline-and-measurement/company-cadence.md` |
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
 | GTM tests / hypotheses / experiment log | `playbooks/09-operations-pipeline-and-measurement/experimentation.md` |

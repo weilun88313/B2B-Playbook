@@ -137,7 +137,7 @@ Do not count alerts ingested, plays enabled in a skill repo, or resemblance to s
 
 ## What to read next
 
-The brief the signal must survive is [account research](account-research.md). The sentence is [cold email](cold-email.md). The week of touches is [multichannel sequence](multichannel-sequence.md). The route still needs [contact data](contact-data.md). After they raise a hand, routing is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). Names for a defined find-the-fact job start in [TOOLS.md](../../TOOLS.md)—this page is the test those tools must pass.
+The sentence you will scale still needs [message-market fit](message-market-fit.md) before a sequence or an agent. The brief the signal must survive is [account research](account-research.md). The sentence is [cold email](cold-email.md). The week of touches is [multichannel sequence](multichannel-sequence.md). The route still needs [contact data](contact-data.md). After they raise a hand, routing is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). Names for a defined find-the-fact job start in [TOOLS.md](../../TOOLS.md)—this page is the test those tools must pass.
 
 ## Sources and evidence boundary
 

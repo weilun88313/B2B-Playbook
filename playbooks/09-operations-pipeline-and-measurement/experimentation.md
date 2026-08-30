@@ -1,6 +1,6 @@
 # Experimentation
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 A go-to-market plan that has not named its assumptions is a speech. [GTM planning](gtm-planning.md) asks whether demand and capacity can produce the same number. This page asks **which belief we will try to disprove this quarter**, in a test small enough to finish, before we scale the campaign, the ICP slice, or the channel mix.
 
@@ -31,7 +31,7 @@ This is not a statistics course, not a website CRO lab (that still lives with [w
 
 ## One rule
 
-**One assumption per test, and a decision the result is allowed to change.** “We think this might work” is not a hypothesis. A test that cannot alter the plan is a campaign with extra slides.
+**One assumption per test, and a decision the result is allowed to change.** “We think this might work” is not a hypothesis. A test that cannot alter the plan is a campaign with extra slides. Do not A/B-test a strategy question (which ICP, which motion) as if it were a headline.
 
 ## Operating method
 
@@ -76,6 +76,10 @@ A failed test that kills a bad ICP story is a win. Celebrate learning velocity i
 ### Step 5: one log, shared, or you will re-run last year’s guess
 
 Marketing, sales, and product put hypotheses in the same ledger. Airtable vs Notion vs a Sheet is a tooling choice; the requirement is **one** list of in-flight and closed tests. If [MarTech governance](martech-governance.md) later buys a testing SKU, it still writes into this log.
+
+Hold a **weekly experiment review** that only asks: what closed, what did we believe, which artifact changed. That is how a growth mindset shows up. A slide of “tests launched” is not the review.
+
+Name each bet as **engine** (a loop that can compound), **lubricant** (makes the engine cheaper), or **turbo** (a one-off). A calendar of only turbos is a launch habit, not a system. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) still names the primary motion; this page refuses to optimize a motion you have not chosen.
 
 ## Teaching fill (invented—not a customer)
 
@@ -145,6 +149,8 @@ Whether the year can even close is [GTM planning](gtm-planning.md). Which AI pro
 This is an owner-maintained operating synthesis. It is not a causal-inference textbook and not a promise that small tests replace a strategy.
 
 Hypothesis → small informative test → classify the learning → feed ICP, message, channel, and scoring is distilled from a public GTM testing essay ([Heinz Marketing, Win Dean-Salyards, undated 2026 planning post](https://www.heinzmarketing.com/blog/planning-your-gtm-testing-strategy-for-2026-from-hypothesis-to-scalable-growth/?ref=b2b-playbook)). That essay is a **method prompt**, not a source to copy. Vertical examples, suggested quarterly test counts, and vendor scoring tools named there are not this library’s calendar or a requirement to buy a platform.
+
+The weekly review as the growth-mindset ritual, the warning not to A/B-test strategy questions, and the engine / lubricant / turbo split (Racecar) draw on Elena Verna’s public framework essays ([9 favorite growth frameworks, 2024-10-25](https://www.elenaverna.com/p/my-9-favorite-growth-frameworks?ref=b2b-playbook); [weekly experiment review](https://elenaverna.substack.com/p/improve-growth-mindset-in-your-company?ref=b2b-playbook)). Racecar as originally written by Lenny Rachitsky and Dan Hockenmaier stays with those authors. None of those pieces are a command to hire a growth squad or to copy Dropbox’s loop.
 
 ---
 
