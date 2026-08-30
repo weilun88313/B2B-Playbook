@@ -1,5 +1,6 @@
 ---
-title: "B2B marketing playbook index"
+title: "Playbook index"
+sidebarTitle: "Index"
 ---
 
 **Last reviewed:** 2026-08-30
