@@ -1,3 +1,8 @@
+---
+title: "Sales operating cadence"
+sidebarTitle: "Sales Operating Cadence"
+---
+
 # Sales operating cadence
 
 **Last reviewed:** 2026-08-29

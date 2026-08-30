@@ -1,3 +1,8 @@
+---
+title: "Buying committee"
+sidebarTitle: "Buying Committee"
+---
+
 # Buying committee
 
 **Last reviewed:** 2026-08-29

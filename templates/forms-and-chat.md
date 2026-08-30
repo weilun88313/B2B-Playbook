@@ -1,3 +1,8 @@
+---
+title: "Interaction card"
+sidebarTitle: "Forms and Chat"
+---
+
 # Interaction card
 
 B2B Playbook working file. Read [forms and chat](../playbooks/07-website-and-conversion/forms-and-chat.md) first.

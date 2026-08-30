@@ -1,3 +1,8 @@
+---
+title: "Multichannel sequence"
+sidebarTitle: "Multichannel Sequence"
+---
+
 # Multichannel sequence
 
 **Last reviewed:** 2026-08-29

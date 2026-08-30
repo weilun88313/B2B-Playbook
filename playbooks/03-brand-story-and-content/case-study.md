@@ -1,3 +1,8 @@
+---
+title: "Case study"
+sidebarTitle: "Case Study"
+---
+
 # Case study
 
 **Last reviewed:** 2026-08-30
@@ -37,7 +42,7 @@ A page titled “How Acme achieved transformation” with a 40% efficiency quote
 
 ### Step 1: earn the right to name them
 
-Write: *{company} will let us say {these three facts} because {who approved, on what date}.* If legal or the customer will only allow a logo, you have a logo, not a case study. Do not “anonymize” your way around a no.
+Write: *&#123;company&#125; will let us say &#123;these three facts&#125; because &#123;who approved, on what date&#125;.* If legal or the customer will only allow a logo, you have a logo, not a case study. Do not “anonymize” your way around a no.
 
 Prefer the customer whose **alternative matches live deals**, not the logo that photographs well.
 
@@ -62,7 +67,7 @@ Each figure: source (customer, your system, third party), date, and what it is *
 
 ### Step 4: write for the next champion, not for the customer who already bought
 
-The reader is in an evaluation thread. They need “people like us left {alternative} when {trigger} and got {result}.” They do not need your product tour, a CEO letter, or five persona tabs. One URL, one job—same rule as [content strategy](content-strategy.md).
+The reader is in an evaluation thread. They need “people like us left &#123;alternative&#125; when &#123;trigger&#125; and got &#123;result&#125;.” They do not need your product tour, a CEO letter, or five persona tabs. One URL, one job—same rule as [content strategy](content-strategy.md).
 
 ### Step 5: put it where sales will actually send it
 

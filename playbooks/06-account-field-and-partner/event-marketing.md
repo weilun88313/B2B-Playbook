@@ -1,3 +1,8 @@
+---
+title: "Event marketing"
+sidebarTitle: "Event Marketing"
+---
+
 # Event marketing
 
 **Last reviewed:** 2026-08-29

@@ -1,3 +1,8 @@
+---
+title: "ABM system card"
+sidebarTitle: "ABM Strategy"
+---
+
 # ABM system card
 
 B2B Playbook working file. Read [ABM strategy](../playbooks/06-account-field-and-partner/abm-strategy.md) first.

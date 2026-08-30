@@ -1,3 +1,8 @@
+---
+title: "Change friction"
+sidebarTitle: "Change Friction"
+---
+
 # Change friction
 
 **Last reviewed:** 2026-08-30

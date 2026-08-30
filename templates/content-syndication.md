@@ -1,3 +1,8 @@
+---
+title: "Content-syndication test"
+sidebarTitle: "Content Syndication"
+---
+
 # Content-syndication test
 
 B2B Playbook working file. Read [content syndication](../playbooks/04-channels-and-distribution/content-syndication.md) first.

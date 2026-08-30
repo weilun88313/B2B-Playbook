@@ -1,3 +1,8 @@
+---
+title: "Show capture and priority"
+sidebarTitle: "Show Capture"
+---
+
 # Show capture and priority
 
 B2B Playbook working file. Read [trade shows](../playbooks/06-account-field-and-partner/trade-shows.md) first.

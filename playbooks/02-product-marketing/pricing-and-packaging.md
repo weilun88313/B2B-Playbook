@@ -1,3 +1,8 @@
+---
+title: "Pricing and packaging"
+sidebarTitle: "Pricing and Packaging"
+---
+
 # Pricing and packaging
 
 **Last reviewed:** 2026-08-29

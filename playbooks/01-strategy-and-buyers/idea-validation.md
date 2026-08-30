@@ -1,3 +1,8 @@
+---
+title: "Idea validation"
+sidebarTitle: "Idea Validation"
+---
+
 # Idea validation
 
 **Last reviewed:** 2026-08-29

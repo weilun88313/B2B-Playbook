@@ -1,3 +1,8 @@
+---
+title: "GTM AI maturity"
+sidebarTitle: "GTM AI Maturity"
+---
+
 # GTM AI maturity
 
 **Last reviewed:** 2026-08-30

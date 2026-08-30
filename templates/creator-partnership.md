@@ -1,3 +1,8 @@
+---
+title: "Creator-partnership card"
+sidebarTitle: "Creator Partnership"
+---
+
 # Creator-partnership card
 
 B2B Playbook working file. Read [creator partnership](../playbooks/04-channels-and-distribution/creator-partnership.md) first.

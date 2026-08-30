@@ -1,3 +1,8 @@
+---
+title: "Campaign brief (GACC)"
+sidebarTitle: "Campaign Brief"
+---
+
 # Campaign brief (GACC)
 
 B2B Playbook working file. Read [content strategy](../playbooks/03-brand-story-and-content/content-strategy.md) first.

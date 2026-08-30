@@ -1,3 +1,8 @@
+---
+title: "Four-fits card"
+sidebarTitle: "Four Fits"
+---
+
 # Four-fits card
 
 B2B Playbook working file. Read [four fits](../playbooks/01-strategy-and-buyers/four-fits.md) first.

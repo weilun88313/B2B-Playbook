@@ -1,3 +1,8 @@
+---
+title: "RevOps compensation"
+sidebarTitle: "Revops Compensation"
+---
+
 # RevOps compensation
 
 **Last reviewed:** 2026-08-29

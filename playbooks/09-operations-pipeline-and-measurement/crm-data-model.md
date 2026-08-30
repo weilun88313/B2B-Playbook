@@ -1,3 +1,8 @@
+---
+title: "CRM data model"
+sidebarTitle: "CRM Data Model"
+---
+
 # CRM data model
 
 **Last reviewed:** 2026-08-29
@@ -51,7 +56,7 @@ Sales-assist. Leaving a cluttered HubSpot for a tighter CRM. Not your schema.
 
 | Object | Keep | Kill or transform |
 |---|---|---|
-| Lead | Email, company, source, score, owner, MQL date | Twelve unused “UTM extra” customs with <20 populated rows |
+| Lead | Email, company, source, score, owner, MQL date | Twelve unused “UTM extra” customs with &lt;20 populated rows |
 | Account | Domain, segment, ICP tier, owner | Duplicate “industry” picklists with different values |
 | Contact | Role, buying seat, consent | Personal mobile with no lawful-use note—parked, not mapped |
 | Opportunity | Amount, close date, stage, next step, forecast category | “Temperature” as a vibe field with no entry criteria |

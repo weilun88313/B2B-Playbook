@@ -1,3 +1,8 @@
+---
+title: "Customer onboarding"
+sidebarTitle: "Customer Onboarding"
+---
+
 # Customer onboarding
 
 **Last reviewed:** 2026-08-29

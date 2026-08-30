@@ -1,3 +1,8 @@
+---
+title: "Revenue churn"
+sidebarTitle: "Revenue Churn"
+---
+
 # Revenue churn
 
 **Last reviewed:** 2026-08-30

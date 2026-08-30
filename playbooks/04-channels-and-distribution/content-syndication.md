@@ -1,3 +1,8 @@
+---
+title: "Content syndication"
+sidebarTitle: "Content Syndication"
+---
+
 # Content syndication
 
 **Last reviewed:** 2026-08-30

@@ -1,3 +1,8 @@
+---
+title: "Measurement model"
+sidebarTitle: "Measurement Model"
+---
+
 # Measurement model
 
 **Last reviewed:** 2026-08-30

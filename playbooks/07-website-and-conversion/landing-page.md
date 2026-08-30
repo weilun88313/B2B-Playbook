@@ -1,3 +1,8 @@
+---
+title: "Landing page"
+sidebarTitle: "Landing Page"
+---
+
 # Landing page
 
 **Last reviewed:** 2026-08-30
@@ -32,13 +37,13 @@ This is not CRO folklore, not a homepage redesign, and not a second blog.
 
 ## One rule
 
-**The first screen must keep the promise that bought the click.** If the ad said “{job} for {seat} vs {alternative},” the hero cannot say “welcome to the platform.” Message match is the page. Everything else is decoration.
+**The first screen must keep the promise that bought the click.** If the ad said “&#123;job&#125; for &#123;seat&#125; vs &#123;alternative&#125;,” the hero cannot say “welcome to the platform.” Message match is the page. Everything else is decoration.
 
 ## Operating method
 
 ### Step 1: write the promise, the door, and the kill date before the layout
 
-Complete: *people who saw {source} were promised {sentence}; this URL keeps it by {proof or explanation}; they do {one action}; we unpublish or redirect on {date}.* If you cannot finish that, you do not need a landing page.
+Complete: *people who saw &#123;source&#125; were promised &#123;sentence&#125;; this URL keeps it by &#123;proof or explanation&#125;; they do &#123;one action&#125;; we unpublish or redirect on &#123;date&#125;.* If you cannot finish that, you do not need a landing page.
 
 ### Step 2: inherit positioning; do not invent a second story
 

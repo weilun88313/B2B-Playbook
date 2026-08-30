@@ -1,3 +1,8 @@
+---
+title: "B2B Playbook（中文）"
+sidebarTitle: "中文"
+---
+
 # B2B Playbook
 
 English is the canonical entrance: [README.md](README.md). This file is a Chinese mirror of that page only.

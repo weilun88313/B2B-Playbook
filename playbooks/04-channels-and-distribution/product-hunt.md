@@ -1,3 +1,7 @@
+---
+title: "Product Hunt"
+---
+
 # Product Hunt
 
 **Last reviewed:** 2026-08-30

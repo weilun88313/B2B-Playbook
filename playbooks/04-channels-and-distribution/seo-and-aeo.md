@@ -1,3 +1,7 @@
+---
+title: "SEO and AEO"
+---
+
 # SEO and AEO
 
 **Last reviewed:** 2026-08-30
@@ -87,8 +91,8 @@ Ops-tool, sales-assist. Not a survey.
 | Question we prompt | Owned URL | Other surface | Last test | Action |
 |---|---|---|---|---|
 | “When is a shared inbox not enough for a 12-person ops team?” | Alternative page (row 2) | None yet | Named us; skipped the constraint page | Link constraint from the answer block |
-| “{us} vs {incumbent we actually lose to}” | Comparison draft | G2 listing stale | Model used last year’s packaging | Refresh review copy + ship comparison |
-| “Best {category} for SOC2-conscious mid-market” | Constraint page not started | No earned mention | Not named | Do not buy an AI-visibility tool yet |
+| “&#123;us&#125; vs &#123;incumbent we actually lose to&#125;” | Comparison draft | G2 listing stale | Model used last year’s packaging | Refresh review copy + ship comparison |
+| “Best &#123;category&#125; for SOC2-conscious mid-market” | Constraint page not started | No earned mention | Not named | Do not buy an AI-visibility tool yet |
 
 ## Copy: visibility one-pager (fill)
 

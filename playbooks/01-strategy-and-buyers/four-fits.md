@@ -1,3 +1,7 @@
+---
+title: "Four Fits"
+---
+
 # Four Fits
 
 **Last reviewed:** 2026-08-30

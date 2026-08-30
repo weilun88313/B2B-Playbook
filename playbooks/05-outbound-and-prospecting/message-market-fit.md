@@ -1,3 +1,8 @@
+---
+title: "Message-market fit"
+sidebarTitle: "Message Market Fit"
+---
+
 # Message-market fit
 
 **Last reviewed:** 2026-08-30

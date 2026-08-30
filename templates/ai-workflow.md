@@ -1,3 +1,8 @@
+---
+title: "AI workflow card"
+sidebarTitle: "AI Workflow"
+---
+
 # AI workflow card
 
 B2B Playbook working file. Read [AI workflow](../playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) first.

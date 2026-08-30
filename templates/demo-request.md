@@ -1,3 +1,8 @@
+---
+title: "Demo-request brief"
+sidebarTitle: "Demo Request"
+---
+
 # Demo-request brief
 
 B2B Playbook working file. Read [demo request](../playbooks/07-website-and-conversion/demo-request.md) first.

@@ -1,3 +1,8 @@
+---
+title: "Account planning"
+sidebarTitle: "Account Planning"
+---
+
 # Account planning
 
 **Last reviewed:** 2026-08-29

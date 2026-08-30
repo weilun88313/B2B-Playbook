@@ -1,3 +1,8 @@
+---
+title: "Forms and chat"
+sidebarTitle: "Forms and Chat"
+---
+
 # Forms and chat
 
 **Last reviewed:** 2026-08-30

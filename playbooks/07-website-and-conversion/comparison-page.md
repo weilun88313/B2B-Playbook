@@ -1,3 +1,8 @@
+---
+title: "Comparison page"
+sidebarTitle: "Comparison Page"
+---
+
 # Comparison page
 
 **Last reviewed:** 2026-08-30

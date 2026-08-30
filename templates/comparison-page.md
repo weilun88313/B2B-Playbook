@@ -1,3 +1,8 @@
+---
+title: "Comparison-page brief"
+sidebarTitle: "Comparison Page"
+---
+
 # Comparison-page brief
 
 B2B Playbook working file. Read [comparison page](../playbooks/07-website-and-conversion/comparison-page.md) first.

@@ -1,3 +1,8 @@
+---
+title: "LinkedIn organic card"
+sidebarTitle: "Linkedin Organic"
+---
+
 # LinkedIn organic card
 
 B2B Playbook working file. Read [LinkedIn organic](../playbooks/04-channels-and-distribution/linkedin-organic.md) first.

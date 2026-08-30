@@ -1,3 +1,8 @@
+---
+title: "Executive-dinner table card"
+sidebarTitle: "Executive Dinners"
+---
+
 # Executive-dinner table card
 
 B2B Playbook working file. Read [executive dinners](../playbooks/06-account-field-and-partner/executive-dinners.md) first.

@@ -21,6 +21,14 @@
       "github": "https://github.com/weilun88313/B2B-Playbook"
     }
   },
+  "styling": {
+    "latex": false
+  },
+  "errors": {
+    "404": {
+      "redirect": false
+    }
+  },
   "contextual": {
     "options": ["copy", "view", "chatgpt", "claude"]
   },
@@ -33,7 +41,7 @@
           {
             "group": "Start here",
             "icon": "house",
-            "pages": ["index", "playbooks/index", "README.zh", "SKILL"]
+            "pages": ["index", "playbooks/index", "README.zh", "skill", "copyright"]
           },
           {
             "group": "01 · Strategy & buyers",
@@ -243,8 +251,8 @@
     { "source": "/playbooks/08-lifecycle-and-customer-marketing/README", "destination": "/playbooks/08-lifecycle-and-customer-marketing" },
     { "source": "/playbooks/09-operations-pipeline-and-measurement/README", "destination": "/playbooks/09-operations-pipeline-and-measurement" },
     { "source": "/templates/README", "destination": "/templates/overview" },
-    { "source": "/TOOLS", "destination": "/tools" },
-    { "source": "/RESOURCES", "destination": "/resources" },
-    { "source": "/TEMPLATES", "destination": "/templates" }
+    { "source": "/LICENSE", "destination": "/copyright" },
+    { "source": "/SKILL", "destination": "/skill" },
+    { "source": "/README", "destination": "/" }
   ]
 }

@@ -1,3 +1,8 @@
+---
+title: "Cold email"
+sidebarTitle: "Cold Email"
+---
+
 # Cold email
 
 **Last reviewed:** 2026-08-29

@@ -12,7 +12,7 @@ title: "01 · Strategy & buyers"
 
 This domain turns a broad market ambition into explicit choices about where an idea comes from, whether it has pain and pull, which markets and people matter, how they buy, how the first ten customers are found, and whether a real company has loved the product, paid, and started to pull.
 
-It owns idea discovery, idea validation, market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, how the first ten customers are found, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](../02-product-marketing/)—or the channels used to *scale* reach. Early handmade outreach still starts here; repeatable outbound execution lives in [Outbound & prospecting](../05-outbound-and-prospecting/).
+It owns idea discovery, idea validation, market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, how the first ten customers are found, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](/playbooks/02-product-marketing)—or the channels used to *scale* reach. Early handmade outreach still starts here; repeatable outbound execution lives in [Outbound & prospecting](/playbooks/05-outbound-and-prospecting).
 
 ## Core decisions
 
@@ -33,13 +33,13 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 
 | Topic | Status | Operating question |
 |---|---|---|
-| [Idea discovery](idea-discovery.md) | Published | Where did this idea come from, and is it even a candidate? |
-| [Idea validation](idea-validation.md) | Published | Does this idea have pain and pull, or is it still polite interest? |
-| [Ideal customer profile](icp.md) | Published | Which accounts deserve attention, and which should be excluded? |
-| [Buying committee](buying-committee.md) | Published | Who participates in the decision, and what does each role need? |
-| [First ten customers](first-ten-customers.md) | Published | How do you find and win the first ~10 companies that match the ICP? |
-| [Product-market fit](product-market-fit.md) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
-| [Four Fits](four-fits.md) | Published | Do market, product, channel, and model still describe the same company? |
+| [Idea discovery](/playbooks/01-strategy-and-buyers/idea-discovery) | Published | Where did this idea come from, and is it even a candidate? |
+| [Idea validation](/playbooks/01-strategy-and-buyers/idea-validation) | Published | Does this idea have pain and pull, or is it still polite interest? |
+| [Ideal customer profile](/playbooks/01-strategy-and-buyers/icp) | Published | Which accounts deserve attention, and which should be excluded? |
+| [Buying committee](/playbooks/01-strategy-and-buyers/buying-committee) | Published | Who participates in the decision, and what does each role need? |
+| [First ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers) | Published | How do you find and win the first ~10 companies that match the ICP? |
+| [Product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
+| [Four Fits](/playbooks/01-strategy-and-buyers/four-fits) | Published | Do market, product, channel, and model still describe the same company? |
 | Market research | Planned: `market-research.md` | What is true about the market beyond internal opinion? |
 | Segmentation | Planned: `segmentation.md` | Which groups differ enough to require a distinct strategy? |
 | Buyer journey | Planned: `buyer-journey.md` | How does a buying situation move from trigger to decision and adoption? |
@@ -51,28 +51,28 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Name a candidate with [idea discovery](idea-discovery.md)—important, underserved, and worth years—before treating a canvas as strategy.
-2. Validate the idea for pain and pull with [idea validation](idea-validation.md).
+1. Name a candidate with [idea discovery](/playbooks/01-strategy-and-buyers/idea-discovery)—important, underserved, and worth years—before treating a canvas as strategy.
+2. Validate the idea for pain and pull with [idea validation](/playbooks/01-strategy-and-buyers/idea-validation).
 3. Define the ICP and explicit disqualifiers.
 4. Map the buying committee for the accounts that pass those filters.
-5. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
-6. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
-7. Check that market, product, channel, and model still agree: [four fits](four-fits.md).
+5. Walk the [first ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers) trust rings (handmade, not scalable).
+6. Climb the [product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) ladder (love, pay, pull) before treating growth as a channel problem.
+7. Check that market, product, channel, and model still agree: [four fits](/playbooks/01-strategy-and-buyers/four-fits).
 8. Add jobs, triggers, category entry points, and competitive alternatives.
 9. Feed the resulting evidence into positioning and channel selection.
 
 ## Interfaces with other domains
 
-- [Product marketing](../02-product-marketing/) turns buyer evidence into positioning, messaging, proof, and offers.
-- [Channels & distribution](../04-channels-and-distribution/) should not scale a motion until the PMF ladder has dated evidence.
-- [Outbound & prospecting](../05-outbound-and-prospecting/) is the execution layer when the first-ten ring is targeted cold outreach.
-- [Account, field & partner marketing](../06-account-field-and-partner/) uses account value, buying-group structure, and triggers to select coordinated programs.
-- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) operationalizes qualification, scoring, routing, and feedback loops.
+- [Product marketing](/playbooks/02-product-marketing) turns buyer evidence into positioning, messaging, proof, and offers.
+- [Channels & distribution](/playbooks/04-channels-and-distribution) should not scale a motion until the PMF ladder has dated evidence.
+- [Outbound & prospecting](/playbooks/05-outbound-and-prospecting) is the execution layer when the first-ten ring is targeted cold outreach.
+- [Account, field & partner marketing](/playbooks/06-account-field-and-partner) uses account value, buying-group structure, and triggers to select coordinated programs.
+- [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) operationalizes qualification, scoring, routing, and feedback loops.
 
-[Back to the playbook index](../README.md)
+[Back to the playbook index](/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

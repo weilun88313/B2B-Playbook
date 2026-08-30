@@ -1,3 +1,8 @@
+---
+title: "Content strategy"
+sidebarTitle: "Content Strategy"
+---
+
 # Content strategy
 
 **Last reviewed:** 2026-08-30
@@ -90,7 +95,7 @@ This is a **worksheet fill**, not a customer case study. Suppose the last ten co
 |---|---|---|---|---|---|
 | 1 | “Is this for ops teams who still live in email, or is it an ITSM rollout?” | Category + seat | Champion | Scoped walkthrough of *their* queue, not a platform tour | Live |
 | 2 | “We already run this in a spreadsheet / shared inbox. When is that no longer enough?” | Alternative / when to switch | Champion | Forward to the comparison page if they already have a named tool | Live |
-| 3 | “We are also looking at {incumbent that actually appears in deals}. How should we choose?” | Comparison | Champion + economic buyer | Conditions under which each path wins, including status quo | Draft until checklist passes |
+| 3 | “We are also looking at &#123;incumbent that actually appears in deals&#125;. How should we choose?” | Comparison | Champion + economic buyer | Conditions under which each path wins, including status quo | Draft until checklist passes |
 | 4 | “What will security ask, and where does the data live?” | Constraint | Technical buyer | Link to the questionnaire owner; do not invent certifications | Brief complete; page not started |
 | 5 | “How are teams in this category thinking about the problem this year?” | Education | Champion | Cite in a follow-up only after 1–4 exist | Not this quarter |
 

@@ -1,3 +1,8 @@
+---
+title: "GTM reading sources & operators"
+sidebarTitle: "Sources"
+---
+
 # GTM reading sources & operators
 
 > A short list of newsletters, podcasts, and operators worth following—not a celebrity ranking.

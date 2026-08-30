@@ -1,3 +1,8 @@
+---
+title: "Sales compensation"
+sidebarTitle: "Sales Compensation"
+---
+
 # Sales compensation
 
 **Last reviewed:** 2026-08-29

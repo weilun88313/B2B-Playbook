@@ -1,3 +1,8 @@
+---
+title: "Account research"
+sidebarTitle: "Account Research"
+---
+
 # Account research
 
 **Last reviewed:** 2026-08-29

@@ -1,3 +1,8 @@
+---
+title: "Lead scoring"
+sidebarTitle: "Lead Scoring"
+---
+
 # Lead scoring
 
 **Last reviewed:** 2026-08-29

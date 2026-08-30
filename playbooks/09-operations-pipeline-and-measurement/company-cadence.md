@@ -1,3 +1,8 @@
+---
+title: "Company cadence"
+sidebarTitle: "Company Cadence"
+---
+
 # Company cadence
 
 **Last reviewed:** 2026-08-30

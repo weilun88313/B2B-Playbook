@@ -1,3 +1,8 @@
+---
+title: "CS-leadership 90 days"
+sidebarTitle: "CS Leadership 90"
+---
+
 # CS-leadership 90 days
 
 B2B Playbook working file. Read [CS-leadership ramp](../playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md) first.

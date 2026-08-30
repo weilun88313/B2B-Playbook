@@ -1,3 +1,8 @@
+---
+title: "Onboarding communication"
+sidebarTitle: "Onboarding Communication"
+---
+
 # Onboarding communication
 
 **Last reviewed:** 2026-08-30

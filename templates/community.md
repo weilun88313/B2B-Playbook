@@ -1,3 +1,8 @@
+---
+title: "Peer-community room card"
+sidebarTitle: "Community"
+---
+
 # Peer-community room card
 
 B2B Playbook working file. Read [peer community](../playbooks/04-channels-and-distribution/community.md) first.

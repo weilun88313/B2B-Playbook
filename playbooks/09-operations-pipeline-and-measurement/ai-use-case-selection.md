@@ -1,3 +1,8 @@
+---
+title: "AI use-case selection"
+sidebarTitle: "AI Use Case Selection"
+---
+
 # AI use-case selection
 
 **Last reviewed:** 2026-08-30

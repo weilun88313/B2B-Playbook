@@ -12,7 +12,7 @@ title: "02 · Product marketing"
 
 This domain translates market, buyer, product, and competitive evidence into a coherent commercial interpretation of the product. It should help the company explain why a problem matters, why this approach is different, which offer fits, and what proof makes the claim credible.
 
-It owns positioning, messaging architecture, value propositions, competitive framing, pricing and packaging narratives, launches, proof standards, and reusable sales enablement. It does not own the broader corporate story or editorial system—that belongs to [Brand, story & content](../03-brand-story-and-content/)—or the design and conversion mechanics of the website.
+It owns positioning, messaging architecture, value propositions, competitive framing, pricing and packaging narratives, launches, proof standards, and reusable sales enablement. It does not own the broader corporate story or editorial system—that belongs to [Brand, story & content](/playbooks/03-brand-story-and-content)—or the design and conversion mechanics of the website.
 
 ## Core decisions
 
@@ -30,41 +30,41 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 
 | Topic | Status | Operating question |
 |---|---|---|
-| [Positioning](positioning.md) | Published | How should the product be framed against the buyer's alternatives, and what is actually being positioned? |
+| [Positioning](/playbooks/02-product-marketing/positioning) | Published | How should the product be framed against the buyer's alternatives, and what is actually being positioned? |
 | Messaging | Planned: `messaging.md` | How should positioning become a hierarchy of audience-specific messages? |
 | Value proposition | Planned: `value-proposition.md` | What valuable outcome is promised, for whom, and why is it credible? |
 | Competitive intelligence | Planned: `competitive-intelligence.md` | What should teams know and do when alternatives enter the decision? |
-| [Pricing and packaging](pricing-and-packaging.md) | Published | How should the offer convert differentiated value into a number the champion can defend? |
+| [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging) | Published | How should the offer convert differentiated value into a number the champion can defend? |
 | Product launch | Planned: `product-launch.md` | How should a product change become a coordinated market event? |
 | Proof and claims | Planned: `proof-and-claims.md` | Which evidence is strong enough to support each commercial claim? |
-| [Sales enablement](sales-enablement.md) | Published | How should positioning become a first meeting that helps the buyer choose? |
-| [Demo](demo.md) | Published | What must the product walk prove after the pitch, and how do we score it? |
-| Change friction | Published: [`change-friction.md`](change-friction.md) | When value is prevention or a crowded stack, how do we qualify the fix? |
+| [Sales enablement](/playbooks/02-product-marketing/sales-enablement) | Published | How should positioning become a first meeting that helps the buyer choose? |
+| [Demo](/playbooks/02-product-marketing/demo) | Published | What must the product walk prove after the pitch, and how do we score it? |
+| Change friction | Published: [`change-friction.md`](/playbooks/02-product-marketing/change-friction) | When value is prevention or a crowded stack, how do we qualify the fix? |
 
 Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
 
 ## Recommended build order
 
 1. Complete positioning from verified market and buyer evidence.
-2. Set a simple price that can be asked for now, using [pricing and packaging](pricing-and-packaging.md).
+2. Set a simple price that can be asked for now, using [pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging).
 3. Build the message hierarchy and value proposition.
 4. Establish proof, claims, and competitive-intelligence standards.
-5. Turn positioning into the [sales pitch](sales-enablement.md) so the story does not die in first meetings.
-6. Score the product walk with [demo](demo.md) only after the pitch’s perfect world is agreed.
+5. Turn positioning into the [sales pitch](/playbooks/02-product-marketing/sales-enablement) so the story does not die in first meetings.
+6. Score the product walk with [demo](/playbooks/02-product-marketing/demo) only after the pitch’s perfect world is agreed.
 7. Package remaining assets for website, content, partners, and lifecycle.
 
 ## Interfaces with other domains
 
-- [Strategy & buyers](../01-strategy-and-buyers/) supplies segmentation, ICP, buying-group, problem, and alternative evidence, plus the [product-market fit](../01-strategy-and-buyers/product-market-fit.md) ladder.
-- [Brand, story & content](../03-brand-story-and-content/) expands product truth into memorable narratives and educational assets.
-- [Channels & distribution](../04-channels-and-distribution/channel-strategy.md) decides whether price is collected self-serve, with sales-assist, or on outbound.
-- [Website & conversion](../07-website-and-conversion/) turns the message hierarchy into buyer-facing pages and paths.
-- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) adapts the promise for onboarding, adoption, expansion, and advocacy.
+- [Strategy & buyers](/playbooks/01-strategy-and-buyers) supplies segmentation, ICP, buying-group, problem, and alternative evidence, plus the [product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) ladder.
+- [Brand, story & content](/playbooks/03-brand-story-and-content) expands product truth into memorable narratives and educational assets.
+- [Channels & distribution](/playbooks/04-channels-and-distribution/channel-strategy) decides whether price is collected self-serve, with sales-assist, or on outbound.
+- [Website & conversion](/playbooks/07-website-and-conversion) turns the message hierarchy into buyer-facing pages and paths.
+- [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) adapts the promise for onboarding, adoption, expansion, and advocacy.
 
-[Back to the playbook index](../README.md)
+[Back to the playbook index](/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -1,3 +1,8 @@
+---
+title: "Incentive timing"
+sidebarTitle: "Incentive Timing"
+---
+
 # Incentive timing
 
 **Last reviewed:** 2026-08-29
