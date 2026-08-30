@@ -30,6 +30,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Demo / product walk | [Product marketing](02-product-marketing/) | [Demo](02-product-marketing/demo.md) |
 | Crowded category / friction of the fix | [Product marketing](02-product-marketing/) | [Change friction](02-product-marketing/change-friction.md) |
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
+| Case study / customer proof | [Brand, story & content](03-brand-story-and-content/) | [Case study](03-brand-story-and-content/case-study.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
 | Community (owned) | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
@@ -60,6 +61,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Comparison page | [Website & conversion](07-website-and-conversion/) | [Comparison page](07-website-and-conversion/comparison-page.md) |
 | Pricing page | [Website & conversion](07-website-and-conversion/) | [Pricing page](07-website-and-conversion/pricing-page.md) |
 | Demo request / high-intent form | [Website & conversion](07-website-and-conversion/) | [Demo request](07-website-and-conversion/demo-request.md) |
+| Landing page / campaign URL | [Website & conversion](07-website-and-conversion/) | [Landing page](07-website-and-conversion/landing-page.md) |
 | Lead nurture / pre-sale drip | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Lead nurture](08-lifecycle-and-customer-marketing/lead-nurture.md) |
 | Measurement / attribution / HDYHAU | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Measurement model](09-operations-pipeline-and-measurement/measurement-model.md) |
 | Customer success / post-sale book | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer success](08-lifecycle-and-customer-marketing/customer-success.md) |
@@ -123,8 +125,9 @@ Planned: messaging, value proposition, competitive intelligence, product launch,
 Published:
 
 - [Content strategy](03-brand-story-and-content/content-strategy.md)
+- [Case study](03-brand-story-and-content/case-study.md)
 
-Planned: brand strategy, brand narrative, founder story, thought leadership, white paper, case study, newsletter, webinar, podcast, video, community-led growth.
+Planned: brand strategy, brand narrative, founder story, thought leadership, white paper, newsletter, webinar, podcast, video, community-led growth.
 
 ## 04 · [Channels & distribution](04-channels-and-distribution/)
 
@@ -185,8 +188,9 @@ Published:
 - [Comparison page](07-website-and-conversion/comparison-page.md)
 - [Pricing page](07-website-and-conversion/pricing-page.md)
 - [Demo request](07-website-and-conversion/demo-request.md)
+- [Landing page](07-website-and-conversion/landing-page.md)
 
-Planned: website strategy, landing page, product page, lead magnet, forms and chat, conversion-rate optimization, self-service buying, documentation.
+Planned: website strategy, product page, lead magnet, forms and chat, conversion-rate optimization, self-service buying, documentation.
 
 ## 08 · [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/)
 
