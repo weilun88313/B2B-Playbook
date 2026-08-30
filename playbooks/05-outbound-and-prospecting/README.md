@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should the team create relevant conversations with accounts that have not raised a hand?
 
-**Status:** Domain guide published · 5 tactic playbooks published
+**Status:** Domain guide published · 6 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -23,12 +23,14 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 7. What evidence defines a qualified handoff rather than a booked meeting alone?
 8. How will a new SDR/BDR learn the written job, the number, the CRM law, and the last mile without inventing a private version?
 9. How do we know a phone (or route) is real, theirs, and worth a dial?
+10. When does a dated change earn a different sentence this week—and which temperature of outreach does it buy?
 
 ## Playbook map
 
 | Topic | Status | Operating question |
 |---|---|---|
 | [Account research](account-research.md) | Published | What evidence is strong enough to justify outreach to this account? |
+| [Buying signals](buying-signals.md) | Published | When does a dated change earn a different sentence this week? |
 | [Cold email](cold-email.md) | Published | How should a concise, relevant first-touch email be constructed and tested? |
 | [Multichannel sequence](multichannel-sequence.md) | Published | How should several touches work together without becoming repetitive noise? |
 | [SDR onboarding](sdr-onboarding.md) | Published | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
@@ -45,11 +47,12 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 ## Recommended build order
 
 1. Establish ICP, account-research, and contact-research standards.
-2. Define deliverability, data, consent, and suppression guardrails.
-3. Build channel-specific cold email, cold call, and LinkedIn methods.
-4. Combine them into evidence-aware sequences.
-5. Standardize reply handling, qualification feedback, and SDR handoff.
-6. When the motion needs hired SDRs, run [SDR onboarding](sdr-onboarding.md) so the written job exists before day one.
+2. Decide which dated changes may change the week: [buying signals](buying-signals.md).
+3. Define deliverability, data, consent, and suppression guardrails.
+4. Build channel-specific cold email, cold call, and LinkedIn methods.
+5. Combine them into evidence-aware sequences.
+6. Standardize reply handling, qualification feedback, and SDR handoff.
+7. When the motion needs hired SDRs, run [SDR onboarding](sdr-onboarding.md) so the written job exists before day one.
 
 ## Interfaces with other domains
 

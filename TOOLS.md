@@ -2,11 +2,11 @@
 
 > A curated directory of modern software for researching markets, creating demand, reaching buyers, operating revenue workflows, and measuring results.
 
-**Directory release:** 41 tools · 13 operating categories
+**Directory release:** 43 tools · 14 operating categories
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
-This is not a complete market map or a paid ranking. It is a deliberately small, modern-by-default shortlist. A newer product is not automatically better: every entry must solve a defined B2B job, expose a meaningful limitation, and have a current official product or documentation page. A community spreadsheet of AI logos is not this directory—pick the job in [AI use-case selection](playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md) first. Newsletters and operators live in [RESOURCES.md](RESOURCES.md).
+This is not a complete market map or a paid ranking. It is a deliberately small, modern-by-default shortlist. A newer product is not automatically better: every entry must solve a defined B2B job, expose a meaningful limitation, and have a current official product or documentation page. A community spreadsheet of AI logos is not this directory—pick the job in [AI use-case selection](playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md) first. A Claude skill pack that routes every job through one marketplace is not this directory either. Newsletters and operators live in [RESOURCES.md](RESOURCES.md).
 
 No placement is paid. Lensmor is built and maintained by Ivan Xu, the owner of this repository; its relationship is disclosed in the entry below. All other tools are included independently.
 
@@ -23,6 +23,23 @@ Favicons are stored locally and used only to identify products. Product names, m
 | **Established benchmark** | A mature incumbent retained for ecosystem coverage or comparison. Each category should contain no more than one unless a specific decision requires it. |
 
 An AI-native claim should be supported by observable product behavior: access to relevant business context, multi-step work, tool use or workflow execution, human review or permissions, and a usable output. “AI-powered” copy alone is not enough.
+
+## Start with the job
+
+A job→logo table is a **method prompt**, not a stack to paste. Test coverage on **your** ICP sample. Compare mobiles on the **same** sample. Split the jobs that vendors sell as one suite.
+
+| Job | Start in this directory | Do not confuse with |
+|---|---|---|
+| Contact and company data | [03](#03--contact-data-enrichment--verification): Clay to orchestrate; Apollo as the bundled database baseline | A coverage slide |
+| Mobile / waterfall | Same category, plus [contact data](playbooks/05-outbound-and-prospecting/contact-data.md) | Picking a brand |
+| Community vs trigger outbound | [02](#02--market-account--buyer-intelligence): Common Room (workspace) vs Unify (plays) | The same product |
+| Social publishing | [05](#05--content-brand--creative): Publer for a small-team calendar | Approvals, listening, and advocacy—those need a suite you are not buying here |
+| AI content production | Capture → rewrite → package. Design the [AI workflow](playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) first | One prompt SKU |
+| Meeting notes vs revenue intelligence | [14](#14--conversation-intelligence--coaching): Fathom vs Gong | Cadence or forecast sold as “one platform” |
+| Event OS vs digital + repurpose | [08](#08--events-webinars--field-marketing): Bizzabo vs Goldcast | The same event tool |
+| Booth capture | Same category: iCapture | Scanner volume without CRM fields |
+| Exhibitor / sponsor graph | Same category: Lensmor (owner product, disclosed) | A badge list |
+| Dated change → different sentence | [Buying signals](playbooks/05-outbound-and-prospecting/buying-signals.md), then the find-the-fact row above | A 100-trigger skill pack |
 
 ## Tool directory
 
@@ -133,6 +150,13 @@ Every product appears once, grouped by its primary operating job. Use the type d
 |---|---|---|---|---|
 | <p align="center"><img src="assets/tool-favicons/transcend.png" alt="Transcend favicon" width="32" height="32"><br><strong><a href="https://transcend.io/?ref=b2b-playbook">Transcend</a></strong></p> | Modern infrastructure | legal, privacy, engineering, data, and marketing teams need one layer for consent, preferences, data inventory, data-subject requests, lineage, and AI data-use decisions. | policy-as-code and system connectors can turn “may we use this data?” into an enforceable, logged decision across customer-data and agent workflows. | no qualified owner has mapped legal requirements, purposes, systems, jurisdictions, exceptions, and implementation responsibility. The product does not replace legal advice. |
 | <p align="center"><img src="assets/tool-favicons/vanta.png" alt="Vanta favicon" width="32" height="32"><br><strong><a href="https://www.vanta.com/trust-management-platform?ref=b2b-playbook">Vanta</a></strong></p> | Modern infrastructure | a B2B company needs continuous compliance evidence, risk workflows, a customer-facing trust center, or faster security-questionnaire handling during sales. | integrations, evidence collection, trust sharing, questionnaire automation, and AI-assisted review connect security operations to customer trust. | the required framework, product tier, audit scope, evidence quality, human verification, or buyer-specific security process is unclear. Automation does not guarantee certification. |
+
+## 14 · Conversation intelligence & coaching
+
+| Tool | Type | Use when | Why it stands out | Validate before adopting |
+|---|---|---|---|---|
+| <p align="center"><img src="assets/tool-favicons/fathom.png" alt="Fathom favicon" width="32" height="32"><br><strong><a href="https://fathom.video/?ref=b2b-playbook">Fathom</a></strong></p> | AI-native | a team needs recording, transcripts, summaries, and searchable notes—and is not buying forecast, deal inspection, or a revenue OS. | bot or no-bot capture, instant summaries, and ask-across-calls keep the job at “what was said” without forcing an enterprise RI suite. | coaching scorecards, CRM write-back, recording consent, and whether managers will actually inspect calls still need owners. It is not a substitute for Gong-class forecast and enablement. |
+| <p align="center"><img src="assets/tool-favicons/gong.png" alt="Gong favicon" width="32" height="32"><br><strong><a href="https://www.gong.io/?ref=b2b-playbook">Gong</a></strong></p> | Established benchmark | sales and CS leaders need conversation intelligence plus forecast, coaching, and enablement on the same revenue graph—not only a notetaker. | capture, deal inspection, forecast, and enablement sit on one interaction graph so managers can coach from what buyers said. | implementation load, seat cost, and the temptation to treat CI as a second CRM or a second forecast. If the only job is notes, start with a lighter tool. Split this job from cadence in [MarTech governance](playbooks/09-operations-pipeline-and-measurement/martech-governance.md). |
 
 ---
 

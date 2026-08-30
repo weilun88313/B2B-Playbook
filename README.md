@@ -6,7 +6,7 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 43 published playbooks · 20 working files · 41 curated tools · 16 reading sources · 9 domain guides · 8 domains with published playbooks
+**Current coverage:** 44 published playbooks · 21 working files · 43 curated tools · 16 reading sources · 9 domain guides · 8 domains with published playbooks
 
 **Last reviewed:** 2026-08-30
 
@@ -51,6 +51,7 @@ It is designed to answer practical questions:
 - How do we know a phone is the right person before we dial?
 - How do we measure revenue leaving the book without letting net hide the leak?
 - When the category is crowded and value is prevention, how do we qualify the fix?
+- When does a dated change earn a different sentence this week—not the same cold email?
 
 ### Read it like a book
 
@@ -80,8 +81,8 @@ If you only have ten minutes and there is no idea yet, start with [idea discover
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a specific B2B marketing capability, channel, or tactic | [Browse the master index](playbooks/) |
-| **Working files** | Open a spreadsheet, scorecard, or 90-day outline in Google Sheets/Docs/Slides | [Browse the 20 working files](TEMPLATES.md) |
-| **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 41-tool directory](TOOLS.md) |
+| **Working files** | Open a spreadsheet, scorecard, or 90-day outline in Google Sheets/Docs/Slides | [Browse the 21 working files](TEMPLATES.md) |
+| **Tools** | Find AI-native and modern B2B software for a defined operating job | [Browse the 43-tool directory](TOOLS.md) |
 | **Reading sources** | Find newsletters, podcasts, and operators worth following | [Browse the 16-source directory](RESOURCES.md) |
 | **Agent Skill** | Let a compatible AI agent route a task through the right method | [Install the Skill](#agent-skill) |
 | **Verified use cases** | Study how a specific company executed a specific B2B motion | Planned—only named companies with traceable sources will be published |
@@ -98,7 +99,7 @@ The library uses two levels: a **capability domain** owns a durable marketing de
 | 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand, believe, compare, and buy | [Positioning](playbooks/02-product-marketing/positioning.md), [pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md), [sales enablement](playbooks/02-product-marketing/sales-enablement.md), [demo](playbooks/02-product-marketing/demo.md), [change friction](playbooks/02-product-marketing/change-friction.md) |
 | 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | How future buyers will remember, trust, and learn from the company | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md); planned: founder story, thought leadership, white paper, case study, webinar, community |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where and how the market will repeatedly encounter the company's ideas and offers | [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md), [SEO and AEO](playbooks/04-channels-and-distribution/seo-and-aeo.md); planned: LinkedIn organic, paid media, PR, review sites, content distribution |
-| 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md), [SDR onboarding](playbooks/05-outbound-and-prospecting/sdr-onboarding.md), [contact data](playbooks/05-outbound-and-prospecting/contact-data.md); planned: cold call, LinkedIn outbound |
+| 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create relevant conversations with accounts that have not raised a hand | [Account research](playbooks/05-outbound-and-prospecting/account-research.md), [buying signals](playbooks/05-outbound-and-prospecting/buying-signals.md), [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), [multichannel sequence](playbooks/05-outbound-and-prospecting/multichannel-sequence.md), [SDR onboarding](playbooks/05-outbound-and-prospecting/sdr-onboarding.md), [contact data](playbooks/05-outbound-and-prospecting/contact-data.md); planned: cold call, LinkedIn outbound |
 | 06 | [Account, field & partner marketing](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around high-value accounts, physical access, and partners | [Event marketing](playbooks/06-account-field-and-partner/event-marketing.md), [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md), [account planning](playbooks/06-account-field-and-partner/account-planning.md); planned: ABM, affiliate, partner marketing |
 | 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned digital experiences help buyers understand, evaluate, and take the next step | Planned: homepage, landing page, comparison page, demo request, forms, conversion |
 | 08 | [Lifecycle & customer marketing](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, expand, and mobilize customers | [Customer success](playbooks/08-lifecycle-and-customer-marketing/customer-success.md), [customer onboarding](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md), [onboarding communication](playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md), [CS-leadership ramp](playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md), [CS workspace](playbooks/08-lifecycle-and-customer-marketing/cs-workspace.md), [revenue churn](playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md); planned: nurture, customer education, community, advocacy, referral, renewal |
@@ -124,7 +125,7 @@ Planned topics remain in the master index until the page is complete. The reposi
 
 ### Tool directory
 
-[TOOLS.md](TOOLS.md) is an AI-native B2B GTM directory with 41 products across 13 operating categories. It distinguishes AI-native products, modern infrastructure, and a small number of established benchmarks instead of mixing every vendor into one flat list.
+[TOOLS.md](TOOLS.md) is an AI-native B2B GTM directory with 43 products across 14 operating categories. It distinguishes AI-native products, modern infrastructure, and a small number of established benchmarks instead of mixing every vendor into one flat list.
 
 Each product has one primary job, a reason it stands out, and a reason to avoid or validate it. Newer does not automatically mean better. The directory is not a ranking and does not replace security, privacy, deliverability, procurement, or legal review.
 
@@ -191,7 +192,7 @@ Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilu
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察、可执行的工作。
 
-**当前覆盖：** 43 篇已发布 Playbook · 20 份工作文件 · 41 个精选工具 · 16 个阅读源 · 9 个领域指南 · 8 个领域已有正式 Playbook
+**当前覆盖：** 44 篇已发布 Playbook · 21 份工作文件 · 43 个精选工具 · 16 个阅读源 · 9 个领域指南 · 8 个领域已有正式 Playbook
 
 **最后核验：** 2026-08-30
 
@@ -236,6 +237,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 - 拨打之前怎么确认这个号码是本人？
 - 怎么衡量账面流失的收入，而不让净流失把漏洞藏起来？
 - 品类拥挤、价值是「什么都没发生」时，怎么判断对方扛不扛得住这次改造？
+- 一个有日期的变化，什么时候够得上换一句不同的话——而不是同一封冷邮件？
 
 ### 像一本书那样读
 
@@ -265,8 +267,8 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 内容入口 | 用来解决什么问题 | 从这里开始 |
 |---|---|---|
 | **Playbooks 行动手册** | 查找具体的 B2B 营销能力、渠道或战术 | [浏览 Playbook 总索引](playbooks/) |
-| **Working files 工作文件** | 把记分表、表格或 90 天大纲放到 Google 表格/文档/幻灯片里用 | [浏览 20 份工作文件](TEMPLATES.md) |
-| **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 41 个产品的工具目录](TOOLS.md) |
+| **Working files 工作文件** | 把记分表、表格或 90 天大纲放到 Google 表格/文档/幻灯片里用 | [浏览 21 份工作文件](TEMPLATES.md) |
+| **Tools 工具目录** | 围绕明确任务查找 AI-native 和新一代 B2B 软件 | [浏览包含 43 个产品的工具目录](TOOLS.md) |
 | **Reading sources 阅读源** | 查找值得长期关注的 Newsletter、播客和运营者 | [浏览包含 16 个来源的目录](RESOURCES.md) |
 | **Agent Skill 智能体技能** | 让兼容的人工智能智能体按正确方法处理任务 | [安装 Skill](#智能体-skill) |
 | **已验证 Use Cases** | 研究某家具体企业如何执行某项具体 B2B 营销动作 | 计划中——只发布有企业名称和可追溯来源的案例 |
@@ -283,7 +285,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 | 02 | [产品营销](playbooks/02-product-marketing/) | 市场应该理解、相信、比较并购买什么 | [定位](playbooks/02-product-marketing/positioning.md)、[定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)、[销售赋能](playbooks/02-product-marketing/sales-enablement.md)、[产品演示](playbooks/02-product-marketing/demo.md)、[变革摩擦](playbooks/02-product-marketing/change-friction.md) |
 | 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 如何让未来买家在进入采购期前记住、信任公司并从中学习 | [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)；计划：创始人故事、思想领导力、白皮书、客户案例、网络研讨会、社区 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场将在哪里、以何种方式反复接触公司的观点和产品 | [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)、[SEO 与 AEO](playbooks/04-channels-and-distribution/seo-and-aeo.md)；计划：LinkedIn 自然内容、付费媒体、公关、评论网站、内容分发 |
-| 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)、[SDR 入职](playbooks/05-outbound-and-prospecting/sdr-onboarding.md)、[联系人数据](playbooks/05-outbound-and-prospecting/contact-data.md)；计划：Cold Call、LinkedIn Outbound |
+| 05 | [主动外联与潜客开发](playbooks/05-outbound-and-prospecting/) | 如何与尚未主动表达需求的目标账户建立相关对话 | [账户研究](playbooks/05-outbound-and-prospecting/account-research.md)、[购买信号](playbooks/05-outbound-and-prospecting/buying-signals.md)、[冷邮件](playbooks/05-outbound-and-prospecting/cold-email.md)、[多渠道序列](playbooks/05-outbound-and-prospecting/multichannel-sequence.md)、[SDR 入职](playbooks/05-outbound-and-prospecting/sdr-onboarding.md)、[联系人数据](playbooks/05-outbound-and-prospecting/contact-data.md)；计划：Cold Call、LinkedIn Outbound |
 | 06 | [大客户、线下活动与合作伙伴营销](playbooks/06-account-field-and-partner/) | 市场与销售如何围绕高价值账户、线下接触和合作伙伴协同 | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md)、[展会营销](playbooks/06-account-field-and-partner/trade-shows.md)、[生态增长](playbooks/06-account-field-and-partner/ecosystem.md)、[账户规划](playbooks/06-account-field-and-partner/account-planning.md)；计划：ABM、Affiliate、合作伙伴营销 |
 | 07 | [网站与转化](playbooks/07-website-and-conversion/) | 如何通过自有数字体验帮助买家理解、评估并采取下一步行动 | 计划：首页、落地页、对比页、Demo 申请、表单、转化优化 |
 | 08 | [生命周期与客户营销](playbooks/08-lifecycle-and-customer-marketing/) | 如何教育、留存、扩展客户，并让客户帮助品牌增长 | [客户成功](playbooks/08-lifecycle-and-customer-marketing/customer-success.md)、[客户入职](playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md)、[入职沟通](playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md)、[CS 负责人 90 天](playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md)、[CS 工作区](playbooks/08-lifecycle-and-customer-marketing/cs-workspace.md)、[收入流失](playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md)；计划：培育、客户教育、客户社区、倡导、推荐、续约 |
@@ -309,7 +311,7 @@ B2B Playbook 是一个公开可阅读、由作者持续维护的知识库，面�
 
 ### 工具目录
 
-[TOOLS.md](TOOLS.md) 是一份 AI-native B2B GTM 工具目录，包含 13 个任务类目和 41 个产品。它明确区分 AI-native 产品、新一代基础设施和少量传统基准，而不是把所有厂商混成一张平铺清单。
+[TOOLS.md](TOOLS.md) 是一份 AI-native B2B GTM 工具目录，包含 14 个任务类目和 43 个产品。它明确区分 AI-native 产品、新一代基础设施和少量传统基准，而不是把所有厂商混成一张平铺清单。
 
 每个产品只有一个主任务，同时说明突出原因和需要回避或验证的条件。“更新”不自动等于“更好”。工具目录不是排行榜，也不能代替安全、隐私、邮件送达、采购或法律审查。
 

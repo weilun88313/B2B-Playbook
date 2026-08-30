@@ -103,7 +103,7 @@ Sent volume, touch count, and open rate are operating diagnostics—not business
 
 ## What to read next
 
-Replies that become meetings still need a story: [sales enablement](../02-product-marketing/sales-enablement.md). If the sequence is creating volume without love or pay, that is [product-market fit](../01-strategy-and-buyers/product-market-fit.md), not a copy problem. If a hired SDR will run the sequence, they need [SDR onboarding](sdr-onboarding.md) before a 12-step cadence dump.
+The temperature of the first touch is [buying signals](buying-signals.md). Replies that become meetings still need a story: [sales enablement](../02-product-marketing/sales-enablement.md). If the sequence is creating volume without love or pay, that is [product-market fit](../01-strategy-and-buyers/product-market-fit.md), not a copy problem. If a hired SDR will run the sequence, they need [SDR onboarding](sdr-onboarding.md) before a 12-step cadence dump.
 
 ## Sources and evidence boundary
 

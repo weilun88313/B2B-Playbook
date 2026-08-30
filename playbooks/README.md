@@ -37,6 +37,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | Planned: `linkedin-organic.md` |
 | LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
+| Buying signal / job change / which sentence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Buying signals](05-outbound-and-prospecting/buying-signals.md) |
 | Cold email | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold email](05-outbound-and-prospecting/cold-email.md) |
 | Phone / mobile data quality | [Outbound & prospecting](05-outbound-and-prospecting/) | [Contact data](05-outbound-and-prospecting/contact-data.md) |
 | Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `cold-call.md` |
@@ -128,6 +129,7 @@ Planned: LinkedIn organic, paid search, paid social, retargeting, PR and media, 
 Published:
 
 - [Account research](05-outbound-and-prospecting/account-research.md)
+- [Buying signals](05-outbound-and-prospecting/buying-signals.md)
 - [Cold email](05-outbound-and-prospecting/cold-email.md)
 - [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md)
 - [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md)

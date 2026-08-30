@@ -118,7 +118,7 @@ Copy:
 
 ## What to read next
 
-A researched account still needs a sentence: [cold email](cold-email.md). The number you dial still needs [contact data](contact-data.md). If this account is a named program, the living file is [account planning](../06-account-field-and-partner/account-planning.md). If you do not yet have ten ICP-matching companies, start from [first ten customers](../01-strategy-and-buyers/first-ten-customers.md)—warm rings first. If the motion is not outbound, you named the wrong primary in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+Which dated change earns a different sentence this week is [buying signals](buying-signals.md). A researched account still needs a sentence: [cold email](cold-email.md). The number you dial still needs [contact data](contact-data.md). If this account is a named program, the living file is [account planning](../06-account-field-and-partner/account-planning.md). If you do not yet have ten ICP-matching companies, start from [first ten customers](../01-strategy-and-buyers/first-ten-customers.md)—warm rings first. If the motion is not outbound, you named the wrong primary in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 
 ## Sources and evidence boundary
 
