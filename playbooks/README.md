@@ -27,6 +27,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
 | Demo / product walk | [Product marketing](02-product-marketing/) | [Demo](02-product-marketing/demo.md) |
+| Crowded category / friction of the fix | [Product marketing](02-product-marketing/) | [Change friction](02-product-marketing/change-friction.md) |
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | Planned: `white-paper.md` |
@@ -37,6 +38,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
 | Cold email | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold email](05-outbound-and-prospecting/cold-email.md) |
+| Phone / mobile data quality | [Outbound & prospecting](05-outbound-and-prospecting/) | [Contact data](05-outbound-and-prospecting/contact-data.md) |
 | Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `cold-call.md` |
 | Multichannel sequence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) |
 | SDR / BDR onboarding | [Outbound & prospecting](05-outbound-and-prospecting/) | [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md) |
@@ -51,6 +53,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Onboarding packet / welcome messages | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Onboarding communication](08-lifecycle-and-customer-marketing/onboarding-communication.md) |
 | CCO / VP CS first 90 days | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [CS-leadership ramp](08-lifecycle-and-customer-marketing/cs-leadership-ramp.md) |
 | CS CRM fields / health / 4Rs | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [CS workspace](08-lifecycle-and-customer-marketing/cs-workspace.md) |
+| Gross vs net revenue churn / NRR leak | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Revenue churn](08-lifecycle-and-customer-marketing/revenue-churn.md) |
 | Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
 | Sales compensation / quota pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) |
 | Forecast / pipeline hygiene | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Forecasting](09-operations-pipeline-and-measurement/forecasting.md) |
@@ -93,6 +96,7 @@ Published:
 - [Pricing and packaging](02-product-marketing/pricing-and-packaging.md)
 - [Sales enablement](02-product-marketing/sales-enablement.md)
 - [Demo](02-product-marketing/demo.md)
+- [Change friction](02-product-marketing/change-friction.md)
 
 Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims.
 
@@ -127,6 +131,7 @@ Published:
 - [Cold email](05-outbound-and-prospecting/cold-email.md)
 - [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md)
 - [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md)
+- [Contact data](05-outbound-and-prospecting/contact-data.md)
 
 Planned: contact research, cold call, LinkedIn outbound, email deliverability, reply handling, SDR handoff.
 
@@ -160,6 +165,7 @@ Published:
 - [Onboarding communication](08-lifecycle-and-customer-marketing/onboarding-communication.md)
 - [CS-leadership ramp](08-lifecycle-and-customer-marketing/cs-leadership-ramp.md)
 - [CS workspace](08-lifecycle-and-customer-marketing/cs-workspace.md)
+- [Revenue churn](08-lifecycle-and-customer-marketing/revenue-churn.md)
 
 Planned: lead nurture, lifecycle email, customer education, customer community, advocacy, referrals, reviews, expansion, renewal.
 

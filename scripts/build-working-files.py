@@ -1153,6 +1153,56 @@ def build_ai_use_case_score():
     wb.save(OUT / "ai-use-case-score.xlsx")
 
 
+def build_contact_data():
+    wb = Workbook()
+    s = wb.active
+    s.title = "Test"
+    banner(s, 1, 7, "B2B Playbook · Contact data")
+    note(
+        s,
+        2,
+        7,
+        "Score your slice. Coverage is the weak layer. Yellow = inputs. Not a vendor ranking. Copyright © 2026 Ivan Xu.",
+    )
+    s["A4"] = "Persona / size / geo"
+    input_cell(s["B4"])
+    s["C4"] = "Sample size / date"
+    input_cell(s["D4"])
+    header_row(
+        s,
+        6,
+        [
+            "Provider",
+            "Any number (coverage)",
+            "Valid line",
+            "Right person",
+            "Cost / right-person #",
+            "Keep / complement / kill",
+            "Notes",
+        ],
+    )
+    for r in range(7, 17):
+        for c in range(1, 8):
+            input_cell(s.cell(r, c))
+    col_widths(s, [22, 22, 16, 16, 22, 22, 28])
+
+    t = wb.create_sheet("Teaching fill")
+    banner(t, 1, 2, "Invented — not the Outbound Kitchen scorecard. Delete before this is the live test.")
+    t["A3"] = "Slice"
+    t["B3"] = "US mid-market security titles. 200 researched accounts."
+    t["A4"] = "Stack"
+    t["B4"] = "Wide source first, cleaner complement on misses. Validate line + name before dial."
+    t["A5"] = "Refuse"
+    t["B5"] = "A public 'winner' recipe. Reachability as identity."
+    for r in range(3, 6):
+        t.cell(r, 1).font = font_label
+        t.cell(r, 2).fill = fill_teach
+        t.cell(r, 2).alignment = wrap
+        t.row_dimensions[r].height = 40
+    col_widths(t, [12, 100])
+    wb.save(OUT / "contact-data.xlsx")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     build_demo()
@@ -1168,4 +1218,5 @@ if __name__ == "__main__":
     build_cs_workspace()
     build_gtm_ai_maturity()
     build_ai_use_case_score()
+    build_contact_data()
     print("wrote", sorted(p.name for p in OUT.glob("*.xlsx")))

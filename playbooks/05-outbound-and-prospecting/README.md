@@ -2,9 +2,9 @@
 
 > **Decision owned:** How should the team create relevant conversations with accounts that have not raised a hand?
 
-**Status:** Domain guide published · 4 tactic playbooks published
+**Status:** Domain guide published · 5 tactic playbooks published
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 ## Scope
 
@@ -22,6 +22,7 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 6. How should positive, neutral, negative, and referral replies be handled?
 7. What evidence defines a qualified handoff rather than a booked meeting alone?
 8. How will a new SDR/BDR learn the written job, the number, the CRM law, and the last mile without inventing a private version?
+9. How do we know a phone (or route) is real, theirs, and worth a dial?
 
 ## Playbook map
 
@@ -31,6 +32,7 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 | [Cold email](cold-email.md) | Published | How should a concise, relevant first-touch email be constructed and tested? |
 | [Multichannel sequence](multichannel-sequence.md) | Published | How should several touches work together without becoming repetitive noise? |
 | [SDR onboarding](sdr-onboarding.md) | Published | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
+| Contact data | Published: [`contact-data.md`](contact-data.md) | How do we know a phone (or route) is real, theirs, and worth a dial? |
 | Contact research | Planned: `contact-research.md` | Which person and contact route are appropriate and permitted? |
 | Cold call | Planned: `cold-call.md` | How should a rep open, diagnose, and earn the next step by phone? |
 | LinkedIn outbound | Planned: `linkedin-outbound.md` | When and how should social context support a direct conversation? |

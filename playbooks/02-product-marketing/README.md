@@ -2,9 +2,9 @@
 
 > **Decision owned:** What should the market understand, believe, compare, and buy?
 
-**Status:** Domain guide published · 4 tactic playbooks published
+**Status:** Domain guide published · 5 tactic playbooks published
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 ## Scope
 
@@ -22,6 +22,7 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 6. What must change in the market's understanding during a launch?
 7. Which assets help sales and partners apply the same story consistently?
 8. What must a product demo prove after the pitch, and how will we score it rather than a vibe?
+9. When value is prevention or a crowded stack, how do we qualify the friction of the fix?
 
 ## Playbook map
 
@@ -36,6 +37,7 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 | Proof and claims | Planned: `proof-and-claims.md` | Which evidence is strong enough to support each commercial claim? |
 | [Sales enablement](sales-enablement.md) | Published | How should positioning become a first meeting that helps the buyer choose? |
 | [Demo](demo.md) | Published | What must the product walk prove after the pitch, and how do we score it? |
+| Change friction | Published: [`change-friction.md`](change-friction.md) | When value is prevention or a crowded stack, how do we qualify the fix? |
 
 Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
 

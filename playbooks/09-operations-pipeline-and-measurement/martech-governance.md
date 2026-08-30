@@ -47,7 +47,7 @@ Recurring failure modes in this category of tools (from buyer-shaped grids, not 
 
 ### Step 4: capture commercial shape without stealing a median
 
-Pricing model, discount logic (seats vs term), implementation as a line item, and a **range** for time-to-live-in-the-tool. Do not copy a community PDF’s median ACV into your model. Quote **your** seats and **your** legal.
+Pricing model, discount logic (seats vs term), implementation as a line item, and a **range** for time-to-live-in-the-tool. Do not copy a community PDF’s median ACV into your model. Quote **your** seats and **your** legal. AI and usage pricing change the bill; treat software as a **portfolio with a kill date**, not a growing stack of seats. A vendor-spend benchmark landing page is a prompt for those questions—not your budget ([Stackpack 2026 spend report](https://www.stackpack.ai/2026-Vendor-Spend-Benchmarks-Report?ref=b2b-playbook) is gated; we did not import its tables).
 
 ### Step 5: decide, then assign an owner and a kill date
 
