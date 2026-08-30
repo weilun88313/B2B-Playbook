@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should the team create relevant conversations with accounts that have not raised a hand?
 
-**Status:** Domain guide published · 7 tactic playbooks published
+**Status:** Domain guide published · 9 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -37,9 +37,9 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 | [Multichannel sequence](multichannel-sequence.md) | Published | How should several touches work together without becoming repetitive noise? |
 | [SDR onboarding](sdr-onboarding.md) | Published | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
 | Contact data | Published: [`contact-data.md`](contact-data.md) | How do we know a phone (or route) is real, theirs, and worth a dial? |
+| [Cold call](cold-call.md) | Published | How should a rep open with context, pitch the problem, and handle the reaction? |
+| [LinkedIn outbound](linkedin-outbound.md) | Published | When does a public artifact earn a conversation—without a connection pitch? |
 | Contact research | Planned: `contact-research.md` | Which person and contact route are appropriate and permitted? |
-| Cold call | Planned: `cold-call.md` | How should a rep open, diagnose, and earn the next step by phone? |
-| LinkedIn outbound | Planned: `linkedin-outbound.md` | When and how should social context support a direct conversation? |
 | Email deliverability | Planned: `email-deliverability.md` | How should sending infrastructure and reputation be protected? |
 | Reply handling | Planned: `reply-handling.md` | How should different response types be interpreted and routed? |
 | SDR handoff | Planned: `sdr-handoff.md` | What context must move from prospecting into discovery or sales? |

@@ -34,11 +34,15 @@ Produce a usable artifact or decision, not broad advice.
 | KOL / newsletter / podcast partnership / co-create | `playbooks/04-channels-and-distribution/creator-partnership.md` |
 | Product Hunt / launch-day amplifier | `playbooks/04-channels-and-distribution/product-hunt.md` |
 | Content syndication / rented MQLs | `playbooks/04-channels-and-distribution/content-syndication.md` |
+| LinkedIn organic / founder feed / company page | `playbooks/04-channels-and-distribution/linkedin-organic.md` |
+| Paid ads / creation vs capture / retargeting job | `playbooks/04-channels-and-distribution/paid-media.md` |
 | Account research | `playbooks/05-outbound-and-prospecting/account-research.md` |
 | Buying signal / job change / funding / which sentence this week | `playbooks/05-outbound-and-prospecting/buying-signals.md` |
 | Message-market fit / before AI SDR / handmade outbound test | `playbooks/05-outbound-and-prospecting/message-market-fit.md` |
 | Mobile / phone data / right-person numbers | `playbooks/05-outbound-and-prospecting/contact-data.md` |
 | Cold email | `playbooks/05-outbound-and-prospecting/cold-email.md` |
+| Cold call / phone opener / objection as reaction | `playbooks/05-outbound-and-prospecting/cold-call.md` |
+| LinkedIn outbound / connection request / social selling | `playbooks/05-outbound-and-prospecting/linkedin-outbound.md` |
 | Multichannel outbound | `playbooks/05-outbound-and-prospecting/multichannel-sequence.md` |
 | SDR / BDR onboarding or ramp | `playbooks/05-outbound-and-prospecting/sdr-onboarding.md` |
 | Event strategy | `playbooks/06-account-field-and-partner/event-marketing.md` |
@@ -46,12 +50,17 @@ Produce a usable artifact or decision, not broad advice.
 | Executive dinner / small roundtable | `playbooks/06-account-field-and-partner/executive-dinners.md` |
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
 | Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
+| Homepage / 10-second scan / site door | `playbooks/07-website-and-conversion/homepage.md` |
+| Comparison page / vs page / competitor URL | `playbooks/07-website-and-conversion/comparison-page.md` |
+| Pricing page / show the number / value metric on site | `playbooks/07-website-and-conversion/pricing-page.md` |
+| Demo request / high-intent form / speed-to-lead | `playbooks/07-website-and-conversion/demo-request.md` |
 | Customer success / post-sale book | `playbooks/08-lifecycle-and-customer-marketing/customer-success.md` |
 | Customer onboarding / first value / education vs implementation | `playbooks/08-lifecycle-and-customer-marketing/customer-onboarding.md` |
 | Onboarding packet / welcome / handoff notes | `playbooks/08-lifecycle-and-customer-marketing/onboarding-communication.md` |
 | CCO / VP CS first 90 days | `playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md` |
 | CS workspace / health fields / 4Rs | `playbooks/08-lifecycle-and-customer-marketing/cs-workspace.md` |
 | Gross vs net revenue churn / NRR leak | `playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md` |
+| Lead nurture / drip / pre-sale education | `playbooks/08-lifecycle-and-customer-marketing/lead-nurture.md` |
 | Sales compensation / quota, OTE, accelerators | `playbooks/09-operations-pipeline-and-measurement/sales-compensation.md` |
 | Clawbacks, holdbacks, or sales draws | `playbooks/09-operations-pipeline-and-measurement/incentive-timing.md` |
 | RevOps / sales-ops leader variable pay | `playbooks/09-operations-pipeline-and-measurement/revops-compensation.md` |
@@ -61,6 +70,7 @@ Produce a usable artifact or decision, not broad advice.
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
 | GTM tests / hypotheses / experiment log | `playbooks/09-operations-pipeline-and-measurement/experimentation.md` |
+| Measurement / attribution / HDYHAU / two scoreboards | `playbooks/09-operations-pipeline-and-measurement/measurement-model.md` |
 | GTM AI maturity / “we are AI-native” | `playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity.md` |
 | Which AI use case / Five P’s / not which tool | `playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md` |
 | AI workflow / agent stages / HITL gates | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` |

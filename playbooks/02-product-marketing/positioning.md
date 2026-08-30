@@ -94,6 +94,8 @@ If sellers do not believe the product can win, prospects will not either.
 
 ### Step 6: run the homepage 10-second test
 
+The public URL that must pass this test is the [homepage](../07-website-and-conversion/homepage.md). This step writes the scan; that page owns the door.
+
 A reader who never opens the blog should still identify:
 
 - the product category;
@@ -107,7 +109,7 @@ A reader who never opens the blog should still identify:
 
 ### Step 7: build comparisons only for real decisions
 
-Create a comparison page only when the alternative appears repeatedly in sales conversations. Include where the alternative is stronger. Refusing to name its strengths makes the page less credible and less useful to a champion.
+Create a comparison page only when the alternative appears repeatedly in sales conversations. Include where the alternative is stronger. Refusing to name its strengths makes the page less credible and less useful to a champion. The live URL is the [comparison page](../07-website-and-conversion/comparison-page.md).
 
 ### Step 8: position the way you sell
 

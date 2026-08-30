@@ -17,7 +17,7 @@ This is not a provider ranking, not a US-only law, and not permission to ignore 
 
 - The ICP and account hypothesis are empty. Stay in [account research](account-research.md).
 - You need the first-touch email. That is [cold email](cold-email.md).
-- You need the live open. Cold call is still planned.
+- You need the live open. That is [cold call](cold-call.md).
 - Legal or privacy must set lawful use. Qualified owners; this page will not.
 
 ## Words you will use

@@ -2,9 +2,9 @@
 
 > **Decision owned:** How should owned digital experiences help buyers understand, evaluate, and take the next step?
 
-**Status:** Domain guide published · tactic playbooks planned
+**Status:** Domain guide published · 4 tactic playbooks published
 
-**Last reviewed:** 2026-08-25
+**Last reviewed:** 2026-08-30
 
 ## Scope
 
@@ -26,15 +26,15 @@ It owns information architecture, core marketing pages, evaluation content, conv
 
 | Topic | Status | Operating question |
 |---|---|---|
+| [Homepage](homepage.md) | Published | What must a priority visitor understand within the first useful scan? |
+| [Comparison page](comparison-page.md) | Published | How should alternatives be compared fairly and credibly? |
+| [Pricing page](pricing-page.md) | Published | What pricing and packaging information helps a buyer self-qualify? |
+| [Demo request](demo-request.md) | Published | How should a high-intent buyer understand and enter the next step? |
 | Website strategy | Planned: `website-strategy.md` | Which audiences, questions, journeys, and conversions should the site support? |
-| Homepage | Planned: `homepage.md` | What must a priority visitor understand within the first useful scan? |
 | Landing page | Planned: `landing-page.md` | How should one campaign promise lead to one relevant next step? |
 | Product page | Planned: `product-page.md` | How should capabilities connect to outcomes, use cases, and proof? |
-| Pricing page | Planned: `pricing-page.md` | What pricing and packaging information helps a buyer self-qualify? |
-| Comparison page | Planned: `comparison-page.md` | How should alternatives be compared fairly and credibly? |
 | Documentation and resource center | Planned: `documentation-and-resource-center.md` | How should evaluators and users find authoritative implementation knowledge? |
 | Lead magnet | Planned: `lead-magnet.md` | When is an exchange of information valuable enough to justify a form? |
-| Demo request | Planned: `demo-request.md` | How should a high-intent buyer understand and enter the next step? |
 | Forms and chat | Planned: `forms-and-chat.md` | Which interaction collects enough context without creating avoidable friction? |
 | Conversion-rate optimization | Planned: `conversion-rate-optimization.md` | Which evidence-based change can improve a defined buyer progression? |
 | Self-service buying | Planned: `self-service-buying.md` | Which parts of evaluation and purchase can happen without a scheduled meeting? |
@@ -43,18 +43,19 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Map priority audiences, questions, journeys, and conversion events.
-2. Establish information architecture and the homepage message hierarchy.
-3. Build product, pricing, comparison, proof, and evaluation pages.
-4. Design appropriate demo, form, chat, resource, and self-service paths.
-5. Add performance, accessibility, analytics, consent, and experimentation operations.
+1. Lock [positioning](../02-product-marketing/positioning.md) and the [decision-page map](../03-brand-story-and-content/content-strategy.md) before a redesign.
+2. Make the [homepage](homepage.md) pass a 10-second scan and match the [channel](../04-channels-and-distribution/channel-strategy.md) door.
+3. Publish the [comparison](comparison-page.md) only for alternatives that repeat in deals, then the [pricing page](pricing-page.md) that shows the unit.
+4. Open a scoped [demo request](demo-request.md) for sales-assist; do not put that CTA on every URL.
+5. Add landing pages, forms/chat, performance, accessibility, and CRO only after those four exist.
 
 ## Interfaces with other domains
 
-- [Product marketing](../02-product-marketing/) supplies positioning, message hierarchy, offer structure, claims, and proof.
+- [Product marketing](../02-product-marketing/) supplies positioning, message hierarchy, offer structure, claims, and proof. The commercial unit lives in [pricing and packaging](../02-product-marketing/pricing-and-packaging.md); this domain displays it.
 - [Brand, story & content](../03-brand-story-and-content/) supplies educational assets, memorable narrative, and the [decision-page map](../03-brand-story-and-content/content-strategy.md).
 - [Channels & distribution](../04-channels-and-distribution/) supplies traffic with specific expectations and intent.
-- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) continues education and progression after conversion or purchase.
+- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) continues education and progression after conversion or purchase. Known people who are not ready for a walk are [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md).
+- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) reads HDYHAU from the demo form in [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) and routes non-hand-raisers in [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md).
 
 [Back to the playbook index](../README.md)
 

@@ -39,14 +39,15 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Newsletter / podcast / KOL partnership | [Channels & distribution](04-channels-and-distribution/) | [Creator partnership](04-channels-and-distribution/creator-partnership.md) |
 | Product Hunt / launch day | [Channels & distribution](04-channels-and-distribution/) | [Product Hunt](04-channels-and-distribution/product-hunt.md) |
 | Content syndication | [Channels & distribution](04-channels-and-distribution/) | [Content syndication](04-channels-and-distribution/content-syndication.md) |
-| LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | Planned: `linkedin-organic.md` |
-| LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `linkedin-outbound.md` |
+| LinkedIn content | [Channels & distribution](04-channels-and-distribution/) | [LinkedIn organic](04-channels-and-distribution/linkedin-organic.md) |
+| Paid ads / creation vs capture | [Channels & distribution](04-channels-and-distribution/) | [Paid media](04-channels-and-distribution/paid-media.md) |
+| LinkedIn prospecting | [Outbound & prospecting](05-outbound-and-prospecting/) | [LinkedIn outbound](05-outbound-and-prospecting/linkedin-outbound.md) |
 | Account research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Account research](05-outbound-and-prospecting/account-research.md) |
 | Buying signal / job change / which sentence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Buying signals](05-outbound-and-prospecting/buying-signals.md) |
 | Message-market fit / before AI SDR | [Outbound & prospecting](05-outbound-and-prospecting/) | [Message-market fit](05-outbound-and-prospecting/message-market-fit.md) |
 | Cold email | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold email](05-outbound-and-prospecting/cold-email.md) |
 | Phone / mobile data quality | [Outbound & prospecting](05-outbound-and-prospecting/) | [Contact data](05-outbound-and-prospecting/contact-data.md) |
-| Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | Planned: `cold-call.md` |
+| Cold call | [Outbound & prospecting](05-outbound-and-prospecting/) | [Cold call](05-outbound-and-prospecting/cold-call.md) |
 | Multichannel sequence | [Outbound & prospecting](05-outbound-and-prospecting/) | [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) |
 | SDR / BDR onboarding | [Outbound & prospecting](05-outbound-and-prospecting/) | [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md) |
 | Event | [Account, field & partner](06-account-field-and-partner/) | [Event marketing](06-account-field-and-partner/event-marketing.md) |
@@ -55,7 +56,12 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](06-account-field-and-partner/) | [Account planning](06-account-field-and-partner/account-planning.md) |
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
-| Homepage | [Website & conversion](07-website-and-conversion/) | Planned: `homepage.md` |
+| Homepage | [Website & conversion](07-website-and-conversion/) | [Homepage](07-website-and-conversion/homepage.md) |
+| Comparison page | [Website & conversion](07-website-and-conversion/) | [Comparison page](07-website-and-conversion/comparison-page.md) |
+| Pricing page | [Website & conversion](07-website-and-conversion/) | [Pricing page](07-website-and-conversion/pricing-page.md) |
+| Demo request / high-intent form | [Website & conversion](07-website-and-conversion/) | [Demo request](07-website-and-conversion/demo-request.md) |
+| Lead nurture / pre-sale drip | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Lead nurture](08-lifecycle-and-customer-marketing/lead-nurture.md) |
+| Measurement / attribution / HDYHAU | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Measurement model](09-operations-pipeline-and-measurement/measurement-model.md) |
 | Customer success / post-sale book | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer success](08-lifecycle-and-customer-marketing/customer-success.md) |
 | Customer onboarding / first value | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) |
 | Onboarding packet / welcome messages | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Onboarding communication](08-lifecycle-and-customer-marketing/onboarding-communication.md) |
@@ -132,8 +138,10 @@ Published:
 - [Creator partnership](04-channels-and-distribution/creator-partnership.md)
 - [Product Hunt](04-channels-and-distribution/product-hunt.md)
 - [Content syndication](04-channels-and-distribution/content-syndication.md)
+- [LinkedIn organic](04-channels-and-distribution/linkedin-organic.md)
+- [Paid media](04-channels-and-distribution/paid-media.md)
 
-Planned: LinkedIn organic, paid search, paid social, retargeting, PR and media, review sites, content distribution, content repurposing.
+Planned: paid search, paid social, retargeting (execution under [paid media](04-channels-and-distribution/paid-media.md)), PR and media, review sites, content distribution, content repurposing.
 
 ## 05 · [Outbound & prospecting](05-outbound-and-prospecting/)
 
@@ -148,8 +156,10 @@ Published:
 - [Multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md)
 - [SDR onboarding](05-outbound-and-prospecting/sdr-onboarding.md)
 - [Contact data](05-outbound-and-prospecting/contact-data.md)
+- [Cold call](05-outbound-and-prospecting/cold-call.md)
+- [LinkedIn outbound](05-outbound-and-prospecting/linkedin-outbound.md)
 
-Planned: contact research, cold call, LinkedIn outbound, email deliverability, reply handling, SDR handoff.
+Planned: contact research, email deliverability, reply handling, SDR handoff.
 
 ## 06 · [Account, field & partner marketing](06-account-field-and-partner/)
 
@@ -163,13 +173,20 @@ Published:
 - [Ecosystem](06-account-field-and-partner/ecosystem.md)
 - [Account planning](06-account-field-and-partner/account-planning.md)
 
-Planned: ABM strategy, one-to-one ABM, one-to-few ABM, executive dinners, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
+Planned: ABM strategy, one-to-one ABM, one-to-few ABM, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
 
 ## 07 · [Website & conversion](07-website-and-conversion/)
 
 **Decision:** How will owned digital experiences help buyers understand, evaluate, and take the next step?
 
-Planned: homepage, landing page, product page, comparison page, lead magnet, demo request, forms and chat, conversion-rate optimization, self-service buying.
+Published:
+
+- [Homepage](07-website-and-conversion/homepage.md)
+- [Comparison page](07-website-and-conversion/comparison-page.md)
+- [Pricing page](07-website-and-conversion/pricing-page.md)
+- [Demo request](07-website-and-conversion/demo-request.md)
+
+Planned: website strategy, landing page, product page, lead magnet, forms and chat, conversion-rate optimization, self-service buying, documentation.
 
 ## 08 · [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/)
 
@@ -183,8 +200,9 @@ Published:
 - [CS-leadership ramp](08-lifecycle-and-customer-marketing/cs-leadership-ramp.md)
 - [CS workspace](08-lifecycle-and-customer-marketing/cs-workspace.md)
 - [Revenue churn](08-lifecycle-and-customer-marketing/revenue-churn.md)
+- [Lead nurture](08-lifecycle-and-customer-marketing/lead-nurture.md)
 
-Planned: lead nurture, lifecycle email, customer education, customer community, advocacy, referrals, reviews, expansion, renewal.
+Planned: lifecycle email, customer education, customer community, advocacy, referrals, reviews, expansion, renewal.
 
 ## 09 · [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/)
 
@@ -207,8 +225,9 @@ Published:
 - [GTM AI maturity](09-operations-pipeline-and-measurement/gtm-ai-maturity.md)
 - [AI use-case selection](09-operations-pipeline-and-measurement/ai-use-case-selection.md)
 - [AI workflow](09-operations-pipeline-and-measurement/ai-workflow.md)
+- [Measurement model](09-operations-pipeline-and-measurement/measurement-model.md)
 
-Planned: measurement model, funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution, dashboards, budget and planning, privacy and compliance operations.
+Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](09-operations-pipeline-and-measurement/measurement-model.md)), dashboards, budget and planning, privacy and compliance operations.
 
 ## Domain guide contract
 
@@ -245,7 +264,7 @@ Every published tactic playbook should contain:
 
 Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
-Enterprise selling as a full cycle is outside this marketing taxonomy. The GTM-operations exceptions that live here are [sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) (quota has to be credited and paid), [incentive timing](09-operations-pipeline-and-measurement/incentive-timing.md) (when that pay is safe), [RevOps compensation](09-operations-pipeline-and-measurement/revops-compensation.md) (ops is not a second AE quota), [forecasting](09-operations-pipeline-and-measurement/forecasting.md) (the path to the number has to be defensible), [sales operating cadence](09-operations-pipeline-and-measurement/sales-operating-cadence.md) (pipe-gen, the call, and coaching do not share one hour), [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md) (demand and capacity have to meet), [experimentation](09-operations-pipeline-and-measurement/experimentation.md) (assumptions get a kill date), [GTM AI maturity](09-operations-pipeline-and-measurement/gtm-ai-maturity.md) (seats are not an OS), [AI use-case selection](09-operations-pipeline-and-measurement/ai-use-case-selection.md) (problem before tool), [AI workflow](09-operations-pipeline-and-measurement/ai-workflow.md) (artifact before build), [sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) (a new sales leader’s first 90 days), [lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) (routing, not a personality), [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md) (the commercial record), [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md) (which job a tool may do), [account planning](06-account-field-and-partner/account-planning.md) (a named-account living file), and [customer success](08-lifecycle-and-customer-marketing/customer-success.md) / [customer onboarding](08-lifecycle-and-customer-marketing/customer-onboarding.md) / [onboarding communication](08-lifecycle-and-customer-marketing/onboarding-communication.md) / [CS-leadership ramp](08-lifecycle-and-customer-marketing/cs-leadership-ramp.md) / [CS workspace](08-lifecycle-and-customer-marketing/cs-workspace.md) (the book after the sale). Papering, procurement, and close stages still do not belong in marketing domains. If the library later expands further into sales, it should use a separate top-level collection.
+Enterprise close (papering, procurement, multi-threaded negotiation) is outside this taxonomy. Quota pay, forecast, cadence, and post-sale operations that marketing must share live in domains 06, 08, and 09—not as a second sales-ops library. A later sales collection would be a separate top-level.
 
 ---
 

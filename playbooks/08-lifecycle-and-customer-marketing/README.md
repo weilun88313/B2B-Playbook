@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should the company educate, retain, expand, and mobilize customers after initial interest or purchase?
 
-**Status:** Domain guide published · 6 tactic playbooks published
+**Status:** Domain guide published · 7 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -40,7 +40,7 @@ It owns audience-state communication, customer education, lifecycle programs, co
 | CS-leadership ramp | Published: [`cs-leadership-ramp.md`](cs-leadership-ramp.md) | What should a new CS executive actually do in 90 days? |
 | CS workspace | Published: [`cs-workspace.md`](cs-workspace.md) | Which post-sale fields must exist so CS can see value, cadence, renewal, and risk? |
 | Revenue churn | Published: [`revenue-churn.md`](revenue-churn.md) | How do we measure revenue leaving the book without letting net hide the leak? |
-| Lead nurture | Planned: `lead-nurture.md` | How should known buyers learn and progress before a sales conversation? |
+| [Lead nurture](lead-nurture.md) | Published | How should a known person learn by state—before they are in-market? |
 | Lifecycle email | Planned: `lifecycle-email.md` | Which event, state, or behavior should trigger which communication? |
 | Customer education | Planned: `customer-education.md` | Which knowledge helps users adopt the product and achieve outcomes? |
 | Customer community | Planned: `customer-community.md` | When can customers help one another learn, connect, and succeed? |
@@ -58,7 +58,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 1. Define lifecycle states, ownership, entry criteria, and success outcomes.
 2. If customers already exist, write [customer success](customer-success.md) (who owns the book) and [customer onboarding](customer-onboarding.md) (how they reach first value), then [onboarding communication](onboarding-communication.md) (what they receive in writing).
 3. A new CS executive uses [CS-leadership ramp](cs-leadership-ramp.md). The record they audit is [CS workspace](cs-workspace.md). Gross vs net on that book is [revenue churn](revenue-churn.md).
-4. Build lead nurture and customer education around real questions and behaviors.
+4. Known people who are not ready for a walk use [lead nurture](lead-nurture.md) by state—not a seven-email drip. Customer education stays planned.
 5. Connect product, success, support, and CRM signals to lifecycle programs.
 6. Add community, advocacy, review, and referral motions after customer value is proven.
 7. Build expansion, renewal, win-back, and measurement loops without sacrificing trust.
