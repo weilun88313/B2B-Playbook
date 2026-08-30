@@ -3,8 +3,6 @@ title: "Product-market fit"
 sidebarTitle: "Product Market Fit"
 ---
 
-# Product-market fit
-
 **Last reviewed:** 2026-08-30
 
 There is no guaranteed recipe for product-market fit. Anyone selling you one is selling anxiety relief.

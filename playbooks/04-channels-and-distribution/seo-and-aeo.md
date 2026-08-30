@@ -2,8 +2,6 @@
 title: "SEO and AEO"
 ---
 
-# SEO and AEO
-
 **Last reviewed:** 2026-08-30
 
 Search used to mean a list of links. Buyers increasingly ask a model a full question and get an answer with or without a click. [Content strategy](../03-brand-story-and-content/content-strategy.md) still decides **which questions get a durable URL**. This page decides **how that knowledge is findable**—on your site, in places models cite, and in the questions you actually test—without making sessions-in-GA the only scoreboard.

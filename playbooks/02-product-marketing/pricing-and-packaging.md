@@ -3,8 +3,6 @@ title: "Pricing and packaging"
 sidebarTitle: "Pricing and Packaging"
 ---
 
-# Pricing and packaging
-
 **Last reviewed:** 2026-08-29
 
 A year of free users who give generous product advice is a common way to delay the only question that matters: **who will pay, and for what?** Unpaid usage is a weak signal. People who will not pay still have opinions. Founders then underprice the thing they built, because “startup software should be cheap,” and spend a quarter designing four editions for a tenth customer who does not exist yet.

@@ -2,8 +2,6 @@
 title: "Ecosystem"
 ---
 
-# Ecosystem
-
 **Last reviewed:** 2026-08-29
 
 Ecosystem is a growth motion that reaches the target audience through people and companies who already have access and trust—creators, channel partners, communities, integrations, associations, customers, and specialists who speak the buyer’s language.

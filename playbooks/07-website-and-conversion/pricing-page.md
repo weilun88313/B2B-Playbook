@@ -3,8 +3,6 @@ title: "Pricing page"
 sidebarTitle: "Pricing Page"
 ---
 
-# Pricing page
-
 **Last reviewed:** 2026-08-30
 
 [Pricing and packaging](../02-product-marketing/pricing-and-packaging.md) decides who pays, for what unit, and when you revisit the number. This page decides **what a serious buyer can understand in one scan of `/pricing`**: the unit, the plans, who each plan is for, and what happens next.

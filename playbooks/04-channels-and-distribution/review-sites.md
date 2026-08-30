@@ -3,8 +3,6 @@ title: "Review sites"
 sidebarTitle: "Review Sites"
 ---
 
-# Review sites
-
 **Last reviewed:** 2026-08-30
 
 A G2 badge on the homepage and a quarterly “please review us” blast are not a program. [SEO and AEO](seo-and-aeo.md) already treats review listings as a **citation surface**. This page is **how authentic, buyer-visible reviews are earned, governed, and used**—without buying a rating or turning customers into a quota.

@@ -3,8 +3,6 @@ title: "Customer onboarding"
 sidebarTitle: "Customer Onboarding"
 ---
 
-# Customer onboarding
-
 **Last reviewed:** 2026-08-29
 
 Onboarding is **education**: the customer understands how the product resolves the issue they bought it for. Implementation is **tactical integration**: the software sits in *their* stack, with their data, their permissions, their go-live. Mixing the two is how teams staff CSMs as project managers, skip training, and call a login “adopted.”

@@ -3,8 +3,6 @@ title: "Paid-media brief"
 sidebarTitle: "Paid Media"
 ---
 
-# Paid-media brief
-
 B2B Playbook working file. Read [paid media](../playbooks/04-channels-and-distribution/paid-media.md) first.
 
 One job per buy. Creation and capture do not share a scoreboard.

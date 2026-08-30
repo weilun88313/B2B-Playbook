@@ -3,8 +3,6 @@ title: "Idea validation"
 sidebarTitle: "Idea Validation"
 ---
 
-# Idea validation
-
 **Last reviewed:** 2026-08-29
 
 Nearly half the B2B companies in one later-successful interview set went through at least one failed idea first. Some went through ten. Christina Cacioppo’s version: the first couple of ideas were total crap. Retool was Venmo for the U.K. Amplitude was voice-to-text. Segment was a classroom lecture tool. Vanta was B2B Alexa. Notion was a no-code website builder. Loom was a marketplace for hiring experts. Slack was a game. Box was a Facebook photo box.

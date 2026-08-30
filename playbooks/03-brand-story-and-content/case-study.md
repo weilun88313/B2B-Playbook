@@ -3,8 +3,6 @@ title: "Case study"
 sidebarTitle: "Case Study"
 ---
 
-# Case study
-
 **Last reviewed:** 2026-08-30
 
 A page titled “How Acme achieved transformation” with a 40% efficiency quote and no date is a brochure. [Content strategy](content-strategy.md) decides whether a proof URL belongs on the map. This page owns **how a named customer’s context, action, and result become something a champion can forward**—and when you must refuse to publish.

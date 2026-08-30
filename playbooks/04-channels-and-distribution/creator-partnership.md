@@ -3,8 +3,6 @@ title: "Creator partnership"
 sidebarTitle: "Creator Partnership"
 ---
 
-# Creator partnership
-
 **Last reviewed:** 2026-08-30
 
 [RESOURCES.md](../../RESOURCES.md) is who a practitioner may **read**. This page is who you may **work with**: a newsletter, podcast, or operator whose audience is actually your ICP, and a piece you **co-create** around a real operating problem—not a sponsored paragraph at the bottom of someone else’s recap.

@@ -3,8 +3,6 @@ title: "Channel strategy"
 sidebarTitle: "Channel Strategy"
 ---
 
-# Channel strategy
-
 **Last reviewed:** 2026-08-29
 
 The temptation after a few customers is to become a full go-to-market department overnight: a blog, ads, partners, outbound, a self-serve signup, a conference booth. Famous companies used all of those **at some point**. They did not run all of them in the same quarter while still looking for the first repeatable motion.

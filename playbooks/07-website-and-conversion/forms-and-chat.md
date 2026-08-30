@@ -3,8 +3,6 @@ title: "Forms and chat"
 sidebarTitle: "Forms and Chat"
 ---
 
-# Forms and chat
-
 **Last reviewed:** 2026-08-30
 
 A chatbot that covers the [homepage](homepage.md) door and a 14-field “contact” form on the blog are the same mistake: friction without a job. [Demo request](demo-request.md) already owns the high-intent path. This page is the **general rule**: which interaction collects enough context, and which ones you will not run.

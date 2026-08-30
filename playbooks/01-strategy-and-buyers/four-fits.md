@@ -2,8 +2,6 @@
 title: "Four Fits"
 ---
 
-# Four Fits
-
 **Last reviewed:** 2026-08-30
 
 [Product-market fit](product-market-fit.md) asks whether one segment loves it, pays, and starts to pull. This page asks the harder question: **are market, product, channel, and model the same company**—or four slides that refuse each other.

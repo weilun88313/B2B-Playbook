@@ -3,8 +3,6 @@ title: "B2B Playbook（中文）"
 sidebarTitle: "中文"
 ---
 
-# B2B Playbook
-
 English is the canonical entrance: [README.md](README.md). This file is a Chinese mirror of that page only.
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察的工作。

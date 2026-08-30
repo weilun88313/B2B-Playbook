@@ -2,8 +2,6 @@
 title: "Positioning"
 ---
 
-# Positioning
-
 **Last reviewed:** 2026-08-29
 
 Positioning is the shortest credible explanation of why a specific buyer should change from the current alternative.

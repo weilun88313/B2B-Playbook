@@ -3,8 +3,6 @@ title: "Ideal customer profile (ICP)"
 sidebarTitle: "ICP"
 ---
 
-# Ideal customer profile (ICP)
-
 **Last reviewed:** 2026-08-29
 
 Most B2B teams do not have an ICP. They have a category they wish were a market, and a slide of logos they would like to close. An ICP turns a market into **observable account filters and different next actions**—not “everyone interested in this category.”

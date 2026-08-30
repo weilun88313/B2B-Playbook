@@ -3,8 +3,6 @@ title: "White-paper brief"
 sidebarTitle: "White Paper"
 ---
 
-# White-paper brief
-
 B2B Playbook working file. Read [white paper](../playbooks/03-brand-story-and-content/white-paper.md) first.
 
 One claim. Sources on the page. Gate off unless the exchange is worth it.

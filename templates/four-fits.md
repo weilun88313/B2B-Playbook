@@ -3,8 +3,6 @@ title: "Four-fits card"
 sidebarTitle: "Four Fits"
 ---
 
-# Four-fits card
-
 B2B Playbook working file. Read [four fits](../playbooks/01-strategy-and-buyers/four-fits.md) first.
 
 One company. Four sentences. Delete teaching notes. Do not paste a $100M case study as the live card.

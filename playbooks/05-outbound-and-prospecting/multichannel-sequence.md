@@ -3,8 +3,6 @@ title: "Multichannel sequence"
 sidebarTitle: "Multichannel Sequence"
 ---
 
-# Multichannel sequence
-
 **Last reviewed:** 2026-08-29
 
 A multichannel sequence coordinates email, phone, professional networks, partners, events, and useful assets around one account hypothesis. It is not the same message copied across more channels.

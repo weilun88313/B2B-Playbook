@@ -3,8 +3,6 @@ title: "Renewal card"
 sidebarTitle: "Renewal Marketing"
 ---
 
-# Renewal card
-
 B2B Playbook working file. Read [renewal marketing](../playbooks/08-lifecycle-and-customer-marketing/renewal-marketing.md) first.
 
 Value packet before the commercial path. Delete teaching notes.

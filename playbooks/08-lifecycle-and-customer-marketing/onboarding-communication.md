@@ -3,8 +3,6 @@ title: "Onboarding communication"
 sidebarTitle: "Onboarding Communication"
 ---
 
-# Onboarding communication
-
 **Last reviewed:** 2026-08-30
 
 [Customer onboarding](customer-onboarding.md) is the **work**: education versus implementation, kickoff, clocks for launch and value. This page is what the customer **receives in writing**—the packet, the intake, the timeline they can hold, and the handoff note when the implementation owner leaves and the book owner stays.

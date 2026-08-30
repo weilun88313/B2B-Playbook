@@ -3,8 +3,6 @@ title: "Measurement model"
 sidebarTitle: "Measurement Model"
 ---
 
-# Measurement model
-
 **Last reviewed:** 2026-08-30
 
 A dashboard that assigns every dollar of pipeline to a UTM is not a measurement model. It is a story the pixel can tell. This page decides **which decisions each metric is allowed to support**—and which questions require a human, an experiment, or a longer clock.

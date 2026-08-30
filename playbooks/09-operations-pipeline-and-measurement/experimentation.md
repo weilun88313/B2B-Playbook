@@ -2,8 +2,6 @@
 title: "Experimentation"
 ---
 
-# Experimentation
-
 **Last reviewed:** 2026-08-30
 
 A go-to-market plan that has not named its assumptions is a speech. [GTM planning](gtm-planning.md) asks whether demand and capacity can produce the same number. This page asks **which belief we will try to disprove this quarter**, in a test small enough to finish, before we scale the campaign, the ICP slice, or the channel mix.

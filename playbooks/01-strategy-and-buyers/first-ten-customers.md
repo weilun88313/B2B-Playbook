@@ -3,8 +3,6 @@ title: "First ten customers"
 sidebarTitle: "First Ten Customers"
 ---
 
-# First ten customers
-
 **Last reviewed:** 2026-08-29
 
 None of the ways you will get your first ten B2B customers will scale. That is why they work. Later you will name a [primary motion](../04-channels-and-distribution/channel-strategy.md). Now you are in hand-to-hand combat: a named person, a trust you already have or can earn, and a product unfinished enough that only trust gets it into production.

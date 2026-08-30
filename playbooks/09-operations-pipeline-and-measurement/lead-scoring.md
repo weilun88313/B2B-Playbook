@@ -3,8 +3,6 @@ title: "Lead scoring"
 sidebarTitle: "Lead Scoring"
 ---
 
-# Lead scoring
-
 **Last reviewed:** 2026-08-29
 
 Lead scoring is a **routing hypothesis**: which known people deserve a different action this week. It is not a personality, not a HubSpot feature tour, and not a substitute for an [ICP](../01-strategy-and-buyers/icp.md). If you cannot say what happens at the threshold—who is notified, what they must do, by when—you do not have scoring. You have a vanity integer.

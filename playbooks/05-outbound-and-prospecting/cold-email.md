@@ -3,8 +3,6 @@ title: "Cold email"
 sidebarTitle: "Cold Email"
 ---
 
-# Cold email
-
 **Last reviewed:** 2026-08-29
 
 Cold email tests whether a relevant account and buying seat will engage with a specific business hypothesis. Email is the delivery channel, not the strategy.

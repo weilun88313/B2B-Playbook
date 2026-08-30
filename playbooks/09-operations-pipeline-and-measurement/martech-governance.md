@@ -3,8 +3,6 @@ title: "MarTech governance"
 sidebarTitle: "Martech Governance"
 ---
 
-# MarTech governance
-
 **Last reviewed:** 2026-08-29
 
 Buying a logo because a community scorecard ranked it is not governance. **Governance is: which job this tool is allowed to do, who owns it, what it may write into the [CRM](crm-data-model.md), and when you will remove it.** A newer SKU is not automatically the stack. [TOOLS.md](../../TOOLS.md) is a shortlist of products. This page is how you run a bake-off without importing someone else’s satisfaction scores.

@@ -3,8 +3,6 @@ title: "CS workspace"
 sidebarTitle: "CS Workspace"
 ---
 
-# CS workspace
-
 **Last reviewed:** 2026-08-30
 
 [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md) is the commercial spine (Lead, Account, Contact, Opportunity). This page is the **post-sale intelligence layer**: which objects, fields, views, and automations must exist so a CSM can do the job in [customer success](customer-success.md) without a second brain in a spreadsheet.

@@ -2,8 +2,6 @@
 title: "Homepage"
 ---
 
-# Homepage
-
 **Last reviewed:** 2026-08-30
 
 A homepage that “looks like a category leader” and still cannot answer *who this is for* in one scan is a brand surface. [Positioning](../02-product-marketing/positioning.md) owns the 10-second test. This page owns the **URL**: what a priority visitor must understand before they bounce, and which one next step the door is allowed to offer.

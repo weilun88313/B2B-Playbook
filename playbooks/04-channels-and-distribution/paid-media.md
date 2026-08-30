@@ -3,8 +3,6 @@ title: "Paid media"
 sidebarTitle: "Paid Media"
 ---
 
-# Paid media
-
 **Last reviewed:** 2026-08-30
 
 Paid search, paid social, and retargeting are three **buys**. They are not three strategies. This page is the decision of **whether to pay at all, and which job the money is hired to do**: create memory in the category, or capture demand that already exists.

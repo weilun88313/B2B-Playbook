@@ -3,8 +3,6 @@ title: "Measurement card"
 sidebarTitle: "Measurement Model"
 ---
 
-# Measurement card
-
 B2B Playbook working file. Read [measurement model](../playbooks/09-operations-pipeline-and-measurement/measurement-model.md) first.
 
 Two scoreboards. Do not average software and HDYHAU into one ROAS.

@@ -3,8 +3,6 @@ title: "Sales-leadership ramp"
 sidebarTitle: "Sales Leadership Ramp"
 ---
 
-# Sales-leadership ramp
-
 **Last reviewed:** 2026-08-29
 
 A new VP of Sales with a 40-slide “vision” in week one has not started. They have performed. The job of the first 90 days is **observe and learn → find and land quick wins → set the course**. Skip to hiring AEs because a template said “day 90: hire” and you will staff a process you have not seen.

@@ -3,8 +3,6 @@ title: "Nurture-state card"
 sidebarTitle: "Lead Nurture"
 ---
 
-# Nurture-state card
-
 B2B Playbook working file. Read [lead nurture](../playbooks/08-lifecycle-and-customer-marketing/lead-nurture.md) first.
 
 One state per card. Hand-raisers do not enter. Delete teaching notes.

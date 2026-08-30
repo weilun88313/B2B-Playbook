@@ -3,8 +3,6 @@ title: "Revenue churn"
 sidebarTitle: "Revenue Churn"
 ---
 
-# Revenue churn
-
 **Last reviewed:** 2026-08-30
 
 Logo count going down is one story. **Revenue** leaving the book is another. [Customer success](customer-success.md) runs the book. [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) already refuses to let new logo hide a leak. This page is the shared language: **gross** vs **net** revenue churn—so Finance and CS cannot “win” by picking the prettier fraction.

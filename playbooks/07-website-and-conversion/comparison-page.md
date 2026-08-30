@@ -3,8 +3,6 @@ title: "Comparison page"
 sidebarTitle: "Comparison Page"
 ---
 
-# Comparison page
-
 **Last reviewed:** 2026-08-30
 
 A comparison page that always crowns you is a brochure with a table. [Positioning](../02-product-marketing/positioning.md) already owns the outline. [Content strategy](../03-brand-story-and-content/content-strategy.md) decides **whether** the page exists and **which** alternative it covers. This page owns the **public URL**: how to write it so a champion can forward it into an evaluation thread without being embarrassed.

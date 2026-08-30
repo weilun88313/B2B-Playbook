@@ -3,8 +3,6 @@ title: "LinkedIn outbound card"
 sidebarTitle: "Linkedin Outbound"
 ---
 
-# LinkedIn outbound card
-
 B2B Playbook working file. Read [LinkedIn outbound](../playbooks/05-outbound-and-prospecting/linkedin-outbound.md) first.
 
 Artifact first. No pitch in the connection request.

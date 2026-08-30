@@ -3,8 +3,6 @@ title: "AI workflow"
 sidebarTitle: "AI Workflow"
 ---
 
-# AI workflow
-
 **Last reviewed:** 2026-08-30
 
 A prompt is not a workflow. A custom GPT with a persona is not an operating system. [AI use-case selection](ai-use-case-selection.md) names the problem worth the load. [ai-teammate-brief.md](../../templates/ai-teammate-brief.md) is the **instruction skeleton** once the job exists. This page is the architecture **before you build**: the artifact, the stages, the gates, and how the thing fails.

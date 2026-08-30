@@ -3,8 +3,6 @@ title: "ABM strategy"
 sidebarTitle: "ABM Strategy"
 ---
 
-# ABM strategy
-
 **Last reviewed:** 2026-08-30
 
 A CRM view labeled “ABM” and a paid orchestration seat are not a program. [Account planning](account-planning.md) is the living file for **one** named account. This page is the **system**: which accounts get coordinated investment, at what tier, with what resources—and what we refuse to call ABM.

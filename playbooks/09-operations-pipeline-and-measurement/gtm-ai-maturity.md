@@ -3,8 +3,6 @@ title: "GTM AI maturity"
 sidebarTitle: "GTM AI Maturity"
 ---
 
-# GTM AI maturity
-
 **Last reviewed:** 2026-08-30
 
 A ChatGPT seat on every laptop is not a go-to-market operating system. It is assisted typing. A team that automates a channel that does not already work is just shipping slop faster. [MarTech governance](martech-governance.md) decides which tool may do a job. This page decides **where the motion actually sits on a ladder**, so you climb one rung on a working channel instead of buying a “GTM engine” costume.

@@ -3,8 +3,6 @@ title: "Working files"
 sidebarTitle: "Catalog"
 ---
 
-# Working files
-
 **Last reviewed:** 2026-08-30
 
 **Current coverage:** 48 working files
