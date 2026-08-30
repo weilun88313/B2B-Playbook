@@ -1,6 +1,6 @@
 # Product-market fit
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 There is no guaranteed recipe for product-market fit. Anyone selling you one is selling anxiety relief.
 
@@ -82,6 +82,14 @@ You stop explaining molasses. Cold inbound shows up from people you have never m
 YC’s blunt version: explosive use, or users who spontaneously tell others. If you are not getting that, either you are not building what they want or there are not many of them.
 
 Pull can arrive before you *feel* it. Several founders said a friend or a later year of hindsight saw PMF earlier than they did. Do not wait for a cinematic moment to start acting like you have something.
+
+### Another naming: levels, not a switch
+
+If the team is arguing “do we have it,” First Round’s public Levels frame is a useful second vocabulary—not a replacement for the ladder above. **Nascent** is three to five customers with an urgent problem and almost no repeatability. **Developing** is still a hunt for the next logo. **Strong** and **extreme** are when finding and serving the *marginal* customer gets easier, and when **satisfaction, demand, and efficiency** can all be pointed at. Efficiency is the dimension most “we have PMF” slides skip: lines out the door at a price that cannot pay for itself is a stand, not a company.
+
+When you are stuck, change one of four levers: **persona, problem, promise, product**. Promise (how you talk about the benefit) is the one teams skip. That work then lives in [positioning](../02-product-marketing/positioning.md). Whether the channel and the price still belong to the same company is [four fits](four-fits.md).
+
+Do not import Looker’s board numbers, or a two-to-six-year venture clock, as your OKR.
 
 ### Step 5: growth that does not need a special week
 
@@ -172,13 +180,15 @@ Do not count GitHub stars, waitlist size, or “the vision is working” as a ru
 
 ## What to read next
 
-You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You still need a way to reach them: [first ten customers](first-ten-customers.md). You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). After they pay, first value is [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) and the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
+You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You still need a way to reach them: [first ten customers](first-ten-customers.md). You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). After they pay, first value is [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) and the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). Whether market, product, channel, and model still agree is [four fits](four-fits.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
 
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. It will not find PMF for you.
 
 The ladder, the pacing table, the warning that PMF is per segment and never “done,” the one-company obsession, message vs product vs buyer fit, the 3–10 customer band, push-to-pull signs, and the stuck questions draw on Lenny Rachitsky’s founder interviews ([Lenny’s Newsletter, 2023-09-12](https://www.lennysnewsletter.com/p/finding-product-market-fit?ref=b2b-playbook)). That is a survivor sample of companies that later looked obvious. Named episodes in the source (Figma and Coda, Gong’s design partners, Vanta’s first paid work, Databricks’ later revenue confidence, and others) are the author’s illustrations, not audited case studies here. Retention remains necessary even though it was not the story they told.
+
+The levels (nascent → extreme), the three dimensions (satisfaction, demand, efficiency), the “how hard is the next marginal customer” test, and the persona / problem / promise / product levers draw on First Round’s open-sourced session ([Levels of PMF, 2024-04-08](https://www.firstround.com/levels?ref=b2b-playbook)). That essay is a **method prompt**, not a source to copy. Looker board figures, composite cases, and the PMF Method retreat stay with that author. They are not this library’s benchmarks.
 
 ---
 

@@ -1,6 +1,6 @@
 # Content strategy
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 A team can publish twice a week and still have nothing a champion can forward. Analytics look like growth. Sales still pastes the homepage into the evaluation thread and hopes. The champion still cannot answer “why not keep the spreadsheet” without booking another call.
 
@@ -54,7 +54,13 @@ A full editorial calendar that leaves rows 1–3 empty is a content performance,
 
 Brand narrative, founder story, and thought leadership still matter. They are later rows unless a live deal is already blocked on a missing evaluation page.
 
-### Step 3: one page, one question
+### Step 3: write the brief before the asset
+
+Anything longer than a social one-liner gets a **GACC** on [campaign-brief.md](../../templates/campaign-brief.md): **Goal** (a perception or an OKR), **Audience** (the seat), **Creative / unique take** (still useful if the product name is removed), **Channels** (who actually distributes it). If it does not ladder to a perception or a goal, it is busywork. If it does not add a fact the reader lacked, it is a duplicate.
+
+Do not start production to “fill the calendar,” then reverse-engineer a brief.
+
+### Step 4: one page, one question
 
 Complete one topic brief per page. The page may have only:
 
@@ -66,13 +72,13 @@ Complete one topic brief per page. The page may have only:
 
 Comparison structure stays in the [positioning comparison-page outline](../02-product-marketing/positioning.md#comparison-page-outline) until the website playbook for comparison pages is published. This playbook decides whether that page exists and which alternative it covers.
 
-### Step 4: name the working artifact
+### Step 5: name the working artifact
 
 Before writing, answer: will sales drop this URL into an evaluation thread? If not, the page is brand or education. That can be valid, but it is not demand generation and should not occupy the first four rows.
 
 A comparison page must let a champion discuss the conditions under which each option wins—including “keep doing nothing.” A feature grid that always crowns you is a brochure.
 
-### Step 5: refuse unfinished pages
+### Step 6: refuse unfinished pages
 
 Run the pre-flight checklist. A page that fails it is a draft, not a published asset. Publishing a thin comparison to “look complete” trains sales to stop sending it.
 
@@ -116,6 +122,7 @@ Keep the live map to eight rows or fewer. The filled example is in [How a finish
 
 ## Pre-flight checklist
 
+- [ ] A GACC exists: goal, audience, unique take, channels—or we wrote why this asset is exempt.
 - [ ] The primary question is a buyer question, not a product introduction.
 - [ ] The primary seat is named. “All B2B” is not a seat.
 - [ ] The alternative or comparison object already appears in sales conversations.
@@ -153,7 +160,7 @@ The pages only work if the story on them matches the first meeting: keep [positi
 
 This is an owner-maintained operating synthesis. It does not claim a universal content ROI model. Proof on any live page must stay inside dated, checkable product, customer, security, and performance evidence. Fictional companies and anonymous “case studies” are not evidence.
 
-The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
+The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The GACC brief (goal, audience, creative/unique take, channels) and the “ladders to a perception or OKR / add-value test” gate draw on Emily Kramer’s public GACC essay ([MKT1, 2021-07-27](https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best?ref=b2b-playbook)). The paid template pack behind that paywall is not reproduced here. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
 
 ---
 

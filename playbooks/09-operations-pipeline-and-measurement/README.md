@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?
 
-**Status:** Domain guide published · 14 tactic playbooks published
+**Status:** Domain guide published · 15 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -37,6 +37,7 @@ Quota-carrying pay, **when** that pay is safe, the **forecast**, and the **weekl
 19. Where does each GTM motion sit on the AI ladder, and which rung do we climb next?
 20. Which company problem deserves an AI bet this quarter—not which tool?
 21. What artifact, gate, and collapse must exist before we build a workflow?
+22. How do the sales–finance and product–marketing calendars snap together without a launch on the close?
 
 ## Playbook map
 
@@ -50,6 +51,7 @@ Quota-carrying pay, **when** that pay is safe, the **forecast**, and the **weekl
 | CRM data model | Published: [`crm-data-model.md`](crm-data-model.md) | Which objects and fields are the commercial record, and what will we refuse to migrate? |
 | MarTech governance | Published: [`martech-governance.md`](martech-governance.md) | Which job may a tool do, and when do we remove it? |
 | Sales operating cadence | Published: [`sales-operating-cadence.md`](sales-operating-cadence.md) | How should weekly meetings split pipeline, forecast, and coaching? |
+| Company cadence | Published: [`company-cadence.md`](company-cadence.md) | How do the sales–finance and product–marketing calendars snap together? |
 | Incentive timing | Published: [`incentive-timing.md`](incentive-timing.md) | When is commission safe, and how do we reverse or advance it without improvising? |
 | RevOps compensation | Published: [`revops-compensation.md`](revops-compensation.md) | How should RevOps be paid without a second sales quota? |
 | Experimentation | Published: [`experimentation.md`](experimentation.md) | Which test can produce a credible learning or causal estimate? |
@@ -77,7 +79,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Build decision-oriented dashboards and explicit attribution boundaries.
 5. Add experimentation, budget, MarTech, privacy, and data-quality governance.
 
-When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. [Incentive timing](incentive-timing.md) is when that pay is safe. Forecasting is whether the path to that number is real. The calendar that keeps pipe-gen, the call, and coaching from sharing one hour is [sales operating cadence](sales-operating-cadence.md). Whether next year’s number is even possible is [GTM planning](gtm-planning.md). Assumptions inside that plan that have not been tested belong in [experimentation](experimentation.md). A new sales leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Ops leaders are not a second AE quota: [RevOps compensation](revops-compensation.md). Inbound volume that needs a routing hypothesis uses [lead scoring](lead-scoring.md). The commercial record is [CRM data model](crm-data-model.md). Tools that write into it need [MarTech governance](martech-governance.md). Whether the team is actually climbing an AI ladder—or collecting seats—is [GTM AI maturity](gtm-ai-maturity.md). Which problem deserves a bet is [AI use-case selection](ai-use-case-selection.md). How that bet is staged is [AI workflow](ai-workflow.md).
+When the go-to-market motion includes quota-carrying sellers, run [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) as **parallel paths**—after the role exists and a credit event can be named—not as step one of marketing ops. Compensation is how people get paid. [Incentive timing](incentive-timing.md) is when that pay is safe. Forecasting is whether the path to that number is real. The calendar that keeps pipe-gen, the call, and coaching from sharing one hour is [sales operating cadence](sales-operating-cadence.md). The quarterly superstructure that keeps launch off the close is [company cadence](company-cadence.md). Whether next year’s number is even possible is [GTM planning](gtm-planning.md). Assumptions inside that plan that have not been tested belong in [experimentation](experimentation.md). A new sales leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Ops leaders are not a second AE quota: [RevOps compensation](revops-compensation.md). Inbound volume that needs a routing hypothesis uses [lead scoring](lead-scoring.md). The commercial record is [CRM data model](crm-data-model.md). Tools that write into it need [MarTech governance](martech-governance.md). Whether the team is actually climbing an AI ladder—or collecting seats—is [GTM AI maturity](gtm-ai-maturity.md). Which problem deserves a bet is [AI use-case selection](ai-use-case-selection.md). How that bet is staged is [AI workflow](ai-workflow.md).
 
 ## Interfaces with other domains
 

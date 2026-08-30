@@ -121,7 +121,7 @@ Do not count model tabs, or a 2023 sample that “looks like SaaS,” as a plan.
 
 ## What to read next
 
-Calling the quarter is [forecasting](forecasting.md). Paying the people is [sales compensation](sales-compensation.md). Assumptions in the plan that have not been tested belong in [experimentation](experimentation.md). A new sales leader should find this file in [sales-leadership ramp](sales-leadership-ramp.md). Creating the top of the demand sheet is [channel strategy](../04-channels-and-distribution/channel-strategy.md) plus the motion you named. Scoring who is worth a human is [lead scoring](lead-scoring.md). Whether new logo is covering a leak is [revenue churn](../08-lifecycle-and-customer-marketing/revenue-churn.md).
+When the year is possible but the quarter is chaos, snap the calendars: [company cadence](company-cadence.md). Calling the quarter is [forecasting](forecasting.md). Paying the people is [sales compensation](sales-compensation.md). Assumptions in the plan that have not been tested belong in [experimentation](experimentation.md). A new sales leader should find this file in [sales-leadership ramp](sales-leadership-ramp.md). Creating the top of the demand sheet is [channel strategy](../04-channels-and-distribution/channel-strategy.md) plus the motion you named. Scoring who is worth a human is [lead scoring](lead-scoring.md). Whether new logo is covering a leak is [revenue churn](../08-lifecycle-and-customer-marketing/revenue-churn.md).
 
 ## Sources and evidence boundary
 

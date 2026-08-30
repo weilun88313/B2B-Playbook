@@ -2,9 +2,9 @@
 
 > **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
 
-**Status:** Domain guide published · 6 tactic playbooks published
+**Status:** Domain guide published · 7 tactic playbooks published
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-30
 
 ## Scope
 
@@ -25,6 +25,7 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 9. What evidence would disqualify the current market or buyer hypothesis?
 10. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
 11. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
+12. Do market, product, channel, and model describe the same company—or four slides that refuse each other?
 
 ## Playbook map
 
@@ -36,6 +37,7 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 | [Buying committee](buying-committee.md) | Published | Who participates in the decision, and what does each role need? |
 | [First ten customers](first-ten-customers.md) | Published | How do you find and win the first ~10 companies that match the ICP? |
 | [Product-market fit](product-market-fit.md) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
+| [Four Fits](four-fits.md) | Published | Do market, product, channel, and model still describe the same company? |
 | Market research | Planned: `market-research.md` | What is true about the market beyond internal opinion? |
 | Segmentation | Planned: `segmentation.md` | Which groups differ enough to require a distinct strategy? |
 | Buyer journey | Planned: `buyer-journey.md` | How does a buying situation move from trigger to decision and adoption? |
@@ -53,8 +55,9 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Map the buying committee for the accounts that pass those filters.
 5. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
 6. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
-7. Add jobs, triggers, category entry points, and competitive alternatives.
-8. Feed the resulting evidence into positioning and channel selection.
+7. Check that market, product, channel, and model still agree: [four fits](four-fits.md).
+8. Add jobs, triggers, category entry points, and competitive alternatives.
+9. Feed the resulting evidence into positioning and channel selection.
 
 ## Interfaces with other domains
 

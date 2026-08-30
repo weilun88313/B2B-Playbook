@@ -2,7 +2,7 @@
 
 > **Decision owned:** How should the team create relevant conversations with accounts that have not raised a hand?
 
-**Status:** Domain guide published · 6 tactic playbooks published
+**Status:** Domain guide published · 7 tactic playbooks published
 
 **Last reviewed:** 2026-08-30
 
@@ -24,6 +24,7 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 8. How will a new SDR/BDR learn the written job, the number, the CRM law, and the last mile without inventing a private version?
 9. How do we know a phone (or route) is real, theirs, and worth a dial?
 10. When does a dated change earn a different sentence this week—and which temperature of outreach does it buy?
+11. Has this offer and sentence already produced a qualified conversation by hand—before we automate?
 
 ## Playbook map
 
@@ -31,6 +32,7 @@ It owns account and contact research for prospecting, cold email, cold calling, 
 |---|---|---|
 | [Account research](account-research.md) | Published | What evidence is strong enough to justify outreach to this account? |
 | [Buying signals](buying-signals.md) | Published | When does a dated change earn a different sentence this week? |
+| [Message-market fit](message-market-fit.md) | Published | Has this offer and sentence already worked by hand—before we automate? |
 | [Cold email](cold-email.md) | Published | How should a concise, relevant first-touch email be constructed and tested? |
 | [Multichannel sequence](multichannel-sequence.md) | Published | How should several touches work together without becoming repetitive noise? |
 | [SDR onboarding](sdr-onboarding.md) | Published | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
@@ -48,11 +50,12 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 1. Establish ICP, account-research, and contact-research standards.
 2. Decide which dated changes may change the week: [buying signals](buying-signals.md).
-3. Define deliverability, data, consent, and suppression guardrails.
-4. Build channel-specific cold email, cold call, and LinkedIn methods.
-5. Combine them into evidence-aware sequences.
-6. Standardize reply handling, qualification feedback, and SDR handoff.
-7. When the motion needs hired SDRs, run [SDR onboarding](sdr-onboarding.md) so the written job exists before day one.
+3. Prove the offer and sentence on a handmade batch: [message-market fit](message-market-fit.md).
+4. Define deliverability, data, consent, and suppression guardrails.
+5. Build channel-specific cold email, cold call, and LinkedIn methods.
+6. Combine them into evidence-aware sequences.
+7. Standardize reply handling, qualification feedback, and SDR handoff.
+8. When the motion needs hired SDRs, run [SDR onboarding](sdr-onboarding.md) so the written job exists before day one.
 
 ## Interfaces with other domains
 

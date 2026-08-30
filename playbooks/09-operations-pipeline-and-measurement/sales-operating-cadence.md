@@ -135,7 +135,7 @@ Do not count meetings held, or a decorated 13-week poster, as an operating syste
 
 ## What to read next
 
-The call itself is still [forecasting](forecasting.md). Pay and credit stay in [sales compensation](sales-compensation.md). Whether next year is possible is [GTM planning](gtm-planning.md). A new leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Creating the pipeline you inspect is [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [outbound](../05-outbound-and-prospecting/).
+The quarterly company clock—launch offset from close—is [company cadence](company-cadence.md). The call itself is still [forecasting](forecasting.md). Pay and credit stay in [sales compensation](sales-compensation.md). Whether next year is possible is [GTM planning](gtm-planning.md). A new leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Creating the pipeline you inspect is [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [outbound](../05-outbound-and-prospecting/).
 
 ## Sources and evidence boundary
 
