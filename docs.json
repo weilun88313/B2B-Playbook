@@ -1,0 +1,234 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "B2B Playbook",
+  "description": "A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.",
+  "colors": {
+    "primary": "#0F766E",
+    "light": "#14B8A6",
+    "dark": "#134E4A"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/weilun88313/B2B-Playbook"
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/weilun88313/B2B-Playbook"
+    }
+  },
+  "contextual": {
+    "options": ["copy", "view", "chatgpt", "claude"]
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Playbooks",
+        "icon": "book-open",
+        "groups": [
+          {
+            "group": "Start here",
+            "icon": "house",
+            "pages": ["index", "playbooks/README", "README.zh", "SKILL"]
+          },
+          {
+            "group": "01 · Strategy & buyers",
+            "icon": "bullseye",
+            "root": "playbooks/01-strategy-and-buyers/README",
+            "pages": [
+              "playbooks/01-strategy-and-buyers/idea-discovery",
+              "playbooks/01-strategy-and-buyers/idea-validation",
+              "playbooks/01-strategy-and-buyers/icp",
+              "playbooks/01-strategy-and-buyers/buying-committee",
+              "playbooks/01-strategy-and-buyers/first-ten-customers",
+              "playbooks/01-strategy-and-buyers/product-market-fit",
+              "playbooks/01-strategy-and-buyers/four-fits"
+            ]
+          },
+          {
+            "group": "02 · Product marketing",
+            "icon": "message",
+            "root": "playbooks/02-product-marketing/README",
+            "pages": [
+              "playbooks/02-product-marketing/positioning",
+              "playbooks/02-product-marketing/sales-enablement",
+              "playbooks/02-product-marketing/pricing-and-packaging",
+              "playbooks/02-product-marketing/demo",
+              "playbooks/02-product-marketing/change-friction"
+            ]
+          },
+          {
+            "group": "03 · Brand, story & content",
+            "icon": "pen-nib",
+            "root": "playbooks/03-brand-story-and-content/README",
+            "pages": [
+              "playbooks/03-brand-story-and-content/content-strategy",
+              "playbooks/03-brand-story-and-content/case-study",
+              "playbooks/03-brand-story-and-content/white-paper"
+            ]
+          },
+          {
+            "group": "04 · Channels & distribution",
+            "icon": "tower-broadcast",
+            "root": "playbooks/04-channels-and-distribution/README",
+            "pages": [
+              "playbooks/04-channels-and-distribution/channel-strategy",
+              "playbooks/04-channels-and-distribution/seo-and-aeo",
+              "playbooks/04-channels-and-distribution/community",
+              "playbooks/04-channels-and-distribution/creator-partnership",
+              "playbooks/04-channels-and-distribution/product-hunt",
+              "playbooks/04-channels-and-distribution/content-syndication",
+              "playbooks/04-channels-and-distribution/linkedin-organic",
+              "playbooks/04-channels-and-distribution/paid-media",
+              "playbooks/04-channels-and-distribution/review-sites"
+            ]
+          },
+          {
+            "group": "05 · Outbound & prospecting",
+            "icon": "paper-plane",
+            "root": "playbooks/05-outbound-and-prospecting/README",
+            "pages": [
+              "playbooks/05-outbound-and-prospecting/account-research",
+              "playbooks/05-outbound-and-prospecting/buying-signals",
+              "playbooks/05-outbound-and-prospecting/message-market-fit",
+              "playbooks/05-outbound-and-prospecting/cold-email",
+              "playbooks/05-outbound-and-prospecting/multichannel-sequence",
+              "playbooks/05-outbound-and-prospecting/sdr-onboarding",
+              "playbooks/05-outbound-and-prospecting/contact-data",
+              "playbooks/05-outbound-and-prospecting/cold-call",
+              "playbooks/05-outbound-and-prospecting/linkedin-outbound"
+            ]
+          },
+          {
+            "group": "06 · Account, field & partner",
+            "icon": "handshake",
+            "root": "playbooks/06-account-field-and-partner/README",
+            "pages": [
+              "playbooks/06-account-field-and-partner/event-marketing",
+              "playbooks/06-account-field-and-partner/trade-shows",
+              "playbooks/06-account-field-and-partner/executive-dinners",
+              "playbooks/06-account-field-and-partner/ecosystem",
+              "playbooks/06-account-field-and-partner/account-planning",
+              "playbooks/06-account-field-and-partner/abm-strategy"
+            ]
+          },
+          {
+            "group": "07 · Website & conversion",
+            "icon": "window",
+            "root": "playbooks/07-website-and-conversion/README",
+            "pages": [
+              "playbooks/07-website-and-conversion/homepage",
+              "playbooks/07-website-and-conversion/comparison-page",
+              "playbooks/07-website-and-conversion/pricing-page",
+              "playbooks/07-website-and-conversion/demo-request",
+              "playbooks/07-website-and-conversion/landing-page",
+              "playbooks/07-website-and-conversion/forms-and-chat"
+            ]
+          },
+          {
+            "group": "08 · Lifecycle & customer",
+            "icon": "arrows-spin",
+            "root": "playbooks/08-lifecycle-and-customer-marketing/README",
+            "pages": [
+              "playbooks/08-lifecycle-and-customer-marketing/customer-success",
+              "playbooks/08-lifecycle-and-customer-marketing/customer-onboarding",
+              "playbooks/08-lifecycle-and-customer-marketing/onboarding-communication",
+              "playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp",
+              "playbooks/08-lifecycle-and-customer-marketing/cs-workspace",
+              "playbooks/08-lifecycle-and-customer-marketing/revenue-churn",
+              "playbooks/08-lifecycle-and-customer-marketing/lead-nurture",
+              "playbooks/08-lifecycle-and-customer-marketing/expansion-marketing",
+              "playbooks/08-lifecycle-and-customer-marketing/renewal-marketing"
+            ]
+          },
+          {
+            "group": "09 · Operations, pipeline & measurement",
+            "icon": "chart-line",
+            "root": "playbooks/09-operations-pipeline-and-measurement/README",
+            "pages": [
+              "playbooks/09-operations-pipeline-and-measurement/sales-compensation",
+              "playbooks/09-operations-pipeline-and-measurement/forecasting",
+              "playbooks/09-operations-pipeline-and-measurement/lead-scoring",
+              "playbooks/09-operations-pipeline-and-measurement/gtm-planning",
+              "playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp",
+              "playbooks/09-operations-pipeline-and-measurement/crm-data-model",
+              "playbooks/09-operations-pipeline-and-measurement/martech-governance",
+              "playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence",
+              "playbooks/09-operations-pipeline-and-measurement/company-cadence",
+              "playbooks/09-operations-pipeline-and-measurement/incentive-timing",
+              "playbooks/09-operations-pipeline-and-measurement/revops-compensation",
+              "playbooks/09-operations-pipeline-and-measurement/experimentation",
+              "playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity",
+              "playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection",
+              "playbooks/09-operations-pipeline-and-measurement/ai-workflow",
+              "playbooks/09-operations-pipeline-and-measurement/measurement-model"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Working files",
+        "icon": "table",
+        "groups": [
+          {
+            "group": "Catalog",
+            "pages": ["TEMPLATES", "templates/README"]
+          },
+          {
+            "group": "Briefs and cards",
+            "pages": [
+              "templates/four-fits",
+              "templates/ai-teammate-brief",
+              "templates/campaign-brief",
+              "templates/buying-signals",
+              "templates/message-market-fit",
+              "templates/community",
+              "templates/creator-partnership",
+              "templates/content-syndication",
+              "templates/linkedin-organic",
+              "templates/paid-media",
+              "templates/review-sites",
+              "templates/cold-call",
+              "templates/linkedin-outbound",
+              "templates/executive-dinners",
+              "templates/show-capture",
+              "templates/abm-strategy",
+              "templates/homepage",
+              "templates/comparison-page",
+              "templates/pricing-page",
+              "templates/demo-request",
+              "templates/landing-page",
+              "templates/forms-and-chat",
+              "templates/case-study",
+              "templates/white-paper",
+              "templates/lead-nurture",
+              "templates/onboarding-welcome",
+              "templates/expansion-marketing",
+              "templates/renewal-marketing",
+              "templates/revenue-churn",
+              "templates/cs-leadership-90",
+              "templates/sales-leadership-90",
+              "templates/company-cadence",
+              "templates/measurement-model",
+              "templates/ai-workflow"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tools",
+        "icon": "wrench",
+        "pages": ["TOOLS"]
+      },
+      {
+        "tab": "Sources",
+        "icon": "newspaper",
+        "pages": ["RESOURCES"]
+      }
+    ]
+  }
+}
