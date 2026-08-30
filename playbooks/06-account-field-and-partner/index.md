@@ -1,5 +1,6 @@
 ---
 title: "06 · Account, field & partner"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** How should marketing and sales coordinate around high-value accounts, physical access, and ecosystem leverage?

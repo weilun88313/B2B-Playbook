@@ -1,5 +1,6 @@
 ---
 title: "04 · Channels & distribution"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** Where and how should the market repeatedly encounter the company's ideas and offers?

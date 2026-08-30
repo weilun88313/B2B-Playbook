@@ -1,5 +1,6 @@
 ---
 title: "09 · Operations, pipeline & measurement"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** How should data, process, technology, and measurement make the marketing system repeatable?

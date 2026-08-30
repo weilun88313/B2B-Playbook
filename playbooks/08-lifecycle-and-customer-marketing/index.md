@@ -1,5 +1,6 @@
 ---
 title: "08 · Lifecycle & customer"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** How should the company educate, retain, expand, and mobilize customers after initial interest or purchase?

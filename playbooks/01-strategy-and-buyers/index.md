@@ -1,5 +1,6 @@
 ---
 title: "01 · Strategy & buyers"
+sidebarTitle: "Overview"
 ---
 
 > **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
