@@ -29,20 +29,20 @@ An AI-native claim should be supported by observable product behavior: access to
 
 ## Start with the job
 
-A job→logo table is a **method prompt**, not a stack to paste. Test coverage on **your** ICP sample. Compare mobiles on the **same** sample. Split the jobs that vendors sell as one suite.
+Use this table to jump to a category. It is a method prompt, not a stack to copy. Test coverage on your ICP sample. Compare mobiles on the same sample. Split the jobs that vendors sell as one suite.
 
-| Job | Start in this directory | Do not confuse with |
+| Job | Open this category | Do not confuse with |
 |---|---|---|
-| Contact and company data | [03](#03--contact-data-enrichment--verification): Clay to orchestrate; Apollo as the bundled database baseline | A coverage slide |
-| Mobile / waterfall | Same category, plus [contact data](playbooks/05-outbound-and-prospecting/contact-data.md) | Picking a brand |
-| Community vs trigger outbound | [02](#02--market-account--buyer-intelligence): Common Room (workspace) vs Unify (plays) | The same product |
-| Social publishing | [05](#05--content-brand--creative): Publer for a small-team calendar | Approvals, listening, and advocacy—those need a suite you are not buying here |
-| AI content production | Capture → rewrite → package. Design the [AI workflow](playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) first | One prompt SKU |
-| Meeting notes vs revenue intelligence | [14](#14--conversation-intelligence--coaching): Fathom vs Gong | Cadence or forecast sold as “one platform” |
-| Event OS vs digital + repurpose | [08](#08--events-webinars--field-marketing): Bizzabo vs Goldcast | The same event tool |
+| Contact and company data | [Contact data, enrichment & verification](#03--contact-data-enrichment--verification): Clay to orchestrate; Apollo as the bundled database baseline | A coverage slide |
+| Mobile / waterfall | Same category, plus the [contact data](playbooks/05-outbound-and-prospecting/contact-data.md) playbook | Picking a brand |
+| Community vs trigger outbound | [Market, account & buyer intelligence](#02--market-account--buyer-intelligence): Common Room (workspace) vs Unify (plays) | The same product |
+| Social publishing | [Content, brand & creative](#05--content-brand--creative): Publer for a small-team calendar | Approvals, listening, and advocacy—those need a suite you are not buying here |
+| AI content production | Capture, rewrite, then package. Design the [AI workflow](playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) first | One prompt SKU |
+| Meeting notes vs revenue intelligence | [Conversation intelligence & coaching](#14--conversation-intelligence--coaching): Fathom vs Gong | Cadence or forecast sold as “one platform” |
+| Event OS vs digital + repurpose | [Events, webinars & field marketing](#08--events-webinars--field-marketing): Bizzabo vs Goldcast | The same event tool |
 | Booth capture | Same category: iCapture | Scanner volume without CRM fields |
 | Exhibitor / sponsor graph | Same category: Lensmor (owner product, disclosed) | A badge list |
-| Dated change → different sentence | [Buying signals](playbooks/05-outbound-and-prospecting/buying-signals.md), then the find-the-fact row above | A 100-trigger skill pack |
+| Dated change, different sentence | [Buying signals](playbooks/05-outbound-and-prospecting/buying-signals.md), then the find-the-fact row above | A 100-trigger skill pack |
 
 ## Tool directory
 
