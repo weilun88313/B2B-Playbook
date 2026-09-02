@@ -63,6 +63,8 @@
             "pages": [
               "playbooks/02-product-marketing/index",
               "playbooks/02-product-marketing/positioning",
+              "playbooks/02-product-marketing/messaging",
+              "playbooks/02-product-marketing/competitive-intelligence",
               "playbooks/02-product-marketing/sales-enablement",
               "playbooks/02-product-marketing/pricing-and-packaging",
               "playbooks/02-product-marketing/demo",
@@ -75,6 +77,7 @@
             "pages": [
               "playbooks/03-brand-story-and-content/index",
               "playbooks/03-brand-story-and-content/content-strategy",
+              "playbooks/03-brand-story-and-content/founder-story",
               "playbooks/03-brand-story-and-content/case-study",
               "playbooks/03-brand-story-and-content/white-paper"
             ]
@@ -192,6 +195,9 @@
               "templates/four-fits",
               "templates/ai-teammate-brief",
               "templates/campaign-brief",
+              "templates/messaging",
+              "templates/competitive-intelligence",
+              "templates/founder-story",
               "templates/marketing-strategy-inputs",
               "templates/buying-signals",
               "templates/message-market-fit",

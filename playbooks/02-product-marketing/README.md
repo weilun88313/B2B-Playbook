@@ -2,9 +2,9 @@
 
 > **Decision owned:** What should the market understand, believe, compare, and buy?
 
-**Status:** Domain guide published · 5 tactic playbooks published
+**Status:** Domain guide published · 7 tactic playbooks published
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 ## Scope
 
@@ -29,9 +29,9 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 | Topic | Status | Operating question |
 |---|---|---|
 | [Positioning](positioning.md) | Published | How should the product be framed against the buyer's alternatives, and what is actually being positioned? |
-| Messaging | Planned: `messaging.md` | How should positioning become a hierarchy of audience-specific messages? |
+| [Messaging](messaging.md) | Published | How should positioning become a hierarchy of audience-specific messages? |
 | Value proposition | Planned: `value-proposition.md` | What valuable outcome is promised, for whom, and why is it credible? |
-| Competitive intelligence | Planned: `competitive-intelligence.md` | What should teams know and do when alternatives enter the decision? |
+| [Competitive intelligence](competitive-intelligence.md) | Published | What should teams know and do when alternatives enter the decision? |
 | [Pricing and packaging](pricing-and-packaging.md) | Published | How should the offer convert differentiated value into a number the champion can defend? |
 | Product launch | Planned: `product-launch.md` | How should a product change become a coordinated market event? |
 | Proof and claims | Planned: `proof-and-claims.md` | Which evidence is strong enough to support each commercial claim? |

@@ -52,14 +52,27 @@ What this ranking forbids this period:
 
 ## Big bets (1–3)
 
-Work that could change the trajectory, not the day-to-day that keeps the lights on.
+Work that could change the trajectory, not the day-to-day that keeps the lights on. Each row needs fuel (perception or offer), engine, and audience.
 
-1.
-2.
-3. (optional)
+| Bet | Fuel | Engine | ICP maturity | Owner | Contingency (product / hire / budget) | Stop rule |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+## KPO goals (~5–8)
+
+Time-bound. Each KPI has an efficiency twin. Non-goals are written.
+
+| Kind (K / P / O) | Goal | Why | Owner | Date |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+
+Non-goals this period:
+
+Stretch (only if hire / budget / product lands):
 
 ## Then, and only then
 
 - Primary motion (from [channel strategy](../playbooks/04-channels-and-distribution/channel-strategy.md)):
-- KPO snapshot (~5–8 lines: the KPIs, the projects, the ops work)—or “not written yet”:
 - Demand and capacity files: [gtm-demand-plan.xlsx](gtm-demand-plan.xlsx) / [gtm-sales-capacity.xlsx](gtm-sales-capacity.xlsx)

@@ -1,6 +1,6 @@
 # B2B marketing playbook index
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 
@@ -25,13 +25,15 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Product-market fit | [Strategy & buyers](01-strategy-and-buyers/) | [Product-market fit](01-strategy-and-buyers/product-market-fit.md) |
 | Four Fits / channel vs model | [Strategy & buyers](01-strategy-and-buyers/) | [Four Fits](01-strategy-and-buyers/four-fits.md) |
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
+| Messaging / message hierarchy | [Product marketing](02-product-marketing/) | [Messaging](02-product-marketing/messaging.md) |
+| Competitive intel / battlecard | [Product marketing](02-product-marketing/) | [Competitive intelligence](02-product-marketing/competitive-intelligence.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
 | Demo / product walk | [Product marketing](02-product-marketing/) | [Demo](02-product-marketing/demo.md) |
 | Crowded category / friction of the fix | [Product marketing](02-product-marketing/) | [Change friction](02-product-marketing/change-friction.md) |
 | Content strategy | [Brand, story & content](03-brand-story-and-content/) | [Content strategy](03-brand-story-and-content/content-strategy.md) |
 | Case study / customer proof | [Brand, story & content](03-brand-story-and-content/) | [Case study](03-brand-story-and-content/case-study.md) |
-| Founder story | [Brand, story & content](03-brand-story-and-content/) | Planned: `founder-story.md` |
+| Founder story | [Brand, story & content](03-brand-story-and-content/) | [Founder story](03-brand-story-and-content/founder-story.md) |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | [White paper](03-brand-story-and-content/white-paper.md) |
 | Community (owned) | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
 | Peer room / existing community | [Channels & distribution](04-channels-and-distribution/) | [Peer community](04-channels-and-distribution/community.md) |
@@ -116,12 +118,14 @@ Planned: market research, segmentation, buyer journey, jobs to be done, category
 Published:
 
 - [Positioning](02-product-marketing/positioning.md)
+- [Messaging](02-product-marketing/messaging.md)
+- [Competitive intelligence](02-product-marketing/competitive-intelligence.md)
 - [Pricing and packaging](02-product-marketing/pricing-and-packaging.md)
 - [Sales enablement](02-product-marketing/sales-enablement.md)
 - [Demo](02-product-marketing/demo.md)
 - [Change friction](02-product-marketing/change-friction.md)
 
-Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims.
+Planned: value proposition, product launch, proof and claims.
 
 ## 03 · [Brand, story & content](03-brand-story-and-content/)
 
@@ -130,10 +134,11 @@ Planned: messaging, value proposition, competitive intelligence, product launch,
 Published:
 
 - [Content strategy](03-brand-story-and-content/content-strategy.md)
+- [Founder story](03-brand-story-and-content/founder-story.md)
 - [Case study](03-brand-story-and-content/case-study.md)
 - [White paper](03-brand-story-and-content/white-paper.md)
 
-Planned: brand strategy, brand narrative, founder story, thought leadership, newsletter, webinar, podcast, video, community-led growth.
+Planned: brand strategy, brand narrative, thought leadership, newsletter, webinar, podcast, video, community-led growth.
 
 ## 04 · [Channels & distribution](04-channels-and-distribution/)
 

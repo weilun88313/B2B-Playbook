@@ -5,7 +5,7 @@ sidebarTitle: "Catalog"
 
 **Last reviewed:** 2026-09-02
 
-**Current coverage:** 49 working files
+**Current coverage:** 52 working files
 
 These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
 
@@ -40,7 +40,10 @@ Google “Make a copy” URLs are added here only after the owner publishes a vi
 | [Four-fits card](templates/four-fits.md) | Doc | Four sentences: market, product, channel, model | [Four Fits](playbooks/01-strategy-and-buyers/four-fits.md) |
 | [Message-market-fit card](templates/message-market-fit.md) | Doc | One offer, one handmade batch, scale gate | [Message-market fit](playbooks/05-outbound-and-prospecting/message-market-fit.md) |
 | [Campaign brief (GACCS)](templates/campaign-brief.md) | Doc | Goal, audience, unique take, channels, stakeholders before production | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) |
-| [Marketing strategy inputs](templates/marketing-strategy-inputs.md) | Doc | Ranked ICPs, advantages, perceptions, four levers, big bets—before the demand sheet | [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) |
+| [Messaging hierarchy](templates/messaging.md) | Doc | Core four lines, three value lines, surface rows | [Messaging](playbooks/02-product-marketing/messaging.md) |
+| [Alternative card](templates/competitive-intelligence.md) | Doc | Live short list; where they win; blank over guess | [Competitive intelligence](playbooks/02-product-marketing/competitive-intelligence.md) |
+| [Founder-story card](templates/founder-story.md) | Doc | One perception, one scene, advantage check | [Founder story](playbooks/03-brand-story-and-content/founder-story.md) |
+| [Marketing strategy inputs](templates/marketing-strategy-inputs.md) | Doc | Ranked ICPs, advantages, perceptions, four levers, big bets, KPO—before the demand sheet | [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) |
 | [Company-cadence card](templates/company-cadence.md) | Doc | Fiscal close, rock, lightning strike, offset | [Company cadence](playbooks/09-operations-pipeline-and-measurement/company-cadence.md) |
 | [Case-study brief](templates/case-study.md) | Doc | Named customer, dated result, friction, approval | [Case study](playbooks/03-brand-story-and-content/case-study.md) |
 | [Landing-page brief](templates/landing-page.md) | Doc | One promise, one door, kill date | [Landing page](playbooks/07-website-and-conversion/landing-page.md) |

@@ -5,9 +5,9 @@ sidebarTitle: "Overview"
 
 > **Decision owned:** How should future buyers remember, trust, and learn from the company before they are in market?
 
-**Status:** Domain guide published · 3 tactic playbooks published
+**Status:** Domain guide published · 4 tactic playbooks published
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 ## Scope
 
@@ -31,7 +31,7 @@ It owns brand narrative, founder story, thought leadership, editorial strategy, 
 |---|---|---|
 | Brand strategy | Planned: `brand-strategy.md` | Which associations and memories should the company build over time? |
 | Brand narrative | Planned: `brand-narrative.md` | What durable story connects the market change, buyer problem, and company point of view? |
-| Founder story | Planned: `founder-story.md` | Which lived experience makes the founder's point of view relevant and credible? |
+| [Founder story](/playbooks/03-brand-story-and-content/founder-story) | Published | Which lived experience makes the founder's point of view relevant and credible? |
 | Thought leadership | Planned: `thought-leadership.md` | What original, defensible idea can help the market think differently? |
 | Content strategy | [Published](/playbooks/03-brand-story-and-content/content-strategy) | Which audience questions deserve a durable page, and in what order? |
 | [Case study](/playbooks/03-brand-story-and-content/case-study) | Published | How should a named customer's context, action, and result become forwardable proof? |
