@@ -2,7 +2,7 @@
 title: "Positioning"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-09-02
 
 Positioning is the shortest credible explanation of why a specific buyer should change from the current alternative.
 
@@ -106,6 +106,8 @@ A reader who never opens the blog should still identify:
 - the business result;
 - one clear next step;
 - one likely operational constraint, such as security, data, deployment, integration, or implementation effort.
+
+Then complete the same hero in four lines that must not contradict the scan: **who it is for**, **what it is** (product type), **why it is better** than the named alternative, and **the door**. The live URL that must pass both passes is the [homepage](../07-website-and-conversion/homepage.md).
 
 
 
@@ -274,6 +276,8 @@ The first meeting should use this story, not a tour: [sales enablement](sales-en
 This is an owner-maintained operating synthesis. Positioning claims must remain inside the available product, customer, security, and performance evidence.
 
 The competitor-alignment, so-what ladder, value-versus-objection split, and “position the way you sell” checks draw on April Dunford’s advanced B2B positioning guidance ([Lenny’s Newsletter, 2026-03-10](https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning?ref=b2b-playbook)). Status-quo loss rates and committee sizes in that source are consulting observations, not this repository’s metrics. Indecision as a cause of “no decision” is discussed in Matt Dixon’s JOLT Effect research; use it as a named hypothesis, not as your win/loss file.
+
+The homepage four-liner (who / what / why-better / product type) is complementary to Dunford’s 10-second scan and draws on Emily Kramer ([MKT1, 2022-11-28](https://newsletter.mkt1.co/p/homepage-copy?ref=b2b-playbook)). It does not replace the scan. Paid messaging templates are not reproduced here.
 
 ---
 

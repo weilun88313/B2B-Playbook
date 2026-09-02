@@ -2,9 +2,9 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 70 published playbooks · 48 working files · 43 curated tools · 19 reading sources · 9 domain guides
+**Current coverage:** 70 published playbooks · 49 working files · 43 curated tools · 20 reading sources · 9 domain guides
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 **Read the library:** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.site)
 
@@ -48,7 +48,7 @@ After positioning, the site scan starts at the [homepage](playbooks/07-website-a
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a capability, channel, or tactic | [Master index](playbooks/) |
-| **Working files** | Open a sheet, scorecard, or 90-day outline | [48 working files](TEMPLATES.md) |
+| **Working files** | Open a sheet, scorecard, or 90-day outline | [49 working files](TEMPLATES.md) |
 | **Tools** | Pick software for a defined job | [43-tool directory](TOOLS.md) |
 | **Reading sources** | Follow operators without treating a feed as strategy | [19-source directory](RESOURCES.md) |
 | **Agent Skill** | Route a task through the right method | [Install](#agent-skill) |

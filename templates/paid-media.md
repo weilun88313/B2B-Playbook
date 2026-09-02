@@ -17,6 +17,12 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 - Seat and category:
 - Why this is not covering for an unnamed primary motion:
 
+## Audience
+
+- CRM tier this buy is for (T1 / T2 / other):
+- What we suppress (customers / opps / closed-lost / competitors / other):
+- Conversion path (API / pixel only—and why):
+
 ## Buy
 
 - Channel hired, and why:

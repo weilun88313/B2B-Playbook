@@ -3,7 +3,7 @@ title: "Playbook index"
 sidebarTitle: "Index"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 

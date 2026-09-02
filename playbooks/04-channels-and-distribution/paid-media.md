@@ -3,7 +3,7 @@ title: "Paid media"
 sidebarTitle: "Paid Media"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 Paid search, paid social, and retargeting are three **buys**. They are not three strategies. This page is the decision of **whether to pay at all, and which job the money is hired to do**: create memory in the category, or capture demand that already exists.
 
@@ -46,7 +46,23 @@ Platform-specific execution (Google exact-match hygiene, LinkedIn conversation a
 
 Write: *this money exists to [create memory in &#123;category&#125; / capture &#123;query or high-intent URL&#125;] for [seat], and we will read [scoreboard].* If the sentence contains both jobs, split the budget. One campaign object cannot optimize for both.
 
-### Step 2: default the split toward the 95—once you can afford a second buy
+### Step 2: audience-first table stakes before you scale spend
+
+Do not start with “which network.” Start with the same ranked TAM you already use in [ICP](../01-strategy-and-buyers/icp.md) and [ABM](../06-account-field-and-partner/abm-strategy.md). Distilled table stakes—not a vendor shopping list:
+
+- TAM is tiered; at least T1 accounts are enriched (company + a usable contact), not a static CSV from last quarter.
+- The CRM holds **account and contact** stages. Ad platforms get audiences from that file, not a one-off upload that never refreshes.
+- Suppression is built in parallel: customers, active opportunities, closed-lost you will not re-hit this quarter, competitors.
+- Conversion APIs (or an equivalent server-side conversion path) exist for the channels you buy. Pixels alone will under-count; last-click will still lie—see [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md).
+- If you are paying at all, the usual two-channel baseline is **Google Search and LinkedIn**. Skip one only with a written reason (match rate too low, motion is not there, legal). Check match rate on T1 before you buy a third network.
+- Capture covers high-intent queries you already win in conversation. Retargeting is high-intent URLs, not the whole blog. Thought-leader boosts of posts that already work organically are the paid half of the [LinkedIn organic](linkedin-organic.md) flywheel—not a separate brand campaign with no sales visibility.
+- Sales can see paid engagement on named accounts if they want it. Paid copy and keywords that work feed [SEO and AEO](seo-and-aeo.md) and the site; they do not stay in the ad account.
+
+Privacy and consent are a legal job. Hash identifiers, loop in privacy before you ship a new match file, and do not treat a newsletter as counsel.
+
+If these lines are blank, you are renting someone else’s audience definition. Do not scale spend to “let the algorithm find us.”
+
+### Step 3: default the split toward the 95—once you can afford a second buy
 
 Capture (search, competitor terms, high-intent retargeting of pricing/demo visitors) is legitimate **after** the page can convert. Creation (category reach, video, thought-leadership paid amplification) is how future in-market buyers already know you.
 
@@ -54,7 +70,7 @@ Early companies often have **one** paid job: usually capture on a few queries, o
 
 The Institute’s public warning: most B2B ad money still sits on lead gen, and marketers expect effects inside two weeks. Treat that as a **failure mode**, not a norm to join.
 
-### Step 3: hire the channel for the job
+### Step 4: hire the channel for the job
 
 | Job | Usual buy | Landing |
 |---|---|---|
@@ -64,11 +80,11 @@ The Institute’s public warning: most B2B ad money still sits on lead gen, and 
 
 Retargeting a reader of one essay for months is tax, not nurture. [Lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) is a state machine, not a pixel.
 
-### Step 4: creative is the leverage; the auction is not the strategy
+### Step 5: creative is the leverage; the auction is not the strategy
 
 For creation, the Institute’s CMO frame is **creative** (attention, branding, linkage) and **media** (cumulative reach, evenness, cost per reach)—then business outcomes on a long clock. For capture, the creative is the query’s promise kept on the page. Clever ads that land on a slogan homepage waste the click.
 
-### Step 5: read hybrid, then decide what to cut
+### Step 6: read hybrid, then decide what to cut
 
 Software attribution will over-credit search and under-credit the podcast, the founder, and the community. Pair the ad platform with [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). Cut capture that does not produce qualified conversations. Do not cut creation because last-click is empty.
 
@@ -89,6 +105,7 @@ Sales-assist. Category queries exist. Founder already posts.
 - Job (creation / capture / follow)—one:
 - Seat and category:
 - Why this is not covering for an unnamed primary motion:
+- Audience source (CRM tier + enrichment), and what we suppress:
 - Channel hired, and why that channel:
 - Destination URL (must already pass its own pre-flight):
 - Scoreboard and the window we will not shorten:
@@ -101,6 +118,7 @@ Working file: [paid-media.md](../../templates/paid-media.md).
 
 - [ ] Primary motion is named; ads are not the motion.
 - [ ] Destination pages pass their playbook checklists.
+- [ ] TAM is tiered; T1 is enriched; suppression lists exist; a conversion API (or equivalent) is on for the buy.
 - [ ] One job per campaign object.
 - [ ] Creation and capture have different scoreboards.
 - [ ] Retargeting is limited to high-intent URLs and a short window.
@@ -122,6 +140,7 @@ Do not treat platform ROAS, CTR, or MQLs as the creation scoreboard. CTR can be 
 ## Common mistakes
 
 - Buying LinkedIn because B2B lives there, with a lead-gen form as the only object.
+- Uploading a static list once and never suppressing customers or active opps.
 - Judging memory ads on 14-day pipeline.
 - Retargeting the whole site.
 - Sending paid traffic to a homepage that fails the scan.
@@ -141,6 +160,7 @@ This is an owner-maintained operating synthesis.
 - Hybrid software + self-report: Refine Labs public framework. Their revenue cuts stay theirs.
 - Ehrenberg-Bass / *How Brands Grow* (mental availability, distinctive assets) is the theory underneath 95-5. This page does not require buying the book to run the brief.
 - Platform CPC benchmarks (including Refine Labs paid-awareness tables) change by quarter. They are not method.
+- **Audience-first paid (tiered TAM, enrichment, account + contact stages, audience sync, suppression, conversion APIs, Search + LinkedIn as the usual baseline, high-intent capture, limited retargeting, thought-leader boosts, sales visibility, paid↔organic flywheel).** Distilled from Emily Kramer ([MKT1, 2026-05-22](https://newsletter.mkt1.co/p/ads?ref=b2b-playbook)). That essay is a **method prompt**. Practitioner quotes, platform feature names, vendor products, and “beyond table stakes” checklists in the paid layer are not this library’s shopping list and are not reproduced here. Privacy rules stay with counsel.
 
 Paid search, paid social, and retargeting remain planned as deeper execution pages. This file is the judgment they must not contradict.
 

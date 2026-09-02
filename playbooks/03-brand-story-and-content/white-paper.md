@@ -3,7 +3,7 @@ title: "White paper"
 sidebarTitle: "White Paper"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 A 28-page PDF that restates the homepage and asks for a meeting on page 3 is a brochure with a cover. [Content strategy](content-strategy.md) decides whether a long argument deserves a URL. This page owns **when a sourced, long-form asset is the right shape**—and when you must write the comparison or the [case study](case-study.md) instead.
 
@@ -41,7 +41,7 @@ A white paper is **one claim a champion can defend with citations**. It is not a
 
 Write: *this question cannot be answered on the comparison or category page because ____.* If the because is “we want something that looks serious,” stop. If it is “the champion must take a method to a committee,” continue.
 
-GACC still applies ([campaign-brief](../../templates/campaign-brief.md)): goal (a perception), audience (the seat), unique take (survives without the logo), channels (who actually sends it).
+GACCS still applies ([campaign-brief](../../templates/campaign-brief.md)): goal (a perception), audience (the seat), unique take (survives without the logo), channels (who actually sends it), stakeholders (who approves, who ships).
 
 ### Step 2: outline the argument before the design
 
@@ -125,7 +125,7 @@ The map is [content strategy](content-strategy.md). A named instance of the resu
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. One-claim / sourced / ungated-default follows [content strategy](content-strategy.md) (GACC, decide-then-educate) and Refine Labs–shaped resistance to gated MQL theater. Classic B2B “white paper as lead magnet” galleries are the **anti-pattern**. This page does not reproduce a paid research house’s template.
+This is an owner-maintained operating synthesis. One-claim / sourced / ungated-default follows [content strategy](content-strategy.md) (GACCS, decide-then-educate) and Refine Labs–shaped resistance to gated MQL theater. Classic B2B “white paper as lead magnet” galleries are the **anti-pattern**. This page does not reproduce a paid research house’s template.
 
 ---
 

@@ -28,7 +28,8 @@ Produce a usable artifact or decision, not broad advice.
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | Case study / customer story / proof URL | `playbooks/03-brand-story-and-content/case-study.md` |
 | White paper / sourced long argument / ungated default | `playbooks/03-brand-story-and-content/white-paper.md` |
-| Campaign / content brief (goal, audience, unique take, channels) | `playbooks/03-brand-story-and-content/content-strategy.md` then `templates/campaign-brief.md` |
+| Campaign / content brief (goal, audience, unique take, channels, stakeholders) | `playbooks/03-brand-story-and-content/content-strategy.md` then `templates/campaign-brief.md` |
+| Marketing strategy inputs / ranked ICPs / four levers / big bets | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` then `templates/marketing-strategy-inputs.md` |
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |

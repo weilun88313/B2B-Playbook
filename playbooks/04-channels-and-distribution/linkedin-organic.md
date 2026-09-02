@@ -3,7 +3,7 @@ title: "LinkedIn organic"
 sidebarTitle: "Linkedin Organic"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 A company page that posts four times a week and a founder who pastes the blog into the box are both “on LinkedIn.” Neither is a motion. This page is **how people (and only then the company page) build memory in a professional feed**—so that when a buyer enters the market, your name is already a category entry point.
 
@@ -42,7 +42,7 @@ This is not LinkedIn outbound (that is a prospecting channel). It is not paid so
 
 ### Step 1: name who is allowed to speak, and what they are not selling
 
-Write one operator (often the founder, sometimes a practitioner-seller) and the **perception** they own—same GACC discipline as [content strategy](../03-brand-story-and-content/content-strategy.md). If the post is still useful with the product name removed, it can run. If it is a feature announcement in first person, it is an ad.
+Write one operator (often the founder, sometimes a practitioner-seller) and the **perception** they own—same GACCS discipline as [content strategy](../03-brand-story-and-content/content-strategy.md). If the post is still useful with the product name removed, it can run. If it is a feature announcement in first person, it is an ad.
 
 Do not appoint twelve “employee advocates” before one person has a repeating idea.
 
@@ -93,7 +93,7 @@ Working file: [linkedin-organic.md](../../templates/linkedin-organic.md).
 
 - [ ] Primary motion is named on [channel strategy](channel-strategy.md).
 - [ ] One human owns the voice; the company page is not the founder.
-- [ ] GACC brief exists for anything longer than a one-liner.
+- [ ] GACCS brief exists for anything longer than a one-liner.
 - [ ] In-market path is a real URL, not a form in the first line.
 - [ ] No scrape, no fake engagement, no “social selling” sequence disguised as content.
 - [ ] Measurement includes a self-reported or sales-mention path.

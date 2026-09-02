@@ -3,7 +3,7 @@ title: "Content strategy"
 sidebarTitle: "Content Strategy"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 A team can publish twice a week and still have nothing a champion can forward. Analytics look like growth. Sales still pastes the homepage into the evaluation thread and hopes. The champion still cannot answer “why not keep the spreadsheet” without booking another call.
 
@@ -57,9 +57,11 @@ A full editorial calendar that leaves rows 1–3 empty is a content performance,
 
 Brand narrative, founder story, and thought leadership still matter. They are later rows unless a live deal is already blocked on a missing evaluation page.
 
-### Step 3: write the brief before the asset
+### Step 3: lock 3–4 perceptions, then write the GACCS brief
 
-Anything longer than a social one-liner gets a **GACC** on [campaign-brief.md](../../templates/campaign-brief.md): **Goal** (a perception or an OKR), **Audience** (the seat), **Creative / unique take** (still useful if the product name is removed), **Channels** (who actually distributes it). If it does not ladder to a perception or a goal, it is busywork. If it does not add a fact the reader lacked, it is a duplicate.
+Write **three or four perceptions**—statements a buyer should be able to say about you. They are the year’s storylines, not slogans. A campaign Goal should move one of them. If most non-SEO content cannot ladder to one, you have too many campaigns and not enough story. The set together should be hard for a competitor to claim; a single line can overlap.
+
+Anything longer than a social one-liner then gets a **GACCS** on [campaign-brief.md](../../templates/campaign-brief.md): **Goal** (a perception or an OKR), **Audience** (the seat, and whether this is a core / scaling / testing ICP), **Creative / unique take** (still useful if the product name is removed), **Channels** (who actually distributes it), **Stakeholders** (who must approve, who ships, who is only informed). If it does not ladder to a perception or a goal, it is busywork. If it does not add a fact the reader lacked, it is a duplicate. If nobody can name who approves and who produces, it will stall in Slack.
 
 Do not start production to “fill the calendar,” then reverse-engineer a brief.
 
@@ -125,7 +127,8 @@ Keep the live map to eight rows or fewer. The filled example is in [How a finish
 
 ## Pre-flight checklist
 
-- [ ] A GACC exists: goal, audience, unique take, channels—or we wrote why this asset is exempt.
+- [ ] Three or four perceptions exist; this asset ladders to one of them.
+- [ ] A GACCS exists: goal, audience, unique take, channels, stakeholders—or we wrote why this asset is exempt.
 - [ ] The primary question is a buyer question, not a product introduction.
 - [ ] The primary seat is named. “All B2B” is not a seat.
 - [ ] The alternative or comparison object already appears in sales conversations.
@@ -163,7 +166,7 @@ A named customer’s proof, when you have approval, is a [case study](case-study
 
 This is an owner-maintained operating synthesis. It does not claim a universal content ROI model. Proof on any live page must stay inside dated, checkable product, customer, security, and performance evidence. Fictional companies and anonymous “case studies” are not evidence.
 
-The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The GACC brief (goal, audience, creative/unique take, channels) and the “ladders to a perception or OKR / add-value test” gate draw on Emily Kramer’s public GACC essay ([MKT1, 2021-07-27](https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best?ref=b2b-playbook)). The paid template pack behind that paywall is not reproduced here. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
+The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The GACC brief (goal, audience, creative/unique take, channels) and the “ladders to a perception or OKR / add-value test” gate draw on Emily Kramer’s public GACC essay ([MKT1, 2021-07-27](https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best?ref=b2b-playbook)). **Stakeholders** as the fifth line (GACCS) is the 2025 evolution of that brief ([MKT1, 2025-07-24](https://newsletter.mkt1.co/p/gaccs-brief-generator-and-template?ref=b2b-playbook)). Three-to-four perceptions as the year’s storylines, and the test that most non-SEO content can ladder to one of them, draw on Kramer’s planning exercises ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook)). The paid generator, Google Docs pack, and interactive builder behind those paywalls are not reproduced here. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
 
 ---
 

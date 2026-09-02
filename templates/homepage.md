@@ -15,7 +15,9 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 - Category:
 - Seat / operating context:
+- What it is (product type a buyer would search):
 - Current alternative (their words):
+- Why it is better:
 - Business result (survives one more “so what?”):
 - Primary door (one):
 - Constraint we will link, not sell:
