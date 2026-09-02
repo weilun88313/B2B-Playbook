@@ -3,7 +3,7 @@ title: "Ideal customer profile (ICP)"
 sidebarTitle: "ICP"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-09-02
 
 Most B2B teams do not have an ICP. They have a category they wish were a market, and a slide of logos they would like to close. An ICP turns a market into **observable account filters and different next actions**—not “everyone interested in this category.”
 
@@ -109,6 +109,19 @@ After an account passes qualification, use the [buying-committee playbook](buyin
 
 Score five recent accounts. If the accounts that actually progress do not match the profile, revise the ICP instead of changing weights to protect a preference. Ask two reviewers to tier the same list; large disagreements reveal vague rules.
 
+### Step 5: if you have more than one ICP, rank maturity—do not spend equally
+
+T1 / T2 / T3 is how you treat **accounts** inside a profile. If the company is running two or three profiles, force-rank the **profiles** themselves. Equal budget across every segment is how you get random acts of marketing.
+
+| Maturity | Meaning | Default spend |
+|---|---|---|
+| **Core** (proven) | Drives most of today’s revenue | Most of time and budget |
+| **Scaling** | Works, still a small share | Deliberate extra effort this period |
+| **Testing** | Hypothesis | Capped experiment |
+| **Not a priority** | Considered and declined | Written so people stop lobbying |
+
+Get sales and CS to agree which profile is core. A “new vertical” that has never closed is testing, not a second homepage. Working file: [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md).
+
 ## Copyable templates
 
 ### How a filled ICP canvas reads
@@ -134,6 +147,7 @@ Copy the blanks below for *your* market.
 - Operating scale / ability to buy:
 - Trigger:
 - Hard disqualifiers (at least five):
+- If this is one of several ICPs: maturity (core / scaling / testing / not a priority) and share of effort:
 
 ### Account decision
 
@@ -155,6 +169,7 @@ Copy the blanks below for *your* market.
 - [ ] Five recent accounts pressure-tested the rules.
 - [ ] Tiering produces different default actions.
 - [ ] Facts, assumptions, and unknowns are separate.
+- [ ] If more than one ICP exists, each has a maturity (core / scaling / testing / not a priority) and they are not funded equally.
 
 ## Metrics
 
@@ -174,6 +189,7 @@ Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate
 - Treating total addressable market as a list of active accounts.
 - Hiding unknowns behind model-generated detail.
 - Letting sales pursue T3 accounts without recording an exception.
+- Funding every ICP equally because each has a champion in the room.
 
 ## What to read next
 
@@ -184,6 +200,8 @@ A candidate without proof still belongs in [idea discovery](idea-discovery.md) o
 This is an owner-maintained operating synthesis. Thresholds and dimensions are starting hypotheses; validate them against dated wins, losses, disqualifications, and segment economics.
 
 The user-versus-buyer warning and the half-week-with-customers discipline draw on founder interviews collected by Lenny Rachitsky ([Lenny’s Newsletter, 2023-09-12](https://www.lennysnewsletter.com/p/finding-product-market-fit?ref=b2b-playbook)). Snyk and Amplitude are that author’s illustrations, not ICP templates to copy.
+
+Ranking multiple ICPs by maturity (core / scaling / testing / not a priority) instead of spending equally draws on Emily Kramer’s planning exercises ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook)). The paid ICP worksheets behind that paywall are not reproduced here. T1/T2/T3 on this page remains an account filter inside a profile; maturity is how you rank the profiles.
 
 ---
 

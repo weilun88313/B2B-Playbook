@@ -3,7 +3,7 @@ title: "Channel strategy"
 sidebarTitle: "Channel Strategy"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-09-02
 
 The temptation after a few customers is to become a full go-to-market department overnight: a blog, ads, partners, outbound, a self-serve signup, a conference booth. Famous companies used all of those **at some point**. They did not run all of them in the same quarter while still looking for the first repeatable motion.
 
@@ -58,32 +58,51 @@ Self-serve is a product and activation fact, not a values statement. If a new us
 
 Expect to build a sales team eventually. The question is when, not whether.
 
-### Step 3: spend most of the time on the primary; add **one** secondary
+### Step 3: name 1–3 marketing advantages before you pick a secondary
 
-Treat the remaining channels as a menu, not a checklist:
+A secondary channel is how you **accelerate something that is already true**, not a menu item you add because a famous company used it. Write one to three advantages you actually have. Typical shapes: **product** (virality, a free plan that unlocks value, a wedge you will reuse), **ecosystem** (integrations, channel partners, a regulation or trend that creates urgency), **brand-story** (a founder who already has the room, a category you can own, an underserved community). If you cannot name one, do not invent a partner program or a category-creation campaign to look strategic.
 
-| Secondary | What it is | Open this playbook |
-|---|---|---|
-| Content / SEO | Durable pages and search demand | [Content strategy](../03-brand-story-and-content/content-strategy.md); [SEO and AEO](seo-and-aeo.md) |
-| LinkedIn organic | Memory in a professional feed—people, not the logo | [LinkedIn organic](linkedin-organic.md) |
-| Peer rooms | A credible intro in a community the buyer already chose | [Peer community](community.md) |
-| Creator / operator media | Co-created artifact with overlap, not a rented mention | [Creator partnership](creator-partnership.md) |
-| Small table | Role-locked dinner or roundtable | [Executive dinners](../06-account-field-and-partner/executive-dinners.md) |
-| Launch day | Product Hunt as a one-day amplifier | [Product Hunt](product-hunt.md)—not a standing channel |
-| Syndication | Rented fills that survive audience, verification, and post-fill gates | [Content syndication](content-syndication.md) |
-| Paid ads | Capture or test on Google, LinkedIn, and a few high-trust placements | [Paid media](paid-media.md)—one job, two scoreboards. Do not start here if the primary motion is unnamed |
-| Partnerships | Access through companies and people who already have trust | [Ecosystem](../06-account-field-and-partner/ecosystem.md) |
-| Outbound (if not primary) | Created conversations | [Outbound](../05-outbound-and-prospecting/) |
+Do not treat the list as a checklist. One real advantage beats nine borrowed ones.
 
-A useful rule: you are probably already living in one of the three primaries. Ask which **one** remaining channel is a real opportunity—then give it an owner, a 90-day test, and a stop rule. Content that cannot scale beyond heroic founder posts is a turbo boost, not an engine.
+### Step 4: spend most of the time on the primary; add **one** secondary from the engine menu
 
-### Step 4: match the site door to the motion
+After the primary motion is named, treat everything else as a **growth-engine menu**, not a department org chart. The six engines are inbound, outbound, product virality, events, ecosystem, and lifecycle. Lifecycle is owned by [lifecycle](../08-lifecycle-and-customer-marketing/); do not stand it up here as a seventh “channel.” Product virality is a product fact—if you do not have it, you do not have that engine.
+
+Pick **one** secondary this quarter that accelerates a named advantage. Give it a **status** so the metric matches the job:
+
+| Status | Meaning |
+|---|---|
+| **Up next** | Written, not started |
+| **Testing** | Capped 90-day test; inefficient on purpose |
+| **Scaling** | Worked in test; now the question is diminishing returns |
+| **Core** | Already creating most of the growth from this engine |
+| **Big bet** | Could change the trajectory; staffed like it |
+| **Not working** | Tried; hypothesis written so we do not “never again” forever |
+
+Treat the remaining tactics as a menu, not a checklist:
+
+| Secondary | Engine | What it is | Open this playbook |
+|---|---|---|---|
+| Content / SEO | Inbound | Durable pages and search demand | [Content strategy](../03-brand-story-and-content/content-strategy.md); [SEO and AEO](seo-and-aeo.md) |
+| LinkedIn organic | Inbound | Memory in a professional feed—people, not the logo | [LinkedIn organic](linkedin-organic.md) |
+| Peer rooms | Ecosystem | A credible intro in a community the buyer already chose | [Peer community](community.md) |
+| Creator / operator media | Ecosystem | Co-created artifact with overlap, not a rented mention | [Creator partnership](creator-partnership.md) |
+| Small table | Events | Role-locked dinner or roundtable | [Executive dinners](../06-account-field-and-partner/executive-dinners.md) |
+| Launch day | Inbound (one day) | Product Hunt as a one-day amplifier | [Product Hunt](product-hunt.md)—not a standing channel |
+| Syndication | Inbound (rented) | Rented fills that survive audience, verification, and post-fill gates | [Content syndication](content-syndication.md) |
+| Paid ads | Inbound capture / creation | Capture or test on Google, LinkedIn, and a few high-trust placements | [Paid media](paid-media.md)—one job, two scoreboards. Do not start here if the primary motion is unnamed |
+| Partnerships | Ecosystem | Access through companies and people who already have trust | [Ecosystem](../06-account-field-and-partner/ecosystem.md) |
+| Outbound (if not primary) | Outbound | Created conversations | [Outbound](../05-outbound-and-prospecting/) |
+
+A useful rule: you are probably already living in one of the three primaries. Ask which **one** remaining engine is a real opportunity—then give it an owner, a status, a 90-day test, and a stop rule. Content that cannot scale beyond heroic founder posts is a turbo boost, not an engine.
+
+### Step 5: match the site door to the motion
 
 - Self-serve: signup, activation, and a credit-card or equivalent path. The scan still starts on the [homepage](../07-website-and-conversion/homepage.md).
 - Sales-assist: a decision-specific demo or conversation request, not a fake self-serve that dumps every visitor into a form.
 - Outbound: the site still has to pass the [homepage 10-second test](../02-product-marketing/positioning.md); it is not the acquisition engine.
 
-### Step 5: treat time-to-revenue as a pace check, not a scoreboard
+### Step 6: treat time-to-revenue as a pace check, not a scoreboard
 
 In one interview set of later-successful B2B companies, median time from founding to about $1M ARR was roughly two years, and about **1.5 years after the first customer**. Some were faster; some delayed monetization on purpose (for example to become a default tool inside companies). Large ACV and small ACV did not produce a clean split in that sample.
 
@@ -93,7 +112,7 @@ Use the 1.5-year-after-first-customer line as a **worry trigger** if you want to
 
 ### How a filled motion one-pager reads
 
-Teaching fill: last 20 wins were demos booked from inbound and referrals; nobody activated alone. Primary = **sales-assist inbound**. Secondary this quarter = one [content](../03-brand-story-and-content/content-strategy.md) comparison page, not ads. Site door = request a scoped conversation. Stop rule for content: if sales has not pasted the URL into an evaluation thread in 90 days, pause publishing.
+Teaching fill: last 20 wins were demos booked from inbound and referrals; nobody activated alone. Primary = **sales-assist inbound**. Advantage = founder already has the ops-lead room (brand-story), not a partner motion we wish we had. Secondary this quarter = one [content](../03-brand-story-and-content/content-strategy.md) comparison page (inbound engine, **testing**), not ads. Site door = request a scoped conversation. Stop rule for content: if sales has not pasted the URL into an evaluation thread in 90 days, pause publishing.
 
 Copy:
 
@@ -102,7 +121,10 @@ Copy:
 - Primary motion (exactly one): self-serve inbound / sales-assist inbound / outbound
 - Evidence from the last 20 wins (how they actually arrived):
 - Can a new user activate without a human? yes / no / unknown (test: ____)
+- Marketing advantages we will accelerate (1–3):
 - Secondary channel we will explore this quarter (exactly one or none):
+- Engine it belongs to (inbound / outbound / virality / events / ecosystem):
+- Status (up next / testing / scaling / core / big bet):
 - Why not the other secondaries:
 - Owner of the primary:
 - Owner of the secondary test:
@@ -123,7 +145,8 @@ Copy:
 - [ ] The last 10–20 customers’ true source is listed (not the CRM default).
 - [ ] Self-serve is claimed only if activation without a human has been watched, not hoped.
 - [ ] Sales is not being removed to make a PLG story true.
-- [ ] At most one new secondary channel has an owner and a stop rule.
+- [ ] One to three marketing advantages are named; secondaries that do not accelerate one are deferred.
+- [ ] At most one new secondary channel has an owner, a status, and a stop rule.
 - [ ] Content, ads, and partners are not substituting for a missing primary.
 - [ ] The website CTA matches the motion.
 - [ ] Time-to-$1M talk uses your first-customer date; borrowed medians are labeled survivor observations.
@@ -147,6 +170,8 @@ Do not count channel count, campaign volume, or “we are now PLG” as outcomes
 - Turning off sales because a cloud-console story sounded efficient.
 - Treating word of mouth as a budget line instead of a fit diagnosis.
 - Starting paid ads before the primary motion and offer are named.
+- Picking a secondary before naming an advantage it would accelerate.
+- Judging a **testing** channel on **core** efficiency.
 - Launching partnerships as a time sink with no [win-win-win](../06-account-field-and-partner/ecosystem.md).
 - Publishing a content calendar instead of a [decision-page map](../03-brand-story-and-content/content-strategy.md).
 
@@ -159,6 +184,8 @@ If market, product, channel, and model do not describe the same company, stop he
 This is an owner-maintained operating synthesis. Channel mix is not a forecast.
 
 The three-primary-motion frame, the six-channel menu, the “optimize the primary / add one” rule, the expectation that B2B firms eventually hire sales, the caution against forced product-led growth, and the ~2 year / ~1.5-year-after-first-customer pacing notes draw on Lenny Rachitsky’s interviews with later-successful B2B companies ([Lenny’s Newsletter, 2023-10-24](https://www.lennysnewsletter.com/p/scaling-your-b2b-growth-engine?ref=b2b-playbook)). That set is a survivor sample. Named companies in the source illustrate motions; they are not audited case studies here. Revenue expansion was out of scope in that piece.
+
+Marketing advantages (name 1–3 real ones in product / ecosystem / brand-story before you pick a channel) draw on Emily Kramer ([MKT1, 2023-02-27](https://newsletter.mkt1.co/p/find-and-accelerate-your-marketing?ref=b2b-playbook)). The six-engine menu (inbound, outbound, product virality, events, ecosystem, lifecycle) and the test / scale / core / big-bet / not-working statuses draw on Kramer’s channel guidance ([MKT1, 2023-11-16](https://newsletter.mkt1.co/p/marketing-channels?ref=b2b-playbook)). Those essays are **method prompts**. The paid tactic charts, generator apps, and template packs behind the paywall are not reproduced here. Do not treat another company’s advantage list as yours.
 
 ---
 

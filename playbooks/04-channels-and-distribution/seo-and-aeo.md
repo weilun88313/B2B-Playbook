@@ -2,7 +2,7 @@
 title: "SEO and AEO"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 Search used to mean a list of links. Buyers increasingly ask a model a full question and get an answer with or without a click. [Content strategy](../03-brand-story-and-content/content-strategy.md) still decides **which questions get a durable URL**. This page decides **how that knowledge is findable**—on your site, in places models cite, and in the questions you actually test—without making sessions-in-GA the only scoreboard.
 
@@ -50,6 +50,14 @@ Citation share that moves to a decimal every month is not a KPI. Domains in answ
 For each question that deserves a URL: one primary question, clear headings, a short direct answer near the top, then the comparison or constraint the champion needs. Schema and formatting help machines parse; they do not replace a page that sales would paste.
 
 Refresh evergreen decision pages before you add a twelfth educational post. Teams that only “publish more” train the model on mush and train sales to ignore the blog.
+
+Crawler hygiene is not a strategy, but missing it is a tax. Before you buy an “AI visibility” tool:
+
+- Put the facts a champion would paste in **HTML a crawler can read without executing JavaScript**. A client-rendered shell that looks finished in Chrome and empty to a bot is not an answer page.
+- Add schema that matches what is actually on the page (Organization, SoftwareApplication, FAQPage when you have a real FAQ). Markup does not invent a comparison page.
+- Write `robots.txt` **on purpose** for LLM crawlers: allow citation, block training, or the reverse—but do not leave the default and call it a policy. Some teams allow answer crawlers and block training crawlers; that is a legal/comms choice, not a ranking trick.
+
+`llms.txt` and prompt-preset buttons are optional experiments. They do not replace rows 1–4 of the [content map](../03-brand-story-and-content/content-strategy.md).
 
 ### Step 3: put the same facts where citations come from
 
@@ -106,6 +114,7 @@ Working file: [answer-visibility.xlsx](../../templates/answer-visibility.xlsx). 
 ## Pre-flight checklist
 
 - [ ] Decision-page rows 1–3 exist or are explicitly deferred.
+- [ ] Critical answers exist in crawlable HTML; schema matches the page; robots.txt states an LLM-crawler policy.
 - [ ] Prompt list is questions from deals, not keyword daydreams—and frozen long enough to measure change.
 - [ ] Each question has an owned answer or a written “not yet.”
 - [ ] At least one non-owned citation surface has an owner, or we admitted we have none.
@@ -133,6 +142,7 @@ Do not count posts published, or a survey’s “% of leaders seeing AI leads,�
 - Treating a Kickstand/Pavilion-style industry % as your baseline.
 - Prompt-testing brand vanity queries (“who is the leader in X”) instead of evaluation questions.
 - Skipping [experimentation](../09-operations-pipeline-and-measurement/experimentation.md) and calling a one-off ChatGPT screenshot a strategy.
+- Shipping a JS-only shell, empty schema, or an untouched robots.txt and calling it AEO.
 
 ## What to read next
 
@@ -145,6 +155,8 @@ This is an owner-maintained operating synthesis. It is not an SEO ranking produc
 Question-shaped queries, zero-click as a measurement problem, owned pages plus citation surfaces (earned, reviews, public conversation), refresh/structure over raw volume, and diagnostics beyond sessions are distilled from a September 2025 industry report on AI-search visibility ([Kickstand × Pavilion, *The New Rules of Visibility*](https://5242563.fs1.hubspotusercontent-na1.net/hubfs/5242563/eBooks/Kickstand%20x%20Pavilion-TheNewRulesofVisibility-eBook.pdf?ref=b2b-playbook)). That report is a **method prompt**, not a source to copy. Its survey (606 marketing managers+, Jul 31–Aug 13 2025, NA/UK) percentages, industry splits, “AI-sourced leads,” and agency recommendations are **not** this library’s facts or a ranking. Named third-party claims inside the report (including Bain/Google consideration-set figures via HBR, 2022) stay with those authors—check the current source before you plan from them. Pavilion is a paid community listed in [RESOURCES.md](../../RESOURCES.md); membership is not required to use this page.
 
 The warning that aggregate traffic misleads when remaining visits convert harder, the visibility / comprehension / conversion split, and the instruction not to treat referral clicks as the whole AEO score draw on Kyle Poyar / Kevin Indig ([Growth Unhinged, 2025-11-02](https://www.growthunhinged.com/p/traffic-is-no-longer-reliable?ref=b2b-playbook) and [2026-07-15](https://www.growthunhinged.com/p/how-to-measure-the-impact-of-ai-search-the-right-way?ref=b2b-playbook)). Webflow conversion multiples, Pew/ChatGPT CTR figures, Profound churn rates, and vendor dashboards stay with those authors. They are not this library’s baseline. Serving markdown to known AI bots and testing per model is a **method prompt** from a public Ramp experiment ([builders.ramp.com, Marketing to AI agents](https://builders.ramp.com/post/marketing-to-ai-agents?ref=b2b-playbook)); bot-count and relay figures there are one company’s log, not a playbook SLA.
+
+Crawler hygiene (JS-rendered shells, schema that matches the page, an explicit LLM `robots.txt` policy) draws on Emily Kramer’s 100-company scrape ([MKT1, 2026-04-27](https://newsletter.mkt1.co/p/state-of-marketing-report-web-social-content-part-2?ref=b2b-playbook)) and the companion research note ([MKT1, 2026-05-06](https://newsletter.mkt1.co/p/state-of-marketing-report-part-3-how-to-research-in-claude-code?ref=b2b-playbook)). Sample percentages in those reports (“less than 2% have the basics”) are **their** scrape of **their** 100 companies on those dates—not this library’s SLA. Do not copy another company’s robots rules or treat `llms.txt` as strategy.
 
 ---
 

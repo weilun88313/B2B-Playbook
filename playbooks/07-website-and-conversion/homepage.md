@@ -2,7 +2,7 @@
 title: "Homepage"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-02
 
 A homepage that “looks like a category leader” and still cannot answer *who this is for* in one scan is a brand surface. [Positioning](../02-product-marketing/positioning.md) owns the 10-second test. This page owns the **URL**: what a priority visitor must understand before they bounce, and which one next step the door is allowed to offer.
 
@@ -52,6 +52,15 @@ A reader who never opens the blog should still identify:
 
 If any line is still a superlative (“the leading platform”), you are not ready to design.
 
+Then pass the same screen a second time in four lines that a stranger can complete without jargon:
+
+- **Who it is for** (the seat and operating context);
+- **What it is** (the product type a buyer would search—tool, workspace, marketplace, service—not “platform” unless that is true);
+- **Why it is better** than the current alternative;
+- **What to do next** (the door).
+
+If those four lines contradict the 10-second scan, the scan is unfinished. Do not hide the product type so the page “feels premium.”
+
 ### Step 2: match the door to the motion
 
 | Primary motion | Homepage door |
@@ -81,6 +90,7 @@ Ops lead. Alternative: a shared inbox plus a spreadsheet of SLAs. Motion: sales-
 | Field | Fill |
 |---|---|
 | Category + seat | Customer-ops queue for teams that still live in email—not an ITSM rollout |
+| What it is | A shared queue for customer ops—not a help desk platform |
 | Alternative | Shared inbox + spreadsheet. Named on the first screen. |
 | Result | The lead can run the queue without forcing the team into a help desk they will not live in |
 | Door | “Walk through *your* queue” — not “Request a demo” |
@@ -91,7 +101,9 @@ Ops lead. Alternative: a shared inbox plus a spreadsheet of SLAs. Motion: sales-
 
 - Category (the noun a buyer would search):
 - Seat / operating context:
+- What it is (product type, not a slogan):
 - Current alternative, in their words:
+- Why it is better (survives one more “so what?”):
 - Business result (survives one more “so what?”):
 - Primary door (one):
 - Secondary path (header or below-fold only):
@@ -105,6 +117,7 @@ Working file: [homepage.md](../../templates/homepage.md).
 
 - [ ] Positioning worksheet is filled; this page does not invent a second story.
 - [ ] A stranger can complete the 10-second test without opening the blog.
+- [ ] The same screen answers who it is for, what it is, why it is better, and the door.
 - [ ] The door matches [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 - [ ] There is one primary CTA above the fold.
 - [ ] Proof is specific; logo walls that fail ICP are gone.
@@ -139,6 +152,8 @@ A campaign click that must not land on `/` is a [landing page](landing-page.md).
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. The 10-second scan is the homepage test already written on [positioning](../02-product-marketing/positioning.md), from April Dunford’s public positioning work (*Obviously Awesome* / *Sales Pitch*). It is a **method**, not a claim about any current homepage—including the Help Scout teaching shape used there.
+
+The second pass (who it is for, what it is, why it is better, product type on the hero) draws on Emily Kramer’s homepage-copy guidance ([MKT1, 2022-11-28](https://newsletter.mkt1.co/p/homepage-copy?ref=b2b-playbook)). The paid homepage wireframes and messaging templates behind that paywall are not reproduced here.
 
 “One door matching the motion” is this library’s judgment, paired with [channel strategy](../04-channels-and-distribution/channel-strategy.md). Do not import consumer CRO folklore (button-color tests, Unbounce recipes) as B2B homepage method. A redesign case study is not your scan.
 

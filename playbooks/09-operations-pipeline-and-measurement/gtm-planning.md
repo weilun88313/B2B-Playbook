@@ -3,9 +3,11 @@ title: "GTM planning"
 sidebarTitle: "GTM Planning"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-09-02
 
 A revenue target with no **parents** is a wish. The number has two parents that must meet: **what demand can create** (channel volume × conversion) and **what sales can close** (heads × quota × ramp × cycle × retention). If marketing’s waterfall and sales’ capacity file disagree, you do not have a plan. You have two spreadsheets.
+
+Those files are step two. Step one is strategy inputs: ranked ICPs, real marketing advantages, a few perceptions, four revenue levers with **no ties**, and one to three big bets. A beautiful demand model that funds every segment equally is still fiction.
 
 This page is the model, not the [forecast](forecasting.md) call. Forecasting inspects the path this quarter. Planning asks whether next year’s number is even possible. [Sales compensation](sales-compensation.md) is how people are paid if the number is real. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) still decides which channels belong in the demand sheet at all.
 
@@ -38,6 +40,19 @@ This page is the model, not the [forecast](forecasting.md) call. Forecasting ins
 **Only change inputs.** Outputs are calculated. If you type over a conversion cell because the year “needs” to work, you are writing fiction. Sample rates in any template—including ours—are **invented teaching fills**, not your funnel.
 
 ## Operating method
+
+### Step 0: write strategy inputs before you open the spreadsheet
+
+Fill [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md) first. In order:
+
+1. Rank ICPs by maturity ([ICP](../01-strategy-and-buyers/icp.md))—core / scaling / testing / not a priority. Do not fund them equally.
+2. Name 1–3 marketing advantages you will actually accelerate ([channel strategy](../04-channels-and-distribution/channel-strategy.md)).
+3. Lock 3–4 perceptions ([content strategy](../03-brand-story-and-content/content-strategy.md)).
+4. Force-rank four revenue levers with **no ties**: grow top-of-funnel in an existing audience; grow top-of-funnel in a new audience; increase value per customer; improve efficiency. The ranking forbids work; if everything is #1, nothing is.
+5. Name 1–3 **big bets**—projects that could change the trajectory, not the ops that keep the lights on.
+6. Then write a short KPO snapshot (~5–8 lines: the KPIs you will read, the projects you will staff, the ops you will not drop). Only then open the demand and capacity files.
+
+If this page is empty, the waterfall will invent a motion.
 
 ### Step 1: name the stages once
 
@@ -81,6 +96,7 @@ Sales-assist. Two segments. Twelve-month look. Not your rates.
 ## Copy: planning one-pager (fill)
 
 - Board / plan number and the period:
+- Ranked ICPs, advantages, perceptions, lever order, big bets (or link the strategy-inputs file):
 - Stage names and durations (MM / enterprise or your split):
 - Demand: channels in, conversions, cost, output object:
 - Capacity: segments, quota, ramp, attainment, start dates, overlays:
@@ -88,10 +104,11 @@ Sales-assist. Two segments. Twelve-month look. Not your rates.
 - Reconcile note (who is the constraint):
 - Assumption freeze date and owner:
 
-Working files: [gtm-demand-plan.xlsx](../../templates/gtm-demand-plan.xlsx) and [gtm-sales-capacity.xlsx](../../templates/gtm-sales-capacity.xlsx).
+Working files: [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md), [gtm-demand-plan.xlsx](../../templates/gtm-demand-plan.xlsx) and [gtm-sales-capacity.xlsx](../../templates/gtm-sales-capacity.xlsx).
 
 ## Pre-flight checklist
 
+- [ ] Strategy inputs exist: ranked ICPs, 1–3 advantages, perceptions, four levers with no ties, 1–3 big bets.
 - [ ] Stage names match CRM and the forecast page.
 - [ ] Conversion cells are inputs from *your* history or an explicit guess labeled as such.
 - [ ] Ramp months reduce quota; payroll ≠ quota-bearing.
@@ -121,6 +138,7 @@ Do not count model tabs, or a 2023 sample that “looks like SaaS,” as a plan.
 - Greenfield capacity with 100 customers already on the book.
 - Copying another company’s quota, ACV, or 78% attainment.
 - Hiring from the capacity sheet while the demand sheet is empty.
+- Opening the demand spreadsheet before ICPs, advantages, and levers are ranked.
 
 ## What to read next
 
@@ -131,6 +149,8 @@ When the year is possible but the quarter is chaos, snap the calendars: [company
 This is an owner-maintained operating synthesis. It is not a financial model for fundraising, not tax advice, and not a benchmark.
 
 The demand-plan shape (channel → conversion chain → SQO, rates differ by channel, copy-before-edit) is distilled from an operator demand-generation waterfall spreadsheet (sample year of monthly forecasts). The capacity shape (segment quota, ramp, attainment, AE start dates, payroll vs quota-bearing, overlay ratios, stage duration, renewal/NRR, “change inputs only”) is distilled from operator sales-capacity + waterfall + renewals workbooks (blank model and a filled instance). Those files are **method prompts**, not sources to copy. Their calendars, dollar quotas, conversion rates, headcount, and `#REF!` cells are not this library’s facts. The filled instance is treated as one company’s homework, not a default.
+
+Strategy-before-spreadsheet (ranked ICPs, marketing advantages, perceptions, four revenue levers with no ties, 1–3 big bets, then a short KPO set) draws on Emily Kramer’s planning series ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook); levers template dated [2023-10-24](https://newsletter.mkt1.co/p/template-4-revenue-levers-exercise?ref=b2b-playbook)). The paid exercise docs, planning spreadsheet, and MCP skills are not reproduced here.
 
 ---
 
