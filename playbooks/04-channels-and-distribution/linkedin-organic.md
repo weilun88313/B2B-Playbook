@@ -120,7 +120,7 @@ Do not treat impressions, follower count, or employee reshare rate as the scoreb
 
 ## What to read next
 
-Paying to reach the same category is [paid media](paid-media.md)—creation and capture are different buys. One-to-one outreach that happens to use LinkedIn is [LinkedIn outbound](../05-outbound-and-prospecting/linkedin-outbound.md). The pages a post should earn a click to are [content strategy](../03-brand-story-and-content/content-strategy.md). How to read dark social without pretending the pixel saw it is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). A room that is not the feed is [peer community](community.md).
+Paying to reach the same category is [paid media](paid-media.md)—creation and capture are different buys. One-to-one outreach that happens to use LinkedIn is [LinkedIn outbound](../05-outbound-and-prospecting/linkedin-outbound.md). The pages a post should earn a click to are [content strategy](../03-brand-story-and-content/content-strategy.md). The scene the person is allowed to tell is [founder story](../03-brand-story-and-content/founder-story.md)—do not use the feed to invent one. How to read dark social without pretending the pixel saw it is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). A room that is not the feed is [peer community](community.md).
 
 ## Sources and evidence boundary
 

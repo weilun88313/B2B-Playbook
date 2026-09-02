@@ -269,7 +269,7 @@ Do not count a completed messaging workshop, slogan volume, unqualified traffic,
 
 ## What to read next
 
-The first meeting should use this story, not a tour: [sales enablement](sales-enablement.md). The number a champion can defend is [pricing](pricing-and-packaging.md). The pages they forward after the call are [content strategy](../03-brand-story-and-content/content-strategy.md).
+The first meeting should use this story, not a tour: [sales enablement](sales-enablement.md). The hierarchy that applies this decision to a homepage, outbound, and deck is [messaging](messaging.md). Alternatives that keep showing up need [competitive intelligence](competitive-intelligence.md). The number a champion can defend is [pricing](pricing-and-packaging.md). The pages they forward after the call are [content strategy](../03-brand-story-and-content/content-strategy.md).
 
 ## Sources and evidence boundary
 

@@ -50,9 +50,23 @@ Fill [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md
 3. Lock 3–4 perceptions ([content strategy](../03-brand-story-and-content/content-strategy.md)).
 4. Force-rank four revenue levers with **no ties**: grow top-of-funnel in an existing audience; grow top-of-funnel in a new audience; increase value per customer; improve efficiency. The ranking forbids work; if everything is #1, nothing is.
 5. Name 1–3 **big bets**—projects that could change the trajectory, not the ops that keep the lights on.
-6. Then write a short KPO snapshot (~5–8 lines: the KPIs you will read, the projects you will staff, the ops you will not drop). Only then open the demand and capacity files.
+6. Then write **KPO goals** (~5–8 lines total) and staff the big bets—see the next step. Only then open the demand and capacity files.
 
 If this page is empty, the waterfall will invent a motion.
+
+### Step 0b: set KPO goals; staff big bets like a product roadmap
+
+A couple of KPI cells is not a marketing plan. Write three kinds of goals, time-bound, with a why:
+
+| Kind | What it is | What it is not |
+|---|---|---|
+| **K — KPI** | A number you will hit, with an **efficiency twin** (conversion, quality, or cost) so volume cannot hide waste | “Write 10 posts.” Count of assets is not a KPI |
+| **P — Project** | A big-bet milestone that could change the trajectory (launch, new engine, a perception campaign) | The day-to-day that keeps the lights on |
+| **O — Ops** | Foundation you will otherwise skip: hiring, tooling, research, scoring, analytics | Busywork labeled “enablement” with no date |
+
+Keep the company-facing list short (~5–8). Experiments can live under projects; they do not all need a board slide. Non-goals are written so random requests die.
+
+Each **big bet** (1–3, often one or two per quarter) names **fuel + engine + audience**: the perception or offer, the [channel engine](../04-channels-and-distribution/channel-strategy.md) it rides, the ICP maturity it is for. It must accelerate a named advantage. A bet with no owner, no contingency (product date, hire, budget), and no stop rule is a wish. The demand spreadsheet then has to show whether the year is still possible if the bet slips.
 
 ### Step 1: name the stages once
 
@@ -97,6 +111,8 @@ Sales-assist. Two segments. Twelve-month look. Not your rates.
 
 - Board / plan number and the period:
 - Ranked ICPs, advantages, perceptions, lever order, big bets (or link the strategy-inputs file):
+- KPO list (KPI / Project / Ops) and non-goals:
+- Each big bet: fuel + engine + audience, owner, contingency:
 - Stage names and durations (MM / enterprise or your split):
 - Demand: channels in, conversions, cost, output object:
 - Capacity: segments, quota, ramp, attainment, start dates, overlays:
@@ -109,6 +125,8 @@ Working files: [marketing-strategy-inputs.md](../../templates/marketing-strategy
 ## Pre-flight checklist
 
 - [ ] Strategy inputs exist: ranked ICPs, 1–3 advantages, perceptions, four levers with no ties, 1–3 big bets.
+- [ ] KPO list is ~5–8 lines across KPI / Project / Ops; each KPI has an efficiency twin; non-goals are written.
+- [ ] Each big bet names fuel, engine, audience, owner, and a contingency.
 - [ ] Stage names match CRM and the forecast page.
 - [ ] Conversion cells are inputs from *your* history or an explicit guess labeled as such.
 - [ ] Ramp months reduce quota; payroll ≠ quota-bearing.
@@ -139,6 +157,8 @@ Do not count model tabs, or a 2023 sample that “looks like SaaS,” as a plan.
 - Copying another company’s quota, ACV, or 78% attainment.
 - Hiring from the capacity sheet while the demand sheet is empty.
 - Opening the demand spreadsheet before ICPs, advantages, and levers are ranked.
+- Calling a handful of KPI cells a plan, with no project or ops goals.
+- Staffing linear work only and hoping a trajectory change appears.
 
 ## What to read next
 
@@ -150,7 +170,7 @@ This is an owner-maintained operating synthesis. It is not a financial model for
 
 The demand-plan shape (channel → conversion chain → SQO, rates differ by channel, copy-before-edit) is distilled from an operator demand-generation waterfall spreadsheet (sample year of monthly forecasts). The capacity shape (segment quota, ramp, attainment, AE start dates, payroll vs quota-bearing, overlay ratios, stage duration, renewal/NRR, “change inputs only”) is distilled from operator sales-capacity + waterfall + renewals workbooks (blank model and a filled instance). Those files are **method prompts**, not sources to copy. Their calendars, dollar quotas, conversion rates, headcount, and `#REF!` cells are not this library’s facts. The filled instance is treated as one company’s homework, not a default.
 
-Strategy-before-spreadsheet (ranked ICPs, marketing advantages, perceptions, four revenue levers with no ties, 1–3 big bets, then a short KPO set) draws on Emily Kramer’s planning series ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook); levers template dated [2023-10-24](https://newsletter.mkt1.co/p/template-4-revenue-levers-exercise?ref=b2b-playbook)). The paid exercise docs, planning spreadsheet, and MCP skills are not reproduced here.
+Strategy-before-spreadsheet (ranked ICPs, marketing advantages, perceptions, four revenue levers with no ties, 1–3 big bets, then KPO goals) draws on Emily Kramer’s planning series ([MKT1, 2024-09-23](https://newsletter.mkt1.co/p/annual-marketing-planning?ref=b2b-playbook); [2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook); levers template dated [2023-10-24](https://newsletter.mkt1.co/p/template-4-revenue-levers-exercise?ref=b2b-playbook)). KPO as KPI + Project + Ops, the efficiency twin on every volume metric, and “write 10 posts is not a goal” draw on Kramer’s goal-setting essay ([MKT1, 2021-09-07](https://newsletter.mkt1.co/p/goals?ref=b2b-playbook)), including the later KPO rename noted in that piece. The paid planning docs, OKR sheets, and MCP skills are not reproduced here. DinoCo in the 2024 planning essay is the author’s anonymized teaching case, not a customer of this library.
 
 ---
 

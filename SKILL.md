@@ -21,6 +21,8 @@ Produce a usable artifact or decision, not broad advice.
 | Product-market fit (love, pay, pull) | `playbooks/01-strategy-and-buyers/product-market-fit.md` |
 | Four Fits / market-product-channel-model | `playbooks/01-strategy-and-buyers/four-fits.md` |
 | Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
+| Messaging / message hierarchy / value lines | `playbooks/02-product-marketing/messaging.md` then `templates/messaging.md` |
+| Competitive intelligence / alternative card / battlecard | `playbooks/02-product-marketing/competitive-intelligence.md` then `templates/competitive-intelligence.md` |
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
 | Demo / product walk after the pitch | `playbooks/02-product-marketing/demo.md` |
@@ -28,8 +30,9 @@ Produce a usable artifact or decision, not broad advice.
 | Which pages to write first | `playbooks/03-brand-story-and-content/content-strategy.md` |
 | Case study / customer story / proof URL | `playbooks/03-brand-story-and-content/case-study.md` |
 | White paper / sourced long argument / ungated default | `playbooks/03-brand-story-and-content/white-paper.md` |
+| Founder story / lived scene / founder-led | `playbooks/03-brand-story-and-content/founder-story.md` then `templates/founder-story.md` |
 | Campaign / content brief (goal, audience, unique take, channels, stakeholders) | `playbooks/03-brand-story-and-content/content-strategy.md` then `templates/campaign-brief.md` |
-| Marketing strategy inputs / ranked ICPs / four levers / big bets | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` then `templates/marketing-strategy-inputs.md` |
+| Marketing strategy inputs / ranked ICPs / four levers / big bets / KPO | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` then `templates/marketing-strategy-inputs.md` |
 | AI teammate / GPT / Gem instructions for a GTM job | `playbooks/09-operations-pipeline-and-measurement/ai-workflow.md` then `templates/ai-teammate-brief.md` |
 | Which growth motion is primary | `playbooks/04-channels-and-distribution/channel-strategy.md` |
 | SEO / AEO / show up in AI answers | `playbooks/04-channels-and-distribution/seo-and-aeo.md` |

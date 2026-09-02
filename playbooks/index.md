@@ -28,13 +28,15 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Product-market fit | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) |
 | Four Fits / channel vs model | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Four Fits](/playbooks/01-strategy-and-buyers/four-fits) |
 | Positioning | [Product marketing](/playbooks/02-product-marketing) | [Positioning](/playbooks/02-product-marketing/positioning) |
+| Messaging / message hierarchy | [Product marketing](/playbooks/02-product-marketing) | [Messaging](/playbooks/02-product-marketing/messaging) |
+| Competitive intel / battlecard | [Product marketing](/playbooks/02-product-marketing) | [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence) |
 | Pricing | [Product marketing](/playbooks/02-product-marketing) | [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging) |
 | Sales pitch | [Product marketing](/playbooks/02-product-marketing) | [Sales enablement](/playbooks/02-product-marketing/sales-enablement) |
 | Demo / product walk | [Product marketing](/playbooks/02-product-marketing) | [Demo](/playbooks/02-product-marketing/demo) |
 | Crowded category / friction of the fix | [Product marketing](/playbooks/02-product-marketing) | [Change friction](/playbooks/02-product-marketing/change-friction) |
 | Content strategy | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Content strategy](/playbooks/03-brand-story-and-content/content-strategy) |
 | Case study / customer proof | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Case study](/playbooks/03-brand-story-and-content/case-study) |
-| Founder story | [Brand, story & content](/playbooks/03-brand-story-and-content) | Planned: `founder-story.md` |
+| Founder story | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Founder story](/playbooks/03-brand-story-and-content/founder-story) |
 | White paper | [Brand, story & content](/playbooks/03-brand-story-and-content) | [White paper](/playbooks/03-brand-story-and-content/white-paper) |
 | Community (owned) | [Brand, story & content](/playbooks/03-brand-story-and-content) | Planned: `community-led-growth.md` |
 | Peer room / existing community | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Peer community](/playbooks/04-channels-and-distribution/community) |
@@ -119,12 +121,14 @@ Planned: market research, segmentation, buyer journey, jobs to be done, category
 Published:
 
 - [Positioning](/playbooks/02-product-marketing/positioning)
+- [Messaging](/playbooks/02-product-marketing/messaging)
+- [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence)
 - [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging)
 - [Sales enablement](/playbooks/02-product-marketing/sales-enablement)
 - [Demo](/playbooks/02-product-marketing/demo)
 - [Change friction](/playbooks/02-product-marketing/change-friction)
 
-Planned: messaging, value proposition, competitive intelligence, product launch, proof and claims.
+Planned: value proposition, product launch, proof and claims.
 
 ## 03 · [Brand, story & content](/playbooks/03-brand-story-and-content)
 
@@ -133,10 +137,11 @@ Planned: messaging, value proposition, competitive intelligence, product launch,
 Published:
 
 - [Content strategy](/playbooks/03-brand-story-and-content/content-strategy)
+- [Founder story](/playbooks/03-brand-story-and-content/founder-story)
 - [Case study](/playbooks/03-brand-story-and-content/case-study)
 - [White paper](/playbooks/03-brand-story-and-content/white-paper)
 
-Planned: brand strategy, brand narrative, founder story, thought leadership, newsletter, webinar, podcast, video, community-led growth.
+Planned: brand strategy, brand narrative, thought leadership, newsletter, webinar, podcast, video, community-led growth.
 
 ## 04 · [Channels & distribution](/playbooks/04-channels-and-distribution)
 
