@@ -1,0 +1,26 @@
+/* Tools directory: keep favicons on one row, same box */
+.tool-cell {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+  line-height: 1.3;
+}
+
+.tool-favicon {
+  width: 24px;
+  height: 24px;
+  min-width: 24px;
+  min-height: 24px;
+  max-width: 24px;
+  max-height: 24px;
+  object-fit: contain;
+  border-radius: 4px;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+
+html[data-current-path="/tools"] table td:first-child {
+  white-space: nowrap;
+  vertical-align: middle;
+}
