@@ -34,8 +34,8 @@ img[data-path^="assets/tool-favicons"],
   vertical-align: middle;
 }
 
-article:has(.tool-cell) table td,
-article:has(.tool-cell) table th {
+table:has(.tool-cell) td,
+table:has(.tool-cell) th {
   vertical-align: top !important;
   min-width: 0 !important;
 }
