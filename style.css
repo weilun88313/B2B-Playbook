@@ -1,26 +1,62 @@
-/* Tools directory: keep favicons on one row, same box */
+/* Tools directory: same-size favicons, compact first column, usable 5-col tables */
+
 .tool-cell {
-  display: inline-flex;
-  align-items: center;
+  display: inline-flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
   gap: 0.5rem;
   white-space: nowrap;
-  line-height: 1.3;
+  line-height: 1;
+  height: auto !important;
 }
 
+.tool-cell a {
+  display: inline !important;
+  margin: 0 !important;
+}
+
+img[data-path^="assets/tool-favicons"],
 .tool-favicon {
-  width: 24px;
-  height: 24px;
-  min-width: 24px;
-  min-height: 24px;
-  max-width: 24px;
-  max-height: 24px;
-  object-fit: contain;
-  border-radius: 4px;
+  width: 28px !important;
+  height: 28px !important;
+  min-width: 28px !important;
+  min-height: 28px !important;
+  max-width: 28px !important;
+  max-height: 28px !important;
+  margin: 0 !important;
+  padding: 2px !important;
+  display: inline-block !important;
+  object-fit: contain !important;
+  border-radius: 6px;
+  background: #fff;
+  box-sizing: border-box;
   flex-shrink: 0;
   vertical-align: middle;
 }
 
-html[data-current-path="/tools"] table td:first-child {
+article:has(.tool-cell) table td,
+article:has(.tool-cell) table th {
+  vertical-align: top !important;
+  min-width: 0 !important;
+}
+
+table:has(.tool-cell) {
+  table-layout: fixed;
+  width: 100%;
+}
+
+table:has(.tool-cell) th:nth-child(1),
+table:has(.tool-cell) td:nth-child(1) {
+  width: 16%;
   white-space: nowrap;
-  vertical-align: middle;
+}
+
+table:has(.tool-cell) th:nth-child(2),
+table:has(.tool-cell) td:nth-child(2) {
+  width: 14%;
+}
+
+table:has(.tool-cell) th:nth-child(n + 3),
+table:has(.tool-cell) td:nth-child(n + 3) {
+  width: 23.33%;
 }
