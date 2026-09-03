@@ -6,7 +6,7 @@
 
 **Last reviewed:** 2026-09-03
 
-**Read the library:** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.site)
+**Read the library:** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.app)
 
 This README is the GitHub entrance—coverage, how to start, and where source lives. The site is the reading surface.
 
@@ -119,7 +119,7 @@ End a work cycle with one decision and one next test.
 
 - English is canonical for playbooks, tools, the Skill, and this README. Chinese is a secondary entrance in [README.zh.md](README.zh.md).
 - Coverage or structure changes update both files in the same commit.
-- Readers use the [Mintlify site](https://b2-b-playbook.mintlify.site). Mintlify ignores `README.md`, so domain and collection guides on the site are `index.md` (and `templates/overview.md`). When a map changes, update the GitHub README and the site copy in the same commit.
+- Readers use the [Mintlify site](https://b2-b-playbook.mintlify.app). Mintlify ignores `README.md`, so domain and collection guides on the site are `index.md` (and `templates/overview.md`). When a map changes, update the GitHub README and the site copy in the same commit.
 - Ivan Xu (`weilun88313`) keeps one editorial voice. The library grows one complete tactic at a time.
 - A verified use case ships only with a named company, a primary source, and a date.
 
