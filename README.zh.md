@@ -11,7 +11,7 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 
 **最后核验：** 2026-09-03
 
-**阅读入口：** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.site)
+**阅读入口：** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.app)
 
 本页和英文 [README.md](README.md) 是 GitHub 上的入口说明。完整阅读走站点。
 
@@ -124,7 +124,7 @@ Skill 只负责路由，不发信、不补全联系人、不改 CRM。
 
 - Playbook、工具、Skill 和根目录 [README.md](README.md) 的正文只维护英文。中文只在本页，完整同步入口和覆盖数。
 - 结构或覆盖变化时，中英文必须同一次提交更新。
-- 读者走 [Mintlify 站点](https://b2-b-playbook.mintlify.site)。Mintlify 不发布 `README.md`，站点上的领域指南是 `index.md`（工作文件说明是 `templates/overview.md`）。地图变更时，GitHub README 和站点副本同一次提交更新。
+- 读者走 [Mintlify 站点](https://b2-b-playbook.mintlify.app)。Mintlify 不发布 `README.md`，站点上的领域指南是 `index.md`（工作文件说明是 `templates/overview.md`）。地图变更时，GitHub README 和站点副本同一次提交更新。
 - Ivan Xu（`weilun88313`）用同一套口径维护。知识库一次只完整发布一篇战术。
 - 已验证案例必须有企业名、一手来源和日期。
 
