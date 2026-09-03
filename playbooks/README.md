@@ -1,6 +1,6 @@
 # B2B marketing playbook index
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 
@@ -20,6 +20,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Idea discovery | [Strategy & buyers](01-strategy-and-buyers/) | [Idea discovery](01-strategy-and-buyers/idea-discovery.md) |
 | Idea validation | [Strategy & buyers](01-strategy-and-buyers/) | [Idea validation](01-strategy-and-buyers/idea-validation.md) |
 | ICP | [Strategy & buyers](01-strategy-and-buyers/) | [Ideal customer profile](01-strategy-and-buyers/icp.md) |
+| Wedge / first niche | [Strategy & buyers](01-strategy-and-buyers/) | [Wedge](01-strategy-and-buyers/wedge.md) |
 | Buying committee | [Strategy & buyers](01-strategy-and-buyers/) | [Buying committee](01-strategy-and-buyers/buying-committee.md) |
 | First 10 customers | [Strategy & buyers](01-strategy-and-buyers/) | [First ten customers](01-strategy-and-buyers/first-ten-customers.md) |
 | Product-market fit | [Strategy & buyers](01-strategy-and-buyers/) | [Product-market fit](01-strategy-and-buyers/product-market-fit.md) |
@@ -27,6 +28,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Positioning | [Product marketing](02-product-marketing/) | [Positioning](02-product-marketing/positioning.md) |
 | Messaging / message hierarchy | [Product marketing](02-product-marketing/) | [Messaging](02-product-marketing/messaging.md) |
 | Competitive intel / battlecard | [Product marketing](02-product-marketing/) | [Competitive intelligence](02-product-marketing/competitive-intelligence.md) |
+| Product launch / launch tier | [Product marketing](02-product-marketing/) | [Product launch](02-product-marketing/product-launch.md) |
 | Pricing | [Product marketing](02-product-marketing/) | [Pricing and packaging](02-product-marketing/pricing-and-packaging.md) |
 | Sales pitch | [Product marketing](02-product-marketing/) | [Sales enablement](02-product-marketing/sales-enablement.md) |
 | Demo / product walk | [Product marketing](02-product-marketing/) | [Demo](02-product-marketing/demo.md) |
@@ -59,7 +61,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Dinner / roundtable | [Account, field & partner](06-account-field-and-partner/) | [Executive dinners](06-account-field-and-partner/executive-dinners.md) |
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](06-account-field-and-partner/) | [Account planning](06-account-field-and-partner/account-planning.md) |
-| ABM / account tiers / 1:1 vs 1:few | [Account, field & partner](06-account-field-and-partner/) | [ABM strategy](06-account-field-and-partner/abm-strategy.md) |
+| ABM / account-driven / account tiers | [Account, field & partner](06-account-field-and-partner/) | [ABM strategy](06-account-field-and-partner/abm-strategy.md) |
 | Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
 | Homepage | [Website & conversion](07-website-and-conversion/) | [Homepage](07-website-and-conversion/homepage.md) |
 | Comparison page | [Website & conversion](07-website-and-conversion/) | [Comparison page](07-website-and-conversion/comparison-page.md) |
@@ -82,6 +84,8 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Forecast / pipeline hygiene | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Forecasting](09-operations-pipeline-and-measurement/forecasting.md) |
 | Lead scoring / MQL | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) |
 | GTM plan / capacity vs demand | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md) |
+| Marketing budget / monthly headcount | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Budget and planning](09-operations-pipeline-and-measurement/budget-and-planning.md) |
+| First marketer / marketing org / π-shape | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Marketing org](09-operations-pipeline-and-measurement/marketing-org.md) |
 | VP Sales / sales-leader 90 days | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md) |
 | CRM fields / migration map | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md) |
 | MarTech / vendor bake-off | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md) |
@@ -104,6 +108,7 @@ Published:
 - [Idea discovery](01-strategy-and-buyers/idea-discovery.md)
 - [Idea validation](01-strategy-and-buyers/idea-validation.md)
 - [Ideal customer profile](01-strategy-and-buyers/icp.md)
+- [Wedge](01-strategy-and-buyers/wedge.md)
 - [Buying committee](01-strategy-and-buyers/buying-committee.md)
 - [First ten customers](01-strategy-and-buyers/first-ten-customers.md)
 - [Product-market fit](01-strategy-and-buyers/product-market-fit.md)
@@ -120,12 +125,13 @@ Published:
 - [Positioning](02-product-marketing/positioning.md)
 - [Messaging](02-product-marketing/messaging.md)
 - [Competitive intelligence](02-product-marketing/competitive-intelligence.md)
+- [Product launch](02-product-marketing/product-launch.md)
 - [Pricing and packaging](02-product-marketing/pricing-and-packaging.md)
 - [Sales enablement](02-product-marketing/sales-enablement.md)
 - [Demo](02-product-marketing/demo.md)
 - [Change friction](02-product-marketing/change-friction.md)
 
-Planned: value proposition, product launch, proof and claims.
+Planned: value proposition, proof and claims.
 
 ## 03 · [Brand, story & content](03-brand-story-and-content/)
 
@@ -234,6 +240,8 @@ Published:
 - [Forecasting](09-operations-pipeline-and-measurement/forecasting.md)
 - [Lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md)
 - [GTM planning](09-operations-pipeline-and-measurement/gtm-planning.md)
+- [Budget and planning](09-operations-pipeline-and-measurement/budget-and-planning.md)
+- [Marketing org](09-operations-pipeline-and-measurement/marketing-org.md)
 - [Sales-leadership ramp](09-operations-pipeline-and-measurement/sales-leadership-ramp.md)
 - [CRM data model](09-operations-pipeline-and-measurement/crm-data-model.md)
 - [MarTech governance](09-operations-pipeline-and-measurement/martech-governance.md)
@@ -247,7 +255,7 @@ Published:
 - [AI workflow](09-operations-pipeline-and-measurement/ai-workflow.md)
 - [Measurement model](09-operations-pipeline-and-measurement/measurement-model.md)
 
-Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](09-operations-pipeline-and-measurement/measurement-model.md)), dashboards, budget and planning, privacy and compliance operations.
+Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](09-operations-pipeline-and-measurement/measurement-model.md)), dashboards, privacy and compliance operations.
 
 ## Domain guide contract
 

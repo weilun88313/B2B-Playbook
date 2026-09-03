@@ -2,9 +2,9 @@
 
 > **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
 
-**Status:** Domain guide published · 7 tactic playbooks published
+**Status:** Domain guide published · 8 tactic playbooks published
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-03
 
 ## Scope
 
@@ -26,6 +26,7 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 10. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
 11. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
 12. Do market, product, channel, and model describe the same company—or four slides that refuse each other?
+13. Which audience-plus-use-case will we win first, and how does that foothold fund the next niche?
 
 ## Playbook map
 
@@ -34,6 +35,7 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 | [Idea discovery](idea-discovery.md) | Published | Where did this idea come from, and is it even a candidate? |
 | [Idea validation](idea-validation.md) | Published | Does this idea have pain and pull, or is it still polite interest? |
 | [Ideal customer profile](icp.md) | Published | Which accounts deserve attention, and which should be excluded? |
+| [Wedge](wedge.md) | Published | Which audience and use case do we win first—and how do we expand without a cold start? |
 | [Buying committee](buying-committee.md) | Published | Who participates in the decision, and what does each role need? |
 | [First ten customers](first-ten-customers.md) | Published | How do you find and win the first ~10 companies that match the ICP? |
 | [Product-market fit](product-market-fit.md) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
@@ -52,12 +54,13 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 1. Name a candidate with [idea discovery](idea-discovery.md)—important, underserved, and worth years—before treating a canvas as strategy.
 2. Validate the idea for pain and pull with [idea validation](idea-validation.md).
 3. Define the ICP and explicit disqualifiers.
-4. Map the buying committee for the accounts that pass those filters.
-5. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
-6. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
-7. Check that market, product, channel, and model still agree: [four fits](four-fits.md).
-8. Add jobs, triggers, category entry points, and competitive alternatives.
-9. Feed the resulting evidence into positioning and channel selection.
+4. Name the [wedge](wedge.md) (audience + use case) you will actually win first.
+5. Map the buying committee for the accounts that pass those filters.
+6. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
+7. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
+8. Check that market, product, channel, and model still agree: [four fits](four-fits.md).
+9. Add jobs, triggers, category entry points, and competitive alternatives.
+10. Feed the resulting evidence into positioning and channel selection.
 
 ## Interfaces with other domains
 

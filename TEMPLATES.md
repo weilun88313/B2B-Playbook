@@ -3,9 +3,9 @@ title: "Working files"
 sidebarTitle: "Catalog"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
-**Current coverage:** 52 working files
+**Current coverage:** 56 working files
 
 These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
 
@@ -41,9 +41,13 @@ Google “Make a copy” URLs are added here only after the owner publishes a vi
 | [Message-market-fit card](templates/message-market-fit.md) | Doc | One offer, one handmade batch, scale gate | [Message-market fit](playbooks/05-outbound-and-prospecting/message-market-fit.md) |
 | [Campaign brief (GACCS)](templates/campaign-brief.md) | Doc | Goal, audience, unique take, channels, stakeholders before production | [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md) |
 | [Messaging hierarchy](templates/messaging.md) | Doc | Core four lines, three value lines, surface rows | [Messaging](playbooks/02-product-marketing/messaging.md) |
+| [Product-launch card](templates/product-launch.md) | Doc | Tier, GACCS, 30/60/90 after day one | [Product launch](playbooks/02-product-marketing/product-launch.md) |
+| [Wedge card](templates/wedge.md) | Doc | Audience + use case, 10× alternative, next expansion | [Wedge](playbooks/01-strategy-and-buyers/wedge.md) |
 | [Alternative card](templates/competitive-intelligence.md) | Doc | Live short list; where they win; blank over guess | [Competitive intelligence](playbooks/02-product-marketing/competitive-intelligence.md) |
 | [Founder-story card](templates/founder-story.md) | Doc | One perception, one scene, advantage check | [Founder story](playbooks/03-brand-story-and-content/founder-story.md) |
 | [Marketing strategy inputs](templates/marketing-strategy-inputs.md) | Doc | Ranked ICPs, advantages, perceptions, four levers, big bets, KPO—before the demand sheet | [GTM planning](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) |
+| [Budget card](templates/budget-and-planning.md) | Doc | Top-down vs bottom-up, monthly headcount, CAC split | [Budget and planning](playbooks/09-operations-pipeline-and-measurement/budget-and-planning.md) |
+| [Marketing org card](templates/marketing-org.md) | Doc | π-shape, fuel/engine/PMM gaps, next hire | [Marketing org](playbooks/09-operations-pipeline-and-measurement/marketing-org.md) |
 | [Company-cadence card](templates/company-cadence.md) | Doc | Fiscal close, rock, lightning strike, offset | [Company cadence](playbooks/09-operations-pipeline-and-measurement/company-cadence.md) |
 | [Case-study brief](templates/case-study.md) | Doc | Named customer, dated result, friction, approval | [Case study](playbooks/03-brand-story-and-content/case-study.md) |
 | [Landing-page brief](templates/landing-page.md) | Doc | One promise, one door, kill date | [Landing page](playbooks/07-website-and-conversion/landing-page.md) |

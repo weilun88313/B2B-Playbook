@@ -3,7 +3,7 @@ title: "Ideal customer profile (ICP)"
 sidebarTitle: "ICP"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
 Most B2B teams do not have an ICP. They have a category they wish were a market, and a slide of logos they would like to close. An ICP turns a market into **observable account filters and different next actions**—not “everyone interested in this category.”
 
@@ -122,6 +122,10 @@ T1 / T2 / T3 is how you treat **accounts** inside a profile. If the company is r
 
 Get sales and CS to agree which profile is core. A “new vertical” that has never closed is testing, not a second homepage. Working file: [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md).
 
+### Step 6: pick the wedge you will actually win first
+
+A core ICP can still be too wide for the homepage. Name the **audience + use case** you will win now, load that GTM TAM, and plan expansion that uses the foothold. That method is [wedge](wedge.md). Do not market the pitch-deck TAM while this profile is still unconverted.
+
 ## Copyable templates
 
 ### How a filled ICP canvas reads
@@ -170,6 +174,7 @@ Copy the blanks below for *your* market.
 - [ ] Tiering produces different default actions.
 - [ ] Facts, assumptions, and unknowns are separate.
 - [ ] If more than one ICP exists, each has a maturity (core / scaling / testing / not a priority) and they are not funded equally.
+- [ ] The first niche to win (audience + use case) is written on [wedge](wedge.md), or we wrote why this ICP is already that pair.
 
 ## Metrics
 
@@ -190,10 +195,11 @@ Do not count an ICP workshop, persona-page volume, or an unfiltered TAM estimate
 - Hiding unknowns behind model-generated detail.
 - Letting sales pursue T3 accounts without recording an exception.
 - Funding every ICP equally because each has a champion in the room.
+- Marketing the investor TAM on the homepage while the core profile is still a slogan.
 
 ## What to read next
 
-A candidate without proof still belongs in [idea discovery](idea-discovery.md) or [idea validation](idea-validation.md). Once the idea has pain and pull, map the people who have to say yes: [buying committee](buying-committee.md). Then go get them: [first ten customers](first-ten-customers.md). Whether they love it and pay is [product-market fit](product-market-fit.md).
+A candidate without proof still belongs in [idea discovery](idea-discovery.md) or [idea validation](idea-validation.md). Once the idea has pain and pull, map the people who have to say yes: [buying committee](buying-committee.md). Then go get them: [first ten customers](first-ten-customers.md). Whether they love it and pay is [product-market fit](product-market-fit.md). The first pair you will win, and how you expand without a cold start, is [wedge](wedge.md). How that universe is loaded and tiered is [ABM strategy](../06-account-field-and-partner/abm-strategy.md).
 
 ## Sources and evidence boundary
 
@@ -201,7 +207,7 @@ This is an owner-maintained operating synthesis. Thresholds and dimensions are s
 
 The user-versus-buyer warning and the half-week-with-customers discipline draw on founder interviews collected by Lenny Rachitsky ([Lenny’s Newsletter, 2023-09-12](https://www.lennysnewsletter.com/p/finding-product-market-fit?ref=b2b-playbook)). Snyk and Amplitude are that author’s illustrations, not ICP templates to copy.
 
-Ranking multiple ICPs by maturity (core / scaling / testing / not a priority) instead of spending equally draws on Emily Kramer’s planning exercises ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook)). The paid ICP worksheets behind that paywall are not reproduced here. T1/T2/T3 on this page remains an account filter inside a profile; maturity is how you rank the profiles.
+Ranking multiple ICPs by maturity (core / scaling / testing / not a priority) instead of spending equally draws on Emily Kramer’s planning exercises ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook)). The paid ICP worksheets behind that paywall are not reproduced here. T1/T2/T3 on this page remains an account filter inside a profile; maturity is how you rank the profiles. The first **audience + use case** to win is [wedge](wedge.md), distilled from Kramer ([MKT1, 2024-03-14](https://newsletter.mkt1.co/p/wedge-marketing-strategy?ref=b2b-playbook)).
 
 ---
 

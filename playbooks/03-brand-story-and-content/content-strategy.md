@@ -3,7 +3,7 @@ title: "Content strategy"
 sidebarTitle: "Content Strategy"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
 A team can publish twice a week and still have nothing a champion can forward. Analytics look like growth. Sales still pastes the homepage into the evaluation thread and hopes. The champion still cannot answer “why not keep the spreadsheet” without booking another call.
 
@@ -62,6 +62,8 @@ Brand narrative, founder story, and thought leadership still matter. They are la
 Write **three or four perceptions**—statements a buyer should be able to say about you. They are the year’s storylines, not slogans. A campaign Goal should move one of them. If most non-SEO content cannot ladder to one, you have too many campaigns and not enough story. The set together should be hard for a competitor to claim; a single line can overlap.
 
 Anything longer than a social one-liner then gets a **GACCS** on [campaign-brief.md](../../templates/campaign-brief.md): **Goal** (a perception or an OKR), **Audience** (the seat, and whether this is a core / scaling / testing ICP), **Creative / unique take** (still useful if the product name is removed), **Channels** (who actually distributes it), **Stakeholders** (who must approve, who ships, who is only informed). If it does not ladder to a perception or a goal, it is busywork. If it does not add a fact the reader lacked, it is a duplicate. If nobody can name who approves and who produces, it will stall in Slack.
+
+Write the **distribution plan in that brief before production**. Channel must match the audience; goals must match the channel’s time horizon (SEO will not hit a this-quarter lead target). Not every asset earns a T1 “launch” of the content—tier the mileage. A big-bet URL is planned like a [product launch](../02-product-marketing/product-launch.md). If you skip distribution, do not bother making the asset.
 
 Do not start production to “fill the calendar,” then reverse-engineer a brief.
 
@@ -166,7 +168,7 @@ A named customer’s proof, when you have approval, is a [case study](case-study
 
 This is an owner-maintained operating synthesis. It does not claim a universal content ROI model. Proof on any live page must stay inside dated, checkable product, customer, security, and performance evidence. Fictional companies and anonymous “case studies” are not evidence.
 
-The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The GACC brief (goal, audience, creative/unique take, channels) and the “ladders to a perception or OKR / add-value test” gate draw on Emily Kramer’s public GACC essay ([MKT1, 2021-07-27](https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best?ref=b2b-playbook)). **Stakeholders** as the fifth line (GACCS) is the 2025 evolution of that brief ([MKT1, 2025-07-24](https://newsletter.mkt1.co/p/gaccs-brief-generator-and-template?ref=b2b-playbook)). Three-to-four perceptions as the year’s storylines, and the test that most non-SEO content can ladder to one of them, draw on Kramer’s planning exercises ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook)). The paid generator, Google Docs pack, and interactive builder behind those paywalls are not reproduced here. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
+The decision-stage sequencing (evaluate and decide before educate) draws on practitioner guidance about matching content to buying jobs rather than to a posting cadence. The GACC brief (goal, audience, creative/unique take, channels) and the “ladders to a perception or OKR / add-value test” gate draw on Emily Kramer’s public GACC essay ([MKT1, 2021-07-27](https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best?ref=b2b-playbook)). **Stakeholders** as the fifth line (GACCS) is the 2025 evolution of that brief ([MKT1, 2025-07-24](https://newsletter.mkt1.co/p/gaccs-brief-generator-and-template?ref=b2b-playbook)). Three-to-four perceptions as the year’s storylines, and the test that most non-SEO content can ladder to one of them, draw on Kramer’s planning exercises ([MKT1, 2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook)). The paid generator, Google Docs pack, and interactive builder behind those paywalls are not reproduced here. Plan distribution in the GACCS **before** production, match channel to audience and time horizon, and treat a big-bet asset like a launch draw on Kramer ([MKT1, 2022-09-28](https://newsletter.mkt1.co/p/content-distribution?ref=b2b-playbook)). The paid channel list and launch-plan sheet are not reproduced. The worksheet table is a teaching fill: typical evaluation questions, not a named customer.
 
 ---
 

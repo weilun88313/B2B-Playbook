@@ -2,9 +2,9 @@
 
 > A practical B2B marketing operating library for making better go-to-market decisions—and turning them into observable work.
 
-**Current coverage:** 73 published playbooks · 52 working files · 43 curated tools · 20 reading sources · 9 domain guides
+**Current coverage:** 77 published playbooks · 56 working files · 43 curated tools · 20 reading sources · 9 domain guides
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
 **Read the library:** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.site)
 
@@ -30,16 +30,17 @@ Read in order. Follow each page’s **What to read next**. Skip a chapter only w
 1. [Idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md)
 2. [Idea validation](playbooks/01-strategy-and-buyers/idea-validation.md)
 3. [Ideal customer profile](playbooks/01-strategy-and-buyers/icp.md)
-4. [Buying committee](playbooks/01-strategy-and-buyers/buying-committee.md)
-5. [First ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md)
-6. [Product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md)
-7. [Four Fits](playbooks/01-strategy-and-buyers/four-fits.md)
-8. [Positioning](playbooks/02-product-marketing/positioning.md)
-9. [Sales enablement](playbooks/02-product-marketing/sales-enablement.md)
-10. [Pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md)
-11. [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md)
-12. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md)
-13. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
+4. [Wedge](playbooks/01-strategy-and-buyers/wedge.md)
+5. [Buying committee](playbooks/01-strategy-and-buyers/buying-committee.md)
+6. [First ten customers](playbooks/01-strategy-and-buyers/first-ten-customers.md)
+7. [Product-market fit](playbooks/01-strategy-and-buyers/product-market-fit.md)
+8. [Four Fits](playbooks/01-strategy-and-buyers/four-fits.md)
+9. [Positioning](playbooks/02-product-marketing/positioning.md)
+10. [Sales enablement](playbooks/02-product-marketing/sales-enablement.md)
+11. [Pricing and packaging](playbooks/02-product-marketing/pricing-and-packaging.md)
+12. [Content strategy](playbooks/03-brand-story-and-content/content-strategy.md)
+13. [Channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md)
+14. Then only the motion you named: [outbound](playbooks/05-outbound-and-prospecting/), [events](playbooks/06-account-field-and-partner/event-marketing.md) / [trade shows](playbooks/06-account-field-and-partner/trade-shows.md), or [ecosystem](playbooks/06-account-field-and-partner/ecosystem.md)
 
 After positioning, the site scan starts at the [homepage](playbooks/07-website-and-conversion/homepage.md). Two scoreboards for what you publish or buy: [measurement model](playbooks/09-operations-pipeline-and-measurement/measurement-model.md). Ten minutes and no idea yet: [idea discovery](playbooks/01-strategy-and-buyers/idea-discovery.md). Already know the job: the [ICP field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test). Jumping to cold email with neither is how teams stay busy.
 
@@ -48,7 +49,7 @@ After positioning, the site scan starts at the [homepage](playbooks/07-website-a
 | Collection | Use it to | Start here |
 |---|---|---|
 | **Playbooks** | Find a capability, channel, or tactic | [Master index](playbooks/) |
-| **Working files** | Open a sheet, scorecard, or 90-day outline | [52 working files](TEMPLATES.md) |
+| **Working files** | Open a sheet, scorecard, or 90-day outline | [56 working files](TEMPLATES.md) |
 | **Tools** | Pick software for a defined job | [43-tool directory](TOOLS.md) |
 | **Reading sources** | Follow operators without treating a feed as strategy | [19-source directory](RESOURCES.md) |
 | **Agent Skill** | Route a task through the right method | [Install](#agent-skill) |
@@ -60,15 +61,15 @@ Two levels: a **domain** owns a durable decision; a **tactic** executes one moti
 
 | # | Domain | Decision | Published |
 |---|---|---|---|
-| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, and who buys | 7 |
-| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand and buy | 5 |
-| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | What future buyers remember before they are in-market | 3 |
+| 01 | [Strategy & buyers](playbooks/01-strategy-and-buyers/) | Where to compete, and who buys | 8 |
+| 02 | [Product marketing](playbooks/02-product-marketing/) | What the market should understand and buy | 8 |
+| 03 | [Brand, story & content](playbooks/03-brand-story-and-content/) | What future buyers remember before they are in-market | 4 |
 | 04 | [Channels & distribution](playbooks/04-channels-and-distribution/) | Where the market repeatedly encounters the offer | 9 |
 | 05 | [Outbound & prospecting](playbooks/05-outbound-and-prospecting/) | How to create conversations that have not been requested | 9 |
 | 06 | [Account, field & partner](playbooks/06-account-field-and-partner/) | How marketing and sales coordinate around named accounts | 6 |
 | 07 | [Website & conversion](playbooks/07-website-and-conversion/) | How owned pages help a buyer take the next step | 6 |
 | 08 | [Lifecycle & customer](playbooks/08-lifecycle-and-customer-marketing/) | How to educate, retain, and expand after interest or purchase | 9 |
-| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data and process make the system repeatable | 16 |
+| 09 | [Operations, pipeline & measurement](playbooks/09-operations-pipeline-and-measurement/) | How data and process make the system repeatable | 18 |
 
 Enterprise close (papering, procurement, multi-threaded negotiation) is outside this taxonomy. Quota pay, forecast, and post-sale operations that marketing must share sit in domains 06, 08, and 09. A later sales-ops collection would be separate.
 
