@@ -23,6 +23,7 @@ This is not a 40-slide operating system, not a user-conference playbook, and not
 - The founder still sells the first logos. A company calendar is costume. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
 - You need the weekly sales meetings. That is [sales operating cadence](sales-operating-cadence.md).
 - You need next year’s demand vs capacity math. That is [GTM planning](gtm-planning.md).
+- You need the budget and monthly headcount that follow that plan. That is [budget and planning](budget-and-planning.md).
 - You need MEDDIC fields. Write them on the opportunity. Do not smuggle a qualification brand into a launch week.
 
 ## Words you will use
@@ -111,7 +112,7 @@ Do not count all-hands held, or a keynote that shipped nothing, as cadence.
 
 ## What to read next
 
-The weekly sales clock is [sales operating cadence](sales-operating-cadence.md). Whether the year can close is [GTM planning](gtm-planning.md). Which assumption you will kill this quarter is [experimentation](experimentation.md). What marketing is allowed to concentrate on is still [content strategy](../03-brand-story-and-content/content-strategy.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). A night that is a table, not a keynote, is [executive dinners](../06-account-field-and-partner/executive-dinners.md).
+The weekly sales clock is [sales operating cadence](sales-operating-cadence.md). Whether the year can close is [GTM planning](gtm-planning.md). The money and monthly headcount that make that year honest are [budget and planning](budget-and-planning.md). The launch as a market event (not the close-week date) is [product launch](../02-product-marketing/product-launch.md). Which assumption you will kill this quarter is [experimentation](experimentation.md). What marketing is allowed to concentrate on is still [content strategy](../03-brand-story-and-content/content-strategy.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). A night that is a table, not a keynote, is [executive dinners](../06-account-field-and-partner/executive-dinners.md).
 
 ## Sources and evidence boundary
 

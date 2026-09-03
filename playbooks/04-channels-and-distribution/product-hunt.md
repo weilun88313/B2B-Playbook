@@ -21,6 +21,7 @@ A good day can mint social proof. A standing “we grow on PH” plan is how tea
 - You need the first ten logos. Stay in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md).
 - You are buying upvotes, fake comments, or a “we will get you #1” service.
 - Leadership wants Product Hunt as the Q3 acquisition channel.
+- You need a coordinated product campaign (tier, GACCS, momentum after day one). That is [product launch](../02-product-marketing/product-launch.md).
 
 ## Words you will use
 
@@ -107,7 +108,7 @@ Do not count upvotes, #1, or referral traffic as acquisition.
 
 ## What to read next
 
-Handmade first logos are [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). Whether anyone stays is [product-market fit](../01-strategy-and-buyers/product-market-fit.md). The motion you return to is [channel strategy](channel-strategy.md). Questions from the thread become [content strategy](../03-brand-story-and-content/content-strategy.md). If you needed a peer room instead of a launch day, that is [peer community](community.md).
+Handmade first logos are [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). Whether anyone stays is [product-market fit](../01-strategy-and-buyers/product-market-fit.md). The motion you return to is [channel strategy](channel-strategy.md). A real market event—not a hunter thread—is [product launch](../02-product-marketing/product-launch.md). Questions from the thread become [content strategy](../03-brand-story-and-content/content-strategy.md). If you needed a peer room instead of a launch day, that is [peer community](community.md).
 
 ## Sources and evidence boundary
 

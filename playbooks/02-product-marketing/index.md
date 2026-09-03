@@ -5,9 +5,9 @@ sidebarTitle: "Overview"
 
 > **Decision owned:** What should the market understand, believe, compare, and buy?
 
-**Status:** Domain guide published · 7 tactic playbooks published
+**Status:** Domain guide published · 8 tactic playbooks published
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
 ## Scope
 
@@ -36,7 +36,7 @@ It owns positioning, messaging architecture, value propositions, competitive fra
 | Value proposition | Planned: `value-proposition.md` | What valuable outcome is promised, for whom, and why is it credible? |
 | [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence) | Published | What should teams know and do when alternatives enter the decision? |
 | [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging) | Published | How should the offer convert differentiated value into a number the champion can defend? |
-| Product launch | Planned: `product-launch.md` | How should a product change become a coordinated market event? |
+| [Product launch](/playbooks/02-product-marketing/product-launch) | Published | How should a product change become a coordinated market event—and when should it not? |
 | Proof and claims | Planned: `proof-and-claims.md` | Which evidence is strong enough to support each commercial claim? |
 | [Sales enablement](/playbooks/02-product-marketing/sales-enablement) | Published | How should positioning become a first meeting that helps the buyer choose? |
 | [Demo](/playbooks/02-product-marketing/demo) | Published | What must the product walk prove after the pitch, and how do we score it? |
@@ -52,7 +52,8 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 4. Establish proof, claims, and competitive-intelligence standards.
 5. Turn positioning into the [sales pitch](/playbooks/02-product-marketing/sales-enablement) so the story does not die in first meetings.
 6. Score the product walk with [demo](/playbooks/02-product-marketing/demo) only after the pitch’s perfect world is agreed.
-7. Package remaining assets for website, content, partners, and lifecycle.
+7. Right-size a [product launch](/playbooks/02-product-marketing/product-launch) as a campaign (tier, GACCS, after day one)—not every ship date.
+8. Package remaining assets for website, content, partners, and lifecycle.
 
 ## Interfaces with other domains
 

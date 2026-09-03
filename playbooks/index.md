@@ -3,7 +3,7 @@ title: "Playbook index"
 sidebarTitle: "Index"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-03
 
 Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
 
@@ -23,6 +23,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Idea discovery | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Idea discovery](/playbooks/01-strategy-and-buyers/idea-discovery) |
 | Idea validation | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Idea validation](/playbooks/01-strategy-and-buyers/idea-validation) |
 | ICP | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Ideal customer profile](/playbooks/01-strategy-and-buyers/icp) |
+| Wedge / first niche | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Wedge](/playbooks/01-strategy-and-buyers/wedge) |
 | Buying committee | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Buying committee](/playbooks/01-strategy-and-buyers/buying-committee) |
 | First 10 customers | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [First ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers) |
 | Product-market fit | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) |
@@ -30,6 +31,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Positioning | [Product marketing](/playbooks/02-product-marketing) | [Positioning](/playbooks/02-product-marketing/positioning) |
 | Messaging / message hierarchy | [Product marketing](/playbooks/02-product-marketing) | [Messaging](/playbooks/02-product-marketing/messaging) |
 | Competitive intel / battlecard | [Product marketing](/playbooks/02-product-marketing) | [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence) |
+| Product launch / launch tier | [Product marketing](/playbooks/02-product-marketing) | [Product launch](/playbooks/02-product-marketing/product-launch) |
 | Pricing | [Product marketing](/playbooks/02-product-marketing) | [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging) |
 | Sales pitch | [Product marketing](/playbooks/02-product-marketing) | [Sales enablement](/playbooks/02-product-marketing/sales-enablement) |
 | Demo / product walk | [Product marketing](/playbooks/02-product-marketing) | [Demo](/playbooks/02-product-marketing/demo) |
@@ -62,7 +64,7 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Dinner / roundtable | [Account, field & partner](/playbooks/06-account-field-and-partner) | [Executive dinners](/playbooks/06-account-field-and-partner/executive-dinners) |
 | Ecosystem / partners | [Account, field & partner](/playbooks/06-account-field-and-partner) | [Ecosystem](/playbooks/06-account-field-and-partner/ecosystem) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](/playbooks/06-account-field-and-partner) | [Account planning](/playbooks/06-account-field-and-partner/account-planning) |
-| ABM / account tiers / 1:1 vs 1:few | [Account, field & partner](/playbooks/06-account-field-and-partner) | [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) |
+| ABM / account-driven / account tiers | [Account, field & partner](/playbooks/06-account-field-and-partner) | [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) |
 | Affiliate | [Account, field & partner](/playbooks/06-account-field-and-partner) | Planned: `affiliate-program.md` |
 | Homepage | [Website & conversion](/playbooks/07-website-and-conversion) | [Homepage](/playbooks/07-website-and-conversion/homepage) |
 | Comparison page | [Website & conversion](/playbooks/07-website-and-conversion) | [Comparison page](/playbooks/07-website-and-conversion/comparison-page) |
@@ -85,6 +87,8 @@ A tactic receives its own Markdown file only when its execution guidance, templa
 | Forecast / pipeline hygiene | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Forecasting](/playbooks/09-operations-pipeline-and-measurement/forecasting) |
 | Lead scoring / MQL | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Lead scoring](/playbooks/09-operations-pipeline-and-measurement/lead-scoring) |
 | GTM plan / capacity vs demand | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [GTM planning](/playbooks/09-operations-pipeline-and-measurement/gtm-planning) |
+| Marketing budget / monthly headcount | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Budget and planning](/playbooks/09-operations-pipeline-and-measurement/budget-and-planning) |
+| First marketer / marketing org / π-shape | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Marketing org](/playbooks/09-operations-pipeline-and-measurement/marketing-org) |
 | VP Sales / sales-leader 90 days | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Sales-leadership ramp](/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp) |
 | CRM fields / migration map | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [CRM data model](/playbooks/09-operations-pipeline-and-measurement/crm-data-model) |
 | MarTech / vendor bake-off | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [MarTech governance](/playbooks/09-operations-pipeline-and-measurement/martech-governance) |
@@ -107,6 +111,7 @@ Published:
 - [Idea discovery](/playbooks/01-strategy-and-buyers/idea-discovery)
 - [Idea validation](/playbooks/01-strategy-and-buyers/idea-validation)
 - [Ideal customer profile](/playbooks/01-strategy-and-buyers/icp)
+- [Wedge](/playbooks/01-strategy-and-buyers/wedge)
 - [Buying committee](/playbooks/01-strategy-and-buyers/buying-committee)
 - [First ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers)
 - [Product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit)
@@ -123,12 +128,13 @@ Published:
 - [Positioning](/playbooks/02-product-marketing/positioning)
 - [Messaging](/playbooks/02-product-marketing/messaging)
 - [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence)
+- [Product launch](/playbooks/02-product-marketing/product-launch)
 - [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging)
 - [Sales enablement](/playbooks/02-product-marketing/sales-enablement)
 - [Demo](/playbooks/02-product-marketing/demo)
 - [Change friction](/playbooks/02-product-marketing/change-friction)
 
-Planned: value proposition, product launch, proof and claims.
+Planned: value proposition, proof and claims.
 
 ## 03 · [Brand, story & content](/playbooks/03-brand-story-and-content)
 
@@ -237,6 +243,8 @@ Published:
 - [Forecasting](/playbooks/09-operations-pipeline-and-measurement/forecasting)
 - [Lead scoring](/playbooks/09-operations-pipeline-and-measurement/lead-scoring)
 - [GTM planning](/playbooks/09-operations-pipeline-and-measurement/gtm-planning)
+- [Budget and planning](/playbooks/09-operations-pipeline-and-measurement/budget-and-planning)
+- [Marketing org](/playbooks/09-operations-pipeline-and-measurement/marketing-org)
 - [Sales-leadership ramp](/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp)
 - [CRM data model](/playbooks/09-operations-pipeline-and-measurement/crm-data-model)
 - [MarTech governance](/playbooks/09-operations-pipeline-and-measurement/martech-governance)
@@ -250,7 +258,7 @@ Published:
 - [AI workflow](/playbooks/09-operations-pipeline-and-measurement/ai-workflow)
 - [Measurement model](/playbooks/09-operations-pipeline-and-measurement/measurement-model)
 
-Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](/playbooks/09-operations-pipeline-and-measurement/measurement-model)), dashboards, budget and planning, privacy and compliance operations.
+Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](/playbooks/09-operations-pipeline-and-measurement/measurement-model)), dashboards, privacy and compliance operations.
 
 ## Domain guide contract
 

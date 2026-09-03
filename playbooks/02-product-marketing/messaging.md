@@ -149,7 +149,7 @@ Do not count slogan variants, workshop decks, or “we shipped a messaging frame
 
 ## What to read next
 
-The live URL that must pass the scan is the [homepage](../07-website-and-conversion/homepage.md). The first meeting is [sales enablement](sales-enablement.md). Alternatives that keep showing up in deals need [competitive intelligence](competitive-intelligence.md) and a [comparison page](../07-website-and-conversion/comparison-page.md). Which questions get a durable URL is [content strategy](../03-brand-story-and-content/content-strategy.md). If the founder is the proof of the story, that is [founder story](../03-brand-story-and-content/founder-story.md)—not a second positioning.
+The live URL that must pass the scan is the [homepage](../07-website-and-conversion/homepage.md). The first meeting is [sales enablement](sales-enablement.md). Alternatives that keep showing up in deals need [competitive intelligence](competitive-intelligence.md) and a [comparison page](../07-website-and-conversion/comparison-page.md). Which questions get a durable URL is [content strategy](../03-brand-story-and-content/content-strategy.md). A change that deserves a campaign nests under this hierarchy: [product launch](product-launch.md). If the founder is the proof of the story, that is [founder story](../03-brand-story-and-content/founder-story.md)—not a second positioning.
 
 ## Sources and evidence boundary
 

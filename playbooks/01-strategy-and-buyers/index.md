@@ -5,9 +5,9 @@ sidebarTitle: "Overview"
 
 > **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
 
-**Status:** Domain guide published · 7 tactic playbooks published
+**Status:** Domain guide published · 8 tactic playbooks published
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-03
 
 ## Scope
 
@@ -29,6 +29,7 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 10. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
 11. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
 12. Do market, product, channel, and model describe the same company—or four slides that refuse each other?
+13. Which audience-plus-use-case will we win first, and how does that foothold fund the next niche?
 
 ## Playbook map
 
@@ -37,6 +38,7 @@ It owns idea discovery, idea validation, market and buyer evidence, segmentation
 | [Idea discovery](/playbooks/01-strategy-and-buyers/idea-discovery) | Published | Where did this idea come from, and is it even a candidate? |
 | [Idea validation](/playbooks/01-strategy-and-buyers/idea-validation) | Published | Does this idea have pain and pull, or is it still polite interest? |
 | [Ideal customer profile](/playbooks/01-strategy-and-buyers/icp) | Published | Which accounts deserve attention, and which should be excluded? |
+| [Wedge](/playbooks/01-strategy-and-buyers/wedge) | Published | Which audience and use case do we win first—and how do we expand without a cold start? |
 | [Buying committee](/playbooks/01-strategy-and-buyers/buying-committee) | Published | Who participates in the decision, and what does each role need? |
 | [First ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers) | Published | How do you find and win the first ~10 companies that match the ICP? |
 | [Product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
@@ -55,12 +57,13 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 1. Name a candidate with [idea discovery](/playbooks/01-strategy-and-buyers/idea-discovery)—important, underserved, and worth years—before treating a canvas as strategy.
 2. Validate the idea for pain and pull with [idea validation](/playbooks/01-strategy-and-buyers/idea-validation).
 3. Define the ICP and explicit disqualifiers.
-4. Map the buying committee for the accounts that pass those filters.
-5. Walk the [first ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers) trust rings (handmade, not scalable).
-6. Climb the [product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) ladder (love, pay, pull) before treating growth as a channel problem.
-7. Check that market, product, channel, and model still agree: [four fits](/playbooks/01-strategy-and-buyers/four-fits).
-8. Add jobs, triggers, category entry points, and competitive alternatives.
-9. Feed the resulting evidence into positioning and channel selection.
+4. Name the [wedge](/playbooks/01-strategy-and-buyers/wedge) (audience + use case) you will actually win first.
+5. Map the buying committee for the accounts that pass those filters.
+6. Walk the [first ten customers](/playbooks/01-strategy-and-buyers/first-ten-customers) trust rings (handmade, not scalable).
+7. Climb the [product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit) ladder (love, pay, pull) before treating growth as a channel problem.
+8. Check that market, product, channel, and model still agree: [four fits](/playbooks/01-strategy-and-buyers/four-fits).
+9. Add jobs, triggers, category entry points, and competitive alternatives.
+10. Feed the resulting evidence into positioning and channel selection.
 
 ## Interfaces with other domains
 

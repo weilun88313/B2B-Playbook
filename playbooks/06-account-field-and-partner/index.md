@@ -7,7 +7,7 @@ sidebarTitle: "Overview"
 
 **Status:** Domain guide published · 6 tactic playbooks published
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-03
 
 ## Scope
 
@@ -37,7 +37,7 @@ A living **account plan** for a named high-value account sits here so marketing 
 | [Executive dinners](/playbooks/06-account-field-and-partner/executive-dinners) | Published | How can a small, role-locked table create a relationship and a next step? |
 | [Ecosystem](/playbooks/06-account-field-and-partner/ecosystem) | Published | How should the company grow through partners who already have access and trust? |
 | [Account planning](/playbooks/06-account-field-and-partner/account-planning) | Published | What is going on in this named account, and what will we do in 30/60/90 days? |
-| [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) | Published | Which accounts, tiers, and resources define the system—and what we refuse to call ABM? |
+| [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) | Published | Which accounts, tiers, and resources define the system—what is not ABM, and how account-driven GTM loads the TAM first? |
 | One-to-one ABM | Planned: `one-to-one-abm.md` | What justifies a bespoke program for one account? |
 | One-to-few ABM | Planned: `one-to-few-abm.md` | Which shared problem can support a small account-cluster program? |
 | Direct mail | Planned: `direct-mail.md` | When can a physical touch create useful attention rather than waste? |
@@ -50,7 +50,7 @@ Planned filenames are an editorial roadmap, not empty pages. A tactic file is cr
 
 ## Recommended build order
 
-1. Write [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) (capacity and tiers) before a logo mood board.
+1. Write [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy): GTM TAM in the CRM, then capacity and tiers—before a logo mood board.
 2. For a named T1 account, write an [account plan](/playbooks/06-account-field-and-partner/account-planning) before a campaign calendar.
 3. Map complements and run one [ecosystem](/playbooks/06-account-field-and-partner/ecosystem) program before treating partner work as a calendar of co-branded tactics.
 4. Build field and event methods around selected account outcomes. A booth is [trade shows](/playbooks/06-account-field-and-partner/trade-shows); a role-locked night is [executive dinners](/playbooks/06-account-field-and-partner/executive-dinners).

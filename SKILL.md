@@ -16,12 +16,14 @@ Produce a usable artifact or decision, not broad advice.
 | Idea discovery (candidate, three ingredients, three paths) | `playbooks/01-strategy-and-buyers/idea-discovery.md` |
 | Idea validation (pain and pull) | `playbooks/01-strategy-and-buyers/idea-validation.md` |
 | ICP or account qualification | `playbooks/01-strategy-and-buyers/icp.md` |
+| Wedge / first niche / audience plus use case | `playbooks/01-strategy-and-buyers/wedge.md` then `templates/wedge.md` |
 | Buying committee | `playbooks/01-strategy-and-buyers/buying-committee.md` |
 | First ~10 customers (handmade, not scalable) | `playbooks/01-strategy-and-buyers/first-ten-customers.md` |
 | Product-market fit (love, pay, pull) | `playbooks/01-strategy-and-buyers/product-market-fit.md` |
 | Four Fits / market-product-channel-model | `playbooks/01-strategy-and-buyers/four-fits.md` |
 | Positioning / so-what value / what to position | `playbooks/02-product-marketing/positioning.md` |
 | Messaging / message hierarchy / value lines | `playbooks/02-product-marketing/messaging.md` then `templates/messaging.md` |
+| Product launch / launch tier / not every feature | `playbooks/02-product-marketing/product-launch.md` then `templates/product-launch.md` |
 | Competitive intelligence / alternative card / battlecard | `playbooks/02-product-marketing/competitive-intelligence.md` then `templates/competitive-intelligence.md` |
 | When and how much to charge | `playbooks/02-product-marketing/pricing-and-packaging.md` |
 | First-meeting sales pitch | `playbooks/02-product-marketing/sales-enablement.md` |
@@ -57,7 +59,7 @@ Produce a usable artifact or decision, not broad advice.
 | Executive dinner / small roundtable | `playbooks/06-account-field-and-partner/executive-dinners.md` |
 | Ecosystem / partners who already have trust | `playbooks/06-account-field-and-partner/ecosystem.md` |
 | Account planning / named-account 30/60/90 | `playbooks/06-account-field-and-partner/account-planning.md` |
-| ABM / account tiers / what is not ABM | `playbooks/06-account-field-and-partner/abm-strategy.md` |
+| ABM / account tiers / what is not ABM / account-driven GTM | `playbooks/06-account-field-and-partner/abm-strategy.md` |
 | Homepage / 10-second scan / site door | `playbooks/07-website-and-conversion/homepage.md` |
 | Landing page / campaign URL / message match | `playbooks/07-website-and-conversion/landing-page.md` |
 | Comparison page / vs page / competitor URL | `playbooks/07-website-and-conversion/comparison-page.md` |
@@ -81,6 +83,8 @@ Produce a usable artifact or decision, not broad advice.
 | Company cadence / launch vs close / lightning strike | `playbooks/09-operations-pipeline-and-measurement/company-cadence.md` |
 | Lead scoring / MQL threshold / routing hypothesis | `playbooks/09-operations-pipeline-and-measurement/lead-scoring.md` |
 | GTM plan / demand vs sales capacity | `playbooks/09-operations-pipeline-and-measurement/gtm-planning.md` |
+| Marketing budget / CAC payback / monthly headcount | `playbooks/09-operations-pipeline-and-measurement/budget-and-planning.md` then `templates/budget-and-planning.md` |
+| First marketer / marketing org / π-shape / fuel vs engine seats | `playbooks/09-operations-pipeline-and-measurement/marketing-org.md` then `templates/marketing-org.md` |
 | GTM tests / hypotheses / experiment log | `playbooks/09-operations-pipeline-and-measurement/experimentation.md` |
 | Measurement / attribution / HDYHAU / two scoreboards | `playbooks/09-operations-pipeline-and-measurement/measurement-model.md` |
 | GTM AI maturity / “we are AI-native” | `playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity.md` |

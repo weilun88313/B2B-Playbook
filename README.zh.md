@@ -7,9 +7,9 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 
 > 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察的工作。
 
-**当前覆盖：** 70 篇已发布 Playbook · 48 份工作文件 · 43 个精选工具 · 19 个阅读源 · 9 个领域指南
+**当前覆盖：** 77 篇已发布 Playbook · 56 份工作文件 · 43 个精选工具 · 20 个阅读源 · 9 个领域指南
 
-**最后核验：** 2026-08-30
+**最后核验：** 2026-09-03
 
 **阅读入口：** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.site)
 
@@ -35,16 +35,17 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 1. [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md)
 2. [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md)
 3. [理想客户画像](playbooks/01-strategy-and-buyers/icp.md)
-4. [购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)
-5. [前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)
-6. [产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md)
-7. [四重契合](playbooks/01-strategy-and-buyers/four-fits.md)
-8. [定位](playbooks/02-product-marketing/positioning.md)
-9. [销售赋能](playbooks/02-product-marketing/sales-enablement.md)
-10. [定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)
-11. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)
-12. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)
-13. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
+4. [楔子](playbooks/01-strategy-and-buyers/wedge.md)
+5. [购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)
+6. [前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)
+7. [产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md)
+8. [四重契合](playbooks/01-strategy-and-buyers/four-fits.md)
+9. [定位](playbooks/02-product-marketing/positioning.md)
+10. [销售赋能](playbooks/02-product-marketing/sales-enablement.md)
+11. [定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)
+12. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)
+13. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)
+14. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
 
 定位之后，网站扫描从 [首页](playbooks/07-website-and-conversion/homepage.md) 开始。发布或买来的东西用两套计分板：[衡量模型](playbooks/09-operations-pipeline-and-measurement/measurement-model.md)。只有十分钟、还没有想法：[想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md)。已经知道给谁做：[ICP 十分钟测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。两边都没有就写冷邮件，是团队一直很忙的原因。
 
@@ -53,9 +54,9 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 | 内容入口 | 用来解决什么 | 从这里开始 |
 |---|---|---|
 | **Playbooks** | 查找能力、渠道或战术 | [总索引](playbooks/) |
-| **工作文件** | 打开表格、记分表或 90 天大纲 | [48 份工作文件](TEMPLATES.md) |
+| **工作文件** | 打开表格、记分表或 90 天大纲 | [56 份工作文件](TEMPLATES.md) |
 | **工具** | 为明确任务选软件 | [43 个产品](TOOLS.md) |
-| **阅读源** | 跟运营者，不把信息流当战略 | [19 个来源](RESOURCES.md) |
+| **阅读源** | 跟运营者，不把信息流当战略 | [20 个来源](RESOURCES.md) |
 | **Agent Skill** | 把任务路由到正确方法 | [安装](#智能体-skill) |
 | **已验证案例** | 具名公司、一个动作、带日期来源 | 计划中 |
 
@@ -65,15 +66,15 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 
 | 编号 | 能力域 | 决策 | 已发布 |
 |---|---|---|---|
-| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争，谁来买 | 7 |
-| 02 | [产品营销](playbooks/02-product-marketing/) | 市场该理解并购买什么 | 5 |
-| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 进采购期前记住什么 | 3 |
+| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争，谁来买 | 8 |
+| 02 | [产品营销](playbooks/02-product-marketing/) | 市场该理解并购买什么 | 8 |
+| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 进采购期前记住什么 | 4 |
 | 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场在哪里反复碰到你 | 9 |
 | 05 | [主动外联与潜客](playbooks/05-outbound-and-prospecting/) | 如何发起未被请求的对话 | 9 |
 | 06 | [大客户、线下与伙伴](playbooks/06-account-field-and-partner/) | 如何围着具名账户协同 | 6 |
 | 07 | [网站与转化](playbooks/07-website-and-conversion/) | 自有页面如何帮买家走下一步 | 6 |
 | 08 | [生命周期与客户](playbooks/08-lifecycle-and-customer-marketing/) | 兴趣或成交之后如何教育、留存、扩展 | 9 |
-| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 数据和流程如何让系统可重复 | 16 |
+| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 数据和流程如何让系统可重复 | 18 |
 
 企业成交流程（合同、采购、多线程谈判）不在这套分类里。营销必须共享的配额、预测和成交后运营放在 06、08、09。若以后单独做销售运营，会另开顶层。
 

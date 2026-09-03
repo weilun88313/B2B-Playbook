@@ -3,11 +3,11 @@ title: "ABM strategy"
 sidebarTitle: "ABM Strategy"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-09-03
 
 A CRM view labeled “ABM” and a paid orchestration seat are not a program. [Account planning](account-planning.md) is the living file for **one** named account. This page is the **system**: which accounts get coordinated investment, at what tier, with what resources—and what we refuse to call ABM.
 
-If every logo in the TAM is “in the ABM list,” you have outbound with extra slides. ITSMA-style account-based work treats a small set of accounts as the market. The unit is **account progression**, not MQLs from a personalized PDF.
+**Account-driven GTM** is the foundation: the GTM TAM lives in the CRM as accounts and contacts, with signals, so inbound is one input—not the only front door. **ABM** is the high-touch slice of that universe. If every logo in the TAM is “in the ABM list,” you have outbound with extra slides. Do not stop content or brand because you discovered accounts. ITSMA-style account-based work still treats a small set as the market. The unit is **account progression**, not MQLs from a personalized PDF.
 
 This is not a Demandbase tutorial, not a 1:1 creative factory, and not a close process.
 
@@ -25,6 +25,7 @@ This is not a Demandbase tutorial, not a 1:1 creative factory, and not a close p
 - You need the 30/60/90 for one logo. That is [account planning](account-planning.md).
 - The motion is unnamed. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) first.
 - You want papering and procurement. Outside this taxonomy.
+- You want 1:1 creative on the entire GTM TAM. That is not ABM; map and signal the universe, then **cut** to capacity.
 
 ## Words you will use
 
@@ -35,12 +36,22 @@ This is not a Demandbase tutorial, not a 1:1 creative factory, and not a close p
 | **1:few** | A cluster that shares one problem, one asset, one table |
 | **1:many** | ICP-wide motion (outbound, content, paid). Not ABM theater with a filter |
 | **Progression** | A dated change in the account (new seat, scoped meeting, mutual plan)—not a click |
+| **Account-driven** | TAM + ICP in the CRM, account **and** contact, signals. Broader than ABM. Not a reason to kill inbound |
+| **Signal** | A dated fact that changes this week’s action (fit, intent, engagement)—not a mood |
 
 ## One rule
 
 **Tier first, then tactics.** If you cannot say how many T1 accounts you can actually staff this quarter, you do not have ABM. You have a logo mood board. One-to-one and one-to-few stay planned as deeper execution; they must not contradict this page.
 
 ## Operating method
+
+### Step 0: put the GTM TAM in the CRM before you pick a T1 list
+
+[ICP](../01-strategy-and-buyers/icp.md) and [wedge](../01-strategy-and-buyers/wedge.md) define who belongs in the universe. Load those **accounts** (then contacts) into the CRM or warehouse. Write who is **not** TAM this year. Pitch-deck TAM for investors is not the operating list.
+
+Then choose a few **signals** you will actually act on (fit change, intent, engagement, a [buying signal](../05-outbound-and-prospecting/buying-signals.md))—not fifty campaign ideas. Inbound form-fills are one signal among others. Stages belong on the account **and** the person; a lead-only funnel is how you forget the company. [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md) is the record; this step is the GTM choice.
+
+This is not “ABM everyone we could ever sell.” T3 stays 1:many. T1 stays scarce.
 
 ### Step 1: write the capacity, then the list
 
@@ -87,10 +98,12 @@ Sales-assist. Six AEs. High ACV.
 | T1 | Named accounts with a live plan and a weekly owner |
 | T2 | “Queue owners still on shared inbox” — one comparison + one table |
 | T3 | ICP outbound. Not “ABM light.” |
-| Will not do | 80-logo ABM dashboard. Industry microsites. Platform before the list is cut. |
+| Will not do | 80-logo ABM dashboard. Industry microsites. Platform before the list is cut. ABM ads on the entire GTM TAM. |
 
 ## Copy: ABM system card (fill)
 
+- GTM TAM in CRM (account + contact) / still a spreadsheet:
+- Signals we will act on this quarter (few):
 - T1 capacity this quarter (number + why that is staffable):
 - T2 clusters (problem, account count, one shared play):
 - What T3 is allowed to be (and what we will not call it):
@@ -103,6 +116,8 @@ Working file: [abm-strategy.md](../../templates/abm-strategy.md).
 ## Pre-flight checklist
 
 - [ ] ICP and primary motion are written.
+- [ ] GTM TAM is in the CRM as accounts (and contacts), not only a TAM slide.
+- [ ] A short signal list exists; inbound is not the only front door.
 - [ ] T1 count ≤ plans we will actually keep alive.
 - [ ] Every T1 has or will get an [account plan](account-planning.md).
 - [ ] T2 shares a problem, not only a vertical.
@@ -123,6 +138,8 @@ Do not treat ABM-influenced pipeline, ad engagement on account lists, or “acco
 
 ## Common mistakes
 
+- Calling the whole TAM “ABM.”
+- Killing inbound and brand because the CRM now has accounts.
 - Calling ICP outbound ABM.
 - A T1 list larger than weekly coaching can see.
 - Buying orchestration to postpone the plan file.
@@ -140,6 +157,7 @@ This is an owner-maintained operating synthesis.
 
 - **Treat selected accounts as the market; coordinate marketing and sales; measure the account.** Public ITSMA / Bev Burgess account-based marketing definition, stated as a **method**, not as a membership or a book you must buy. Vendor orchestration guides (including Demandbase, already cited on the master index) are **not** this page’s operating system.
 - Capacity-before-list and “T3 is not ABM” are this library’s judgments, paired with [account planning](account-planning.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+- Account-driven GTM as the **foundation** (TAM and ICP in the CRM, account + contact, signals, inbound as one signal not the only door; not “ABM the whole TAM”; not a substitute for brand) draws on Emily Kramer ([MKT1, 2025-02-12](https://newsletter.mkt1.co/p/account-driven-gtm-part-1?ref=b2b-playbook) and [2025-02-27](https://newsletter.mkt1.co/p/account-driven-gtm-part-2?ref=b2b-playbook)). The paid 50+ tool list and 50+ campaign-idea sheet are not reproduced here. GTM TAM vs pitch TAM is the same split as [wedge](../01-strategy-and-buyers/wedge.md).
 - This page is not a license to scrape account data or to ignore consent.
 
 ---
