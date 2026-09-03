@@ -13,6 +13,7 @@
 .tool-cell a {
   display: inline !important;
   margin: 0 !important;
+  padding-inline: 0 !important;
 }
 
 img[data-path^="assets/tool-favicons"],
@@ -59,4 +60,10 @@ table:has(.tool-cell) td:nth-child(2) {
 table:has(.tool-cell) th:nth-child(n + 3),
 table:has(.tool-cell) td:nth-child(n + 3) {
   width: 23.33%;
+}
+
+/* Keep a gap between inline marks and neighboring words. */
+#content-area .mdx-content :is(strong, b, em),
+#content-area .mdx-content a.link {
+  margin-inline: 0.25em !important;
 }
