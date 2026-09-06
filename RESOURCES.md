@@ -3,7 +3,7 @@ title: "GTM reading sources & operators"
 sidebarTitle: "Sources"
 ---
 
-![Choose a question; Read a relevant source; Test what applies to your work](assets/illustrations/reading.svg)
+![Choose a question; Read a relevant source; Test what applies to your work](assets/illustrations/reading.webp)
 
 > A short list of newsletters, podcasts, and operators worth following—not a celebrity ranking.
 
