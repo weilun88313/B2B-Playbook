@@ -135,7 +135,7 @@ Do not count credits purchased, or resemblance to a 10-provider blog, as a data 
 - One vendor forever.
 - Validating email, spraying mobiles.
 - Treating “will connect” as “is them.”
-- Importing someone else’s 1-in-4 or $53k as your finance story.
+- Importing someone else’s 1-in-4 or &#36;53k as your finance story.
 - Skipping [account research](account-research.md) because the number looked premium.
 
 ## What to read next

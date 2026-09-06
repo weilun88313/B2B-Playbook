@@ -155,7 +155,7 @@ Performance snapshot: forecast accuracy, variances, coverage, gap to close, atta
 
 ## Worked example (illustrative)
 
-Four AEs. ~45-day cycle. Hybrid: bottoms-up on deals > $40k, rates on the rest.
+Four AEs. ~45-day cycle. Hybrid: bottoms-up on deals > &#36;40k, rates on the rest.
 
 | Field | Fill |
 |---|---|

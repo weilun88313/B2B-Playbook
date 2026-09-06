@@ -91,7 +91,7 @@ Work **backwards from a job people will take**, not forwards from a revenue wish
 
 1. **OTE.** What does a competent person in this role, in this city, actually require to join and stay? If you cannot hire at that OTE, the plan is fiction.
 2. **Pay mix.** More variable means more leverage and more fear. A starting place for teaching, not a law: many new-logo AEs sit near **50/50** or **60/40** (base/variable). Farmers and CSMs usually carry **more base**. Overlay roles often carry less variable than a core AE. Do not copy a 70% variable enterprise hunter plan because it looked aggressive in a slide.
-3. **Quota.** Quota = the amount of the credit metric that equals 100% attainment. Set it from **territory capacity** (how much a competent person can land in *this* book), not from “we need $X so divide by headcount.” If a fair book cannot support the quota, you did not design a plan. You designed a pay cut.
+3. **Quota.** Quota = the amount of the credit metric that equals 100% attainment. Set it from **territory capacity** (how much a competent person can land in *this* book), not from “we need &#36;X so divide by headcount.” If a fair book cannot support the quota, you did not design a plan. You designed a pay cut.
 
 A useful sanity check: at 100% of quota, variable should pay 100% of the target variable. If hitting quota still feels like a lottery, the quota is wrong or the book is unbalanced.
 
@@ -202,16 +202,16 @@ Eight new-logo AEs. Subscription software. No hardware. Founder still closes a f
 |---|---|
 | Role sentence | Paid to land **new committed ARR** from accounts not already in a farmer book. |
 | Credit metric | New ARR (committed). Services billed separately; they do **not** hit AE quota. Counts on **countersigned order** in the CRM, not on first cash. |
-| OTE | $180,000 |
-| Pay mix | 50% base / 50% variable → $90,000 base, $90,000 target variable |
-| Annual quota | $900,000 new ARR (territory math: a competent AE can land this in this segment; not “company target ÷ 8”) |
+| OTE | &#36;180,000 |
+| Pay mix | 50% base / 50% variable → &#36;90,000 base, &#36;90,000 target variable |
+| Annual quota | &#36;900,000 new ARR (territory math: a competent AE can land this in this segment; not “company target ÷ 8”) |
 | Components | 80% new ARR · 20% expansion in accounts they opened this year (small, so they do not abandon the new-logo job) |
 | Curve (new ARR) | 0% variable below 50% attainment. Then linear to 100% at quota. From 100–150%, **2×** the at-plan rate. No cap in year one. |
 | Ramp | Months 1–3: 70% of target variable as a recoverable draw, quota at 50% of full. Months 4–6: 100% mix, quota at 75%. Then full. |
 | Admin | CRM credit field + a spreadsheet owned by one RevOps person. Two components only, so January payroll does not depend on a new vendor. |
 | Rollout | People/HR + sales lead sign the comms plan. Managers trained Tuesday. Rep sessions Wednesday–Thursday. Written plan + acknowledgment before the first day of the fiscal year. |
 
-At 100% of the new-ARR quota this person earns the $72,000 (80% of $90,000) tied to that component, plus whatever the expansion slice pays. At 50% they earn **none** of the new-ARR variable—by design. At 125% they are on the accelerator; the under-performers in the model are where that money comes from.
+At 100% of the new-ARR quota this person earns the &#36;72,000 (80% of &#36;90,000) tied to that component, plus whatever the expansion slice pays. At 50% they earn **none** of the new-ARR variable—by design. At 125% they are on the accelerator; the under-performers in the model are where that money comes from.
 
 Copy the empty fields below. Do not copy the dollars as a market benchmark.
 

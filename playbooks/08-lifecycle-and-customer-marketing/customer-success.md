@@ -125,7 +125,7 @@ Forty customers. One CSM, one associate. AE still closes. Renewals sit in CS; up
 
 | Field | Fill |
 |---|---|
-| Book | 40 logos · ~$2.1M ARR · two industries dominate · five accounts are 40% of revenue |
+| Book | 40 logos · ~&#36;2.1M ARR · two industries dominate · five accounts are 40% of revenue |
 | CSA job | First response < 4 business hours on the shared queue; known articles; escalate config |
 | CSM job | Adoption on all; QBR on the five; at-risk list every Monday |
 | Handoff | AE books 30 minutes; CRM fields: advocate, detractor, promised outcome, renew-test |

@@ -5,7 +5,7 @@ sidebarTitle: "Four Fits"
 
 B2B Playbook working file. Read [four fits](../playbooks/01-strategy-and-buyers/four-fits.md) first.
 
-One company. Four sentences. Delete teaching notes. Do not paste a $100M case study as the live card.
+One company. Four sentences. Delete teaching notes. Do not paste a &#36;100M case study as the live card.
 
 Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 

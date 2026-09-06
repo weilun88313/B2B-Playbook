@@ -6,6 +6,7 @@ The default branch is the reader's current edition; normal updates may go direct
 - English is canonical. Update README.zh.md whenever root README coverage, entry points, or meaning changes.
 - Keep each domain README.md and index.md synchronized; only frontmatter and platform link destinations differ.
 - Run `python3 scripts/check-content.py` before committing. CI runs the same checks.
+- Write currency as `&#36;100` in Markdown prose and tables so Mintlify does not treat dollar pairs as math. Keep code examples and URL targets unchanged; reading safeguard tests run in CI.
 - Add new reading pages to docs.json and an existing collection index.
 - Publish company cases only with a named company, dated primary source, reported outcome, and explicit evidence limits.
 - Keep third-party links' existing parameters and add exactly one ref=b2b-playbook. Repository and owned reading-site links are exempt.

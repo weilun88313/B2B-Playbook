@@ -41,7 +41,7 @@ Smooth sailing is all four clicking at once. Tugboat is executing “best practi
 
 ## Keep this in mind
 
-**Do not add a channel until you can say which of the other three fits it preserves—and which it would break.** “We’ll find distribution after PMF” is how a sales-assist product ends up on a viral bet, or a $8 seat ends up with a field team.
+**Do not add a channel until you can say which of the other three fits it preserves—and which it would break.** “We’ll find distribution after PMF” is how a sales-assist product ends up on a viral bet, or a &#36;8 seat ends up with a field team.
 
 <a id="operating-method"></a>
 
@@ -60,7 +60,7 @@ If sentence 3 requires a miracle conversion rate, you do not have channel–mode
 
 ### Step 2: refuse the silo
 
-Product and channel are designed together. A comparison-heavy evaluation product wants pages a champion can forward ([content strategy](../03-brand-story-and-content/content-strategy.md)) and a [pitch](../02-product-marketing/sales-enablement.md). A product that only works after a two-hour implementation will not be found by a self-serve loop. A $50k license will not be found by a meme.
+Product and channel are designed together. A comparison-heavy evaluation product wants pages a champion can forward ([content strategy](../03-brand-story-and-content/content-strategy.md)) and a [pitch](../02-product-marketing/sales-enablement.md). A product that only works after a two-hour implementation will not be found by a self-serve loop. A &#36;50k license will not be found by a meme.
 
 If you change the product, revisit the channel. If you change the channel, revisit the product. Same for price.
 
@@ -72,7 +72,7 @@ Defaults you will override with your own log:
 
 - High-touch outbound and field need ACV that can pay humans.
 - Cheap or free distribution can carry a low ARPU—until the platform closes the gate.
-- A mid-price that is too small for a hunter and too large for a card is how teams live in the $10–20k swamp.
+- A mid-price that is too small for a hunter and too large for a card is how teams live in the &#36;10–20k swamp.
 
 ### Step 4: treat AI as a simultaneous shock
 
@@ -88,7 +88,7 @@ Moving up-market, adding a PLG SKU, or standing up a partner motion is a **syste
 
 ## Worked example (illustrative)
 
-A workflow tool sold by two founders. ACV ~$12k. Buyers find them on comparison pages. The board wants “TikTok plus an enterprise AE.”
+A workflow tool sold by two founders. ACV ~&#36;12k. Buyers find them on comparison pages. The board wants “TikTok plus an enterprise AE.”
 
 | Fit | Fill |
 |---|---|
@@ -96,7 +96,7 @@ A workflow tool sold by two founders. ACV ~$12k. Buyers find them on comparison 
 | Product–channel | Evaluation is a forwarded comparison URL + a 30-minute walk. Product has no invite loop. |
 | Channel–model | One AE-shaped hire at this ACV is costume. Outbound can work if the founder still sells. TikTok cannot pay for this close. |
 | Model–market | This slice can support a real company only if we stay in the comparison/outbound path—or we raise ACV and rebuild the product for a committee. |
-| Break if we… | Hire a field team at $12k, or ship a free viral SKU that cannot become the paid seat. |
+| Break if we… | Hire a field team at &#36;12k, or ship a free viral SKU that cannot become the paid seat. |
 
 <a id="pre-flight-checklist"></a>
 
@@ -117,7 +117,7 @@ A workflow tool sold by two founders. ACV ~$12k. Buyers find them on comparison 
 | Share of new logos from the path the product was built for | Whether we are living in a side channel |
 | Time since the four sentences were re-dated | Staleness—especially after a model or packaging change |
 
-Do not count “we have PMF” as a fit. Do not import a $100M threshold as your OKR unless that is actually the company you are building.
+Do not count “we have PMF” as a fit. Do not import a &#36;100M threshold as your OKR unless that is actually the company you are building.
 
 ## Common mistakes
 
@@ -135,7 +135,7 @@ Whether one segment loves it, pays, and pulls is still [product-market fit](prod
 
 This is an owner-maintained operating synthesis. It is not a venture-scale mandate and not a Reforge enrollment.
 
-The four interlocking fits (market–product, product–channel, channel–model, model–market), the claim that products are built for channels rather than the reverse, the ARPU–CAC danger zone, and the warning that the fits must be revisited together draw on Brian Balfour’s Four Fits series ([original, 2017](https://brianbalfour.com/four-fits-growth-framework?ref=b2b-playbook); [AI-era update, 2025-09-25](https://blog.brianbalfour.com/p/the-four-fits-a-growth-framework?ref=b2b-playbook)). Those essays are **method prompts**, not a source to copy. $100M thresholds, Smooth Sailer / Tugboat labels, HubSpot Sales as a case, named AI companies, and platform-cycle stories stay with that author. They are not this library’s forecast or a command to pursue venture scale.
+The four interlocking fits (market–product, product–channel, channel–model, model–market), the claim that products are built for channels rather than the reverse, the ARPU–CAC danger zone, and the warning that the fits must be revisited together draw on Brian Balfour’s Four Fits series ([original, 2017](https://brianbalfour.com/four-fits-growth-framework?ref=b2b-playbook); [AI-era update, 2025-09-25](https://blog.brianbalfour.com/p/the-four-fits-a-growth-framework?ref=b2b-playbook)). Those essays are **method prompts**, not a source to copy. &#36;100M thresholds, Smooth Sailer / Tugboat labels, HubSpot Sales as a case, named AI companies, and platform-cycle stories stay with that author. They are not this library’s forecast or a command to pursue venture scale.
 
 ---
 

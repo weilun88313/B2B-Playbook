@@ -16,7 +16,7 @@ You cannot give every channel the same attention, especially with a small team. 
 - The team is adding channels because “that is what B2B does.”
 - Founders want product-led growth as a way to avoid hiring sales.
 - Content, ads, and partner logos are busy, but nobody can name the motion that actually creates customers.
-- Leadership is arguing about time-to-$1M without a first-customer date or a primary channel.
+- Leadership is arguing about time-to-&#36;1M without a first-customer date or a primary channel.
 
 ## Do not use this when
 
@@ -114,7 +114,7 @@ A useful rule: you are probably already living in one of the three primaries. As
 
 ### Step 6: Account for the time it takes to earn revenue
 
-In one interview set of later-successful B2B companies, median time from founding to about $1M ARR was roughly two years, and about **1.5 years after the first customer**. Some were faster; some delayed monetization on purpose (for example to become a default tool inside companies). Large ACV and small ACV did not produce a clean split in that sample.
+In one interview set of later-successful B2B companies, median time from founding to about &#36;1M ARR was roughly two years, and about **1.5 years after the first customer**. Some were faster; some delayed monetization on purpose (for example to become a default tool inside companies). Large ACV and small ACV did not produce a clean split in that sample.
 
 Use the 1.5-year-after-first-customer line as a **worry trigger** if you want to compare yourself to that survivor set. It is not a promise, a fundraise requirement, or your OKR. Validate against your own first-customer date and ACV. Pricing timing is in [pricing and packaging](../02-product-marketing/pricing-and-packaging.md).
 
@@ -161,7 +161,7 @@ Copy:
 - [ ] At most one new secondary channel has an owner, a status, and a stop rule.
 - [ ] Content, ads, and partners are not substituting for a missing primary.
 - [ ] The website CTA matches the motion.
-- [ ] Time-to-$1M talk uses your first-customer date; borrowed medians are labeled survivor observations.
+- [ ] Time-to-&#36;1M talk uses your first-customer date; borrowed medians are labeled survivor observations.
 
 ## Metrics
 
@@ -173,7 +173,7 @@ Copy:
 | Secondary test yield | Qualified conversations from the one secondary / hours and cash spent |
 | Sales presence | Whether a seller is in the path by design, not by accident |
 
-Do not count channel count, campaign volume, or “we are now PLG” as outcomes. Do not import another company’s years-to-$1M as your target.
+Do not count channel count, campaign volume, or “we are now PLG” as outcomes. Do not import another company’s years-to-&#36;1M as your target.
 
 ## Common mistakes
 

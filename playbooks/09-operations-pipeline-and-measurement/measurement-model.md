@@ -151,7 +151,7 @@ The form that collects SRA is [demo request](../07-website-and-conversion/demo-r
 This is an owner-maintained operating synthesis.
 
 - **Two clocks: capture the 5, create among the 95; creative and media as inputs.** LinkedIn B2B Institute [95-5](https://www.linkedin.com/business/marketing/blog/research-and-insights/why-you-should-follow-the-95-5-rule?ref=b2b-playbook) and [CMO Scorecard](https://business.linkedin.com/advertise/resources/b2b-institute/cmo-scorecard?ref=b2b-playbook).
-- **Open-text HDYHAU on declared-intent forms; software = capture, SRA = creation; read both.** Refine Labs [Attribution Mirage](https://www.refinelabs.com/blog/attribution-mirage?ref=b2b-playbook) and [Hybrid Attribution Framework](https://www.refinelabs.com/blog/hybrid-attribution-framework?ref=b2b-playbook). Sample sizes, $21.5MM, and the 90% figure are **their** study. Method only.
+- **Open-text HDYHAU on declared-intent forms; software = capture, SRA = creation; read both.** Refine Labs [Attribution Mirage](https://www.refinelabs.com/blog/attribution-mirage?ref=b2b-playbook) and [Hybrid Attribution Framework](https://www.refinelabs.com/blog/hybrid-attribution-framework?ref=b2b-playbook). Sample sizes, &#36;21.5MM, and the 90% figure are **their** study. Method only.
 - Board-level SaaS metrics: Kellblog as a **company** scoreboard voice—not as channel attribution.
 - Multi-touch SaaS products are tools. They are not this method. A planned `attribution.md` may go deeper on model math; it must not contradict the two-scoreboard rule.
 

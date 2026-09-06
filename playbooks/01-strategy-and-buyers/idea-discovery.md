@@ -1,181 +1,206 @@
 ---
 title: "Idea discovery"
 sidebarTitle: "Idea Discovery"
+description: "Turn a recurring business problem into a clear idea you can test, with two company examples and a copyable problem card."
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-06
 
-You do not need a fully formed startup idea to begin. Start with a problem you have seen, a question you keep hearing, or a workaround people already pay for. This guide helps you turn those observations into a problem worth investigating.
+You have noticed a frustrating task. Perhaps your team keeps rebuilding the same spreadsheet, or customers keep asking for something your product does not do. Is there a business in it?
 
-![Notice a problem; Find who has it; Choose what to test](../../assets/illustrations/idea-discovery.webp)
+You do not need to answer that yet. First, make the problem specific enough to investigate: **who has it, what they do today, and what you need to learn next.** By the end of this guide, you should have one problem card and a practical next step—not a business plan.
 
-*Reading guide: notice a problem → find who has it → choose what to test.*
+![Notice a problem; find who has it; choose what to test.](../../assets/illustrations/idea-discovery.webp)
 
 ## Use this when
 
-- There is no idea yet, or there are too many, and the team is whiteboarding in a vacuum.
-- Founders believe they must have “domain expertise” or a wound from last quarter before they are allowed to start.
-- The current idea is “kind of working” and nobody would spend a decade on it.
-- A side feature is getting more love than the product on the slide.
+You are looking for a B2B idea, choosing between several possibilities, or wondering whether a side feature deserves more attention. Bring observations from work, customer conversations, or a field you want to understand.
 
 ## Do not use this when
 
-- You already have a candidate and need to know if it is crap. That is [idea validation](idea-validation.md).
-- You are choosing accounts. That is [ICP](icp.md).
-- You want a TAM slide to substitute for talking to people.
-
-## Three ingredients
-
-**1. The problem is important.** Enough people will spend enough money. Most failures in that telling were not “bad ideas”; they were tiny markets. If you are on a venture path, that source used a rough line of sight to **$100M/year**, then eventually **$1B/year**. That is *their* heuristic, not this repository’s requirement—and not a reason to fake a TAM. Sprig’s texture: Robinhood signed a large contract early and installed while v1 was still being built.
-
-Hunter Walk’s **LUV** frame and Lenny’s other market-size essays are named pointers, not scorecards here.
-
-**2. The market is underserved.** Current solutions do a subpar job. Kunal Shah’s **Delta-4** (CRED): if customers rate the incumbent 1–10 and you are not **+4**, few will switch. An incumbent already at **6+** (Excel is the usual example) is brutally hard to replace. Gusto’s texture: more than half **cursed** the payroll vendor unprompted; two volunteered that their password was “fuck[competitor].”
-
-**3. You are excited to spend years on it.** Dylan Field: there are more good ideas than it feels like when you are hunting. A company takes a long time. Three or four years into something you hate, you quit. Do not pick an idea only because it is kind of working. Paul Graham’s line in that piece: when in doubt, optimize for interestingness.
-
-Prosumer collaboration products (Notion, Figma, Airtable, Miro, Slack, Coda) often **wandered two to four years** before something clicked. That wander is not a discovery method. It is a warning about how long *those* products take—and it belongs next to [validation](idea-validation.md) when you are deciding whether to keep going.
+If you can already name the customer and problem, move to [idea validation](idea-validation.md). If you have customers and need to choose which ones to pursue, use [ICP](icp.md). This guide is for deciding what to investigate first.
 
 ## Three paths
 
-You are always looking for pain and pull. The path is how you *stumble into* a candidate.
+Start with whichever route gives you access to real work. You do not need a dramatic founder story.
 
-### Path 1: past pain (~40% in that sample)
+<a id="path-1-past-pain-40-in-that-sample"></a>
 
-A large pain at a previous company, then a product. Not the majority—do not wait for this if it never happened.
+### 1. A problem you have experienced
 
-- **Gong:** Amit could not see *why* deals died; CRM showed outcomes, not the conversation in people’s heads.
-- **Retool:** David Hsu built internal tools at every prior company; same building blocks; lazy engineers would want a better way.
-- **Linear:** Coinbase, Airbnb, Uber—Jira arriving around 100 people; a Chrome reskin of Jira; Fabricator at Uber. Nagging disappointment, not a TAM workshop.
-- **Persona:** identity at Square; vendors selling one technique while every business was multi-modal.
-- **Hex:** Barry McCardel was a *buyer* who could not find the tool; everyone said “if you find it, tell us.” The idea was obvious; becoming a founder was the reluctant part.
-- **Snyk:** AppSec “shift left” plus DevOps at Blaze/Akamai—developers *can* embrace ops tools; security had to become that.
-- **Canva:** teaching design software that civilians could not use, plus years of creative tools and Google Wave.
-- **Stytch:** a coffee where both founders were bleeding on Auth0 / Cognito / a six-month rip-out. “Stripe for auth.”
-- **Snowflake:** Hadoop excitement vs warehouses that were rigid; Hadoop too hard for most; cloud elasticity as the bet (Benoit Dageville, via public interview in that appendix).
-- **Ramp:** Paribus → Capital One; customers did not want points, they wanted to be better-off; a card smart enough to help you *spend less*.
+Look for a task you have had to repeat or rebuild. Write down the last specific occasion, not just your opinion of the software. Then ask who else encounters it. Your experience is a useful lead; it is not evidence that other companies will buy.
 
-Reflect: what did you build that was invaluable. What would you have paid a lot for. What did you rebuild at every job.
+<a id="path-2-ponder-and-probe"></a>
 
-### Path 2: ponder and probe
+### 2. A field you want to understand
 
-Pick a space you will not get bored of. Whiteboard **and** talk to dozens of people. The failure mode is Vanta’s: abstract shiny objects, no users, B2B Alexa that “makes sense on a whiteboard and zero sense in reality.” If it fits on a whiteboard, someone has probably done it. Pick **one or two** spaces and go deep.
+Choose a narrow role and workflow, such as finance managers reconciling invoices. Ask people to walk you through recent work. Starting with “finance” or “AI” alone leaves too much room to imagine problems nobody prioritizes.
 
-- **Figma:** Thiel runway; “why now” (WebGL, not drones, not computational photography on desktop). Design intern at Flipboard. Tinker in the space you are actually excited about.
-- **Vanta:** collaboration vs security; Dropbox guilt (“we know we should do security”); then manual work that became the company. You do not know it will work looking forward.
-- **Notion:** years as a buggy no-code builder; the people who stayed liked the editor and collaboration; 1.0 as docs/wiki plus templates—notes as the wedge, then the lower stack.
-- **Zip:** sixth or seventh idea (fractional US equities, an accounting staffing platform that even made ~$200k). YC advice: large market, entrenched and not great → procurement; Airbnb pain recognized in hindsight.
-- **Databricks:** Spark vs Hadoop; open source did not get the uptake; “academic, is it enterprise-ready?” Company as the way to stand behind it.
-- **Coda:** twenty-year list of ideas; Alex asked for brainstorm help; Shishir fell back in love; wife already knew.
-- **Gusto:** families who ran shops; whiteboard of personal problems; a third of companies fined for payroll mistakes every year.
-- **Census:** seed from LogMeIn sales/marketing lacking product’s usage data; a month of “sit in a room and invent” was bad; code plus talking beat disconnected “great ideas.”
+<a id="path-3-present-pull"></a>
 
-Reflect: emerging underserved trend; underused technology; how many people you have actually spoken with; importance 1–10; underserved 1–10; would you be **+4**.
+### 3. Something people already use or request
 
-Talking to ~30 people before committing is the median in the **validation** chapter. Do not use a whiteboard as a substitute.
+A side feature, internal tool, or manual service may attract more interest than the main product. Find out what people return for and what they would do without it. Enthusiastic comments are a reason to investigate, not a reason to pivot immediately.
 
-### Path 3: present pull
+These starting points are adapted from [Lenny Rachitsky's founder-interview synthesis, August 8, 2023](https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups?ref=b2b-playbook). They describe routes taken by selected successful companies, not their odds of success. The exercise below is this library's suggested way to explore a candidate.
 
-Keep building, watch what users already grab, and **pivot fully** when a feature is the real product.
+## Turn an observation into a problem worth testing
 
-- **Amplitude:** Sonalight (voice SMS) needed analytics nobody sold (Flurry, GA, Adobe, Kissmetrics). The internal tool made YC friends say they needed it for *their* business.
-- **Sprig:** the original idea had no pull; an outcome-driven survey SDK on Airtable made other founders offer to pay. Pivot to surveys.
-- **Loom:** two video products stalled; a design partner recorded himself summarizing user tests; Product Hunt made the new direction obvious.
-- **Segment:** classroom tool, then 15 months of analytics that did not take; Analytics.js as a Mixpanel/Kissmetrics drop-in; co-founders split; one week on HN, front page.
-- **Slack:** Glitch would not justify the capital; IRC plus homemade archive, search, and mobile became how 45 people actually worked (company email list: ~50 messages in 3.5 years). Shut the game humanely, then notice the communication system.
+### Step 1: describe one recent incident
 
-Reflect: which feature has pull. What pain in *this* startup you wish someone would solve. Which side project you have been avoiding.
+Replace the category name with an event someone could recognize.
+
+| Too broad | Specific enough to investigate |
+|---|---|
+| AI for operations | An operations manager waits for an engineer whenever a customer needs a record corrected. |
+| Better event marketing | After a trade show, a marketer spends two days matching scanned contacts to CRM accounts before sales can follow up. |
+| Sales productivity | A sales manager checks three systems before deciding which stalled deals to review. |
+
+These are illustrative problem statements, not verified opportunities. Pick one and record where it came from. If you cannot recall an incident, label it a hypothesis and find someone who does the work.
+
+### Step 2: ask how the work gets done today
+
+Start with a recent occurrence rather than pitching your solution:
+
+- “Can you walk me through the last time this happened?”
+- “What did you use, and who else got involved?”
+- “Where did you have to wait, repeat work, or check something manually?”
+- “What happened because of that?”
+- “Have you tried changing the process? What got in the way?”
+
+With permission, ask for a redacted example or a walkthrough using dummy data. You want to understand the workflow, not collect confidential records.
+
+Keep the person's account separate from your interpretation. “We wait for engineering every Friday” is an observation. “They will pay for an AI agent” is still your guess.
+
+<a id="three-ingredients"></a>
+
+### Step 3: decide whether to spend more time on it
+
+Use these questions to find gaps in your understanding—not to manufacture a score.
+
+| Question | Useful evidence | If you do not know yet |
+|---|---|---|
+| Does it matter enough? | A recent delay, expense, lost sale, or repeated effort the person can describe. | Ask what happens if nothing changes. |
+| Why is the current approach insufficient? | A workaround and a concrete reason it remains painful. | Ask why an existing product or process change has not solved it. |
+| Can we keep investigating? | Access to people doing the work, plus genuine interest in the details. | Find an introduction or a narrower workflow you can reach. |
+
+Separate the person doing the task from the person who could approve a purchase. “Budget owner unknown” is a useful answer. You do not need to invent a price or a market-size forecast to fill the card.
+
+### Step 4: choose one next action
+
+Make the action answer a specific uncertainty. For example: “Ask another operations manager to walk through their last record correction, so we can learn whether the engineering dependency exists outside our team.”
+
+Start with a couple of conversations to improve the question. That is a scheduling suggestion, not a validation threshold. Move to [idea validation](idea-validation.md) when you have a clear customer/problem hypothesis and are ready to test demand more deliberately.
+
+## Two company stories, and what to take from them
+
+### Retool: the problem and the audience are different questions
+
+In Retool's account of its early sales, David Hsu describes initially pursuing users of legacy tools such as FileMaker. That outreach received very few replies, all negative. He later identified developers building internal applications, including React developers, as a better audience. The company describes its early shifts as changes in market and messaging, not just product. [Retool founder account, February 21, 2023](https://retool.com/blog/retool-founding-story-david-hsu?ref=b2b-playbook).
+
+**Our takeaway:** a rejection may expose a mistake about the problem, the audience, or how you described it. Do not assume every rejection calls for another feature. This retrospective account does not prove that a messaging change alone will fix demand.
+
+### Vanta: look for the consequence behind the task
+
+Vanta's recap of Christina Cacioppo's 2021 talk connects her work on Dropbox Paper with an enterprise-sales obstacle: large customers wanted tangible evidence of product security. The problem was more specific than “security is hard”—buyers needed a way to establish trust before adopting a product. [Vanta founder-talk recap, August 30, 2021](https://www.vanta.com/resources/five-principles-for-building-a-secure-product?ref=b2b-playbook).
+
+**Our takeaway:** follow the inconvenience to the decision it affects. A tedious task may matter because it blocks a purchase. That does not establish that every security workflow is a business opportunity.
 
 ## Copyable templates
 
-### How a filled idea card reads
+<a id="how-a-filled-idea-card-reads"></a>
 
-Illustrative example: an engineer who has rebuilt the same admin UI three times and is bored of “AI for sales.”
+### A filled problem card
 
-| Ingredient | Honest fill |
+**Illustrative example only.** The observations and conversation below are invented to show how to record uncertainty; they are not Ivan's customer research or a Retool case study.
+
+| Field | Example |
 |---|---|
-| Important | Ops teams already pay for internal tools; not obviously $1B—**assumption**, to test in validation |
-| Underserved | Internal tools rated ~4; we think we are a 8 (**+4** only if true in calls) |
-| Excited | Yes—lazy engineering; would still tinker if it failed |
-| Path | Past pain (Retool-shaped) |
-| Pain so far | “We keep rebuilding this” from two ex-colleagues |
-| Pull so far | None yet—no stranger has asked to use it |
+| Person and situation | Operations manager at a small software company, handling customer-record corrections. |
+| Recent incident | A correction waited until Friday because an engineer needed to run it. |
+| Current workaround | Send a support ticket, then ask engineering to update the database. |
+| Consequence | The customer waited; support followed up twice. Frequency and cost have not been measured. |
+| Evidence we have | In this hypothetical exercise: one conversation describing one incident. No workflow observed yet. |
+| What we suspect | A controlled self-service correction flow might reduce waiting. |
+| What could make this unattractive | Corrections may be rare, require engineering judgment, or already be possible with existing tools. |
+| Buyer | Unknown. The operations manager may not control a software budget. |
+| Next action | Speak to another operations manager and request a redacted walkthrough. |
+| Decision today | Keep investigating. Do not claim demand or begin a full build. |
 
-This is a candidate, not a company. Next chapter: [validate](idea-validation.md).
+<a id="idea-card-copy"></a>
 
-### Idea card (copy)
+### Problem card to copy
 
-- Important (who spends, how we would know the market is not tiny):
-- Underserved (incumbent score / our claimed score / Delta-4):
-- Excited (would we still care in year four if it is slow):
-- Path (past pain / ponder / present pull):
-- Why now (tech, regulation, culture)—or unknown:
-- Spaces we are **not** allowed to shiny-object into this month:
-- One feature already showing pull (if any):
+Copy this into your own notes. Leave unknowns visible rather than filling every line with a confident answer.
 
-### Path questions (pick one list)
+```text
+Problem card
+Date / owner:
 
-**Past pain**
+Person and situation:
+Most recent incident:
+Current workaround:
+Consequence / frequency:
 
-- What did we or teammates build that was invaluable?
-- What would we have paid a lot for?
-- What did we rebuild at every job?
+Evidence:
+- Who described it / date:
+- What we observed:
+Our interpretation:
+What is still unknown:
+Possible budget owner:
+Reasons this may not work:
 
-**Ponder and probe**
+Next action:
+Question this should answer:
+Decision (choose one):
+- Investigate
+- Park
+- Move to validation
+Review date:
+```
 
-- Trend or technology that is big, underserved, and interesting to us:
-- Conversations this month:
-- Importance 1–10 / underserved 1–10 / our +4 claim:
+<a id="path-questions-pick-one-list"></a>
 
-**Present pull**
+<Accordion title="Extra questions for your starting path">
 
-- Feature with the most pull:
-- Problem in the current product we should productize:
-- Side project we keep not shipping:
+- **Experienced problem:** Did it happen at another company? How did they handle it? What makes your situation unusual?
+- **New field:** Which role can you reach? What recurring task can someone show you? Who already sells a solution?
+- **Existing interest:** Who comes back without prompting? What exactly do they use? Does anyone outside your own team need it?
+
+</Accordion>
 
 <a id="pre-flight-checklist"></a>
 
 ## Before you start
 
-- [ ] All three ingredients have a sentence, including excitement—not only TAM.
-- [ ] We named a path. “Whiteboard plus stealth” is not ponder-and-probe.
-- [ ] If past pain is missing, we did not invent a fake wound; we picked another path.
-- [ ] Delta-4 is a hypothesis until customers score the incumbent.
-- [ ] $100M/$1B language is labeled venture heuristic, or we admitted we are not on that path.
-- [ ] A shiny second space is parked (Vanta’s rule).
-- [ ] Present-pull candidates are features users already grab, not a rebrand.
-- [ ] The next action is [validation](idea-validation.md), not a deck.
+Before booking the next conversation, check that:
+
+- [ ] You can describe one person, one task, and one recent incident.
+- [ ] You have written down the current workaround, not only your proposed product.
+- [ ] Evidence and assumptions are separate.
+- [ ] You have named a reason the idea might not work.
+- [ ] Your next action answers one unresolved question.
 
 ## Metrics
 
-| Metric | Diagnostic use |
-|---|---|
-| Ingredients written | Idea vs slogan |
-| Path named | Stops mixing “buyer of Hex” with “HN launch” |
-| Spaces in play | More than two is Vanta’s shiny-object failure |
-| Pulling feature | Present-pull path needs one named |
-
-Do not count whiteboards, patents, or “we’re passionate” without the other two ingredients.
+Track what you are learning: roles you have spoken to, recurring problems, observed workarounds, and contradictions. Keep dates so you can revisit your interpretation. Conversation count tells you how much research you did; it does not show that anyone will buy.
 
 ## Common mistakes
 
-- Waiting to be the wounded expert. Most of that sample were not.
-- Whiteboarding B2B Alexa with no users.
-- Spreading across every macro trend in 2016.
-- Calling a 4-year stealth period “discovery.”
-- Picking an idea you would hate in year three because the TAM slide is pretty.
-- Treating a +4 as a slide instead of a customer rating.
-- Confusing this chapter with [validation](idea-validation.md) or [PMF](product-market-fit.md).
+- **Starting with a technology label.** “AI for finance” does not identify a person or a task. AI may become part of the solution after you understand the work.
+- **Treating complaints as buying intent.** Ask what someone has done to solve the problem and why they stopped.
+- **Writing only supporting evidence.** A customer who already has an adequate solution belongs in your notes too.
+- **Copying a famous company's path.** Founder stories suggest questions to ask; they do not predict your outcome.
 
 ## What to read next
 
-You have a candidate. Prove pain and pull: [idea validation](idea-validation.md). Then [ICP](icp.md), [first ten customers](first-ten-customers.md), [product-market fit](product-market-fit.md). How you later *reach* strangers is not how you invent the idea.
+Have one clear candidate? Continue to [idea validation](idea-validation.md). Need to narrow the customer? Use [ICP](icp.md). Ready to approach potential early customers? Read [first ten customers](first-ten-customers.md).
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. It will not generate a fundable idea.
+Sources were checked on September 6, 2026. The discovery paths are adapted from Lenny Rachitsky's dated interview synthesis, linked above. The two company stories use their own published accounts; neither is an independent assessment of results. The exercise, problem-card format, and labelled example are editorial guidance, not a validated scoring model.
 
-The three ingredients, three discovery paths, ~40% past-pain share, majority-without-special-background, ~20% solo, Delta-4 pointer, venture $100M/$1B heuristic, and the named origin stories draw on Lenny Rachitsky ([Lenny’s Newsletter, 2023-08-08](https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups?ref=b2b-playbook)). That is a survivor sample. Dylan Field via Elad Gil, Stewart Butterfield via Business Insider, Benoit Dageville via Yahoo Finance, Kunal Shah / CRED, Hunter Walk’s LUV, and Paul Graham are attributed in that source. They are not this repository’s case studies or a command to pursue venture scale. Median conversations, pivot rate, and cold outbound as an early-customer tactic are expanded in [idea validation](idea-validation.md) and [first ten customers](first-ten-customers.md).
+For more origin stories, read [Lenny's original article](https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups?ref=b2b-playbook). Percentages from that selected sample and venture-scale revenue targets are not requirements for your idea.
 
 ---
 

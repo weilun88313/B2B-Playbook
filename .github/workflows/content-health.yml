@@ -19,7 +19,8 @@ jobs:
           persist-credentials: false
       - name: Check content, links, mirrors, and navigation
         run: python3 scripts/check-content.py
+      - name: Test reading safeguards
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Check external sources on manual runs
         if: github.event_name == 'workflow_dispatch'
         run: python3 scripts/check-content.py --external
-

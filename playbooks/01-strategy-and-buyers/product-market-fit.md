@@ -122,7 +122,7 @@ This is a **worksheet fill**, not a customer case study. A team that would tell 
 |---|---|---|---|
 | One company loves and uses it in production | Design partner #1 runs a weekly job on it; we watched them last Tuesday | Fact | We have not sat with a second company doing the same job |
 | They would be harmed if we vanished for a week | Slack lit up when we shipped a bug on a Saturday | Observation | Nobody has said they would miss payroll, a queue, or a close if we disappeared |
-| One company pays five–six figures / year | They asked for a “friends” invoice at $500 so procurement has a PO | Fact | The number is a token. Real ACV is still unasked |
+| One company pays five–six figures / year | They asked for a “friends” invoice at &#36;500 so procurement has a PO | Fact | The number is a token. Real ACV is still unasked |
 | 3–10 paying companies, and we can name the next | Two other logos in a pilot Slack | Assumption | Both unpaid. We cannot name who closes after the first real invoice |
 | Pull: inbound or word of mouth from strangers | Three “inbound” forms last month | Assumption | All three met us at the conference we staffed |
 | Growth holds without a heroic campaign | MRR ticked up the week we launched on Product Hunt | Observation | The two weeks after that were flat |
@@ -154,7 +154,7 @@ A split that is lying to itself: 4 hours on calls, 36 hours building, “this we
 
 - [ ] We can name the one company, the job they run on us, and the last time we watched them do it.
 - [ ] We did not confuse a 25-item wishlist with the product we intend to be.
-- [ ] At least one invoice exists at a price that would embarrass a “SaaS is $50/month” reflex—or we have a dated reason to delay charging.
+- [ ] At least one invoice exists at a price that would embarrass a “SaaS is &#36;50/month” reflex—or we have a dated reason to delay charging.
 - [ ] Churned early logos were removed from the love/pay count.
 - [ ] “Inbound” means strangers, not the last conference we staffed.
 - [ ] We are not using a retention chart as a substitute for anger-when-it-breaks.

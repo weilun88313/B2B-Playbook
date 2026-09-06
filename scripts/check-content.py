@@ -12,6 +12,7 @@ import xml.etree.ElementTree as ET
 from urllib.parse import unquote, urlsplit, parse_qs
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
+from reading_safety import unsafe_currency_lines
 
 ROOT = Path(__file__).resolve().parents[1]
 ERRORS = []
@@ -68,6 +69,8 @@ def anchors(text):
 
 external = set()
 for name, text in DOCS.items():
+    for line in unsafe_currency_lines(text):
+        check(False, f"{name}:{line}: unescaped currency may become math; use &#36; outside code")
     if name not in {"README.md", "README.zh.md"}:
         check(not re.search(r'[\u3400-\u9fff]', text), f"{name}: unexpected Chinese")
     for url in links(text):

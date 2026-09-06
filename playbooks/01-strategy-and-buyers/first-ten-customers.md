@@ -68,7 +68,7 @@ Do not sit around waiting for intros. Pull the list, prioritize with a partner i
 
 - **Vanta:** joined YC *for* this. Same-batch companies in 2018 were too early for SOC 2. Christina Cacioppo worked the *older* YC list and Bookface threads that had used the word “compliance.” That produced the first ten.
 - **Amplitude:** selling to batch-mates is a common YC mistake—those companies are not yet businesses with money. Early word of mouth came from ex-Zynga PMs who had started companies, via an investor intro, then a Facebook group.
-- **Sprig:** cold email to YC companies produced the first customer with no prior relationship (Thunkable: demo, install, come back a week later, then ask what it costs). First Round’s customer-discovery program (their name for an SDR motion): five ICP meetings a week, a biweekly feedback review, and a job to get to $1M ARR before hiring sales.
+- **Sprig:** cold email to YC companies produced the first customer with no prior relationship (Thunkable: demo, install, come back a week later, then ask what it costs). First Round’s customer-discovery program (their name for an SDR motion): five ICP meetings a week, a biweekly feedback review, and a job to get to &#36;1M ARR before hiring sales.
 - **Carta:** an angel (Andy Palmer / Tamr) put the product into his own company; sister-fund founders via investors. The product sat next to founders and investors, so that network was the ICP.
 
 YC is unusually useful for early users. Often not in the way founders expect.

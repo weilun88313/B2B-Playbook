@@ -82,7 +82,7 @@ First VP CS. Forty logos, one CSM, AE still expands. Health score is a vibe.
 | Window | Fill |
 |---|---|
 | 30 | Sat five QBRs. Health ≠ usage. Six accounts had no CS touch in 90 days. Handoff is a converted opp. No hire talk. |
-| 60 | Charter: CS owns renewals and at-risk; expansion > $X returns to AE with CS on the call. NRR definition agreed with Finance. Portfolios: five named, rest pooled. |
+| 60 | Charter: CS owns renewals and at-risk; expansion > &#36;X returns to AE with CS on the call. NRR definition agreed with Finance. Portfolios: five named, rest pooled. |
 | 90 | QBR template on the five. Onboarding packet live. At-risk list in CRM Sales can see. One CSM hired only after [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) said coverage was the constraint. |
 
 ## Copy: 90-day one-pager (fill)

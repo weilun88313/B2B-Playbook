@@ -51,7 +51,7 @@ A marketing budget should show what the team plans to do and what it will take t
 
 ### Step 1: Compare targets with a bottom-up plan
 
-Top-down without bottom-up is a number nobody can create. Bottom-up without top-down is a hobby. Put both on the table with [GTM planning](gtm-planning.md). If finance needs $X and the demand sheet says $Y, that is a conversation—not a cell you overwrite.
+Top-down without bottom-up is a number nobody can create. Bottom-up without top-down is a hobby. Put both on the table with [GTM planning](gtm-planning.md). If finance needs &#36;X and the demand sheet says &#36;Y, that is a conversation—not a cell you overwrite.
 
 You cannot finish budget without a forecast, or forecast without a budget. Iterate. Paid, programs, and events change what is possible; what is possible changes what you can spend on people; people change what you can run.
 
@@ -87,9 +87,9 @@ Not your rates. Not a benchmark.
 
 | Field | Fill |
 |---|---|
-| Top-down | $4.0M new ARR |
-| Bottom-up | Demand + capacity reconcile at ~$3.2M unless paid conversion improves |
-| Conversation | Target becomes $3.4M or we add capacity—not a typed-over MQL rate |
+| Top-down | &#36;4.0M new ARR |
+| Bottom-up | Demand + capacity reconcile at ~&#36;3.2M unless paid conversion improves |
+| Conversation | Target becomes &#36;3.4M or we add capacity—not a typed-over MQL rate |
 | CAC split | 55% sales / 45% marketing until we have four quarters of actuals |
 | Headcount | 3 in seat Jan–Mar; fourth starts April (9/12 of fully loaded)—not 4 × full year |
 | Remaining mix | Paid + two shows + tools; agency only if a named internal owner exists |

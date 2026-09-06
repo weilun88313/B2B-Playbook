@@ -56,7 +56,7 @@ A pricing page should help a buyer understand what they will pay and which optio
 
 ### Step 2: Show a price or explain how to get one
 
-Default: **yes, show pricing.** For a sales-assist motion, a public starting price, a range, or “from $X / [unit]” plus what enterprise adds is still a number. A page that only says “contact us” teaches the buyer you are expensive *and* opaque.
+Default: **yes, show pricing.** For a sales-assist motion, a public starting price, a range, or “from &#36;X / [unit]” plus what enterprise adds is still a number. A page that only says “contact us” teaches the buyer you are expensive *and* opaque.
 
 If legal truly forbids a figure, show the metric, the plan jobs, and the questions sales will ask—so the call is not a blank.
 
@@ -93,7 +93,7 @@ Sales-assist. Seat-based. Enterprise is SSO, DPA, and a named CSM—not a myster
 | Value metric | Per named operator seat / year—on the first row, not in a tooltip |
 | Plans | Team / Business / Enterprise. Three. |
 | Who each is for | Team = one queue owner. Business = several queues + reporting. Enterprise = security questionnaire + contract. |
-| Public number | Team and Business list price. Enterprise: “from $X” + what is actually different. |
+| Public number | Team and Business list price. Enterprise: “from &#36;X” + what is actually different. |
 | Add-on | Advanced audit log—used by a minority; priced beside the table |
 | CTA | Team: start. Business/Enterprise: scoped conversation, not “Get a demo.” |
 | Will not do | Tabs for a second product that is not sold yet. “Most popular” on Enterprise. |

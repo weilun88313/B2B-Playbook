@@ -157,7 +157,7 @@ The jobs this record serves are [customer success](customer-success.md). Impleme
 
 This is an owner-maintained operating synthesis. It is not HubSpot documentation, not a Gainsight implementation, and not a licensed CS platform.
 
-The four-job test (realization, relationship, renewal, risk) and the instruction that properties, workflows, and views must serve those jobs—or they do not belong—are distilled from a public operator landing page for a HubSpot CS workspace manual ([Infinite Renewals](https://info.infiniterenewals.com/customer-success-in-hubspot?ref=b2b-playbook)). That page is a **method prompt**, not a source to copy. The gated manual, HubSpot click-paths, $1.8B client-ARR claim, and partner pitches are **not** this library’s schema or a requirement to buy a course. Object-model and migration *discipline* still follow this repository’s CRM field-map page.
+The four-job test (realization, relationship, renewal, risk) and the instruction that properties, workflows, and views must serve those jobs—or they do not belong—are distilled from a public operator landing page for a HubSpot CS workspace manual ([Infinite Renewals](https://info.infiniterenewals.com/customer-success-in-hubspot?ref=b2b-playbook)). That page is a **method prompt**, not a source to copy. The gated manual, HubSpot click-paths, &#36;1.8B client-ARR claim, and partner pitches are **not** this library’s schema or a requirement to buy a course. Object-model and migration *discipline* still follow this repository’s CRM field-map page.
 
 ---
 

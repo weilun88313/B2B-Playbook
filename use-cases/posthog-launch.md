@@ -15,7 +15,7 @@ James Hawkins, PostHog co-founder, published [How we got our first 1,000 users](
 
 The team first recruited users through people they knew, introductions, groups, and LinkedIn. Its launch gate was practical: people could sign up without help, and strangers found the product useful.
 
-Hawkins reports **300 deployments within a couple of days** of launching on Hacker News, five weeks after starting. He also reports about **$2,000 of Twitter promotion** alongside the launch and says the repository reached GitHub Trending.
+Hawkins reports **300 deployments within a couple of days** of launching on Hacker News, five weeks after starting. He also reports about **&#36;2,000 of Twitter promotion** alongside the launch and says the repository reached GitHub Trending.
 
 ## Evidence limit
 

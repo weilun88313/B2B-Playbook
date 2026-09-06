@@ -67,7 +67,7 @@ If you only report net, you are choosing the coat of paint. If you only report l
 
 ### Step 3: Compare rates in the right context
 
-Median-by-ARR-band tables on a metrics vendor’s site are **their** sample, **their** month, **their** mix of PLG and sales-led. Early-stage companies churn more; higher ARPA often churns less. That is a shape, not your target. Write *your* start-of-period book, *your* term, *your* segment. Then compare to last period—not to a chart that says 40% of $15–30M companies have negative churn.
+Median-by-ARR-band tables on a metrics vendor’s site are **their** sample, **their** month, **their** mix of PLG and sales-led. Early-stage companies churn more; higher ARPA often churns less. That is a shape, not your target. Write *your* start-of-period book, *your* term, *your* segment. Then compare to last period—not to a chart that says 40% of &#36;15–30M companies have negative churn.
 
 <a id="step-4-assign-the-leak-a-job"></a>
 
@@ -79,7 +79,7 @@ Gross up → product, onboarding, packaging, or ICP. See [customer onboarding](c
 
 ## Worked example (illustrative)
 
-Sales-assist ops tool. Start MRR $100. Not a benchmark.
+Sales-assist ops tool. Start MRR &#36;100. Not a benchmark.
 
 | Movement | Amount |
 |---|---|
@@ -144,7 +144,7 @@ Who runs the book is [customer success](customer-success.md). First value is [cu
 
 This is an owner-maintained operating synthesis. It is not subscription-analytics software and not a SaaS benchmark service.
 
-Gross vs net revenue churn, the five MRR movements, the warning that net can hide the leak, and negative net as an expansion property are distilled from a public metrics explainer ([ChartMogul, *Revenue churn*](https://chartmogul.com/saas-metrics/revenue-churn/?ref=b2b-playbook)). That page is a **method prompt**, not a source to copy. Its ARR-band and ARPA tables, “40% of $15–30M have negative churn,” median early-stage rates, and product UI are **not** this library’s targets. Named quotes on that page stay with their speakers.
+Gross vs net revenue churn, the five MRR movements, the warning that net can hide the leak, and negative net as an expansion property are distilled from a public metrics explainer ([ChartMogul, *Revenue churn*](https://chartmogul.com/saas-metrics/revenue-churn/?ref=b2b-playbook)). That page is a **method prompt**, not a source to copy. Its ARR-band and ARPA tables, “40% of &#36;15–30M have negative churn,” median early-stage rates, and product UI are **not** this library’s targets. Named quotes on that page stay with their speakers.
 
 ---
 

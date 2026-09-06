@@ -52,7 +52,7 @@ Build nothing. Do the job manually for a handful of companies. Least common in t
 
 **Vanta:** six months, ~24 companies, before code. Christina answered security questionnaires by copy-paste, read two dozen SOC 2 reports, ran a readiness assessment, and made a spreadsheet “report card.” The tests: would they spend time, and would they *believe* the spreadsheet? Segment liked it. Find-and-replace “Segment” → “Front” still helped Front—so it might standardize. An old Dropbox colleague emailed: I hear you are SOC 2 consultants, come do us. That was when they started writing code.
 
-**Ramp:** “savings reports” from 90 days of card and ACH data, returned as if software. One company was paying ~$100k for abandoned project-management tools. The gift of $200k in savings *without* requiring Ramp was the aha—and the pitch for what the product would do automatically.
+**Ramp:** “savings reports” from 90 days of card and ACH data, returned as if software. One company was paying ~&#36;100k for abandoned project-management tools. The gift of &#36;200k in savings *without* requiring Ramp was the aha—and the pitch for what the product would do automatically.
 
 ### Path 2: listen first (default unless you already know what to build)
 
