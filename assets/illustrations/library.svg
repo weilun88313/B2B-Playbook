@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc"><style>@media (prefers-color-scheme: dark){[fill="#F6F3EA"]{fill:#24362E}[fill="#24443B"]{fill:#E3EBDD}[fill="#E4EDE4"]{fill:#344A40}[fill="#FFFDF7"]{fill:#1B2923}[fill="#2F6E63"]{fill:#A4CDBC}[stroke="#2F6E63"]{stroke:#A4CDBC}[stroke="#DEDCD1"],[stroke="#D7D9CD"],[stroke="#DADCCF"]{stroke:#486052}}</style>
+<title id="title">B2B Playbook: a field guide for the work in front of you</title><desc id="desc">An open notebook connects three parts of B2B marketing: understand your buyers, help them choose, and learn from the result.</desc>
+<rect x="1" y="1" width="898" height="328" rx="12" fill="#F6F3EA" stroke="#DEDCD1"/>
+<g stroke="#DADCCF" stroke-width="1"><path d="M30 53h840M30 281h840"/><path d="M64 53v228m34-228v228m34-228v228m34-228v228m34-228v228m34-228v228m34-228v228m34-228v228" opacity=".4"/></g>
+<text x="30" y="33" fill="#2F6E63" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.2">B2B PLAYBOOK / FIELD NOTES</text>
+<g fill="none" stroke="#2F6E63" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M53 105q67-20 133 4q65-24 134-4v131q-68-19-134 6q-66-25-133-6z" fill="#E4EDE4"/>
+<path d="M64 92q61-13 122 12q61-25 121-12v131q-61-13-121 13q-61-26-122-13z" fill="#FFFDF7"/>
+<path d="M186 104v132M84 120l71 4m-71 13l71 4m-71 14l51 2M218 178l61-4m-61 20l61-4m-61 21l40-3"/>
+<circle cx="249" cy="137" r="21" fill="#E4EDE4"/><path d="M240 138l7 7 13-16"/>
+<path d="M83 191l21-25 18 14 31-24m-13 0h13v13"/>
+<path d="M186 237v21l13-7 13 7v-28" fill="#2F6E63"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#24443B">
+<text x="377" y="119" font-size="29">Understand your buyers.</text>
+<text x="377" y="173" font-size="29">Help them choose.</text>
+<text x="377" y="227" font-size="29">Learn from what happens.</text>
+<text x="30" y="307" font-size="13" letter-spacing="1">GUIDES · TOOLS · TEMPLATES · COMPANY CASES</text>
+<text x="868" y="307" font-size="13" text-anchor="end">Edited by Ivan Xu</text>
+</g></svg>

@@ -2,16 +2,11 @@
 
 **Last reviewed:** 2026-09-03
 
-Use this page to locate a specific B2B marketing motion. The library is organized in two levels:
+Find the guide for the task you are working on. Use the quick lookup below, or browse one of the nine chapters. Each chapter separates published articles from topics still on the writing list.
 
-1. **Capability domain:** the durable marketing function that owns the work.
-2. **Tactic playbook:** the specific motion, channel, or asset to execute.
+![Understand your buyers, help them choose, and learn from what happens.](../assets/illustrations/library.svg)
 
-If you are reading rather than looking up, start with [Read it like a book](../README.md#read-it-like-a-book) in the root README, then follow each chapter’s “What to read next.” Software lives in [TOOLS.md](../TOOLS.md). Newsletters and operators live in [RESOURCES.md](../RESOURCES.md). Spreadsheet and slide blanks live in [TEMPLATES.md](../TEMPLATES.md).
-
-Every capability domain has a published README that defines its decision, scope, boundaries, topic map, recommended build order, and interfaces with other domains. A domain guide is useful before every tactic is written, but it is not counted as a published tactic playbook.
-
-A tactic receives its own Markdown file only when its execution guidance, templates, metrics, and evidence are complete. Planned filenames appear in the master and domain maps without empty tactic pages.
+If you are not sure where to start, try a [short reading path](../README.md#read-it-like-a-book). You can also browse [tools](../TOOLS.md), [working files](../TEMPLATES.md), or [reading sources](../RESOURCES.md).
 
 ## Fast finder
 
@@ -257,32 +252,12 @@ Published:
 
 Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](09-operations-pipeline-and-measurement/measurement-model.md)), dashboards, privacy and compliance operations.
 
-## Domain guide contract
+<a id="domain-guide-contract"></a>
+<a id="page-contract"></a>
 
-Every capability-domain README should contain:
+## How to use the guides
 
-1. the durable marketing decision it owns;
-2. its scope and explicit boundaries;
-3. the core decisions an operator must make;
-4. a map of published and planned tactic playbooks;
-5. a recommended build order; and
-6. interfaces with adjacent domains.
-
-A domain guide may be published before its tactic playbooks. It must never label a planned tactic as published or link to a file that does not exist.
-
-## Page contract
-
-Every published tactic playbook should contain:
-
-1. a judgment a practitioner can argue with—not only a glossary definition;
-2. when to use and when not to use it;
-3. strategy and operating principles;
-4. step-by-step execution, with at least one concrete mechanism or worked pattern;
-5. copyable templates, plus a [working file](../TEMPLATES.md) when the work is a spreadsheet, scorecard, or 90-day deck;
-6. a pre-flight checklist;
-7. operating metrics and non-metrics;
-8. common mistakes;
-9. sources, a last-reviewed date, and a **what to read next** pointer so a cover-to-cover reader is not dumped back into an index.
+Start with the situation and the example, then use the steps and checklist for your own work. The suggested scores and thresholds are starting points to test, not universal benchmarks. Each guide includes sources and a next reading link.
 
 ## Architecture rationale
 
@@ -292,7 +267,7 @@ Every published tactic playbook should contain:
 
 Third-party links use `ref=b2b-playbook` for referral-source identification only. The parameter is not an affiliate code or an endorsement signal.
 
-Enterprise close (papering, procurement, multi-threaded negotiation) is outside this taxonomy. Quota pay, forecast, cadence, and post-sale operations that marketing must share live in domains 06, 08, and 09—not as a second sales-ops library. A later sales collection would be a separate top-level.
+This library focuses on marketing and the revenue work closely connected to it. Detailed contract negotiation and procurement execution are outside its scope.
 
 ---
 

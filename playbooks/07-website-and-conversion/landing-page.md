@@ -3,13 +3,13 @@ title: "Landing page"
 sidebarTitle: "Landing Page"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A landing page that restates the homepage and adds a form is a tax on the click you already paid for. The [homepage](homepage.md) is the standing scan. This page is **one campaign promise, kept on one URL, with one next step**.
+A landing page continues a promise made somewhere else, such as an ad, email, or event invitation. Keep that promise clear and give the visitor one relevant next step. Match the page to the campaign without inventing a different product story.
 
-[Paid media](../04-channels-and-distribution/paid-media.md) decides whether the click was hired to capture or to create. [Content strategy](../03-brand-story-and-content/content-strategy.md) still owns durable decision URLs. A landing page is usually **temporary**: it exists so a specific message does not dump into `/`.
+![The campaign promise; The evidence on the page; One relevant next step](../../assets/illustrations/landing-page.svg)
 
-This is not CRO folklore, not a homepage redesign, and not a second blog.
+*Reading guide: the campaign promise → the evidence on the page → one relevant next step.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This is not CRO folklore, not a homepage redesign, and not a second blog.
 - The motion is unnamed and you are making pages to feel busy. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) first.
 - You want to A/B button color before the promise matches the ad.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,21 +35,31 @@ This is not CRO folklore, not a homepage redesign, and not a second blog.
 | **Door** | The one next step this campaign is allowed to ask for |
 | **Kill date** | When this URL stops being the destination |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **The first screen must keep the promise that bought the click.** If the ad said “&#123;job&#125; for &#123;seat&#125; vs &#123;alternative&#125;,” the hero cannot say “welcome to the platform.” Message match is the page. Everything else is decoration.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the promise, the door, and the kill date before the layout
+## How to do it
+
+<a id="step-1-write-the-promise-the-door-and-the-kill-date-before-the-layout"></a>
+
+### Step 1: Define the promise and next step
 
 Complete: *people who saw &#123;source&#125; were promised &#123;sentence&#125;; this URL keeps it by &#123;proof or explanation&#125;; they do &#123;one action&#125;; we unpublish or redirect on &#123;date&#125;.* If you cannot finish that, you do not need a landing page.
 
-### Step 2: inherit positioning; do not invent a second story
+<a id="step-2-inherit-positioning-do-not-invent-a-second-story"></a>
+
+### Step 2: Keep the product story consistent
 
 Category, seat, alternative, result—same as [positioning](../02-product-marketing/positioning.md). The landing page **narrows** (this campaign’s trigger or offer). It does not reposition. Navigation can shrink; the constraint link should still exist if the promise touches security or implementation.
 
-### Step 3: pick a door that matches the job of the buy
+<a id="step-3-pick-a-door-that-matches-the-job-of-the-buy"></a>
+
+### Step 3: Match the action to visitor intent
 
 | Traffic job | Door on this page |
 |---|---|
@@ -57,15 +69,21 @@ Category, seat, alternative, result—same as [positioning](../02-product-market
 
 Two primary buttons mean two campaigns got taped together.
 
-### Step 4: keep the form as short as the intent
+<a id="step-4-keep-the-form-as-short-as-the-intent"></a>
+
+### Step 4: Keep the form proportionate to the request
 
 Awareness register: email. Hand-raise: the [demo request](demo-request.md) rules (including HDYHAU if this *is* the hand-raise). Do not put a 12-field gate on a creation click and call the fills pipeline.
 
-### Step 5: retire the URL
+<a id="step-5-retire-the-url"></a>
+
+### Step 5: Review or retire the page after the campaign
 
 When the campaign ends, redirect to the standing page that kept the same promise (homepage, comparison, or content URL). Orphan landing pages with old prices are how trust dies in search.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Paid search on “shared inbox vs queue for ops.” Capture.
 
@@ -89,7 +107,9 @@ Paid search on “shared inbox vs queue for ops.” Capture.
 
 Working file: [landing-page.md](../../templates/landing-page.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Promise on the page matches the source in the first screen.
 - [ ] Positioning is not rewritten.

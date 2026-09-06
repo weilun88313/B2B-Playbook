@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 import re
 import sys
+import xml.etree.ElementTree as ET
 from urllib.parse import unquote, urlsplit, parse_qs
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
@@ -120,12 +121,30 @@ for p in tactics:
     check(bool(re.search(r'\*\*Last reviewed:\*\* \d{4}-\d{2}-\d{2}', text)), f"{p.name}: missing review date")
     check("## Sources" in text and "## What to read next" in text, f"{p.name}: missing evidence/next reading")
     check("Copyright © 2026 Ivan Xu" in text, f"{p.name}: missing copyright")
+    check(f"assets/illustrations/{p.stem}.svg" in text, f"{p.name}: missing reading diagram")
+
+illustrations = list((ROOT / "assets/illustrations").glob("*.svg"))
+for p in illustrations:
+    try:
+        svg = ET.fromstring(p.read_text())
+        ns = "{http://www.w3.org/2000/svg}"
+        check(svg.tag == ns + "svg" and "viewBox" in svg.attrib, f"{p.name}: invalid scalable SVG")
+        check(svg.find(ns + "title") is not None and svg.find(ns + "desc") is not None,
+              f"{p.name}: missing accessible title/description")
+        check(all(e.tag not in {ns + "script", ns + "foreignObject"} for e in svg.iter()),
+              f"{p.name}: unexpected active SVG content")
+    except ET.ParseError as error:
+        check(False, f"{p.name}: malformed SVG: {error}")
 
 def nav_pages(value):
     if isinstance(value, dict):
         for key, child in value.items():
             if key == "pages":
-                yield from (x for x in child if isinstance(x, str))
+                for page in child:
+                    if isinstance(page, str):
+                        yield page
+                    else:
+                        yield from nav_pages(page)
             else:
                 yield from nav_pages(child)
     elif isinstance(value, list):
@@ -166,3 +185,4 @@ if ERRORS:
     sys.exit(1)
 print(f"PASS: {len(DOCS)} pages; {len(tactics)} playbooks; {len(working)} working files; {len(tools)} tools; {len(resources)} sources; {len(pages)} navigation entries.")
 print(f"PASS: local links/anchors, domain mirrors, coverage, favicons, {len(external)} unique third-party ref URLs.")
+print(f"PASS: {len(illustrations)} accessible SVG illustrations; every playbook has its own reading diagram.")

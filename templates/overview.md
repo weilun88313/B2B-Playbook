@@ -2,6 +2,8 @@
 title: "Working files"
 ---
 
+![Download a file; Fill it privately; Use it to make a decision](../assets/illustrations/using-templates.svg)
+
 **Last reviewed:** 2026-09-03
 
 Playbook pages teach the method. Files in this folder are the **blank you actually fill**. Markdown checklists stay on the page so an agent can execute; these files exist so a human can work in Sheets, Docs, or Slides without fighting GitHub preview.

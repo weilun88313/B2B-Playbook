@@ -3,13 +3,13 @@ title: "Sales enablement"
 sidebarTitle: "Sales Enablement"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Most first meetings die the same way: the seller logs in, clicks features until the hour is gone, and leaves the buyer to infer “why us.” The buyer is often not a category expert. They were asked to recommend something. They are more afraid of recommending the wrong tool than of missing a better one. The safest move is delay. **No decision** wins, and nobody gets blamed.
+Buyers often need help explaining a purchase to their colleagues. Give sales a clear story about the problem, the available approaches, and why your product fits. The goal is a better buying conversation, supported by material the buyer can share.
 
-Sales enablement here is the shared **pitch**: a story that makes a confident recommendation safer than waiting. It is not a feature walkthrough, a logo slide, or the full enterprise sales cycle.
+![Explain the problem; Compare the approaches; Support the decision](../../assets/illustrations/sales-enablement.svg)
 
-This page translates [positioning](positioning.md) into a meeting. Opportunity stages, papering, and procurement remain outside this marketing taxonomy. Use it when the motion is sales-assist or outbound; see [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+*Reading guide: explain the problem → compare the approaches → support the decision.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This page translates [positioning](positioning.md) into a meeting. Opportunity s
 - The buyer can activate and pay with no human. Do not bolt a 40-minute pitch onto a self-serve motion.
 - The meeting is a security questionnaire or a legal redline. Those are objections after the champion is sold.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 The pitch has two parts. **Setup** aligns the buyer with your point of view on the *whole* market. **Follow-through** proves only the differentiated value that matches that view. Features never appear outside the value they deliver.
 
@@ -70,7 +72,7 @@ Product, marketing, and sellers who still run early calls should write the pitch
 
 ### Pitch one-pager
 
-Teaching fill: **Help Scout** shape from April Dunford (structure only).
+Illustrative example: **Help Scout** shape from April Dunford (structure only).
 
 **Setup**
 
@@ -116,7 +118,9 @@ Copy the blanks for *your* insight.
 | Demo is the meeting | Demo is follow-through after agreement |
 | Keep pitching if they shrug | Disqualify if they reject the perfect world |
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Positioning alternatives and value themes are written; this pitch does not invent a new story.
 - [ ] Insight fails the “could a competitor say this?” test.

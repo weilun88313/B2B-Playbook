@@ -3,11 +3,13 @@ title: "Contact data"
 sidebarTitle: "Contact Data"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-Coverage is the number vendors advertise. It is also the weakest question. A row that “has a phone” is not a conversation. [Account research](account-research.md) decides whether the *account* deserves a touch. This page decides whether the **route**—especially a mobile—is real, theirs, and worth a human’s hour.
+A large contact database is not useful if it misses the people you need or gives you outdated details. Test providers on the same sample of target accounts, check the role and the contact information, and review how the data may be used.
 
-This is not a provider ranking, not a US-only law, and not permission to ignore consent or country rules.
+![Choose a target sample; Verify role and details; Compare usable coverage](../../assets/illustrations/contact-data.svg)
+
+*Reading guide: choose a target sample → verify role and details → compare usable coverage.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not a provider ranking, not a US-only law, and not permission to ignore 
 - You need the live open. That is [cold call](cold-call.md).
 - Legal or privacy must set lawful use. Qualified owners; this page will not.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Layer | Question |
 |---|---|
@@ -32,35 +36,51 @@ This is not a provider ranking, not a US-only law, and not permission to ignore 
 | **Right person** | Does that line belong to *this* prospect, or to a stranger? |
 | **Reachable** | Might a human answer? Pickup is mostly buyer behavior. Data cannot buy you a higher answer rate. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Buy right-person contacts, not coverage.** No provider is both widest and cleanest on someone else’s list—and even a clean file goes stale. Stack **two** sources for *your* personas, then validate line type and identity **before** the dial. A reachability score that says “will pick up” does not say *who*.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write who you call before you shop a vendor
+## How to do it
+
+<a id="step-1-write-who-you-call-before-you-shop-a-vendor"></a>
+
+### Step 1: Define the contacts you need
 
 Persona, seniority, company size, geography. A US LinkedIn-findable B2B list is a different problem than local SMB or a market that is not on those graphs. If you cannot name the slice, you will buy the vendor’s homepage.
 
-### Step 2: measure four layers on *your* sample
+<a id="step-2-measure-four-layers-on-your-sample"></a>
+
+### Step 2: Test coverage and accuracy on the same sample
 
 Take a few hundred of **your** ICP—not a conference anecdote. For each provider: any number, valid line, name match (or a second identity check you trust), cost **per right-person number**. Coverage without the next two layers is a lie you will pay in SDR hours.
 
 Do not import another operator’s May scorecard as your stack. Their 1,400-row US test is a **method prompt**. Your buyers are the experiment.
 
-### Step 3: stack two, then stop decorating
+<a id="step-3-stack-two-then-stop-decorating"></a>
+
+### Step 3: Add a second source only if it helps
 
 Lead with the source that delivers the most *new* right-person numbers on your slice. Add the complement that fills the holes—not a third logo that duplicates the first. A waterfall that re-credits the same stranger is how CRM rot starts.
 
-### Step 4: validate before the session, like you already do for email
+<a id="step-4-validate-before-the-session-like-you-already-do-for-email"></a>
+
+### Step 4: Check details before using them
 
 Line type + identity check on the number you will actually dial. Cheap relative to a wasted connect. Drop dead lines and obvious mismatches. Write the suppression: wrong-person, DNC, country you will not call.
 
-### Step 5: do not confuse pickup with identity
+<a id="step-5-do-not-confuse-pickup-with-identity"></a>
+
+### Step 5: Verify that you reached the right person
 
 If a model says the line will answer, still ask whose line it is. Better data spends scarce pickups on the right human. It does not raise the market’s answer rate.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 US mid-market security buyers. Not the published 10-provider table.
 
@@ -85,7 +105,9 @@ US mid-market security buyers. Not the published 10-provider table.
 
 Working file: [contact-data.xlsx](../../templates/contact-data.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The account hypothesis exists before we enrich a phone.
 - [ ] We scored four layers on our slice, not a vendor’s coverage slide.

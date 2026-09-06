@@ -3,9 +3,13 @@ title: "Multichannel sequence"
 sidebarTitle: "Multichannel Sequence"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A multichannel sequence coordinates email, phone, professional networks, partners, events, and useful assets around one account hypothesis. It is not the same message copied across more channels.
+Email, phone, LinkedIn, and events can support the same conversation, but each touch should add something useful. Plan why you are using each channel, what changes between messages, and when to pause or stop. More touches are not automatically better.
+
+![Give each channel a job; Add new context; Stop when appropriate](../../assets/illustrations/multichannel-sequence.svg)
+
+*Reading guide: give each channel a job → add new context → stop when appropriate.*
 
 ## Use this when
 
@@ -40,7 +44,9 @@ Every step must add information. “Just following up” is not a strategy.
 - **Event:** a bounded reason and time to meet around a shared context.
 - **Direct mail:** a high-cost, high-specificity asset for a small number of accounts.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 1. Write the account hypothesis and desired decision.
 2. Choose the minimum channels required to test it.
@@ -72,7 +78,9 @@ Copy: segment, trigger, seat, alternative, then five steps with a distinct job e
 - Suppression source of truth:
 - Steps 1–5 (channel / evidence added / action / delay / owner / stop):
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The account and seat pass qualification.
 - [ ] Each channel has a distinct purpose.

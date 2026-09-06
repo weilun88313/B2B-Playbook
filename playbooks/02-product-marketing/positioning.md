@@ -2,11 +2,13 @@
 title: "Positioning"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-Positioning is the shortest credible explanation of why a specific buyer should change from the current alternative.
+Buyers compare your product with something they already know: another tool, an internal process, or doing nothing. Positioning explains who your product is for, what makes it different, and why that difference matters in the buyer's situation.
 
-It is not a slogan, a product roadmap, or a future vision. It explains why the product you can sell today wins against the alternatives a prospect would actually use if you did not exist.
+![Current alternative; What is different; Why the buyer cares](../../assets/illustrations/positioning.svg)
+
+*Reading guide: current alternative · what is different · why the buyer cares.*
 
 ## Use this when
 
@@ -27,7 +29,9 @@ It is not a slogan, a product roadmap, or a future vision. It explains why the p
 
 
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 Work the five components in this order: competitive alternatives → distinct capabilities → differentiated value → best-fit accounts → market category. Do not start from a category slogan.
 

@@ -3,13 +3,13 @@ title: "Demo request"
 sidebarTitle: "Demo Request"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A “Request a demo” form that asks for a work email and a company size, then dumps every submit into a 30-minute platform tour, is a lead bucket. The [homepage](homepage.md) door and the [demo](../02-product-marketing/demo.md) walk are different jobs. This page owns the **high-intent path**: what the buyer should understand before they raise a hand, what you collect, and what happens in the first hour after submit.
+When someone requests a demo, tell them what will happen next. Ask only for information you will use, explain who will respond and when, and help the sales team prepare. The experience after submitting the form matters as much as the button.
 
-[Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) already says hand-raisers skip the leisurely point ladder. This page writes the form and the service level. It is not the product walk. If they have not agreed a job, do not book a tour.
+![Set expectations; Ask for useful details; Respond with context](../../assets/illustrations/demo-request.svg)
 
-This is not a landing-page CRO recipe, not chat-widget configuration, and not legal advice on consent.
+*Reading guide: set expectations → ask for useful details → respond with context.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a landing-page CRO recipe, not chat-widget configuration, and not le
 - You need the scored product walk. That is [demo](../02-product-marketing/demo.md).
 - Volume is a handful of inbound names a week and a human already replies in an hour. Write the SLA; do not add fields for sport.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,37 +36,53 @@ This is not a landing-page CRO recipe, not chat-widget configuration, and not le
 | **Speed-to-lead** | Time from submit to a human who can accept or redirect |
 | **HDYHAU** | “How did you hear about us?” — open text, no dropdown. Measurement, not a cute field |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Collect only what makes the first meeting useful—or what routes the wrong seat out.** Every extra field is a tax on a buyer who was ready. Company size and a work email are usually enough to start. Budget and “when will you buy?” are sales questions for the call, not a gate on the form.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: say what they are requesting
+## How to do it
+
+<a id="step-1-say-what-they-are-requesting"></a>
+
+### Step 1: Explain what the demo includes
 
 The page title is the meeting: “Walk through *your* [job],” not “Request a demo.” One paragraph: who it is for, how long, what they should have ready (a sample queue, a short list, a constraint). If the homepage promised a scoped conversation, this page must not downgrade it to a platform tour.
 
-### Step 2: keep the form short; put HDYHAU on this form
+<a id="step-2-keep-the-form-short-put-hdyhau-on-this-form"></a>
+
+### Step 2: Ask for information you will use
 
 Awareness-stage forms stay short. This is a **decision** form: role, work email, company, and enough context to scope (one text field: “What should we look at?”). Progressive profiling belongs on later pages, not here.
 
 Add a **mandatory open-text** “How did you hear about us?” with no suggested list. Dropdowns train people to pick “Google.” The field is for [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md), not for a campaign report. Do not put it on every newsletter signup.
 
-### Step 3: write the SLA before you publish the button
+<a id="step-3-write-the-sla-before-you-publish-the-button"></a>
+
+### Step 3: Set a response standard
 
 Complete: *on submit, ____ is notified, must ____, within ____.* Hand-raisers skip scoring theater. Fit-but-wrong-seat gets a redirect (resource, signup, or “not for you”), not a polite tour. Students, competitors, and existing customers need a negative path.
 
 If nobody owns the first hour, you built a form, not a door.
 
-### Step 4: confirm the scope in writing before the walk
+<a id="step-4-confirm-the-scope-in-writing-before-the-walk"></a>
+
+### Step 4: Confirm the buyer's needs before the call
 
 The auto-reply is not “thanks, a calendar link.” It restates the job they named and asks them to correct it. The [demo](../02-product-marketing/demo.md) still requires discovery. A calendar hold with no scope is how tours get booked and deals die as no-decision.
 
-### Step 5: do not put this CTA on every URL
+<a id="step-5-do-not-put-this-cta-on-every-url"></a>
+
+### Step 5: Use the request form where it fits
 
 Blog, careers, and education pages get a next step that matches intent (read the comparison, join a list, see pricing). “Book a demo” on every footer trains junk volume and trains sales to ignore the queue.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Champion = ops lead. Form lives on `/walkthrough`.
 
@@ -91,7 +109,9 @@ Sales-assist. Champion = ops lead. Form lives on `/walkthrough`.
 
 Working file: [demo-request.md](../../templates/demo-request.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The door matches [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 - [ ] The page states whose job and how long.

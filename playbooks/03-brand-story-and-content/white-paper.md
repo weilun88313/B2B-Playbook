@@ -3,11 +3,13 @@ title: "White paper"
 sidebarTitle: "White Paper"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-A 28-page PDF that restates the homepage and asks for a meeting on page 3 is a brochure with a cover. [Content strategy](content-strategy.md) decides whether a long argument deserves a URL. This page owns **when a sourced, long-form asset is the right shape**—and when you must write the comparison or the [case study](case-study.md) instead.
+Use a white paper when a buyer needs a deeper explanation than a short article can provide. Develop one clear argument, support it with sources, and explain the practical implications. Length and a download form do not make the argument stronger.
 
-A white paper is **one claim a champion can defend with citations**. It is not a webinar recap, not an ebook nickname for a landing page, and not a gated MQL machine.
+![Ask one question; Build a sourced argument; Explain the implications](../../assets/illustrations/white-paper.svg)
+
+*Reading guide: ask one question → build a sourced argument → explain the implications.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ A white paper is **one claim a champion can defend with citations**. It is not a
 - The goal is to generate MQLs. [Lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) already refuses that theater.
 - You do not have sources. A long opinion is a thought-leadership draft—still planned—not a white paper.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -31,11 +35,15 @@ A white paper is **one claim a champion can defend with citations**. It is not a
 | **Length** | As short as the claim allows. Pages are not a virtue |
 | **Gate** | An email exchange. Default is off |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **One claim, sources on the page, gate off unless the exchange is worth it.** If the PDF is still useful with the product name removed, it can be a white paper. If it only works as a pitch, it is enablement—put it behind the [demo](../02-product-marketing/demo.md), not a form.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: earn the format
 
@@ -66,7 +74,9 @@ Default: HTML (or a PDF that is the same document) with no form. A downloadable 
 
 White papers are later rows in [content strategy](content-strategy.md) unless a live deal is blocked on the method. Sales should finish “I send this when _____.” If they will not, you wrote for the brand blog.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Question: when is a shared inbox no longer enough for a paid queue owner?
 
@@ -92,7 +102,9 @@ Question: when is a shared inbox no longer enough for a paid queue owner?
 
 Working file: [white-paper.md](../../templates/white-paper.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Decision-page rows 1–3 exist or this paper is not the quarter’s first asset.
 - [ ] One claim; product name can be removed and the argument still stands.

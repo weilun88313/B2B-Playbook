@@ -3,9 +3,13 @@ title: "Cold email"
 sidebarTitle: "Cold Email"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Cold email tests whether a relevant account and buying seat will engage with a specific business hypothesis. Email is the delivery channel, not the strategy.
+A good cold email gives the right person a credible reason to reply. Start with something you actually know about their company, connect it to a relevant problem, and ask a small, clear question. Test the audience as carefully as the wording.
+
+![A fact about the account; A relevant business problem; One easy question](../../assets/illustrations/cold-email.svg)
+
+*Reading guide: a fact about the account → a relevant business problem → one easy question.*
 
 ## Use this when
 
@@ -21,7 +25,9 @@ Cold email tests whether a relevant account and buying seat will engage with a s
 - Compliance for the target country and channel has not been reviewed.
 - Sending volume is compensating for weak account evidence.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: define the smallest viable segment
 
@@ -29,7 +35,7 @@ Group accounts by a shared buyer, business job, current alternative, and observa
 
 Begin with a small batch. The purpose is to learn whether the evidence and message produce qualified conversations, not to maximize activity.
 
-Early, handmade targeting is the whole job. In Lenny Rachitsky’s first-ten interviews, **Retool** filtered Crunchbase for ops-heavy companies that were *not* SaaS and emailed both CTO and VP of operations; **Figma** DMed influential designers because the craftsperson chooses the tool; **Zip** asked for advice on LinkedIn so the first ten were cold enough to fail. That sequencing lives in [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). This page is the email once the ring is cold. If you have not yet proven the offer on a handmade batch, stop at [message-market fit](message-market-fit.md).
+If you are finding your first customers, start with a short list you can research yourself. The [first ten customers](../01-strategy-and-buyers/first-ten-customers.md) guide covers how to build that list. Use [message-market fit](message-market-fit.md) to test the audience and offer before increasing volume.
 
 ### Step 2: confirm the research brief
 
@@ -39,7 +45,9 @@ Use the [account-research playbook](account-research.md). Confirm account fit, t
 
 Sentence one connects observable evidence to a business consequence. Sentence two asks one low-friction question or proposes one decision-specific next step.
 
-> [Observed trigger] suggests [business job or risk] may be changing at [account]. Teams in that situation often find [specific limitation of the current alternative]; is that already solved, or worth comparing for [bounded next step]?
+> I noticed [specific, verified change at the company]. Does that affect how your team handles [relevant job]?
+
+If the recipient confirms the problem, follow up with a specific way you may be able to help. Do not claim that their current process is broken when all you have seen is a job posting.
 
 Avoid invented familiarity, unsupported performance claims, feature dumps, and calendar links without context.
 
@@ -65,13 +73,13 @@ Weak replies can come from the wrong accounts, wrong seat, weak trigger, poor ti
 
 ### How a filled first message reads
 
-Teaching fill—not a sendable email to a real company:
+Illustrative example, not an email sent to a real company:
 
 **Subject:** Security packs after a hiring spike
 
-> Your careers page listed three security-engineer roles this month. Teams in that situation often still assemble customer-review evidence in a spreadsheet. Is that already solved, or worth a 20-minute look at how the pack gets built?
+> I noticed three security-engineer openings on your careers page this month. Is handling customer security reviews part of what the team is growing to support?
 
-Close-the-loop: you will stop unless a dated trigger appears (renewal, a named security lead, another lost deal).
+This message tests a possible connection; it does not assume that the company uses spreadsheets or needs a new tool. A correction is useful feedback. An opt-out means stop.
 
 ### First message (copy)
 

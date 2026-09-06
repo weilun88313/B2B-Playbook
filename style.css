@@ -2,11 +2,13 @@
 
 .tool-cell {
   display: inline-flex !important;
-  flex-direction: row !important;
+  flex-direction: column !important;
   align-items: center !important;
-  gap: 0.5rem;
+  justify-content: flex-start;
+  gap: 0.6rem;
+  width: 7rem;
   white-space: nowrap;
-  line-height: 1;
+  line-height: 1.4;
   height: auto !important;
 }
 
@@ -44,12 +46,12 @@ table:has(.tool-cell) th {
 table:has(.tool-cell) {
   table-layout: fixed;
   width: 100%;
+  min-width: 48rem;
 }
 
 table:has(.tool-cell) th:nth-child(1),
 table:has(.tool-cell) td:nth-child(1) {
-  width: 16%;
-  white-space: nowrap;
+  width: 9rem;
 }
 
 table:has(.tool-cell) th:nth-child(2),
@@ -62,8 +64,92 @@ table:has(.tool-cell) td:nth-child(n + 3) {
   width: 23.33%;
 }
 
-/* Keep a gap between inline marks and neighboring words. */
-#content-area .mdx-content :is(strong, b, em),
-#content-area .mdx-content a.link {
-  margin-inline: 0.25em !important;
+/* Editorial reading surface. Keep native Mintlify navigation and interactions. */
+#page-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+#content-area .mdx-content {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+#content-area .mdx-content :is(p, li) {
+  text-wrap: pretty;
+}
+
+#content-area .mdx-content > p {
+  max-width: 68ch;
+}
+
+#content-area .mdx-content :is(h2, h3) {
+  line-height: 1.3;
+  letter-spacing: -0.018em;
+  text-wrap: balance;
+  scroll-margin-top: 8rem;
+}
+
+#content-area .mdx-content h2 {
+  margin-top: 2.75rem;
+  font-size: 1.55rem;
+}
+
+#content-area .mdx-content :is(th, td) {
+  line-height: 1.55;
+  font-variant-numeric: tabular-nums;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+#content-area .mdx-content th {
+  font-weight: 600;
+}
+
+#content-area .mdx-content blockquote {
+  border-left-width: 2px;
+  padding-block: 0.25rem;
+  font-style: normal;
+}
+
+#content-area img[data-path*="illustrations/"],
+#content-area img[src*="illustrations/"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  margin: 1.8rem auto;
+  border-radius: 12px;
+}
+
+#content-area img[data-path*="illustrations/library.svg"],
+#content-area img[src*="illustrations/library.svg"] {
+  max-width: 900px;
+}
+
+#content-area a:focus-visible,
+#sidebar a:focus-visible {
+  outline: 2px solid #2F6E63;
+  outline-offset: 4px;
+  border-radius: 3px;
+}
+
+.dark #content-area a:focus-visible,
+.dark #sidebar a:focus-visible {
+  outline-color: #9BD0B7;
+}
+
+@media (max-width: 640px) {
+  #page-title { font-size: 2rem; }
+  #content-area .mdx-content { line-height: 1.75; }
+  #content-area .mdx-content h2 { margin-top: 2.2rem; }
+  #content-area img[data-path*="illustrations/"],
+  #content-area img[src*="illustrations/"] { margin-block: 1.3rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
 }

@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Unit; Plans (≤5); Hygiene](../assets/illustrations/worksheet-pricing-page.svg)
+
 ## Unit
 
 - Value metric (one sentence a stranger can repeat):

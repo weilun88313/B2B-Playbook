@@ -3,11 +3,13 @@ title: "Case study"
 sidebarTitle: "Case Study"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A page titled “How Acme achieved transformation” with a 40% efficiency quote and no date is a brochure. [Content strategy](content-strategy.md) decides whether a proof URL belongs on the map. This page owns **how a named customer’s context, action, and result become something a champion can forward**—and when you must refuse to publish.
+A useful case study shows what a real customer changed and what happened next. Capture the starting point, the work involved, the result, and the limits of the evidence. Ask for permission before publishing names, quotes, or customer data.
 
-[Positioning](../02-product-marketing/positioning.md) names the alternative and the result. The case study is **one dated instance** of that result, with the friction left in. It is not a white paper, not a testimonial wall, and not a logo with a sentence.
+![Before the change; What the customer did; What happened next](../../assets/illustrations/case-study.svg)
+
+*Reading guide: before the change → what the customer did → what happened next.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ A page titled “How Acme achieved transformation” with a 40% efficiency quote
 - You need the claim standard for every sentence on the site. That is still planned as proof-and-claims.
 - The story is a launch announcement. That is a date, not a case.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -32,11 +36,15 @@ A page titled “How Acme achieved transformation” with a 40% efficiency quote
 | **Result** | A number or risk they already owned, with a date and a denominator |
 | **Friction left in** | What was hard, what they would not do again, where you were not the reason |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **If a skeptical champion cannot verify the before, the change, and the result, do not ship.** A quote without a situation is a testimonial. A metric without a date or a base is a slogan. Invented or composite customers are an incident.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: earn the right to name them
 
@@ -71,7 +79,9 @@ The reader is in an evaluation thread. They need “people like us left &#123;al
 
 Attach the URL to the decision-page map and to the [homepage](../07-website-and-conversion/homepage.md) proof block only if the story matches the scan. A case study that sales rewrites every time is unpublished.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Do not paste this onto a live site. It shows the *shape*.
 
@@ -101,7 +111,9 @@ Do not paste this onto a live site. It shows the *shape*.
 
 Working file: [case-study.md](../../templates/case-study.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Written approval to use the name and the facts.
 - [ ] Alternative and trigger would be recognized in current deals.

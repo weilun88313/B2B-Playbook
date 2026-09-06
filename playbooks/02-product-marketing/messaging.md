@@ -2,13 +2,13 @@
 title: "Messaging"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-[Positioning](positioning.md) is the market decision: who the product is for, against which alternative, why change now. Messaging is the **hierarchy that applies that decision** to a seat, a stage, and a surface without inventing a second story.
+Once you know who the product is for and why they would choose it, you need words people can understand. Build a small set of messages that work together across your homepage, sales conversations, and outreach, with evidence behind each claim.
 
-A positioning worksheet that never becomes a homepage line, a first-meeting opener, and an outbound paragraph is a workshop. Copy that forgets the alternative is a slogan. This page sits between them.
+![One main promise; Proof for the claim; Words for each buyer](../../assets/illustrations/messaging.svg)
 
-This is not brand strategy, not a tone-of-voice workshop, and not the [sales pitch](sales-enablement.md). Those inherit this hierarchy.
+*Reading guide: one main promise · proof for the claim · words for each buyer.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This is not brand strategy, not a tone-of-voice workshop, and not the [sales pit
 - You need which URLs to write. That is [content strategy](../03-brand-story-and-content/content-strategy.md).
 - The request is a brand-voice exercise with no commercial sentence.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,11 +36,15 @@ This is not brand strategy, not a tone-of-voice workshop, and not the [sales pit
 | **Value line** | A distinct, durable benefit. Three is enough. Features sit under the line as proof |
 | **Copy** | Words on one surface. Copy applies messaging; it is not a second positioning workshop |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Positioning → messaging → copy, in that order.** If the copy cannot still name the alternative, you skipped a layer. If every surface needs a new workshop, you never locked the core.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: lock the core from positioning, not from a brainstorm
 
@@ -88,7 +94,9 @@ The homepage hero speaks to the **primary** ICP. Other seats get their own URL, 
 
 One row per surface (homepage hero, outbound first paragraph, ads, first meeting). If the row cannot be completed, do not write. Then run the [homepage](../07-website-and-conversion/homepage.md) scan, the [pitch](sales-enablement.md), and one outbound paragraph against the same table. Contradiction is a defect.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Ops-lead queue. Alternative: shared inbox + spreadsheet. Type: buy vs build.
 
@@ -114,7 +122,9 @@ Ops-lead queue. Alternative: shared inbox + spreadsheet. Type: buy vs build.
 
 Working file: [messaging.md](../../templates/messaging.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] [Positioning](positioning.md) worksheet is filled; this page does not invent a second market decision.
 - [ ] One product type and one primary comparator are written.

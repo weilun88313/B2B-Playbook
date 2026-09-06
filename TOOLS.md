@@ -4,13 +4,17 @@ sidebarTitle: "Tools"
 mode: "wide"
 ---
 
+![Name the job to finish; Compare a short list; Test on your own workflow](assets/illustrations/tools.svg)
+
 > A curated directory of modern software for researching markets, creating demand, reaching buyers, operating revenue workflows, and measuring results.
 
 **Directory release:** 43 tools · 14 operating categories
 
 **Last reviewed:** 2026-08-30
 
-This is not a complete market map or a paid ranking. It is a deliberately small, modern-by-default shortlist. A newer product is not automatically better: every entry must solve a defined B2B job, expose a meaningful limitation, and have a current official product or documentation page. A community spreadsheet of AI logos is not this directory—pick the job in [AI use-case selection](playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md) first. A Claude skill pack that routes every job through one marketplace is not this directory either. Newsletters and operators live in [RESOURCES.md](RESOURCES.md).
+Looking for a CRM, a research tool, or a better way to run a campaign? Start with the job below, then compare the products in that category. The list favours newer, AI-native products and modern infrastructure, while keeping a few established options for comparison.
+
+Each entry explains where the product fits and what to check before adopting it. If you are still deciding which work to automate, start with [AI use-case selection](playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection.md). For newsletters and practitioners, see [reading sources](RESOURCES.md).
 
 No placement is paid. Lensmor is built and maintained by Ivan Xu, the owner of this repository; its relationship is disclosed in the entry below. All other tools are included independently.
 
@@ -30,7 +34,7 @@ An AI-native claim should be supported by observable product behavior: access to
 
 ## Start with the job
 
-Each row is a piece of GTM work to finish—not a role title, and not a vendor category. Open the section that does that work. Test coverage on your ICP sample. Compare mobiles on the same sample. Split work that vendors sell as one suite.
+Use this table to find a starting point. When comparing data providers, test them on the same sample of accounts and contacts. For broader platforms, check the specific features you will use rather than the size of the feature list.
 
 | What you need to finish | Start here | Do not confuse with |
 |---|---|---|
@@ -48,6 +52,8 @@ Each row is a piece of GTM work to finish—not a role title, and not a vendor c
 ## Tool directory
 
 Every product appears once, grouped by its primary operating job. Use the type definitions above to compare products, then read across each row for fit, differentiation, and adoption risks.
+
+On a phone, swipe the tables sideways to read the remaining columns.
 
 ## 01 · CRM, customer data & revenue systems
 

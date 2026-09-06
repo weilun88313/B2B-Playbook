@@ -3,9 +3,13 @@ title: "Trade shows"
 sidebarTitle: "Trade Shows"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A trade show is a time-bounded account-access program. Booth traffic and badge scans are **receipts**. Qualified next actions are the output. The scan proves they walked past. It does not prove a job, a seat, a trigger, or a week.
+A trade show has many moving parts: the account list, pre-booked meetings, booth conversations, lead capture, and follow-up. Plan those together so the team knows whom to meet and what to record. A busy stand is useful only if the conversations go somewhere.
+
+![Before: book meetings; During: capture context; After: own the next step](../../assets/illustrations/trade-shows.svg)
+
+*Reading guide: before: book meetings → during: capture context → after: own the next step.*
 
 ## Use this when
 
@@ -101,7 +105,9 @@ Same shape as [event marketing](event-marketing.md): T1 account, champion booked
 
 > At [event], you said [current process or trigger]. The agreed next step is [bounded action] with [required seat] by [date]. I will [seller action]; could you [buyer action]?
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The event decision is evidence-backed.
 - [ ] Target accounts are tiered.

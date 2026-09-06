@@ -3,13 +3,13 @@ title: "Company cadence"
 sidebarTitle: "Company Cadence"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[Sales operating cadence](sales-operating-cadence.md) splits the **weekly** jobs: pipe-gen, forecast, coaching. This page is the **quarterly superstructure**: sales and finance on one calendar, product and marketing on another, snapped together so a launch does not land on a close and a close does not starve the next release.
+Product launches, marketing campaigns, and quarter-end sales work can compete for the same people. Put the important dates on one calendar and agree on when decisions will be made. Leave enough room for each team to do its part well.
 
-A team that has product-market fit and is adding rooms will feel chaos that hiring a COO does not automatically fix. The cheaper fix is dates. Human beings already run on seasons. SaaS already runs on quarters. The work is to stop pretending those two clocks are the same meeting.
+![Plan the quarter; Coordinate launches; Protect the close and review](../../assets/illustrations/company-cadence.svg)
 
-This is not a 40-slide operating system, not a user-conference playbook, and not a reason to invent four all-hands.
+*Reading guide: plan the quarter → coordinate launches → protect the close and review.*
 
 ## Use this when
 
@@ -26,7 +26,9 @@ This is not a 40-slide operating system, not a user-conference playbook, and not
 - You need the budget and monthly headcount that follow that plan. That is [budget and planning](budget-and-planning.md).
 - You need MEDDIC fields. Write them on the opportunity. Do not smuggle a qualification brand into a launch week.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -35,29 +37,41 @@ This is not a 40-slide operating system, not a user-conference playbook, and not
 | **Offset** | Close and launch are about half a quarter apart so nobody’s hair is on fire twice in one week |
 | **Lightning strike** | One mid-quarter event (webinar, city room, release day) that concentrates news—not 52 press dribs |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Snap two calendars, then offset the peaks.** Sales and finance close together. Product and marketing launch together. Those two climaxes do not share a week. If you cannot point to the launch date that product is scoped to hit, marketing does not have a quarter. It has a content calendar.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: pick the fiscal year, then refuse mid-quarter quota edits
+## How to do it
+
+<a id="step-1-pick-the-fiscal-year-then-refuse-mid-quarter-quota-edits"></a>
+
+### Step 1: Agree on planning periods and quota rules
 
 December 31 is the default. Some sales-led companies end January 31 so the close is not Christmas week. Either is a choice. Changing quotas and territories after SKO is how you teach the team that the goalposts move.
 
 Board meetings sit two to three weeks after the books close—while the quarter is still true.
 
-### Step 2: put product on a shippable quarter
+<a id="step-2-put-product-on-a-shippable-quarter"></a>
+
+### Step 2: Set a realistic product delivery schedule
 
 The planning question is not “what would be amazing.” It is **what can ship inside this quarter** so marketing can put a date on it. Weekly or daily *code* can still ship. The **rock** (the thing you will demo in public) is quarterly. Sand that fills the jar first is how tentpoles never leave the building.
 
-### Step 3: give marketing the mid-quarter strike
+<a id="step-3-give-marketing-the-mid-quarter-strike"></a>
+
+### Step 3: Coordinate marketing with launch dates
 
 Four concentrated moments beat fifty-two announcements. A strike can be a webinar, a city room, or a user day. It does not have to be Dreamforce. The job is a date the CEO will stand on, so product cannot hide and sales has news in month two—not a surprise in week twelve.
 
 If you already run [events](../06-account-field-and-partner/event-marketing.md) or [executive dinners](../06-account-field-and-partner/executive-dinners.md), one of them *is* the strike. Do not add a second circus.
 
-### Step 4: write the quarter as three months with different jobs
+<a id="step-4-write-the-quarter-as-three-months-with-different-jobs"></a>
+
+### Step 4: Give each part of the quarter a clear purpose
 
 | Month | Character | Sales–finance | Product–marketing |
 |---|---|---|---|
@@ -67,11 +81,15 @@ If you already run [events](../06-account-field-and-partner/event-marketing.md) 
 
 All-hands follow the milestones (close, board, pre-strike, post-strike). They do not invent a fifth ritual.
 
-### Step 5: put the dates on one card
+<a id="step-5-put-the-dates-on-one-card"></a>
+
+### Step 5: Publish the shared calendar
 
 The [company-cadence card](../../templates/company-cadence.md) is the artifact. If launch and close are in the same week, you failed the offset. If marketing cannot name the rock, you failed step 2.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 ~80 people. January 31 fiscal year. Two product squads. One AE team.
 
@@ -83,7 +101,9 @@ The [company-cadence card](../../templates/company-cadence.md) is the artifact. 
 | Offset check | Strike is not in the close month |
 | Refuse | A second “launch” the week quotas end |
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Fiscal year-end is written, and sales quarters match it.
 - [ ] SKO, close, and board have dates; quotas do not move after SKO.

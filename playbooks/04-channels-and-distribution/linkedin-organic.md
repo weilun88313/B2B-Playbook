@@ -1,70 +1,87 @@
 ---
 title: "LinkedIn organic"
-sidebarTitle: "Linkedin Organic"
+sidebarTitle: "LinkedIn organic"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-A company page that posts four times a week and a founder who pastes the blog into the box are both “on LinkedIn.” Neither is a motion. This page is **how people (and only then the company page) build memory in a professional feed**—so that when a buyer enters the market, your name is already a category entry point.
+LinkedIn gives founders and practitioners a place to share what they are learning with people in their industry. Choose a few topics you know well, use concrete examples, and join the conversations your posts start. Treat the company page as a supporting resource.
 
-[Channel strategy](channel-strategy.md) still names the primary motion. [Content strategy](../03-brand-story-and-content/content-strategy.md) still names the durable URLs. LinkedIn does not replace those pages. It is usually **demand creation**: most category buyers are not in-market this week. The [LinkedIn B2B Institute 95-5 Rule](https://www.linkedin.com/business/marketing/blog/research-and-insights/why-you-should-follow-the-95-5-rule?ref=b2b-playbook) is the public statement of that split. Treating every post as a lead magnet is how organic dies as spam.
+![Share a real observation; Make it useful to readers; Continue the conversation](../../assets/illustrations/linkedin-organic.svg)
 
-This is not LinkedIn outbound (that is a prospecting channel). It is not paid social. It is not an algorithm course.
+*Reading guide: share a real observation → make it useful to readers → continue the conversation.*
 
 ## Use this when
 
-- The founder or a named operator already has a point of view, and the company wants “thought leadership” as a calendar of blog links.
-- Inbound mentions “I have been seeing you” and software attribution says Direct / Unknown.
-- The company page is the only actor, and employees are told to hit reshare.
-- Leadership wants LinkedIn because “that is where B2B is.”
+- A founder or practitioner has experience that would help your target readers.
+- Potential customers mention seeing your posts before they contact you.
+- The team wants a sustainable way to share useful work, beyond company announcements.
 
 ## Do not use this when
 
-- ICP and alternative are empty. Stay in [ICP](../01-strategy-and-buyers/icp.md) and [positioning](../02-product-marketing/positioning.md).
-- You need a conversation with a named account this week. That is [LinkedIn outbound](../05-outbound-and-prospecting/linkedin-outbound.md) or [cold email](../05-outbound-and-prospecting/cold-email.md)—after [message-market fit](../05-outbound-and-prospecting/message-market-fit.md).
-- The primary motion is unnamed. [Channel strategy](channel-strategy.md) first.
-- You intend to scrape search results into a sequence. That is an incident.
+- You cannot yet describe the reader or their problem. Start with [ICP](../01-strategy-and-buyers/icp.md) and [positioning](../02-product-marketing/positioning.md).
+- You need to contact a particular person this week. Use [LinkedIn outbound](../05-outbound-and-prospecting/linkedin-outbound.md) or [cold email](../05-outbound-and-prospecting/cold-email.md) for that task.
+- Nobody has time to write, review, or respond. Choose a smaller commitment before adding LinkedIn to the [channel plan](channel-strategy.md).
+- The plan depends on scraping people into an unsolicited sequence or manufacturing engagement.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
-| **Person** | A named human the feed already treats as a peer—not a brand avatar |
-| **Memory** | A buyer can recall you when they enter the category later—not a like |
-| **Dark social** | Forward, screenshot, Slack paste, “a colleague sent this.” Software will under-count it |
-| **Company page** | Distribution and jobs, not the voice. People carry the point of view |
+| **Speaker** | The person whose experience and point of view the post represents |
+| **Recall** | A buyer remembers you when the problem becomes relevant to them |
+| **Dark social** | Sharing that analytics may not trace, such as screenshots, private messages, or a colleague's recommendation |
+| **Company page** | A place for product updates, hiring, customer evidence, and useful work from the team |
 
-## One rule
+<a id="one-rule"></a>
 
-**People create demand; the company page distributes it.** If the only actor is a logo, you are renting impressions from employees you have not equipped. Algorithm tips are not a substitute for a point of view a champion would forward.
+## Keep this in mind
 
-## Operating method
+Start with someone who has something useful to say. Let the company page support that work rather than asking everyone to repost the same announcement. This is a starting approach for a small team, not a claim that company pages cannot build an audience.
 
-### Step 1: name who is allowed to speak, and what they are not selling
+<a id="operating-method"></a>
 
-Write one operator (often the founder, sometimes a practitioner-seller) and the **perception** they own—same GACCS discipline as [content strategy](../03-brand-story-and-content/content-strategy.md). If the post is still useful with the product name removed, it can run. If it is a feature announcement in first person, it is an ad.
+## How to do it
 
-Do not appoint twelve “employee advocates” before one person has a repeating idea.
+<a id="step-1-name-who-is-allowed-to-speak-and-what-they-are-not-selling"></a>
 
-### Step 2: post for the 95, link for the 5
+### Step 1: Choose the speaker and the topics
 
-Most readers are out-of-market. Teach the crack in the alternative, the job, the constraint—not “book a demo” in line one. When someone *is* in-market, the post should make a [decision page](../03-brand-story-and-content/content-strategy.md) easy to find, not replace it with a thread.
+Choose one person and two or three topics they can discuss from experience. For each post, note the reader, the question, and the specific example. The [content strategy](../03-brand-story-and-content/content-strategy.md) guide has a brief you can adapt.
 
-A useful test: would this still be worth posting if LinkedIn’s click-through collapsed further? If the only value was the click, it was a landing-page headline, not organic.
+Start with a schedule that this person can maintain. Add more speakers when they have their own useful perspective and enough support to participate.
 
-### Step 3: make the artifact forwardable
+<a id="step-2-post-for-the-95-link-for-the-5"></a>
 
-The unit is a screenshot or a paragraph a champion pastes into Slack—not a carousel of seven platitudes. Specific scene, named seat, one claim labeled. Soft CTAs (“curious how others run this”) beat calendar links in the first comment.
+### Step 2: Help readers before asking them to buy
 
-### Step 4: run the company page as a library, not as a second founder
+Many readers will not be evaluating a product when they see your post. Explain a useful lesson, a problem you have encountered, or a trade-off worth understanding. When a reader wants more detail, link to a relevant [article or comparison](../03-brand-story-and-content/content-strategy.md).
 
-Company page: hiring, launch notes, proof you can date, and resharing the person’s best posts. It does not invent a cooler voice. Employee reshare programs without a brief produce identical sludge.
+A useful check: does the post help someone who never clicks the link? If the answer is no, put more of the explanation in the post itself.
 
-### Step 5: read mentions and HDYHAU, not impressions
+<a id="step-3-make-the-artifact-forwardable"></a>
 
-Software will miss podcast-to-LinkedIn-to-Slack paths. Pair feed diagnostics with [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md): open-text “how did you hear about us,” and sales notes that say “I have been seeing you.” Kill a cadence that produces only employee likes.
+### Step 3: Make the post useful enough to share
 
-## Teaching fill (invented—not a customer)
+Share a detail people can recognise and use: a before-and-after example, a short checklist, or a decision with the reasoning behind it. A reader should be able to forward the post to a colleague without writing a long explanation. Invite a relevant response when you have a genuine question; you do not need a sales call to action on every post.
+
+<a id="step-4-run-the-company-page-as-a-library-not-as-a-second-founder"></a>
+
+### Step 4: Give the company page a supporting role
+
+Use the company page for hiring, launch notes, customer evidence you have permission to share, and useful work from the team. If employees want to share something, give them context and let them add their own perspective.
+
+<a id="step-5-read-mentions-and-hdyhau-not-impressions"></a>
+
+### Step 5: Review buyer feedback alongside platform metrics
+
+Review reach and engagement alongside what buyers say in conversations and in an optional “How did you hear about us?” field. The [measurement guide](../09-operations-pipeline-and-measurement/measurement-model.md) explains why those views may differ. If the response comes mainly from colleagues, reconsider the topics, examples, or intended audience before posting more often.
+
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Founder writes. Seat = ops lead. Alternative = shared inbox.
 
@@ -89,7 +106,9 @@ Founder writes. Seat = ops lead. Alternative = shared inbox.
 
 Working file: [linkedin-organic.md](../../templates/linkedin-organic.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Primary motion is named on [channel strategy](channel-strategy.md).
 - [ ] One human owns the voice; the company page is not the founder.
@@ -107,7 +126,7 @@ Working file: [linkedin-organic.md](../../templates/linkedin-organic.md).
 | Decision-page assists | Organic posts that precede a comparison or pricing visit *and* a qualified conversation |
 | Speaker consistency | Weeks the named person actually posted (cadence you can sustain) |
 
-Do not treat impressions, follower count, or employee reshare rate as the scoreboard. Those are inputs.
+Impressions and follower growth help you understand distribution. They do not, on their own, tell you whether the work is reaching relevant buyers or helping the business.
 
 ## Common mistakes
 
@@ -126,9 +145,9 @@ Paying to reach the same category is [paid media](paid-media.md)—creation and 
 
 This is an owner-maintained operating synthesis.
 
-- **Most buyers are out-of-market; brand/memory work is for the 95; lead-gen ads capture the 5.** Public LinkedIn B2B Institute [95-5 Rule](https://www.linkedin.com/business/marketing/blog/research-and-insights/why-you-should-follow-the-95-5-rule?ref=b2b-playbook). Their finding that many B2B marketers expect ads to work inside two weeks is **their** research tape—use it as a warning, not as your survey.
-- **Software under-reports dark social; ask humans.** Refine Labs public essays on self-reported attribution and founder-led presence. Their 90% gap is **their** study.
-- “People over company page” and “forwardable artifact over carousel sludge” are operating judgments in this library, consistent with Exit Five / Refine Labs operator practice. This is not a LinkedIn ads playbook and not a personal-brand course.
+- LinkedIn B2B Institute's [95-5 Rule](https://www.linkedin.com/business/marketing/blog/research-and-insights/why-you-should-follow-the-95-5-rule?ref=b2b-playbook) explains why marketing needs to consider buyers who are not currently shopping. The proportions are a framework, not a measured split of your own followers.
+- The recommendation to combine tracking with buyer feedback is discussed in the [measurement guide](../09-operations-pipeline-and-measurement/measurement-model.md), including its sources and limits.
+- Starting with an individual speaker, using the company page in support, and favouring concrete examples are editorial recommendations. They are not findings from a controlled comparison of LinkedIn formats.
 
 ---
 

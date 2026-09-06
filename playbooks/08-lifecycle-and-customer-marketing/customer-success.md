@@ -3,13 +3,13 @@ title: "Customer success"
 sidebarTitle: "Customer Success"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Customer success is not “be nice after the sale.” It is **people, process, and performance management** on the book you already won. If renewals, expansion, and support each have a different story of the customer, you do not have a CS motion. You have three teams sharing a logo.
+Customer success helps customers achieve the outcome they bought the product for. Make the handoff from sales clear, agree on responsibilities across support and account management, and keep customer progress visible. Retention and expansion should follow from real value.
 
-This domain’s job after purchase is to educate, retain, expand, and mobilize. This page is the operating system: who owns the account, what a week looks like, how a ticket becomes a closed loop, how a renewal is tracked, and what a new CS hire must learn. It does not replace in-app UX or a full ITIL support stack. It does insist that marketing, sales, and success share **tiers, handoff facts, and a number**.
+![Understand the promise; Help the customer achieve it; Review value and risks](../../assets/illustrations/customer-success.svg)
 
-[Customer onboarding](customer-onboarding.md) is the first-value path (education vs implementation). Read that next if the wound is “they never launched.” This page is the ongoing machine.
+*Reading guide: understand the promise → help the customer achieve it → review value and risks.*
 
 ## Use this when
 
@@ -25,13 +25,19 @@ This domain’s job after purchase is to educate, retain, expand, and mobilize. 
 - You need employee SDR ramp. That is [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
 - Legal/privacy owns the relationship (health, government). Get a qualified owner.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Write where renewals and upsells live, and how those people are paid, before you write values.** If CS is compensated on logo hugs and sales is compensated on expansion, you have designed a war. Point at [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) for the live plan.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: put history on one page so the team is not guessing
+## How to do it
+
+<a id="step-1-put-history-on-one-page-so-the-team-is-not-guessing"></a>
+
+### Step 1: Understand the customer's history
 
 A new CS hire should not learn the book from folklore. Write:
 
@@ -40,7 +46,9 @@ A new CS hire should not learn the book from folklore. Write:
 
 This is context, not a vanity dashboard. If you cannot name referenceable customers, advocacy is not the next motion. Honesty is.
 
-### Step 2: name the jobs, then the org chart
+<a id="step-2-name-the-jobs-then-the-org-chart"></a>
+
+### Step 2: Agree on team responsibilities
 
 Roles only exist if the sentence “this person is paid to ______” is different.
 
@@ -53,7 +61,9 @@ Typical split (labels vary; the work does not):
 
 Draw the boxes only after the sentences exist. A four-title ladder with one person in each box is a costume.
 
-### Step 3: say how CS is measured—team and individual
+<a id="step-3-say-how-cs-is-measuredteam-and-individual"></a>
+
+### Step 3: Define team and individual measures
 
 Team weekly: at-risk accounts, percent to the CS number, business reviews this week.
 
@@ -61,7 +71,9 @@ Individual 1:1: QBRs done, tickets received/answered if they own a queue, renewa
 
 If you need a town hall, its job is **wins and losses across tiers**, not a pep talk.
 
-### Step 4: the sales → CS handoff is a conversation with a file
+<a id="step-4-the-sales--cs-handoff-is-a-conversation-with-a-file"></a>
+
+### Step 4: Make the sales handoff a conversation
 
 Close is not the handoff. The handoff is:
 
@@ -72,7 +84,9 @@ Close is not the handoff. The handoff is:
 
 Standardize the briefing: pain, promised solution, goals, dependencies, advocate vs detractor, how we will know they want to renew. Async video is allowed. A two-line CRM note is not.
 
-### Step 5: support is a path, not a personality
+<a id="step-5-support-is-a-path-not-a-personality"></a>
+
+### Step 5: Give customers a clear support route
 
 Write where requests come from (inbox, in-app, bot, named queue). Then the path:
 
@@ -80,7 +94,9 @@ Request → automated ack → first human response → resolved **or** escalated
 
 If CSMs are bad at implementation, do not hide implementation inside “be a CSM.” Split the work. Introduce support at the **start** of a project, not as a surprise at go-live.
 
-### Step 6: renewals, upsells, advocacy are playbooks with triggers
+<a id="step-6-renewals-upsells-advocacy-are-playbooks-with-triggers"></a>
+
+### Step 6: Set triggers for renewals and expansion
 
 Your CS file should answer:
 
@@ -93,13 +109,17 @@ Tiers (named 1/2/3 in CRM) exist to change coverage and QBR depth—not to print
 
 Write the **exception plays** before you need them (one page each, not a novel): champion leaves (continuity in the account **and** whether they are a new-logo motion elsewhere—do not mix the two); customer goes dark; invoice unpaid; expected churn vs surprise churn; they outgrow the product. The CS file that only describes the happy path is a brochure.
 
-### Step 7: ramp CS like a job, not a shadow week
+<a id="step-7-ramp-cs-like-a-job-not-a-shadow-week"></a>
+
+### Step 7: Build a practical onboarding plan for the CS team
 
 A new hire needs, in writing: product, this playbook, shadowing, demo/call listening, email/call patterns, renewal conversation, CRM how-to, territories and rules of engagement, [ICP](../01-strategy-and-buyers/icp.md). Then live queue or a tiny book with a manager on the first accounts. Same spirit as [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md): **exit tests**, not “sit with Jordan.”
 
 Values (customer-first, speed, teamwork) go last. They cannot substitute for a compensation program or a staffing plan.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Forty customers. One CSM, one associate. AE still closes. Renewals sit in CS; upsells over a threshold return to the AE with CS attached.
 
@@ -128,7 +148,9 @@ Forty customers. One CSM, one associate. AE still closes. Renewals sit in CS; up
 - Exception plays we have in writing (dark, unpaid, champion-left, churn types, outgrow):
 - New-hire weeks and exit tests:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Renewals and upsells have a home and a pay rule.
 - [ ] Each CS role has a one-sentence job.

@@ -3,11 +3,13 @@ title: "Peer community"
 sidebarTitle: "Community"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-For high-ACV B2B, **one credible intro inside a room that already debates the job** usually beats a month of generic reach. [Ecosystem](../06-account-field-and-partner/ecosystem.md) is the company flywheel. This page is the **room**: which existing vertical community we enter, what we contribute before we extract, and what “peer endorsement” is allowed to mean.
+Your buyers may already learn from each other in a professional group, forum, or industry community. Find those places and contribute something useful before asking for attention. This guide covers participating in an existing community, rather than starting your own.
 
-This is not “build our own Slack so we can call it community-led.” That asset, if you ever own it, is still planned. It is also not a paid-community membership pitch.
+![Listen to the group; Contribute useful work; Build relationships](../../assets/illustrations/community.svg)
+
+*Reading guide: listen to the group · contribute useful work · build relationships.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not “build our own Slack so we can call it community-led.” That asse
 - The primary motion is unnamed. [Channel strategy](channel-strategy.md) first.
 - You intend to scrape the member directory. That is an incident, not a motion.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,17 +37,25 @@ This is not “build our own Slack so we can call it community-led.” That asse
 | **Endorsement** | A named peer (or the room’s host) putting their reputation on an intro. A pin is not this. |
 | **Extraction** | Asking for pipeline before the room has a reason to keep you. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Contribute before you extract.** If the first artifact is an ad, a member-list export, or a “quick hello” blast, you are renting a hallway. High ACV buys patience: one intro from a peer who did the work is the unit. A sponsored slot is the last resort, not the opener.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name the room from where they already learn
+## How to do it
+
+<a id="step-1-name-the-room-from-where-they-already-learn"></a>
+
+### Step 1: Find where buyers already learn
 
 Write: *this seat already debates [job] in [room] because [evidence].* If the evidence is “everyone is on LinkedIn,” you do not have a room. You have a network. Coverage × composition still apply—see [ecosystem](../06-account-field-and-partner/ecosystem.md). High composition and modest coverage is the usual high-ACV wedge.
 
-### Step 2: pick one contribution, not a campaign calendar
+<a id="step-2-pick-one-contribution-not-a-campaign-calendar"></a>
+
+### Step 2: Choose one useful contribution
 
 Default order—ads are not on this list:
 
@@ -56,19 +68,27 @@ Default order—ads are not on this list:
 
 Do the smallest thing the host would thank you for in public. Then stop. A second contribution is earned, not scheduled.
 
-### Step 3: write what endorsement is allowed to be
+<a id="step-3-write-what-endorsement-is-allowed-to-be"></a>
+
+### Step 3: Agree on appropriate introductions
 
 Allowed: a host or member intro to a named account, a “I used this when _____” line a champion can forward, a seat at a table you did not buy. Not allowed: quoting the community as a customer, implying the room vets vendors, or turning a private thread into a case study.
 
-### Step 4: attach the intro to a motion you already run
+<a id="step-4-attach-the-intro-to-a-motion-you-already-run"></a>
+
+### Step 4: Connect introductions to your sales process
 
 The intro is not a channel. It is a **warm ring** into [account research](../05-outbound-and-prospecting/account-research.md), a [dinner](../06-account-field-and-partner/executive-dinners.md), or a page from [content strategy](../03-brand-story-and-content/content-strategy.md). If sales cannot finish “I use this room when _____,” you collected members.
 
-### Step 5: refuse the media kit until the room has used you
+<a id="step-5-refuse-the-media-kit-until-the-room-has-used-you"></a>
+
+### Step 5: Learn from participation before paying for promotion
 
 If they offer a newsletter blast, a Slack sponsor, or a logo wall, treat it as paid social with extra guilt. Buy it only after a contribution has produced a dated intro or a forwarded artifact—and only with a stop rule.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Ops leaders in a 400-person practitioner room. They already share questionnaire-pack templates. We do not advertise. We co-edit one working file they already circulate; the host introduces us to two T1 accounts who asked for the next version.
 
@@ -93,7 +113,9 @@ Ops leaders in a 400-person practitioner room. They already share questionnaire-
 
 Working file: [community.md](../../templates/community.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The room exists without us.
 - [ ] Composition is written; vanity reach is not the reason.

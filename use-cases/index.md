@@ -3,6 +3,8 @@ title: "Company use cases"
 sidebarTitle: "Company cases"
 ---
 
+![Understand the situation; Separate results from interpretation; Design your own small test](../assets/illustrations/company-cases.svg)
+
 **Last reviewed:** 2026-09-06
 
 Three named companies, three specific growth motions. Each case separates what a primary source reports from our interpretation and a suggested test. “Source-checked” means the account and date were checked; company-reported outcomes have not been independently audited.

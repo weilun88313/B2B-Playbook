@@ -3,9 +3,13 @@ title: "Account research"
 sidebarTitle: "Account Research"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Account research turns public, permitted evidence into a decision about whether to contact an account, which seat to approach, and what hypothesis to test.
+Research should help you decide whether an account is worth contacting and what to say. Collect a few relevant facts, record where they came from, and separate what you know from what you suspect. Stop when you can make a useful next decision.
+
+![Start with a question; Gather dated evidence; Contact, wait, or pass](../../assets/illustrations/account-research.svg)
+
+*Reading guide: start with a question → gather dated evidence → contact, wait, or pass.*
 
 ## Use this when
 
@@ -29,7 +33,9 @@ Account research turns public, permitted evidence into a decision about whether 
 
 Research the account before the person. A highly personalized message to the wrong account is still wrong.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: write the hypothesis before searching
 
@@ -49,7 +55,7 @@ Useful sources may include company websites, filings, job posts, official announ
 
 ### Step 3: classify each item
 
-Teaching fill:
+Illustrative example:
 
 | Item | Source / date | Label | Decision impact |
 |---|---|---|---|
@@ -90,7 +96,9 @@ Copy:
 - Reason to stop or disqualify:
 - Proposed first channel and next action:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The account passes hard ICP exclusions.
 - [ ] Every fact has a source and date.

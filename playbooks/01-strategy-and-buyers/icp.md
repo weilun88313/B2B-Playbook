@@ -3,11 +3,13 @@ title: "Ideal customer profile (ICP)"
 sidebarTitle: "ICP"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-Most B2B teams do not have an ICP. They have a category they wish were a market, and a slide of logos they would like to close. An ICP turns a market into **observable account filters and different next actions**—not “everyone interested in this category.”
+Which companies are worth your team's time? An ideal customer profile gives you a practical way to answer that question. Use evidence from real accounts to decide who fits, who does not, and what to do next.
 
-If you cannot say why this account is T1 and that one is a pass, later chapters (positioning, outbound, events) will only scale the same confusion.
+![Check the fit; Look for urgency; Choose a next step](../../assets/illustrations/icp.svg)
+
+*Reading guide: check the fit → look for urgency → choose a next step.*
 
 ## Use this when
 
@@ -17,7 +19,7 @@ If you cannot say why this account is T1 and that one is a pass, later chapters 
 
 ## Do not use this when
 
-- You have fewer than eight serious customer conversations. If there is no candidate yet, start at [idea discovery](idea-discovery.md). Otherwise validate first: [idea validation](idea-validation.md).
+- You have not yet spoken with prospective customers about the problem. If you do not have a candidate problem, start at [idea discovery](idea-discovery.md). Otherwise begin with [idea validation](idea-validation.md).
 - You want a document that proves everyone can be a customer.
 - The inputs come only from model-generated guesses.
 
@@ -61,7 +63,7 @@ Use only 0, 1, or 2. Total: 0–10.
 | Observable trigger | None | Weak signal | Dated event, renewal, deadline, or incident |
 | Committee visibility | One unknown contact | Two seats are visible | Economic buyer or blocker is visible |
 
-Default rules:
+Suggested starting rules, not a validated scoring model. Test these against your own accounts and adjust them when the results show a better distinction:
 
 - **T1:** 7–10, with a trigger score of 1 or 2.
 - **T2:** 4–6, or a higher score without an observable trigger.
@@ -84,7 +86,9 @@ Default rules:
 5. One default next action
 6. Unknowns and how to resolve them
 
-## Full operating method
+<a id="full-operating-method"></a>
+
+## The full process
 
 ### Step 1: start with exclusions
 

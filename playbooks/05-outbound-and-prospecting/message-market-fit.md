@@ -3,13 +3,13 @@ title: "Message-market fit"
 sidebarTitle: "Message Market Fit"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[Buying signals](buying-signals.md) decide which dated change may change the week. [Cold email](cold-email.md) writes the two sentences. This page is the **gate in front of automation**: whether that offer and that sentence already produce qualified conversations in a handmade batch—before a sequence, a waterfall, or an “AI SDR” multiplies them.
+Before automating outreach, find out whether a specific group of buyers responds to your offer. Keep the audience and offer narrow, write the first messages yourself, and review the replies. Change one important variable at a time so you can learn from the test.
 
-A team that cannot get a reply by hand will not get a better reply at 10× volume. They will get faster noise. The community anti-consensus on AI outbound is the same sentence: tools do not repair an offer that has not been sold.
+![One audience and offer; A small manual test; Learn from the replies](../../assets/illustrations/message-market-fit.svg)
 
-This is not a prompt library, not a vendor workspace, and not a reason to skip the [ICP](../01-strategy-and-buyers/icp.md).
+*Reading guide: one audience and offer → a small manual test → learn from the replies.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a prompt library, not a vendor workspace, and not a reason to skip t
 - You need the written first touch for one logo. That is [cold email](cold-email.md).
 - You need the calendar of meetings. That is [sales operating cadence](../09-operations-pipeline-and-measurement/sales-operating-cadence.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,21 +36,31 @@ This is not a prompt library, not a vendor workspace, and not a reason to skip t
 | **Handmade batch** | 25–50 sends the founder or AE actually wrote, to logos that already pass ICP. |
 | **Pattern** | The same objection or the same yes, repeating. One lucky reply is not fit. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Do not automate a sentence you have not sold.** If the handmade batch cannot produce a qualified conversation or a clear, repeating no, more infrastructure is a volume tax. Message-market fit is the offer working on this slice—not a clever subject line.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: freeze one slice and one offer
+## How to do it
+
+<a id="step-1-freeze-one-slice-and-one-offer"></a>
+
+### Step 1: Choose one audience and offer
 
 One ICP slice. One job. One current alternative. Write the offer as a sentence the buyer could repeat in a staff meeting without your deck. If the sentence dies when the product name is removed, you do not have an offer. You have a feature.
 
-### Step 2: write the sentence by hand
+<a id="step-2-write-the-sentence-by-hand"></a>
+
+### Step 2: Write the first messages yourself
 
 Use the [cold email](cold-email.md) shape. No generated “personalization” from a scraped About page. If you cannot name two independent facts, you are not ready to test the offer—you are still in [account research](account-research.md).
 
-### Step 3: run a handmade batch with a kill date
+<a id="step-3-run-a-handmade-batch-with-a-kill-date"></a>
+
+### Step 3: Run a small test with a review date
 
 Defaults you will override with your own log:
 
@@ -62,17 +74,23 @@ Defaults you will override with your own log:
 
 Classify replies the way [cold email](cold-email.md) already does. Do not raise volume mid-batch to “get a read.”
 
-### Step 4: change one thing
+<a id="step-4-change-one-thing"></a>
+
+### Step 4: Change one variable at a time
 
 If the batch fails, change **one**: slice, offer, or sentence. Not all three. A new tool is not a change.
 
 If the batch produces a pattern, write it on the [message-market-fit card](../../templates/message-market-fit.md). That card is what sequences and agents are allowed to scale. [AI workflow](../09-operations-pipeline-and-measurement/ai-workflow.md) still needs a send gate. [GTM AI maturity](../09-operations-pipeline-and-measurement/gtm-ai-maturity.md) still forbids climbing the ladder on a motion that does not work by hand.
 
-### Step 5: refuse the costume
+<a id="step-5-refuse-the-costume"></a>
+
+### Step 5: Check demand before adding automation
 
 A Clay table, a mailbox farm, or a 19-reply tool thread is not evidence of fit. Neither is a G2 score that will move next quarter. If you cannot show the handmade log, you may not buy the amplifier.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Founder selling a questionnaire pack for security reviews. Slice: VP Ops at 80–250 person SaaS. Alternative: intern + shared inbox.
 
@@ -84,7 +102,9 @@ Founder selling a questionnaire pack for security reviews. Slice: VP Ops at 80�
 | Pattern | Offer works when Ops owns the SLA. Fails when Legal is the buyer. |
 | Scale? | Yes—only the Ops-owned slice. Do not automate Legal. Do not buy an AI SDR. |
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Slice, offer, and sentence fit on one card.
 - [ ] Handmade batch size, author, and kill date are written.

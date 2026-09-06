@@ -3,13 +3,13 @@ title: "Account planning"
 sidebarTitle: "Account Planning"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-An [ICP](../01-strategy-and-buyers/icp.md) says who deserves attention. A [buying committee](../01-strategy-and-buyers/buying-committee.md) map says who must say yes. An **account plan** is the living file that answers: **what is going on in this company, what we will do in the next 30/60/90 days, and who owns each move.** Without it, “strategic account” is a label on a CRM record.
+An account plan helps everyone working with a customer see the same picture. Keep the business context, key people, open questions, and next actions in one place. Review it often enough that it stays useful for actual conversations.
 
-This is not a 40-page agency binder and not a close process. Papering and procurement stay outside this taxonomy. The plan exists so marketing, sales, and success share one story before they spend coordinated time on a named account.
+![Business context; People and relationships; Next actions and owners](../../assets/illustrations/account-planning.svg)
 
-Sales is a thinking process. The worksheet is a prompt. If the page is full and nobody can say *why they should solve with you, what they are trying to solve, how they solve it today, who the characters are, and when they must solve*, you have decorated a file. You have not planned.
+*Reading guide: business context · people and relationships · next actions and owners.*
 
 ## Use this when
 
@@ -25,13 +25,19 @@ Sales is a thinking process. The worksheet is a prompt. If the page is full and 
 - You want a SWOT/PEST workshop to postpone asking for a meeting.
 - Legal or a customer contract forbids the research you would put on the page. Stop; this is not a license to scrape.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **The attack plan must come from the sales stages you actually run.** “Build a relationship” is not an action. “Get the economic buyer on a mutual close plan by Friday” is. If an action cannot be mapped to a stage, a date, and an owner, it does not belong on the plan.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: one-page overview before the novel
+## How to do it
+
+<a id="step-1-one-page-overview-before-the-novel"></a>
+
+### Step 1: Start with a one-page overview
 
 Write the header so a stranger on the account could brief in two minutes:
 
@@ -50,7 +56,9 @@ Then five blocks. Empty is allowed. Invented color is not.
 
 If you cannot fill (1) and (5) from [account research](../05-outbound-and-prospecting/account-research.md) and the committee map, you are not planning. You are guessing.
 
-### Step 2: force the five thinking questions
+<a id="step-2-force-the-five-thinking-questions"></a>
+
+### Step 2: Answer the key planning questions
 
 Before you add frameworks, answer these in sentences the customer would recognize:
 
@@ -64,7 +72,9 @@ Before you add frameworks, answer these in sentences the customer would recogniz
 
 Impact questions belong here: what happens if they do nothing; what happens if they pick the wrong path. If you cannot ask them live, write the ones you still owe.
 
-### Step 3: map the landscape, then stop researching
+<a id="step-3-map-the-landscape-then-stop-researching"></a>
+
+### Step 3: Map people and alternatives
 
 A deeper strategic file is useful for a *few* accounts. It is malpractice as a default.
 
@@ -80,7 +90,9 @@ Optional assessments (SWOT, PEST, social listening, brand, web analytics) are **
 
 Agency-shaped extras (jobs-to-be-done brainstorms, “20 ideas in 20 minutes”) are idea generators. They do not replace the attack plan.
 
-### Step 4: time-box the work
+<a id="step-4-time-box-the-work"></a>
+
+### Step 4: Set a time limit for planning
 
 A 30-day plan that lists “nurture” is a slogan. Write:
 
@@ -92,7 +104,9 @@ A 30-day plan that lists “nurture” is a slogan. Write:
 
 Each line: owner, date, why. Accountabilities without names are decorations.
 
-### Step 5: keep a health check, not a shrine
+<a id="step-5-keep-a-health-check-not-a-shrine"></a>
+
+### Step 5: Keep the plan current
 
 On a living account, revisit:
 
@@ -106,7 +120,9 @@ Risks and barriers go in a table: level, idea to overcome, owner, resource. An o
 
 Opportunities (upsell, new product, advocacy) need an objective, a product, a timeline, and a status—same discipline as a new logo.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Mid-market analytics buyer. One live opportunity. AE owns the file. Marketing has one ABM motion this quarter.
 
@@ -140,7 +156,9 @@ Mid-market analytics buyer. One live opportunity. AE owns the file. Marketing ha
 - Who the characters are:
 - When they must solve (date + reason):
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The header has a date and an owner.
 - [ ] Attack-plan lines map to a real stage, a date, and a name.

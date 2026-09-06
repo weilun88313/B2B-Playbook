@@ -2,13 +2,13 @@
 title: "Ecosystem"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Ecosystem is a growth motion that reaches the target audience through people and companies who already have access and trust—creators, channel partners, communities, integrations, associations, customers, and specialists who speak the buyer’s language.
+Partners can help customers get more value from your product and make it easier for the right buyers to find you. Start with a complementary company and one useful joint activity. Make sure the customer, the partner, and your team each benefit.
 
-It is not a side project for one partner marketer, and it is not any single tactic. The unlock is a flywheel: partners create and distribute, the company amplifies and repurposes, reach and credibility increase, new customers and partners join, and the next turn is cheaper than starting from zero.
+![Value for the customer; Value for the partner; Value for your company](../../assets/illustrations/ecosystem.svg)
 
-Direct inbound, outbound, product virality, events, and lifecycle still matter. In a noisy market they get weaker when every team can ship content and sequences at the same speed. Ecosystem makes those channels work better; it does not replace [content strategy](../03-brand-story-and-content/content-strategy.md), [outbound](../05-outbound-and-prospecting/), or [events](event-marketing.md).
+*Reading guide: value for the customer · value for the partner · value for your company.*
 
 ## Use this when
 
@@ -24,15 +24,21 @@ Direct inbound, outbound, product virality, events, and lifecycle still matter. 
 - Leadership will not involve product (integrations, referral mechanics, partner-only features, or community presence).
 - The team intends to launch every partner type in the same quarter.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: treat ecosystem as a company system
+## How to do it
+
+<a id="step-1-treat-ecosystem-as-a-company-system"></a>
+
+### Step 1: Connect partner work to the business
 
 Name an executive owner. Product, marketing, and a seller who works live deals must all have a job in the motion. Typical product work: integrations, referral or “built with” mechanics, features agencies or channel partners need, and people who can show up as experts inside communities.
 
 A single contractor posting from a partner list is distribution help. It is not an ecosystem.
 
-### Step 2: map complements, not only competitors
+<a id="step-2-map-complements-not-only-competitors"></a>
+
+### Step 2: Map complementary products and services
 
 List every person or company that already has reach and credibility with the ICP. Look past the obvious integration logo.
 
@@ -56,7 +62,9 @@ Relationship-driven partners usually produce more resonant creative than purely 
 
 High coverage and high composition is rare and worth a deep program. High coverage with low composition needs a tight offer so you are not paying to reach the wrong people. High composition with low coverage is often a narrow, high-trust wedge—useful to start, not the whole TAM.
 
-### Step 3: require a win-win-win
+<a id="step-3-require-a-win-win-win"></a>
+
+### Step 3: Check that all three parties benefit
 
 Every live partnership must be worth it for **you**, **the partner**, and **the prospect**. Two out of three is a tax. Value is not only cash and impressions: data, event cost-share, early product access, status, and audience for the partner all count.
 
@@ -66,7 +74,9 @@ Write the three wins in one sentence before a contract, gift, or integration que
 
 If the third blank is “more of our content,” it is not a win for the prospect.
 
-### Step 4: start with one program, then deepen
+<a id="step-4-start-with-one-program-then-deepen"></a>
+
+### Step 4: Start with one joint activity
 
 Pick the partner type that already sits on the buyer’s path. Prove the flywheel on that program before adding a second type. When it works, go deeper with the same partners before widening the roster. Scale that kills the human relationship kills the reason the motion worked.
 
@@ -80,7 +90,9 @@ Named illustrations in Emily Kramer’s 2025 write-up (her claims on her date, n
 - **Clay / integration-shaped:** the product sits in the workflow the buyer already runs; the partner is the pipe, not a rented list.
 - **Vanta / Tracksuit / Arrows:** named in that piece as ecosystem examples; copy the *motion*, not the screenshot metrics.
 
-### Step 5: run the flywheel across channels you already use
+<a id="step-5-run-the-flywheel-across-channels-you-already-use"></a>
+
+### Step 5: Build on channels already in use
 
 Ecosystem is not a sixth silo. Attach it to work that already exists:
 
@@ -94,7 +106,9 @@ Ecosystem is not a sixth silo. Attach it to work that already exists:
 
 The loop to protect: partner creates → you amplify and repurpose → new customers and partners arrive → the next partner has a better reason to say yes.
 
-### Step 6: keep score on qualified access, not partner count
+<a id="step-6-keep-score-on-qualified-access-not-partner-count"></a>
+
+### Step 6: Measure useful introductions and results
 
 A signed logo, a Discord member, or a creator post is activity. The motion is working when a named ICP account takes a next step that sales would recognize without the partner in the room.
 
@@ -102,7 +116,7 @@ A signed logo, a Discord member, or a creator post is activity. The motion is wo
 
 ### How a filled ecosystem map reads
 
-Teaching fill: one implementation agency that already serves your ICP (HubSpot-shaped channel partner), not ten logos.
+Illustrative example: one implementation agency that already serves your ICP (HubSpot-shaped channel partner), not ten logos.
 
 | Partner | Type | Coverage | Composition | Access they already have | Our ask | Their win | Buyer win | Owner | Status |
 |---|---|---|---|---|---|---|---|---|---|
@@ -138,7 +152,9 @@ Copy: one row this quarter, not a spreadsheet of maybe-partners.
 4. **Business test:** qualified conversations or expansions within 14 days of the partner touch.
 5. **Decision:** deepen / change the offer / stop. Do not add a second partner type on a failed first test.
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] An executive owner is named; product has a defined job if the motion needs one.
 - [ ] Complements are mapped, not only competitors.

@@ -3,15 +3,13 @@ title: "Paid media"
 sidebarTitle: "Paid Media"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-Paid search, paid social, and retargeting are three **buys**. They are not three strategies. This page is the decision of **whether to pay at all, and which job the money is hired to do**: create memory in the category, or capture demand that already exists.
+Before buying ads, decide what you want them to do: introduce your product to future buyers or help people already evaluating a solution. That choice affects the audience, creative, landing page, and how long you should wait before judging the results.
 
-[Channel strategy](channel-strategy.md) names the primary motion. Ads do not invent organic inbound. They amplify a motion you can already describe—or they harvest high-intent queries once the [homepage](../07-website-and-conversion/homepage.md) and [pricing page](../07-website-and-conversion/pricing-page.md) can finish the visit.
+![Reach future buyers; Match creative to intent; Help active buyers choose](../../assets/illustrations/paid-media.svg)
 
-The public split is the [95-5 Rule](https://www.linkedin.com/business/marketing/blog/research-and-insights/why-you-should-follow-the-95-5-rule?ref=b2b-playbook): most category buyers are out-of-market. Lead-gen budgets that only buy the 5% will always look more measurable and still starve future cash flow. The [CMO Scorecard](https://business.linkedin.com/advertise/resources/b2b-institute/cmo-scorecard?ref=b2b-playbook) is the Institute’s way of saying creative and media quality—not form-fills—are the inputs for creation.
-
-Platform-specific execution (Google exact-match hygiene, LinkedIn conversation ads, frequency caps) stays planned. Do not start there if this page is blank.
+*Reading guide: reach future buyers · match creative to intent · help active buyers choose.*
 
 ## Use this when
 
@@ -27,7 +25,9 @@ Platform-specific execution (Google exact-match hygiene, LinkedIn conversation a
 - You do not yet have ~10 matching customers and are still in [first ten](../01-strategy-and-buyers/first-ten-customers.md). Handmade beats a media plan.
 - The request is a media-mix model, a DSP bake-off, or a retargeting pixel tutorial.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -36,17 +36,25 @@ Platform-specific execution (Google exact-match hygiene, LinkedIn conversation a
 | **Evenness** | Spend spread through the year so the category keeps seeing you—not a Q4 dump |
 | **Two scoreboards** | Creation is not judged on 14-day form-fills; capture may be |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Do not buy creation with a capture scoreboard.** If the ad is meant to be remembered, last-click CPL will “prove” it failed. If the ad is meant to harvest “&#123;category&#125; software,” judge it on qualified conversations and sales-accepted pipeline—not on impressions.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: refuse the budget until the job is one sentence
+## How to do it
+
+<a id="step-1-refuse-the-budget-until-the-job-is-one-sentence"></a>
+
+### Step 1: Define the purpose of the campaign
 
 Write: *this money exists to [create memory in &#123;category&#125; / capture &#123;query or high-intent URL&#125;] for [seat], and we will read [scoreboard].* If the sentence contains both jobs, split the budget. One campaign object cannot optimize for both.
 
-### Step 2: audience-first table stakes before you scale spend
+<a id="step-2-audience-first-table-stakes-before-you-scale-spend"></a>
+
+### Step 2: Check audience fit before increasing spend
 
 Do not start with “which network.” Start with the same ranked TAM you already use in [ICP](../01-strategy-and-buyers/icp.md) and [ABM](../06-account-field-and-partner/abm-strategy.md). Distilled table stakes—not a vendor shopping list:
 
@@ -62,7 +70,9 @@ Privacy and consent are a legal job. Hash identifiers, loop in privacy before yo
 
 If these lines are blank, you are renting someone else’s audience definition. Do not scale spend to “let the algorithm find us.”
 
-### Step 3: default the split toward the 95—once you can afford a second buy
+<a id="step-3-default-the-split-toward-the-95once-you-can-afford-a-second-buy"></a>
+
+### Step 3: Plan for future buyers as well as active demand
 
 Capture (search, competitor terms, high-intent retargeting of pricing/demo visitors) is legitimate **after** the page can convert. Creation (category reach, video, thought-leadership paid amplification) is how future in-market buyers already know you.
 
@@ -70,7 +80,9 @@ Early companies often have **one** paid job: usually capture on a few queries, o
 
 The Institute’s public warning: most B2B ad money still sits on lead gen, and marketers expect effects inside two weeks. Treat that as a **failure mode**, not a norm to join.
 
-### Step 4: hire the channel for the job
+<a id="step-4-hire-the-channel-for-the-job"></a>
+
+### Step 4: Choose the channel for the purpose
 
 | Job | Usual buy | Landing |
 |---|---|---|
@@ -80,15 +92,21 @@ The Institute’s public warning: most B2B ad money still sits on lead gen, and 
 
 Retargeting a reader of one essay for months is tax, not nurture. [Lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) is a state machine, not a pixel.
 
-### Step 5: creative is the leverage; the auction is not the strategy
+<a id="step-5-creative-is-the-leverage-the-auction-is-not-the-strategy"></a>
+
+### Step 5: Test the creative
 
 For creation, the Institute’s CMO frame is **creative** (attention, branding, linkage) and **media** (cumulative reach, evenness, cost per reach)—then business outcomes on a long clock. For capture, the creative is the query’s promise kept on the page. Clever ads that land on a slogan homepage waste the click.
 
-### Step 6: read hybrid, then decide what to cut
+<a id="step-6-read-hybrid-then-decide-what-to-cut"></a>
+
+### Step 6: Use several kinds of evidence to review results
 
 Software attribution will over-credit search and under-credit the podcast, the founder, and the community. Pair the ad platform with [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). Cut capture that does not produce qualified conversations. Do not cut creation because last-click is empty.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Category queries exist. Founder already posts.
 
@@ -114,7 +132,9 @@ Sales-assist. Category queries exist. Founder already posts.
 
 Working file: [paid-media.md](../../templates/paid-media.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Primary motion is named; ads are not the motion.
 - [ ] Destination pages pass their playbook checklists.

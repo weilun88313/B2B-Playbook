@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Period; Movements (this period); Rates](../assets/illustrations/worksheet-revenue-churn.svg)
+
 ## Period
 
 - Unit (MRR / ARR):

@@ -3,11 +3,13 @@ title: "Buying signals"
 sidebarTitle: "Buying Signals"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[Account research](account-research.md) writes one hypothesis for one logo. This page is the **system**: which dated changes you hunt, how hot they are, and what temperature of message they earn. A funding headline pasted into last month’s cold email is not a signal program. It is a news alert with a send button.
+A new hire, a renewal date, or a change in technology can give you a reason to investigate an account. It does not prove the company wants to buy. Check the context, confirm another relevant fact, and decide whether the timing is useful.
 
-This is not a 100-premise catalog, not a vendor skill pack, and not permission to skip the [ICP](../01-strategy-and-buyers/icp.md).
+![Notice a change; Check its relevance; Decide when to act](../../assets/illustrations/buying-signals.svg)
+
+*Reading guide: notice a change → check its relevance → decide when to act.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not a 100-premise catalog, not a vendor skill pack, and not permission t
 - You need the written first touch. That is [cold email](cold-email.md).
 - You need the routing integer after they already raised a hand. That is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Temperature | Meaning here |
 |---|---|
@@ -43,21 +47,31 @@ This is not a 100-premise catalog, not a vendor skill pack, and not permission t
 
 A family is a **hunt**, not a play name. Eleven named recipes are a content calendar pretending to be GTM.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **A signal changes the week, not the ICP.** If the logo would be a no without the headline, it is still a no. Stack **two independent** facts before you treat it as heat. A vendor reply-rate table is not your SLA.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name the temperature before the sentence
+## How to do it
+
+<a id="step-1-name-the-temperature-before-the-sentence"></a>
+
+### Step 1: Separate interest from purchase intent
 
 Write: *this person is raised-hand / engaged / premise / cold because _____.* If you cannot finish that, you will send a cold email to a demo request and call it ABM.
 
-### Step 2: pick one family this week
+<a id="step-2-pick-one-family-this-week"></a>
+
+### Step 2: Choose one kind of signal to test
 
 One hunt, one owner, one window. A team that “does signals” by running every play in a skill library will staff a newsroom. Alumni and high-intent site beat a stranger’s funding post. If you cannot name why *this* family moves *this* motion, you are collecting.
 
-### Step 3: write the window—and the stale date
+<a id="step-3-write-the-windowand-the-stale-date"></a>
+
+### Step 3: Record when the signal expires
 
 Windows are method, not physics. Defaults you will override with your own log:
 
@@ -71,15 +85,21 @@ Windows are method, not physics. Defaults you will override with your own log:
 
 Day-1 congratulations to a new VP is how you get ignored. A week-old pricing hit that nobody called is how you donate the meeting to a competitor.
 
-### Step 4: require a second independent fact
+<a id="step-4-require-a-second-independent-fact"></a>
+
+### Step 4: Confirm another relevant fact
 
 Job change plus the same job change scraped twice is one fact. Job change plus a page they hit, a stack you can date, or a seat that already replied is two. Three alerts from one vendor is still one.
 
-### Step 5: refuse the catalog
+<a id="step-5-refuse-the-catalog"></a>
+
+### Step 5: Use signals to make a decision
 
 Do not paste a 30/39/16 trigger list into the CRM. Do not install a Claude skill pack whose first move is another company’s Marketplace. The artifact is a **card**: temperature, family, two facts, window, sentence, stop date. Tools that find the fact live in [TOOLS.md](../../TOOLS.md). This page decides whether the fact is allowed to change the week.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 A ~400-employee B2B SaaS. New VP Customer Ops (day 22). Careers page shows three security-engineer jobs this month. They are not in our CRM.
 
@@ -106,7 +126,9 @@ A ~400-employee B2B SaaS. New VP Customer Ops (day 22). Careers page shows three
 
 Working file: [buying-signals.md](../../templates/buying-signals.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The account still passes [ICP](../01-strategy-and-buyers/icp.md) without the headline.
 - [ ] Temperature is named before copy.

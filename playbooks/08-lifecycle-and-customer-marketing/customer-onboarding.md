@@ -3,13 +3,13 @@ title: "Customer onboarding"
 sidebarTitle: "Customer Onboarding"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Onboarding is **education**: the customer understands how the product resolves the issue they bought it for. Implementation is **tactical integration**: the software sits in *their* stack, with their data, their permissions, their go-live. Mixing the two is how teams staff CSMs as project managers, skip training, and call a login “adopted.”
+Signing the contract is the start of another piece of work. Help the customer get set up, learn the product, and reach the result they bought it for. Agree on responsibilities and milestones early, and measure first value separately from technical setup.
 
-Retention starts on day one of implementation, not at the renewal conversation. A bad implementation paints the account red before CS ever “owns” it. Recovering is possible; pretending the kickoff was fine is not.
+![Handoff and kickoff; Setup and learning; First useful result](../../assets/illustrations/customer-onboarding.svg)
 
-This page sits after [customer success](customer-success.md) has named who owns the book. It is not [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md) (employees) and not in-app UX design.
+*Reading guide: handoff and kickoff → setup and learning → first useful result.*
 
 ## Use this when
 
@@ -24,13 +24,19 @@ This page sits after [customer success](customer-success.md) has named who owns 
 - The product is truly self-serve and the only job is an email series. That is lifecycle communication (still planned in this domain)—do not invent a professional-services factory.
 - You need the ongoing CS operating system. That is [customer success](customer-success.md).
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **It is not a methodology if it is not written down.** Repeatability → standardization → quality. Workshop it with the people who run the work. Identify milestones and a playbook for when a milestone is missed. A named methodology is also a sales tool: it is what you can point to when the buyer asks “what happens after we sign?”
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: split education from integration on the journey map
+## How to do it
+
+<a id="step-1-split-education-from-integration-on-the-journey-map"></a>
+
+### Step 1: Separate learning from technical setup
 
 From the customer’s side, not yours: acquire → handoff → kickoff → design → build → test → launch → adopt → expand → renew.
 
@@ -38,7 +44,9 @@ Mark which steps are **human**, which can be **product**, and where you go blind
 
 If the motion is PLG, most of this map collapses. If the motion is sales-assist enterprise, almost none of it does. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) decides which map you are on.
 
-### Step 2: win the handoff before you staff the project
+<a id="step-2-win-the-handoff-before-you-staff-the-project"></a>
+
+### Step 2: Prepare the sales-to-CS handoff
 
 Always try for a live conversation. The CRM must already hold what the AE knew. The agenda focuses on what the **CRM does not** hold:
 
@@ -49,7 +57,9 @@ Always try for a live conversation. The CRM must already hold what the AE knew. 
 
 Codify the success metric in that meeting. A sample checklist is a memory aid; it is not a substitute for the conversation.
 
-### Step 3: kick off like a project you intend to finish
+<a id="step-3-kick-off-like-a-project-you-intend-to-finish"></a>
+
+### Step 3: Agree on the project at kickoff
 
 Kickoffs are critical:
 
@@ -60,7 +70,9 @@ Kickoffs are critical:
 
 Decide, in writing: self-serve vs assisted; standard vs custom; how much is repeatable; whether data ingest and configuration are allowed to be split (usually they should not be); whether CSMs should run it (often they should not).
 
-### Step 4: treat controllable failure as the default risk
+<a id="step-4-treat-controllable-failure-as-the-default-risk"></a>
+
+### Step 4: Prepare for common delays
 
 A large share of implementation failure is process, not destiny. Write the save path before you need it:
 
@@ -71,7 +83,9 @@ A large share of implementation failure is process, not destiny. Write the save 
 
 “Can we recover?” is a yes with a dated plan, or a no you are willing to say.
 
-### Step 5: measure launch and value as different clocks
+<a id="step-5-measure-launch-and-value-as-different-clocks"></a>
+
+### Step 5: Measure setup and first value separately
 
 | Clock | Means | Do not confuse with |
 |---|---|---|
@@ -83,13 +97,17 @@ A large share of implementation failure is process, not destiny. Write the save 
 
 What gets measured gets staffed. If you only measure TTL, you will ship empty.
 
-### Step 6: capacity before heroics
+<a id="step-6-capacity-before-heroics"></a>
+
+### Step 6: Match the workload to team capacity
 
 How you assign: round-robin, segment, territory, or tech-touch. How long implementation/onboarding *should* take: start from the journey, use your data, break tasks in the written methodology. Revisit the capacity plan when you add segments; update as TTL moves.
 
 Early-stage orgs often park implementation next to CS and support under one lead. Later they split CS, implementation, enablement, support. Do not copy a late-stage org chart onto four people.
 
-### Step 7: charging is a packaging decision, not a vibe
+<a id="step-7-charging-is-a-packaging-decision-not-a-vibe"></a>
+
+### Step 7: Decide how onboarding is priced
 
 Free implementation trains sales to give away the project and trains customers to treat your time as infinite. Paid implementation (especially packaged, not bespoke) can recoup cost-to-serve and force a real scope. Sales will complain unless they are **incented** to sell it—see [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md).
 
@@ -97,7 +115,9 @@ Steer to packaged offerings. Customization is where fixed-fee projects die. Prem
 
 Where the cost sits (CAC vs COGS / above vs below the line) is a finance call. Write it once with finance; do not let every deal invent it.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist B2B. Implementation is a two-person specialist lane. CSMs take the account at “first value,” not at contract signature.
 
@@ -123,7 +143,9 @@ Sales-assist B2B. Implementation is a two-person specialist lane. CSMs take the 
 - Paid vs free implementation (and how sales is paid on it):
 - Where the cost sits (finance owner):
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Education and integration are not the same workstream with the same owner by accident.
 - [ ] Handoff is live plus CRM, with a success metric.

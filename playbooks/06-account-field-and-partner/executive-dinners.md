@@ -3,9 +3,13 @@ title: "Executive dinners"
 sidebarTitle: "Executive Dinners"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A dinner or roundtable is a **small, role-locked room**. The guest list is the product. A mixer with a sponsor logo and three personas at every table is a reception. [Event marketing](event-marketing.md) still decides attend / host / skip. This page is the format: fewer people, one seat, one question—so a relationship and a next step can actually happen.
+A small dinner can give senior buyers time to compare notes with peers. Invite people who share a meaningful problem, choose a focused discussion, and make the evening worth attending without a sales presentation. Follow up on what each person actually discussed.
+
+![A shared problem; A relevant guest list; A useful peer discussion](../../assets/illustrations/executive-dinners.svg)
+
+*Reading guide: a shared problem · a relevant guest list · a useful peer discussion.*
 
 ## Use this when
 
@@ -21,7 +25,9 @@ A dinner or roundtable is a **small, role-locked room**. The guest list is the p
 - You need a booth. That is [trade shows](trade-shows.md).
 - The goal is “brand” with no dated next action.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -31,33 +37,49 @@ A dinner or roundtable is a **small, role-locked room**. The guest list is the p
 | **Host** | The person whose reputation filled the room—often a peer or [creator](../04-channels-and-distribution/creator-partnership.md), not only you. |
 | **Next step** | A dated action for a named account, or a peer intro. A recap email is not this. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Same role, small table, one question.** If you add seats so more titles can “get value,” you will get polite conversation and no pipeline. Operator rooms keep repeating that the smaller, role-consistent night beats the large generic one. Treat that as a method prompt, not a community’s ROI table.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: lock the seat and the question
+## How to do it
+
+<a id="step-1-lock-the-seat-and-the-question"></a>
+
+### Step 1: Choose the guest profile and discussion
 
 Write: *[seat] will sit for [question] because it is already costing them _____.* If the question needs a slide, it is a pitch. If the seat is “CMOs and their agencies and a few founders,” it is a mixer.
 
-### Step 2: build the list like T1 research
+<a id="step-2-build-the-list-like-t1-research"></a>
+
+### Step 2: Research the guest list
 
 Every name has a reason, a [account](account-planning.md) note if they are named, and a why-them. Invite fewer than you want. A no from the right seat is better than a yes from a tourist. Customers and peers can outnumber you at the table; that is the point.
 
-### Step 3: design the night so you talk last
+<a id="step-3-design-the-night-so-you-talk-last"></a>
+
+### Step 3: Make room for peer conversation
 
 Room, not stage. No booth kit. A short frame from the host, then the table. You may offer a working file or a data cut—see [peer community](../04-channels-and-distribution/community.md)—but the product demo stays home unless someone asks.
 
-### Step 4: capture like a meeting, not like a badge
+<a id="step-4-capture-like-a-meeting-not-like-a-badge"></a>
+
+### Step 4: Capture relevant context with care
 
 For each guest who is in-ICP: trigger, alternative, missing seat, what they asked, agreed next step, owner, date. A photo of the table is not capture. Consent and notes stay inside the rules you already use for events.
 
-### Step 5: follow up the next morning as a peer, not as a blast
+<a id="step-5-follow-up-the-next-morning-as-a-peer-not-as-a-blast"></a>
+
+### Step 5: Follow up individually
 
 One note per person from the conversation. Complete the action you promised before you ask for a demo. A shared recap is optional and never the CRM update.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Twelve heads of customer ops, one city, one question: “when does the questionnaire pack stop being a spreadsheet?” No AEs pitching. Two customers at the table. Three T1 next steps booked before dessert; the rest get a working-file link and no sequence.
 
@@ -74,7 +96,9 @@ Twelve heads of customer ops, one city, one question: “when does the questionn
 
 Working file: [executive-dinners.md](../../templates/executive-dinners.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] [Event](event-marketing.md) score still says host or attend.
 - [ ] One seat, one question, ≤12 guests.

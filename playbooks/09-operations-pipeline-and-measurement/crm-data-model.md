@@ -3,11 +3,13 @@ title: "CRM data model"
 sidebarTitle: "CRM Data Model"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A CRM is a **commercial record**: the objects, fields, relationships, and sources the company will actually operate. It is not a museum of every field anyone ever added. Migrating without a map is how junk travels, integrations break, and [forecasting](forecasting.md) inherits two dictionaries for “stage.”
+A CRM is easier to use when the team agrees on what each record and field means. Define accounts, contacts, opportunities, and their relationships before adding automation. If you are migrating, map the old fields to the new ones and decide what to leave behind.
 
-This page is the field map and the spring-clean. It is not a Salesforce admin course, not a vendor bake-off ([MarTech governance](martech-governance.md)), and not the credit rule in [sales compensation](sales-compensation.md). Those pages assume this record exists.
+![Accounts; People; Opportunities](../../assets/illustrations/crm-data-model.svg)
+
+*Reading guide: accounts · people · opportunities.*
 
 ## Use this when
 
@@ -22,33 +24,49 @@ This page is the field map and the spring-clean. It is not a Salesforce admin co
 - You need a weekly forecast call. That is [forecasting](forecasting.md).
 - Legal hold, privacy, or deletion rules must be designed by qualified owners. This is not that advice.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Map left to right, and count records before you keep a field.** Legacy label, API name, data type, and **how many records actually have a value**. New side: label, API name, data type, standard vs custom. Types must match. A picklist (or multi-select) is not “text we will fix later”—it gets its own value list.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name the objects you will actually move
+## How to do it
+
+<a id="step-1-name-the-objects-you-will-actually-move"></a>
+
+### Step 1: Define the core records and relationships
 
 Start with **Lead, Account, Contact, Opportunity** if that is your commercial spine. Duplicate the map for every extra object you insist on (Task, Contract, custom objects). If you cannot say who lives in the object day-to-day, do not migrate it “just in case.”
 
-### Step 2: inventory the legacy side with population
+<a id="step-2-inventory-the-legacy-side-with-population"></a>
+
+### Step 2: Review the existing fields and their usage
 
 For each field: label, API name, type, populated count. Empty custom fields are candidates for death, not for a matching custom field in the new org. Operators often run a field-population audit in the current CRM before they copy the schema. The point is the **count**, not a branded app.
 
-### Step 3: match to the new org—or refuse the field
+<a id="step-3-match-to-the-new-orgor-refuse-the-field"></a>
+
+### Step 3: Map fields to the new system
 
 Right side: the counterpart. Standard if the new CRM already has the job. Custom only if you can name the report, workflow, or legal need. Data types must match (date is not text; picklist is not a long dump). If the new system cannot hold the type, you are designing a transformation, not a rename.
 
-### Step 4: picklists are a separate sheet
+<a id="step-4-picklists-are-a-separate-sheet"></a>
+
+### Step 4: Map picklist values separately
 
 Every picklist and multi-select: object, field, values. Stage names here must be the same words [forecasting](forecasting.md) and [lead scoring](lead-scoring.md) use. Hidden synonyms (“SQL” vs “Sales Qualified”) are how routing dies.
 
-### Step 5: freeze the map before automation
+<a id="step-5-freeze-the-map-before-automation"></a>
+
+### Step 5: Agree on the model before adding automation
 
 Integrations, sequences, and scoring write to **this** map. If [MarTech governance](martech-governance.md) later finds a tool that cannot two-way sync a field you marked required, that is a stack decision—not a surprise in week three. Date the map. Changing it after go-live is a migration of its own.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Leaving a cluttered HubSpot for a tighter CRM. Not your schema.
 
@@ -72,7 +90,9 @@ Sales-assist. Leaving a cluttered HubSpot for a tighter CRM. Not your schema.
 
 Working file: [crm-field-map.xlsx](../../templates/crm-field-map.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Lead, Account, Contact, Opportunity (or your spine) each have a map.
 - [ ] Every kept field has a populated-count or an explicit “new, empty on purpose.”

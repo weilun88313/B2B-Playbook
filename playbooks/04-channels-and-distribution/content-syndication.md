@@ -3,11 +3,13 @@ title: "Content syndication"
 sidebarTitle: "Content Syndication"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-Syndication is paying a publisher to put your asset in front of *their* audience and hand you the form fills. It is not [content strategy](../03-brand-story-and-content/content-strategy.md)—that decides which page exists. It is not [SEO and AEO](seo-and-aeo.md)—that is how owned answers get found. It is a **rented list with a PDF attached**.
+Syndication can mean republishing content with a partner or paying a publisher to distribute an asset. This guide focuses on paid lead-generation programs: how to check the audience, test lead quality, and decide whether the results justify another purchase.
 
-Most teams buy low-intent, duplicate, or unreachable rows and call them MQLs. This page is the gate that purchase has to survive.
+![Check the audience; Test a small batch; Review lead quality](../../assets/illustrations/content-syndication.svg)
+
+*Reading guide: check the audience → test a small batch → review lead quality.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ Most teams buy low-intent, duplicate, or unreachable rows and call them MQLs. Th
 - Sales is already drowning in form fills they do not trust.
 - You need [peer community](community.md) or a [creator partnership](creator-partnership.md) and are buying volume instead.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Gate | Question |
 |---|---|
@@ -33,33 +37,49 @@ Most teams buy low-intent, duplicate, or unreachable rows and call them MQLs. Th
 | **Duplicate** | Do we already have this person, this company, or this email? |
 | **CPL theater** | Is “cheap lead” the reason we are still in the meeting? |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **No opaque file enters the hunter queue.** If the publisher cannot show composition, a verification method, and a post-fill signal you will actually use, you are buying a list. Treat a syndicated row as **engaged at best**, never as [raised-hand](../05-outbound-and-prospecting/buying-signals.md), until they do something else.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: refuse the kit, demand the sample
+## How to do it
+
+<a id="step-1-refuse-the-kit-demand-the-sample"></a>
+
+### Step 1: Ask for an audience sample
 
 Same discipline as mobile data: a few hundred of *your* ICP definition, not their “B2B marketers” file. Score composition. If they will not run the sample, you have the answer.
 
-### Step 2: verify like outbound
+<a id="step-2-verify-like-outbound"></a>
+
+### Step 2: Verify the sample accounts
 
 Right person, valid route, suppression for duplicates and unreachables. A work email that bounces is not a lead. A personal Gmail on an enterprise deal is a flag, not a win.
 
-### Step 3: write the post-fill signal before you buy
+<a id="step-3-write-the-post-fill-signal-before-you-buy"></a>
+
+### Step 3: Define what a useful lead would do next
 
 What must happen before SDR time: a return visit to a decision page, a reply, a booking, a dated [buying signal](../05-outbound-and-prospecting/buying-signals.md). Download-plus-silence is a nurture maybe—not a meeting. [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) may route them; it may not call them MQLs.
 
-### Step 4: cap the test
+<a id="step-4-cap-the-test"></a>
+
+### Step 4: Set a test budget and review date
 
 One publisher, one asset, one 90-day stop. Cost per **verified ICP person who showed a post-fill signal**—not cost per fill. If that number cannot beat a [creator](creator-partnership.md) piece or a [community](community.md) intro on the same seats, stop.
 
-### Step 5: keep syndication off the primary motion
+<a id="step-5-keep-syndication-off-the-primary-motion"></a>
+
+### Step 5: Compare the test with your main channel
 
 [Channel strategy](channel-strategy.md): this is at most a secondary test. It does not invent inbound. It does not replace owned pages.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 A comparison page we already send in deals. Publisher claims “10,000 ops leaders.” Sample of 200: 18% match our seat and size; 40% already in CRM; 22% unreachable. Post-fill rule: return to the comparison page or a reply within 14 days. We do not buy the remnant.
 
@@ -76,7 +96,9 @@ A comparison page we already send in deals. Publisher claims “10,000 ops leade
 
 Working file: [content-syndication.md](../../templates/content-syndication.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The asset is a decision page or a cut a champion would forward—not a brochure.
 - [ ] Sample composition exists.

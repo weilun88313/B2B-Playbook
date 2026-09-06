@@ -1,74 +1,48 @@
 # 01 · Strategy & buyers
 
-> **Decision owned:** Where should the company compete, which organizations and people matter, and how do they make decisions?
+Before choosing channels or writing copy, get clear on the customer. These guides help you investigate a problem, choose the first buyers, and test whether the product is worth paying for.
 
 **Status:** Domain guide published · 8 tactic playbooks published
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-06
 
-## Scope
+![Understand the problem; Choose the first customers; Test demand and fit](../../assets/illustrations/01-strategy-and-buyers.svg)
 
-This domain turns a broad market ambition into explicit choices about where an idea comes from, whether it has pain and pull, which markets and people matter, how they buy, how the first ten customers are found, and whether a real company has loved the product, paid, and started to pull.
+## Start here
 
-It owns idea discovery, idea validation, market and buyer evidence, segmentation logic, ICP boundaries, buying-group structure, customer problems, buying journeys, alternatives buyers compare, how the first ten customers are found, and the product-market fit ladder. It does not own the message used to frame the product—that belongs to [Product marketing](../02-product-marketing/)—or the channels used to *scale* reach. Early handmade outreach still starts here; repeatable outbound execution lives in [Outbound & prospecting](../05-outbound-and-prospecting/).
-
-## Core decisions
-
-1. Where did this idea come from—past pain, ponder and probe, or present pull—and is it even a candidate?
-2. Does this idea show pain and pull—or is it still polite interest?
-3. Which market or segment is attractive enough to pursue now?
-4. What observable traits make an account more or less likely to buy and succeed?
-5. Which people influence, evaluate, approve, use, block, or champion the purchase?
-6. What situation or trigger makes the problem urgent?
-7. What job is the buyer trying to make progress on?
-8. Which current behaviors, internal workarounds, and competing solutions must change?
-9. What evidence would disqualify the current market or buyer hypothesis?
-10. How will the first ~10 ICP-matching companies be found—before a scale channel exists?
-11. What dated evidence shows product-market fit for this ICP—love, payment, pull—versus activity without fit?
-12. Do market, product, channel, and model describe the same company—or four slides that refuse each other?
-13. Which audience-plus-use-case will we win first, and how does that foothold fund the next niche?
+- [Idea discovery](idea-discovery.md) — notice a problem.
+- [Ideal customer profile (ICP)](icp.md) — check the fit.
+- [First ten customers](first-ten-customers.md) — existing trust.
 
 ## Playbook map
 
-| Topic | Status | Operating question |
-|---|---|---|
-| [Idea discovery](idea-discovery.md) | Published | Where did this idea come from, and is it even a candidate? |
-| [Idea validation](idea-validation.md) | Published | Does this idea have pain and pull, or is it still polite interest? |
-| [Ideal customer profile](icp.md) | Published | Which accounts deserve attention, and which should be excluded? |
-| [Wedge](wedge.md) | Published | Which audience and use case do we win first—and how do we expand without a cold start? |
-| [Buying committee](buying-committee.md) | Published | Who participates in the decision, and what does each role need? |
-| [First ten customers](first-ten-customers.md) | Published | How do you find and win the first ~10 companies that match the ICP? |
-| [Product-market fit](product-market-fit.md) | Published | Has a real company loved it, paid, and started to pull—before you scale a channel? |
-| [Four Fits](four-fits.md) | Published | Do market, product, channel, and model still describe the same company? |
-| Market research | Planned: `market-research.md` | What is true about the market beyond internal opinion? |
-| Segmentation | Planned: `segmentation.md` | Which groups differ enough to require a distinct strategy? |
-| Buyer journey | Planned: `buyer-journey.md` | How does a buying situation move from trigger to decision and adoption? |
-| Jobs to be done | Planned: `jobs-to-be-done.md` | What progress is the buyer hiring a solution to make? |
-| Category entry points | Planned: `category-entry-points.md` | Which situations should make the company come to mind? |
-| Competitive alternatives | Planned: `competitive-alternatives.md` | What will buyers do if they do not choose this product? |
+| Guide | What it helps you do |
+|---|---|
+| [Idea discovery](idea-discovery.md) | Where did this idea come from, and is it even a candidate? |
+| [Idea validation](idea-validation.md) | Does this idea have pain and pull, or is it still polite interest? |
+| [Ideal customer profile](icp.md) | Which accounts deserve attention, and which should be excluded? |
+| [Wedge](wedge.md) | Which audience and use case do we win first—and how do we expand without a cold start? |
+| [Buying committee](buying-committee.md) | Who participates in the decision, and what does each role need? |
+| [First ten customers](first-ten-customers.md) | How do you find and win the first ~10 companies that match the ICP? |
+| [Product-market fit](product-market-fit.md) | Has a real company loved it, paid, and started to pull—before you scale a channel? |
+| [Four Fits](four-fits.md) | Do market, product, channel, and model still describe the same company? |
 
-Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
+## Coming later
 
-## Recommended build order
+These topics are on the writing list. There is no article to open yet.
 
-1. Name a candidate with [idea discovery](idea-discovery.md)—important, underserved, and worth years—before treating a canvas as strategy.
-2. Validate the idea for pain and pull with [idea validation](idea-validation.md).
-3. Define the ICP and explicit disqualifiers.
-4. Name the [wedge](wedge.md) (audience + use case) you will actually win first.
-5. Map the buying committee for the accounts that pass those filters.
-6. Walk the [first ten customers](first-ten-customers.md) trust rings (handmade, not scalable).
-7. Climb the [product-market fit](product-market-fit.md) ladder (love, pay, pull) before treating growth as a channel problem.
-8. Check that market, product, channel, and model still agree: [four fits](four-fits.md).
-9. Add jobs, triggers, category entry points, and competitive alternatives.
-10. Feed the resulting evidence into positioning and channel selection.
+| Planned topic | Question to cover |
+|---|---|
+| Market research | What is true about the market beyond internal opinion? |
+| Segmentation | Which groups differ enough to require a distinct strategy? |
+| Buyer journey | How does a buying situation move from trigger to decision and adoption? |
+| Jobs to be done | What progress is the buyer hiring a solution to make? |
+| Category entry points | Which situations should make the company come to mind? |
+| Competitive alternatives | What will buyers do if they do not choose this product? |
 
-## Interfaces with other domains
+## Where to go next
 
-- [Product marketing](../02-product-marketing/) turns buyer evidence into positioning, messaging, proof, and offers.
-- [Channels & distribution](../04-channels-and-distribution/) should not scale a motion until the PMF ladder has dated evidence.
-- [Outbound & prospecting](../05-outbound-and-prospecting/) is the execution layer when the first-ten ring is targeted cold outreach.
-- [Account, field & partner marketing](../06-account-field-and-partner/) uses account value, buying-group structure, and triggers to select coordinated programs.
-- [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) operationalizes qualification, scoring, routing, and feedback loops.
+Pick a guide above for the task you are working on, or browse [Product marketing](../02-product-marketing/) for a related part of the work.
 
 [Back to the playbook index](../README.md)
 

@@ -3,11 +3,13 @@ title: "Change friction"
 sidebarTitle: "Change Friction"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-In a crowded category the buyer already believes there is a problem. Headlines create need. What they cannot see is **value as something that happened**—especially when the job is prevention, risk, or “keep the lights on.” The meeting dies as a bake-off of features. [Sales enablement](sales-enablement.md) is the shared first-meeting story. This page is the qualification that story must survive: **what we reduce, what we replace, what inaction costs—and whether they will live through the fix.**
+A buyer can agree that your product is better and still decide to stay put. Switching takes time, creates risk, and affects other people. Make those costs visible so the buyer can compare the effort of changing with the cost of doing nothing.
 
-This is not a cybersecurity playbook, not Challenger recertification, and not a vertical case file.
+![Keep the current way; Understand the trade-off; Move to a new way](../../assets/illustrations/change-friction.svg)
+
+*Reading guide: keep the current way · understand the trade-off · move to a new way.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not a cybersecurity playbook, not Challenger recertification, and not a 
 - You need clocks for launch vs value. That is [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md).
 - You need partner economics. That is [ecosystem](../06-account-field-and-partner/ecosystem.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,11 +37,15 @@ This is not a cybersecurity playbook, not Challenger recertification, and not a 
 | **Friction of the fix** | Time, owners, other teams, workflow change the purchase imposes. |
 | **Joint success plan** | Shared path: objectives, obstacles, owners—before papering. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Lead with the implementation conversation.** A nod on the problem is not a buying signal when they have six thousand alternatives. If they will not imagine a different way of working, they are not qualified—even if the need is obvious. Slow down to find out, or you will win a deal that cannot adopt.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: classify the buyer beyond title
 
@@ -63,7 +71,9 @@ Name the other teams the change will touch (infra, HR, DevOps, users). Ask wheth
 
 A partner motion still needs a crisp proposition the partner can run and a joint plan with metrics—not a logo slide. Detail stays in [ecosystem](../06-account-field-and-partner/ecosystem.md).
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist “security questionnaire” product. Not a 6,000-vendor industry fact.
 
@@ -86,7 +96,9 @@ Sales-assist “security questionnaire” product. Not a 6,000-vendor industry f
 - Ready to change? (yes / not this year):
 - Joint success plan (objectives · obstacles · owners):
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The first-meeting insight still matches [sales enablement](sales-enablement.md).
 - [ ] Replace/simplify is named; we are not “and also.”

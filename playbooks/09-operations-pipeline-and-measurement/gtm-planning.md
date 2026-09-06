@@ -3,13 +3,13 @@ title: "GTM planning"
 sidebarTitle: "GTM Planning"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-A revenue target with no **parents** is a wish. The number has two parents that must meet: **what demand can create** (channel volume × conversion) and **what sales can close** (heads × quota × ramp × cycle × retention). If marketing’s waterfall and sales’ capacity file disagree, you do not have a plan. You have two spreadsheets.
+A go-to-market plan needs both enough customer demand and enough capacity to serve it. Estimate the funnel by channel, work out what the team can handle, include renewals, and reconcile the two sides. Put uncertain assumptions where everyone can see them.
 
-Those files are step two. Step one is strategy inputs: ranked ICPs, real marketing advantages, a few perceptions, four revenue levers with **no ties**, and one to three big bets. A beautiful demand model that funds every segment equally is still fiction.
+![Demand from channels; Shared assumptions; Capacity of the team](../../assets/illustrations/gtm-planning.svg)
 
-This page is the model, not the [forecast](forecasting.md) call. Forecasting inspects the path this quarter. Planning asks whether next year’s number is even possible. [Sales compensation](sales-compensation.md) is how people are paid if the number is real. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) still decides which channels belong in the demand sheet at all.
+*Reading guide: demand from channels · shared assumptions · capacity of the team.*
 
 ## Use this when
 
@@ -26,7 +26,9 @@ This page is the model, not the [forecast](forecasting.md) call. Forecasting ins
 - You need a MAP score. That is [lead scoring](lead-scoring.md).
 - This is securities guidance or a fundraise model for investors. Get qualified owners.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -36,13 +38,19 @@ This page is the model, not the [forecast](forecasting.md) call. Forecasting ins
 | **Payroll vs quota-bearing** | People on the books versus people who can actually carry the number this month |
 | **NRR / churn / upsell** | Retention math. New logo cannot silently cover a leak |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Only change inputs.** Outputs are calculated. If you type over a conversion cell because the year “needs” to work, you are writing fiction. Sample rates in any template—including ours—are **invented teaching fills**, not your funnel.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 0: write strategy inputs before you open the spreadsheet
+## How to do it
+
+<a id="step-0-write-strategy-inputs-before-you-open-the-spreadsheet"></a>
+
+### Step 0: Start with the strategy
 
 Fill [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md) first. In order:
 
@@ -55,7 +63,9 @@ Fill [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md
 
 If this page is empty, the waterfall will invent a motion.
 
-### Step 0b: set KPO goals; staff big bets like a product roadmap
+<a id="step-0b-set-kpo-goals-staff-big-bets-like-a-product-roadmap"></a>
+
+### Step 0b: Agree on priorities and major projects
 
 A couple of KPI cells is not a marketing plan. Write three kinds of goals, time-bound, with a why:
 
@@ -69,33 +79,45 @@ Keep the company-facing list short (~5–8). Experiments can live under projects
 
 Each **big bet** (1–3, often one or two per quarter) names **fuel + engine + audience**: the perception or offer, the [channel engine](../04-channels-and-distribution/channel-strategy.md) it rides, the ICP maturity it is for. It must accelerate a named advantage. A bet with no owner, no contingency (product date, hire, budget), and no stop rule is a wish. The demand spreadsheet then has to show whether the year is still possible if the bet slips.
 
-### Step 1: name the stages once
+<a id="step-1-name-the-stages-once"></a>
+
+### Step 1: Define the funnel stages
 
 Write the same stage names the CRM and [forecasting](forecasting.md) use. Demand plans often start earlier (visit → lead → MQL → SQL → opportunity). Capacity plans often start at SQL or opportunity. Translate; do not run two dictionaries. Stage **length in months** is an input. Ignoring duration is how January MQLs become January revenue in a cell.
 
-### Step 2: build the demand plan by channel
+<a id="step-2-build-the-demand-plan-by-channel"></a>
+
+### Step 2: Estimate demand by channel
 
 Each channel gets: the unit you actually buy or earn (clicks, pageviews, events, outbound accounts), the conversion chain to the stage sales will accept, and cost where it exists. Channels do not share one conversion rate. Organic is not PPC. Events are not SDR outbound. If a channel is zero, leave it zero—do not invent a third-party email program to make the chart pretty.
 
 The output you care about is the object [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) can credit (SQO, opportunity, closed-won)—pick one and stick to it.
 
-### Step 3: build capacity from people, not from a revenue wish
+<a id="step-3-build-capacity-from-people-not-from-a-revenue-wish"></a>
+
+### Step 3: Estimate capacity from the team
 
 For each segment (for example mid-market vs enterprise): quota, first-contract ACV or average deal, ramp months, expected attainment. List AEs with **start dates**. Quota in a ramp month is not full quota. Count **quota-bearing** separately from payroll. Overlays (SDR, SE, manager) are ratios you will staff—or honestly under-staff. Attainment is an input you steal from your history, not from a sample 78%.
 
 Closed-won count × ACV should be reconcilable with bookings. If the waterfall “wins” do not match capacity bookings, stop. One of the files is lying.
 
-### Step 4: add renewals as a first-class sheet
+<a id="step-4-add-renewals-as-a-first-class-sheet"></a>
+
+### Step 4: Include renewals
 
 Contract term, logo churn at renewal, upsell on retained, NRR. Starting customers matter. A company with a book is not a greenfield capacity model. If NRR is below 100%, new logo has to cover the leak **and** the growth story. Say so.
 
-### Step 5: reconcile, then freeze assumptions
+<a id="step-5-reconcile-then-freeze-assumptions"></a>
+
+### Step 5: Reconcile the plan and record assumptions
 
 Demand SQOs (or wins) versus capacity’s ability to work them: queue time, coverage, waste. If marketing can create 400 SQOs and sales can work 120, you do not need more paid—you need capacity or a tighter score ([lead scoring](lead-scoring.md)). If sales is staffed for 400 and marketing can create 80, hiring is malpractice.
 
 Date the assumption set. The next leader’s [90-day ramp](sales-leadership-ramp.md) should find this file, not a myth.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Two segments. Twelve-month look. Not your rates.
 
@@ -123,7 +145,9 @@ Sales-assist. Two segments. Twelve-month look. Not your rates.
 
 Working files: [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md), [gtm-demand-plan.xlsx](../../templates/gtm-demand-plan.xlsx) and [gtm-sales-capacity.xlsx](../../templates/gtm-sales-capacity.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Strategy inputs exist: ranked ICPs, 1–3 advantages, perceptions, four levers with no ties, 1–3 big bets.
 - [ ] KPO list is ~5–8 lines across KPI / Project / Ops; each KPI has an efficiency twin; non-goals are written.

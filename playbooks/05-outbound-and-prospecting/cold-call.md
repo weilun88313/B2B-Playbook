@@ -3,13 +3,13 @@ title: "Cold call"
 sidebarTitle: "Cold Call"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A cold call that opens like a telemarketer (“how are you / did I catch you at a bad time”) and then pitches a platform is why people quit the phone. This page is **how a rep earns thirty seconds, names a problem the buyer can see, and handles the reaction to the interruption**—not the product objection.
+A cold call interrupts someone who was not expecting you. Explain why you are calling, describe a problem that may be relevant, and give them room to respond. Aim to find out whether a further conversation would be useful, not to run a full sales meeting.
 
-[Message-market fit](message-market-fit.md) is the gate: if the offer has not produced a qualified conversation by hand, more dials are a volume tax. [Contact data](contact-data.md) is the gate on the number. [Cold email](cold-email.md) is the written first touch. The phone is a **different channel**, not a louder email.
+![Give a clear reason; Ask about the problem; Agree to continue or stop](../../assets/illustrations/cold-call.svg)
 
-This is not a word-for-word objection pack, not a gatekeeper-bypass trick list, and not a 30MPC course.
+*Reading guide: give a clear reason → ask about the problem → agree to continue or stop.*
 
 ## Use this when
 
@@ -26,7 +26,9 @@ This is not a word-for-word objection pack, not a gatekeeper-bypass trick list, 
 - You need discovery after they agreed to meet. That is [sales enablement](../02-product-marketing/sales-enablement.md), not this page.
 - The request is a pressure-close or “neuro-linguistic” objection script.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -35,13 +37,19 @@ This is not a word-for-word objection pack, not a gatekeeper-bypass trick list, 
 | **Reaction** | The hang-up energy from the interruption—usually not a real product no |
 | **Test drive** | A look, not a purchase, and not yet a 30-minute demo |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Open with their world, pitch the problem, handle the reaction before the objection.** If the first five seconds could be read by any SDR at any vendor, you already lost. Do not sell the product on a cold call. Sell interest, then a small next step.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: earn the number, then earn context
+## How to do it
+
+<a id="step-1-earn-the-number-then-earn-context"></a>
+
+### Step 1: Verify the contact and prepare context
 
 No dial until [contact data](contact-data.md) says the line is real and theirs. Then write one context line you could not reuse on the next logo: a [buying signal](buying-signals.md), a peer in their space, a trigger you would put in [account research](account-research.md). “How have you been” and “bad time?” are canned. Public call studies (Gong and others) have long shown “bad time” costs you; treat that as **tape**, not as a script to memorize.
 
@@ -52,7 +60,9 @@ Two public 30MPC opener *shapes* (Jul 2024 newsletter)—adapt, do not recite:
 
 Permission without context is now as canned as “how are you.”
 
-### Step 2: build a problem proposition, not a value prop
+<a id="step-2-build-a-problem-proposition-not-a-value-prop"></a>
+
+### Step 2: Describe a relevant problem
 
 1. **Triggering problem** — movie scene: who, where, what broke, how it felt. “Pipeline challenges” is not a scene.
 2. **One-sentence solution** — “we do X so that the problem goes away.” X is the distinct capability, not “single source of truth.”
@@ -60,7 +70,9 @@ Permission without context is now as canned as “how are you.”
 
 If you cannot visualize the problem, you are not specific enough. That specificity should already have worked in the handmade email batch.
 
-### Step 3: handle the reaction like redirection, not combat
+<a id="step-3-handle-the-reaction-like-redirection-not-combat"></a>
+
+### Step 3: Respond to the person's concern
 
 Most “no budget / not interested / send information” on a cold call is **reaction to being interrupted**. 30MPC’s public “Mr. Miyagi” shape:
 
@@ -70,15 +82,21 @@ Most “no budget / not interested / send information” on a cold call is **rea
 
 Do not fight the punch. Do not run an 18-objection reciter. If they give a real situational no (wrong seat, just signed a three-year deal), log it and stop.
 
-### Step 4: book or leave; do not discover on a cold call
+<a id="step-4-book-or-leave-do-not-discover-on-a-cold-call"></a>
+
+### Step 4: Agree on a next step or end the call
 
 If interest is real, ask for the hold while it is warm. Then shut up. A discovery dump on a cold call is how you lose the next step. Scope belongs in the [demo request](../07-website-and-conversion/demo-request.md) confirm or the first meeting.
 
-### Step 5: score the tape on the three moves
+<a id="step-5-score-the-tape-on-the-three-moves"></a>
+
+### Step 5: Review calls for specific improvements
 
 Managers listen for: context in five seconds, a visual problem, reaction handled without arguing. Activity is [SDR onboarding](sdr-onboarding.md) hygiene. It is not coaching.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Ops lead. Signal: they posted a role for a “queue owner.” Alternative: shared inbox.
 
@@ -103,7 +121,9 @@ Ops lead. Signal: they posted a role for a “queue owner.” Alternative: share
 
 Working file: [cold-call.md](../../templates/cold-call.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Handmade offer already produced a pattern ([message-market fit](message-market-fit.md)).
 - [ ] Number passes [contact data](contact-data.md).

@@ -3,4 +3,5 @@
 *.mdx linguist-detectable=true linguist-documentation=false
 scripts/** linguist-detectable=false
 style.css linguist-detectable=false
+assets/** linguist-documentation=true
 templates/*.xlsx linguist-generated=true

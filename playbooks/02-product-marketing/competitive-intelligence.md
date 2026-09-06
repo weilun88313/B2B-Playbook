@@ -3,13 +3,13 @@ title: "Competitive intelligence"
 sidebarTitle: "Competitive Intel"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-[Positioning](positioning.md) decides the frame. This page decides **what the company is allowed to know—and ship—when an alternative walks into the deal.**
+When a buyer mentions another product, sales needs a useful answer, not a giant research folder. Keep a short, sourced comparison of where each option fits, what has changed, and which claims you can actually support.
 
-A 40-page battlecard nobody opens is a performance. A scrape of every homepage in the category is a hobby. Intelligence is a **living card** sales will actually paste: where they win, where we win, what we will not say, and the URL a champion can forward.
+![Collect current facts; Compare buyer needs; Keep the card updated](../../assets/illustrations/competitive-intelligence.svg)
 
-This is not [account research](../05-outbound-and-prospecting/account-research.md) (one named account). It is not [ecosystem](../06-account-field-and-partner/ecosystem.md) (complements you might grow with). Complements still belong on the map so you do not treat a partner as an enemy.
+*Reading guide: collect current facts → compare buyer needs → keep the card updated.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not [account research](../05-outbound-and-prospecting/account-research.m
 - You need partner economics. That is [ecosystem](../06-account-field-and-partner/ecosystem.md).
 - The request is a win/loss theater with no dated quotes.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -35,11 +37,15 @@ This is not [account research](../05-outbound-and-prospecting/account-research.m
 | **Blank** | Unknown. Better than a confident guess |
 | **Complement** | A player who can help us grow. Not filed as a competitor by default |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Live short lists first. Canonical URLs second. Blank over guess.** If sales has not lost to it or put it on a short list this quarter, it does not get a card. If you cannot open the source, you do not write the cell.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: steal the list from deals, not from a radar slide
 
@@ -91,7 +97,9 @@ Ship the comparison URL only when the alternative is repeating. [Positioning](po
 
 **Radar completeness:** a full category map is not a decision. **AI completeness:** a filled spreadsheet is not evidence. Intelligence that does not change a talk track, a page, or a disqualifier is a report.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Repeating alternative: shared inbox + spreadsheet. Named vendor only if it appeared.
 
@@ -118,7 +126,9 @@ Sales-assist. Repeating alternative: shared inbox + spreadsheet. Named vendor on
 
 Working file: [competitive-intelligence.md](../../templates/competitive-intelligence.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The list came from live short lists or losses, not a wish-radar.
 - [ ] Each card has canonical URLs with dates, or an explicit blank.

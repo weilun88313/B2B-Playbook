@@ -3,11 +3,13 @@ title: "Idea discovery"
 sidebarTitle: "Idea Discovery"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A surprising share of later-famous B2B companies did **not** start because the founder felt the pain at the last job. In Lenny Rachitsky’s 2023 interviews that path was only about **40%**. The majority of those founders also had no special credential in the space they entered. About **20%** were solo. Following any recipe still will not guarantee a company. It improves the odds of picking a problem worth years.
+You do not need a fully formed startup idea to begin. Start with a problem you have seen, a question you keep hearing, or a workaround people already pay for. This guide helps you turn those observations into a problem worth investigating.
 
-A great B2B idea, boiled down, has three ingredients. You then find it on one of three paths. **Pain** (the problem matters) and **pull** (they want *this* solution) are how you know you are onto something. Proving those with money, usage, emotion, and cold inbound is the next chapter: [idea validation](idea-validation.md).
+![Notice a problem; Find who has it; Choose what to test](../../assets/illustrations/idea-discovery.svg)
+
+*Reading guide: notice a problem → find who has it → choose what to test.*
 
 ## Use this when
 
@@ -88,7 +90,7 @@ Reflect: which feature has pull. What pain in *this* startup you wish someone wo
 
 ### How a filled idea card reads
 
-Teaching fill: an engineer who has rebuilt the same admin UI three times and is bored of “AI for sales.”
+Illustrative example: an engineer who has rebuilt the same admin UI three times and is bored of “AI for sales.”
 
 | Ingredient | Honest fill |
 |---|---|
@@ -131,7 +133,9 @@ This is a candidate, not a company. Next chapter: [validate](idea-validation.md)
 - Problem in the current product we should productize:
 - Side project we keep not shipping:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] All three ingredients have a sentence, including excitement—not only TAM.
 - [ ] We named a path. “Whiteboard plus stealth” is not ponder-and-probe.

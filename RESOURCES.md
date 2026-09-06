@@ -3,19 +3,21 @@ title: "GTM reading sources & operators"
 sidebarTitle: "Sources"
 ---
 
+![Choose a question; Read a relevant source; Test what applies to your work](assets/illustrations/reading.svg)
+
 > A short list of newsletters, podcasts, and operators worth following—not a celebrity ranking.
 
 **Directory release:** 20 sources · 2 layers (long-term GTM · AI watchlist)
 
 **Last reviewed:** 2026-09-02
 
-Playbooks say how to operate. [TOOLS.md](TOOLS.md) says which software fits a job. This page says **where a practitioner can keep learning** without treating a feed as a strategy. Working *with* a named operator—overlap, a co-created artifact, disclosure—is [creator partnership](playbooks/04-channels-and-distribution/creator-partnership.md), not a row on this list.
+These are places to keep learning: newsletters, podcasts, publications, and communities. Pick two or three that cover the questions you are working on. Use [playbooks](playbooks/) for step-by-step guidance and [tools](TOOLS.md) for software recommendations.
 
-It is not a paid-community membership pitch, not an affiliate list, and not a substitute for dated evidence on a tactic page. Subscribe to two or three. A twelfth newsletter will not invent an ICP.
+Want to collaborate with a writer or creator rather than follow their work? See [creator partnerships](playbooks/04-channels-and-distribution/creator-partnership.md). This reading list is not a paid ranking or an affiliate program.
 
 ## How this list is graded
 
-The letters are this repository’s **editorial evidence bar**, not a popularity contest and not an audited citation count.
+The grades describe how this library uses each source. They are editorial judgments, not audited rankings.
 
 | Grade | Meaning |
 |---|---|
@@ -23,7 +25,7 @@ The letters are this repository’s **editorial evidence bar**, not a popularity
 | **B — Practical** | A named operator uses it and can describe the job; useful, not yet a default |
 | **C — Observe** | Thread mention, self-promo, vendor-adjacent, or mixed. Pilot before treating as canon |
 
-A grade is not a command to buy a course, join a community, or copy last week’s play. Vendor blogs and “AI roundup” feeds are C until a specific article earns a place in a playbook source note.
+Read a few public articles before paying for a subscription or community. A source can be useful without every recommendation applying to your company.
 
 **Access** is what you can read without buying the agency, course, or community. Prices are **USD list** as of 2026-08-29 from public pricing or about pages. They change. This is not a purchase recommendation and not an affiliate offer.
 

@@ -3,11 +3,13 @@ title: "Forms and chat"
 sidebarTitle: "Forms and Chat"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A chatbot that covers the [homepage](homepage.md) door and a 14-field “contact” form on the blog are the same mistake: friction without a job. [Demo request](demo-request.md) already owns the high-intent path. This page is the **general rule**: which interaction collects enough context, and which ones you will not run.
+Every form field asks the reader to do a little more work. Keep the fields you genuinely need and make the next step clear. For chat, decide who answers, when they are available, and what happens if nobody can respond.
 
-This is not a HubSpot form-builder tour, not a Drift playbook, and not privacy counsel.
+![Define the reader's task; Collect only what is needed; Make the handoff clear](../../assets/illustrations/forms-and-chat.svg)
+
+*Reading guide: define the reader's task → collect only what is needed → make the handoff clear.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not a HubSpot form-builder tour, not a Drift playbook, and not privacy c
 - You need scoring math. That is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md).
 - Legal must set lawful basis. Get a qualified owner.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -32,13 +36,19 @@ This is not a HubSpot form-builder tour, not a Drift playbook, and not privacy c
 | **Chat** | Human or bot that must have a job: answer, route, or get out of the way |
 | **HDYHAU** | Open text on **declared-intent** forms only—see [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **The form is as short as the intent, and chat is not a second demo queue.** If you cannot write what happens in the first hour after submit, delete the form. If chat cannot hand a scoped request to the [demo](demo-request.md) SLA, it is decoration.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name the job before the fields
+## How to do it
+
+<a id="step-1-name-the-job-before-the-fields"></a>
+
+### Step 1: Define the purpose of the form
 
 | Intent | Typical fields | After submit |
 |---|---|---|
@@ -49,23 +59,33 @@ This is not a HubSpot form-builder tour, not a Drift playbook, and not privacy c
 
 “Contact us” without a job becomes a junk drawer. Split it or kill it.
 
-### Step 2: reuse people; do not rebuild forms
+<a id="step-2-reuse-people-do-not-rebuild-forms"></a>
+
+### Step 2: Use information you already have
 
 If you already have role and company, do not ask again. Progressive profiling is a list and a memory, not a new form per PDF. [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) already said awareness stays short.
 
-### Step 3: gate only an exchange that is worth it
+<a id="step-3-gate-only-an-exchange-that-is-worth-it"></a>
+
+### Step 3: Make the exchange worth the effort
 
 Default ungated for [comparison](comparison-page.md), category, and [white paper](../03-brand-story-and-content/white-paper.md). Gate a working file only if someone will use the submit. Newsletter popups on first visit are refused on the [homepage](homepage.md); they are refused here too.
 
-### Step 4: give chat a script or turn it off
+<a id="step-4-give-chat-a-script-or-turn-it-off"></a>
+
+### Step 4: Give chat clear coverage and response rules
 
 Allowed: answer a constraint (link to security), route a hand-raise into the demo SLA, tell a student they are in the wrong place. Not allowed: qualify budget in a widget, block the primary CTA, run after hours as if a human were there. Bot transcripts are not discovery.
 
-### Step 5: one HDYHAU surface
+<a id="step-5-one-hdyhau-surface"></a>
+
+### Step 5: Choose where to ask how buyers found you
 
 Open text, no dropdown, on declared-intent only. Do not put it on every chat greeting. Categorize later. [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md).
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 | Surface | Job | Fields | Chat |
 |---|---|---|---|
@@ -86,7 +106,9 @@ Open text, no dropdown, on declared-intent only. Do not put it on every chat gre
 
 Working file: [forms-and-chat.md](../../templates/forms-and-chat.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Every live form has a written job and owner.
 - [ ] Hand-raises use the [demo request](demo-request.md) path, not a generic contact.

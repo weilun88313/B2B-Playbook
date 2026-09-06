@@ -2,11 +2,13 @@
 title: "Marketing org"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-Marketing is not a smaller sales team. It is closer to **product**: mixed crafts, short-term pipeline and long-term brand, research underneath both. The org question is how you cover **fuel** (content and brand), **engine** (growth and distribution), and **foundation** (product marketing)—without hiring only the engine, and without a Head who will not still do the work.
+Choose marketing roles around the work the company needs now. A first hire may need to research, write, and run a channel; a larger team can specialise. Make ownership clear and add people when there is enough important work for them to own.
 
-[GTM planning](gtm-planning.md) says whether the year is possible. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) names the primary motion. This page is who you hire so those pages can be staffed. It is not a job board, not an interview scorecard pack, and not a FigJam to clone.
+![Content and positioning; Channels and campaigns; Operations and measurement](../../assets/illustrations/marketing-org.svg)
+
+*Reading guide: content and positioning · channels and campaigns · operations and measurement.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ Marketing is not a smaller sales team. It is closer to **product**: mixed crafts
 - You need the weekly sales clock. That is [sales operating cadence](sales-operating-cadence.md).
 - The request is a JD, a hiring scorecard, or a copy of someone else’s org chart.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,19 +37,27 @@ Marketing is not a smaller sales team. It is closer to **product**: mixed crafts
 | **Foundation** | Product marketing: audience, market, positioning, launches, enablement |
 | **Producer** | Glue: campaigns, programs, mileage across the three—not a fourth silo |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Hire generalists who cover two of the three, then fill gaps; do not staff only the engine.** A Head of Marketing remains an IC until the team is large. If fuel and engine are misaligned, add a producer who reports to the Head—not another demand-gen seat that never talks to content.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: count the firsts; pick a π-shape that matches the motion
+## How to do it
+
+<a id="step-1-count-the-firsts-pick-a--shape-that-matches-the-motion"></a>
+
+### Step 1: Match early hires to the work
 
 The first marketer should be on their first *or second* of these—not five: scrappy execution; owning strategy; early-stage company; **your** buying motion (self-serve vs sales-assist vs outbound); managing people; the sub-function you need most.
 
 Default first hire is often **PMM + growth**. Sometimes **content + PMM**. Content + growth as the first hire is rare. Match [channel strategy](../04-channels-and-distribution/channel-strategy.md): a self-serve motion that hires only enterprise PMM, or an outbound motion that hires only brand, is a firsts problem wearing a title.
 
-### Step 2: staff fuel, engine, and foundation—in that spirit, not as three VP lines on day one
+<a id="step-2-staff-fuel-engine-and-foundationin-that-spirit-not-as-three-vp-lines-on-day-one"></a>
+
+### Step 2: Cover content, distribution, and operations
 
 Until you have specialists, people wear two hats. As you add seats:
 
@@ -57,17 +69,23 @@ Until you have specialists, people wear two hats. As you add seats:
 
 Do not hire three growth people and a contractor for “some blogs.” Do not hire a very senior Head who only sets strategy. Alternate fuel and engine as you scale; keep enough PMM to aim both. Contractors without an internal owner who knows the business are decoration.
 
-### Step 3: keep the Head in the work; add producers when silos start
+<a id="step-3-keep-the-head-in-the-work-add-producers-when-silos-start"></a>
+
+### Step 3: Keep leadership close to execution
 
 The Head of Marketing still produces until the team is well past a small squad (Kramer’s 2024 guide: still an IC until the team is well over ~20). Around a handful of people, a **producer**—campaigns, program management, mileage, feedback into the three crafts—reports to the Head, not into one silo. That is how fuel and engine stay married. [Company cadence](company-cadence.md) and [content strategy](../03-brand-story-and-content/content-strategy.md) still set the calendar; producers run it.
 
 Past ~15, put leads on sub-functions so the Head is not twenty directs. Past ~20, process and handoffs matter more than another specialist; re-org if events, ecosystem, or lifecycle no longer fit the original three boxes. Do not copy a 25-person chart at headcount four.
 
-### Step 4: market marketing internally like a product
+<a id="step-4-market-marketing-internally-like-a-product"></a>
+
+### Step 4: Explain marketing priorities to the rest of the company
 
 Share **strategy and priorities**, not a research dump. Teach fuel vs engine so sales and product stop asking marketing to be a pipeline vending machine. Random acts of marketing from other teams die when the [strategy inputs](../../templates/marketing-strategy-inputs.md) and a short KPO list are visible. This is not a brand campaign about the marketing team.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Two marketers today. Primary engine: outbound + one event motion.
 
@@ -95,7 +113,9 @@ Sales-assist. Two marketers today. Primary engine: outbound + one event motion.
 
 Working file: [marketing-org.md](../../templates/marketing-org.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Motion is written; the hire matches it.
 - [ ] Next hire is not stacked with too many firsts.

@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Capture (short clock); Creation (long clock); Evidence](../assets/illustrations/worksheet-measurement-model.svg)
+
 ## Capture (short clock)
 
 - Metrics:

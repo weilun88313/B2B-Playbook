@@ -2,13 +2,13 @@
 title: "Product launch"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-A ship date is not a market event. A launch is a **campaign**: fuel plus engine for a named audience, nested under a perception, sized to a tier, with momentum after day one. The changelog is not the marketing calendar.
+Some product changes need a coordinated launch. Others need a helpful update to existing customers. Choose the audience and the size of the campaign first, then plan the announcement, the product experience, and the follow-up after launch day.
 
-[Product Hunt](../04-channels-and-distribution/product-hunt.md) is a one-day amplifier. [Company cadence](../09-operations-pipeline-and-measurement/company-cadence.md) keeps launch week off the close. This page is whether the change deserves a coordinated event at all—and how PMM owns it after the announcement.
+![Choose the audience; Prepare the launch; Follow through](../../assets/illustrations/product-launch.svg)
 
-This is not a press-release checklist, not a feature factory, and not a reason to launch every ticket product ships.
+*Reading guide: choose the audience → prepare the launch → follow through.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a press-release checklist, not a feature factory, and not a reason t
 - Launch week sits on quarter-end. Move the date: [company cadence](../09-operations-pipeline-and-measurement/company-cadence.md).
 - You are still hunting the first ten logos. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -35,11 +37,15 @@ This is not a press-release checklist, not a feature factory, and not a reason t
 | **Launch positioning** | Who it is for, what it is, why better than the **named** alternative—for this change |
 | **Day one** | The announcement. The job continues at 30 / 60 / 90 |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Audience calendar first, then slot launches that earn a campaign.** If this release is weaker than other campaigns you could run, bundle it, shrink it, or skip the announcement. A checklist is for gaps after strategy—not instead of it.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: decide if it is launch-worthy; then pick a tier
 
@@ -69,7 +75,9 @@ Journalists covering a feature launch are an exception for some T1s bundled with
 
 Product will move on. PMM (or whoever owns the story) does not. Write 30 / 60 / 90: follow-up content, enablement, a customer proof, a webinar, a lifecycle mention. Measure **use and why they are not using**, not only announcement traffic. [Company cadence](../09-operations-pipeline-and-measurement/company-cadence.md) still forbids stacking this on the close.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist queue product. Perception: “a shared inbox breaks when someone is paid on queue health.”
 
@@ -98,7 +106,9 @@ Sales-assist queue product. Perception: “a shared inbox breaks when someone is
 
 Working file: [product-launch.md](../../templates/product-launch.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Compared to other **campaigns**, not only to other releases.
 - [ ] Tier is written; T3 is allowed.

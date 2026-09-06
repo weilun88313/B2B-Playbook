@@ -3,13 +3,13 @@ title: "Incentive timing"
 sidebarTitle: "Incentive Timing"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-[Sales compensation](sales-compensation.md) writes **what** pays. This page writes **when** the money is safe—and what happens when it is not. If you pay 100% at signature on usage, implementation, or uncollected invoices, you already have a clawback program. You just have not admitted it.
+Decide when commission is earned and paid before announcing a compensation plan. A signed contract, an invoice, and collected cash are different events. Make any repayment or draw rules clear, and have the policy reviewed for the jurisdictions where the team works.
 
-A **clawback** recovers commission after you paid. A **holdback** never pays the risky slice until a milestone. A **draw** advances variable *before* they have earned it. Mixing the three in Slack in March is how January’s plan becomes a grievance.
+![Define the earning event; Set the payment schedule; Explain adjustments](../../assets/illustrations/incentive-timing.svg)
 
-This is not employment, tax, wage-hour, or benefits advice. Recovery, draws, and termination treatment vary by place. Get qualified counsel before this is the plan.
+*Reading guide: define the earning event → set the payment schedule → explain adjustments.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This is not employment, tax, wage-hour, or benefits advice. Recovery, draws, and
 - You need RevOps *leaders* paid for systems they own. That is [RevOps compensation](revops-compensation.md), not a clawback clause.
 - Legal, works council, or payroll must set recovery. This page will not override that.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,19 +36,27 @@ This is not employment, tax, wage-hour, or benefits advice. Recovery, draws, and
 | **Non-recoverable draw** | Guaranteed variable for a dated window; not recouped |
 | **Window** | The dated period after the credit event in which a trigger can reverse pay |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Pay timing follows revenue risk.** The earlier you pay relative to cash and retention, the more you need a written recovery or a holdback. A draw is a **bridge for timing**, not a subsidy for a book that cannot hit quota. If draws are common, the plan, the territory, or hiring is wrong—do not extend the draw.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name when the dollar is actually safe
+## How to do it
+
+<a id="step-1-name-when-the-dollar-is-actually-safe"></a>
+
+### Step 1: Define when revenue earns credit
 
 On the same page as the credit event, write the *risk*: cancel, refund, non-payment, never go-live, contraction after signature. If those events are rare and collections are boring, you can pay mostly at booking and claw back only the ugly cases. If the motion is usage, implementation-heavy, or cash-fragile, paying 100% at signature is how you fund finance’s surprise.
 
 Holdback and clawback are substitutes. Holdback is quieter: you never handed over the risky slice. Clawback is louder: you paid, then you take it back. Choose on purpose.
 
-### Step 2: write the clawback as a default mechanism—or refuse it
+<a id="step-2-write-the-clawback-as-a-default-mechanismor-refuse-it"></a>
+
+### Step 2: Explain repayment and adjustment rules
 
 If you pay before the dollar is safe, clawback (or holdback) is part of the plan, not a Q4 exception.
 
@@ -62,7 +72,9 @@ A policy that can be administered:
 
 Cash and the balance sheet change posture. A company that cannot fund commissions on uncollected bookings should pay less up front, not write a meaner novel after payroll.
 
-### Step 3: only then consider a draw
+<a id="step-3-only-then-consider-a-draw"></a>
+
+### Step 3: Define any temporary draw carefully
 
 Ask: is there a **timing** gap (effort now, earnings later) that the person does not control? New-hire ramp on a long cycle, a territory reset *you* caused, a plan migration, delayed lead flow you own. If the answer is “they are missing quota,” that is not a draw. That is [sales compensation](sales-compensation.md) and territory math.
 
@@ -76,11 +88,15 @@ Guardrails that keep draws from becoming pay:
 - No stacking a full draw on reduced quota *and* a guarantee unless you **intend** above-target cash during ramp.
 - Exception governance: sales leadership + finance approve; monthly list of balances and exception count. When the list is long, stop hiring into the same math.
 
-### Step 4: administer or simplify
+<a id="step-4-administer-or-simplify"></a>
+
+### Step 4: Keep the plan administrable
 
 If CRM + billing + a named ops owner cannot flag the trigger, apply the cap, and show the rep the window, **shorten the policy** until they can. Buying an ICM tool to rescue an unwritten clawback is how you implement last year’s argument. Software names for a job still start in [TOOLS.md](../../TOOLS.md); this page is the rule the tool must run.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Annual SaaS, invoice in 30 days, rare non-pay. Eight AEs. Not a benchmark.
 
@@ -122,7 +138,9 @@ Copy the empty fields. Do not copy the 90 days or the 80/20 split as market law.
 
 Working file: [incentive-timing.xlsx](../../templates/incentive-timing.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The written plan already names the credit event; this page does not invent a second one.
 - [ ] Holdback vs clawback vs pay-on-cash is a choice, not a surprise.

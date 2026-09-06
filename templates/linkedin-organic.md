@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Voice; Path; Proof it worked](../assets/illustrations/worksheet-linkedin-organic.svg)
+
 ## Voice
 
 - Named speaker and the perception they own:

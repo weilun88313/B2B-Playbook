@@ -3,13 +3,13 @@ title: "Budget and planning"
 sidebarTitle: "Budget & Planning"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-A budget that is not iterated with a forecast is fiction. A forecast that ignores what marketing can actually staff is a wish. [GTM planning](gtm-planning.md) asks whether demand and sales capacity can produce the same number. This page is the **money and headcount that make that number honest**—and the efficiency diagnostics that tell you whether you are buying growth you cannot pay back.
+A marketing budget should show what the team plans to do and what it will take to do it. Build monthly costs from people, programs, and tools, compare that with the company's targets, and make the assumptions visible before committing the spend.
 
-Headcount is the first line because it is the largest and because phantom annualized hires are how teams “afford” four people they will not have until November. Efficiency metrics are a **method prompt**, not this library’s SLA.
+![Plan the work; Price people and programs; Review spend against progress](../../assets/illustrations/budget-and-planning.svg)
 
-This is not a fundraising model, not tax advice, and not a copy of a paid calculator.
+*Reading guide: plan the work → price people and programs → review spend against progress.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a fundraising model, not tax advice, and not a copy of a paid calcul
 - You need the weekly forecast call. That is [forecasting](forecasting.md).
 - This is securities guidance or an investor model. Get qualified owners.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -35,19 +37,27 @@ This is not a fundraising model, not tax advice, and not a copy of a paid calcul
 | **Marketing share of CAC** | The split you will actually use—not a silent 100% marketing |
 | **Headcount by month** | People in seat that month × fully loaded cost. Not year × planned year-end FTE |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Budget and forecast iterate together; headcount is monthly.** If the bottom-up cannot hit the top-down without typing over conversion cells, you change the target, the spend mix, or efficiency—not the formula. Sample CAC ratios and payback bands from any essay, including sources cited below, are **not** your SLA.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: run top-down and bottom-up until they argue in the same room
+## How to do it
+
+<a id="step-1-run-top-down-and-bottom-up-until-they-argue-in-the-same-room"></a>
+
+### Step 1: Compare targets with a bottom-up plan
 
 Top-down without bottom-up is a number nobody can create. Bottom-up without top-down is a hobby. Put both on the table with [GTM planning](gtm-planning.md). If finance needs $X and the demand sheet says $Y, that is a conversation—not a cell you overwrite.
 
 You cannot finish budget without a forecast, or forecast without a budget. Iterate. Paid, programs, and events change what is possible; what is possible changes what you can spend on people; people change what you can run.
 
-### Step 2: pick efficiency diagnostics; split total CAC
+<a id="step-2-pick-efficiency-diagnostics-split-total-cac"></a>
+
+### Step 2: Choose appropriate cost measures
 
 Agree **inside the company** what CAC, payback, and LTV mean (new ARR vs bookings, gross margin, logo vs revenue churn). Then use them as a **range-finder** for a first budget—not as a law.
 
@@ -55,17 +65,23 @@ Always split **total CAC** into sales vs marketing. If you have no history, writ
 
 A budget as a percent of revenue is a weaker prompt; if leadership insists on one, write it as an extra check, not the engine.
 
-### Step 3: headcount by month, then the rest of the mix
+<a id="step-3-headcount-by-month-then-the-rest-of-the-mix"></a>
+
+### Step 3: Plan headcount and programs by month
 
 Fully loaded cost per marketer from finance—not salary. Count who is **in seat each month**, including people who start in April or November. Subtract that from the working budget. What remains is programs, paid, events, tools, agencies.
 
 Then reconcile: if leftover cannot fund the engines in the demand plan, cut scope, slip a hire, or change the revenue target. Do not keep the hire plan and the paid plan as if both were free. [Marketing org](marketing-org.md) decides **which** seats; this step decides **when they hit the P&L**.
 
-### Step 4: monthly targets, a one-page summary, track efficiency as you spend
+<a id="step-4-monthly-targets-a-one-page-summary-track-efficiency-as-you-spend"></a>
+
+### Step 4: Review spending against the plan
 
 Break the year into months. Put the summary next to the [GTM planning](gtm-planning.md) one-pager: revenue target, efficiency diagnostic you are steering to, headcount by month, remaining mix, constraint. Revisit when conversion or start dates slip—same rule as the demand sheet: **only change inputs**.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Not your rates. Not a benchmark.
 
@@ -94,7 +110,9 @@ Not your rates. Not a benchmark.
 
 Working file: [budget-and-planning.md](../../templates/budget-and-planning.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Strategy inputs and demand vs capacity exist; this page does not invent a motion.
 - [ ] Top-down and bottom-up are both on the table.

@@ -3,13 +3,13 @@ title: "ABM strategy"
 sidebarTitle: "ABM Strategy"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-A CRM view labeled “ABM” and a paid orchestration seat are not a program. [Account planning](account-planning.md) is the living file for **one** named account. This page is the **system**: which accounts get coordinated investment, at what tier, with what resources—and what we refuse to call ABM.
+Account-based marketing puts extra effort into a selected group of companies. Choose that group based on fit and the time your team can realistically spend, then agree with sales on what each account will receive and what progress looks like.
 
-**Account-driven GTM** is the foundation: the GTM TAM lives in the CRM as accounts and contacts, with signals, so inbound is one input—not the only front door. **ABM** is the high-touch slice of that universe. If every logo in the TAM is “in the ABM list,” you have outbound with extra slides. Do not stop content or brand because you discovered accounts. ITSMA-style account-based work still treats a small set as the market. The unit is **account progression**, not MQLs from a personalized PDF.
+![Choose the accounts; Match effort to value; Review account progress](../../assets/illustrations/abm-strategy.svg)
 
-This is not a Demandbase tutorial, not a 1:1 creative factory, and not a close process.
+*Reading guide: choose the accounts → match effort to value → review account progress.*
 
 ## Use this when
 
@@ -27,7 +27,9 @@ This is not a Demandbase tutorial, not a 1:1 creative factory, and not a close p
 - You want papering and procurement. Outside this taxonomy.
 - You want 1:1 creative on the entire GTM TAM. That is not ABM; map and signal the universe, then **cut** to capacity.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -39,13 +41,19 @@ This is not a Demandbase tutorial, not a 1:1 creative factory, and not a close p
 | **Account-driven** | TAM + ICP in the CRM, account **and** contact, signals. Broader than ABM. Not a reason to kill inbound |
 | **Signal** | A dated fact that changes this week’s action (fit, intent, engagement)—not a mood |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Tier first, then tactics.** If you cannot say how many T1 accounts you can actually staff this quarter, you do not have ABM. You have a logo mood board. One-to-one and one-to-few stay planned as deeper execution; they must not contradict this page.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 0: put the GTM TAM in the CRM before you pick a T1 list
+## How to do it
+
+<a id="step-0-put-the-gtm-tam-in-the-crm-before-you-pick-a-t1-list"></a>
+
+### Step 0: List the addressable accounts in the CRM
 
 [ICP](../01-strategy-and-buyers/icp.md) and [wedge](../01-strategy-and-buyers/wedge.md) define who belongs in the universe. Load those **accounts** (then contacts) into the CRM or warehouse. Write who is **not** TAM this year. Pitch-deck TAM for investors is not the operating list.
 
@@ -53,13 +61,17 @@ Then choose a few **signals** you will actually act on (fit change, intent, enga
 
 This is not “ABM everyone we could ever sell.” T3 stays 1:many. T1 stays scarce.
 
-### Step 1: write the capacity, then the list
+<a id="step-1-write-the-capacity-then-the-list"></a>
+
+### Step 1: Match the account list to team capacity
 
 Complete: *this quarter we can honestly run ____ T1 plans and ____ T2 clusters.* T1 is measured in **plans that get a weekly owner**, not in TAM rows. If sales headcount cannot cover the T1 list, cut the list. Do not hire a platform to hide the math.
 
 Fit still comes from [ICP](../01-strategy-and-buyers/icp.md). Intent and relationship can upgrade a name; they do not create a tier you cannot staff.
 
-### Step 2: define what each tier is allowed to spend
+<a id="step-2-define-what-each-tier-is-allowed-to-spend"></a>
+
+### Step 2: Set the service level for each tier
 
 | Tier | What it is | Default resources | Stop if |
 |---|---|---|---|
@@ -69,7 +81,9 @@ Fit still comes from [ICP](../01-strategy-and-buyers/icp.md). Intent and relatio
 
 Do not invent T4. Do not put T3 on a personalized microsite.
 
-### Step 3: pick plays from motions you already run
+<a id="step-3-pick-plays-from-motions-you-already-run"></a>
+
+### Step 3: Use approaches the team can already run
 
 ABM does not invent channels. It **concentrates** them:
 
@@ -80,15 +94,21 @@ ABM does not invent channels. It **concentrates** them:
 
 A “personalized ebook” that no champion would forward is not a play.
 
-### Step 4: measure accounts, not form-fills
+<a id="step-4-measure-accounts-not-form-fills"></a>
+
+### Step 4: Review progress at account level
 
 Scoreboard: T1/T2 accounts that **progressed** (new relevant seat, scoped meeting, stage move you would defend in [forecasting](../09-operations-pipeline-and-measurement/forecasting.md)). [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) still forbids one UTM to own the account. MQLs from an ABM landing page are capture theater unless the account was already on the list.
 
-### Step 5: review the list on a clock
+<a id="step-5-review-the-list-on-a-clock"></a>
+
+### Step 5: Revisit the list regularly
 
 Monthly: which T1 plan is stale, which T2 cluster never met, which T3 name is being treated like T1. Promote/demote in writing. ABM lists that only grow are a grave.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Six AEs. High ACV.
 
@@ -113,7 +133,9 @@ Sales-assist. Six AEs. High ACV.
 
 Working file: [abm-strategy.md](../../templates/abm-strategy.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] ICP and primary motion are written.
 - [ ] GTM TAM is in the CRM as accounts (and contacts), not only a TAM slide.

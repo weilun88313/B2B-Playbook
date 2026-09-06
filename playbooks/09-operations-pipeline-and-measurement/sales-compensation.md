@@ -3,15 +3,13 @@ title: "Sales compensation"
 sidebarTitle: "Sales Compensation"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-[Pricing](../02-product-marketing/pricing-and-packaging.md) is what the **buyer** pays. This page is what a **quota-carrying person** earns. Mixing the two is how teams “discount to win” and then wonder why nobody hits number.
+A sales compensation plan tells the team what the company values. Define the role, the revenue it gets credit for, and the relationship between quota and pay. Model several realistic outcomes and explain the rules before the plan takes effect.
 
-A sales compensation plan is a written contract with three clauses: **what you are paid to make happen**, **how we count it**, and **what happens if you miss or crush it**. It is not a bonus spreadsheet, a culture slide, or a copy of another company’s mix. If a competent seller cannot explain their plan in one minute, they will optimize whatever is easiest to game—or they will leave.
+![Define credit and quota; Model the payout; Explain the plan clearly](../../assets/illustrations/sales-compensation.svg)
 
-This is the first sales-ops-adjacent page in the library. It does not teach papering, procurement, or a multi-threaded close. Those stay outside the marketing taxonomy. It exists because a go-to-market number that nobody can credit, calculate, or pay is not a number. It is a wish.
-
-This page is not employment, tax, benefits, or wage-hour advice. Commission statutes, overtime, and plan language vary by place. Get qualified counsel before you put a plan in front of a hire.
+*Reading guide: define credit and quota → model the payout → explain the plan clearly.*
 
 ## Use this when
 
@@ -27,7 +25,9 @@ This page is not employment, tax, benefits, or wage-hour advice. Commission stat
 - You need a full incentive-compensation *product* shortlist. That is software selection, not this method. The test on this page is: can you credit, calculate, and pay on time? If the answer is no, **simplify the plan** before you buy a system.
 - Legal, works council, or a union must set pay. This page will not override that.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 Read this once. The rest of the page assumes these meanings.
 
@@ -50,11 +50,15 @@ Hunter means “paid to create new committed revenue.” Farmer means “paid to
 
 A pattern that keeps showing up in operator rooms: **more of the paycheck at risk tends to travel with higher average attainment—if territories are fair.** That is not a reason to starve base or to copy an enterprise mix onto four people. It is a reason not to pay full variable for doing 60% of the job. Check the book before you check the person.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 Do these in order. Skipping to a cute accelerator while crediting is undefined is how January becomes a war.
 
-### Step 1: name the role and the one job
+<a id="step-1-name-the-role-and-the-one-job"></a>
+
+### Step 1: Define the role and main responsibility
 
 Write one sentence: *this person is paid to ______ in ______ accounts, measured as ______.*
 
@@ -67,7 +71,9 @@ Examples of sentences that work:
 
 If you cannot finish the sentence, you are not ready for a mix. You are still designing the job. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) tells you whether this role should exist at all.
 
-### Step 2: pick the money you will credit
+<a id="step-2-pick-the-money-you-will-credit"></a>
+
+### Step 2: Define what revenue earns credit
 
 The credit metric is the unit that hits quota. Choose the one that matches **how you actually sell**, not the one that makes a dashboard pretty.
 
@@ -77,7 +83,9 @@ The credit metric is the unit that hits quota. Choose the one that matches **how
 
 Write when a deal **counts**: signed, booked in the system of record, invoiceable, or collected. “Verbal commit” is not a credit event. If you claw back on logo churn or never-collect, write the window on [incentive timing](incentive-timing.md)—not in a Q4 surprise.
 
-### Step 3: set OTE, then mix, then quota
+<a id="step-3-set-ote-then-mix-then-quota"></a>
+
+### Step 3: Set target pay, pay mix, and quota
 
 Work **backwards from a job people will take**, not forwards from a revenue wish.
 
@@ -87,7 +95,9 @@ Work **backwards from a job people will take**, not forwards from a revenue wish
 
 A useful sanity check: at 100% of quota, variable should pay 100% of the target variable. If hitting quota still feels like a lottery, the quota is wrong or the book is unbalanced.
 
-### Step 4: draw the curve—cheap below quota, steep above it
+<a id="step-4-draw-the-curvecheap-below-quota-steep-above-it"></a>
+
+### Step 4: Model the payout curve
 
 The curve is how attainment turns into dollars of variable.
 
@@ -98,7 +108,9 @@ The curve is how attainment turns into dollars of variable.
 
 Do not run eight kinks, SPIFFs stacked on SPIFFs, and a president’s club multiplier in year one. You will not be able to explain it, and you will not be able to pay it.
 
-### Step 5: split variable into few components
+<a id="step-5-split-variable-into-few-components"></a>
+
+### Step 5: Keep the variable components understandable
 
 Each component is a mini-plan: its own weight, its own quota or pool, its own curve if you must.
 
@@ -119,7 +131,9 @@ Teaching shape (invented numbers, not a benchmark):
 
 Kill a component that exists because a stakeholder wanted “visibility.” Visibility is a dashboard. Pay is a job.
 
-### Step 6: model the people before you announce the plan
+<a id="step-6-model-the-people-before-you-announce-the-plan"></a>
+
+### Step 6: Test realistic rep outcomes
 
 A new formula that has not been **replayed against last year’s book** is a speech.
 
@@ -129,7 +143,9 @@ You do **not** need a full model every year. Model when the metric, mix, curve, 
 
 While you model, look at **territory balance**. If three people have a book that can never hit 80% and two people inherit a river of inbound, the plan will look “unfair” no matter how pretty the accelerator is. Fix the books, or admit you are paying for assignment luck.
 
-### Step 7: decide whether you can actually pay it
+<a id="step-7-decide-whether-you-can-actually-pay-it"></a>
+
+### Step 7: Check affordability and administration
 
 A plan you cannot administer is not a plan. It is a lawsuit in slow motion.
 
@@ -143,7 +159,9 @@ Write, in one page:
 
 Then ask: can the current system (CRM + spreadsheet + payroll) produce a correct paycheck on the promised date? If the answer is “we will figure it out,” either **cut components** until a human can calculate it in an afternoon, or you need an ICM category tool. Buying software to rescue an eight-component plan is how you spend a year implementing last year’s politics.
 
-### Step 8: roll it out as a training program, not an email
+<a id="step-8-roll-it-out-as-a-training-program-not-an-email"></a>
+
+### Step 8: Explain the plan before it takes effect
 
 The plan fails in the first manager meeting, not in the PDF.
 
@@ -159,7 +177,9 @@ A sequence that holds:
 
 Do not launch a new plan on the morning of the kickoff without that chain. Surprise is not a change-management strategy.
 
-### Step 9: run a year-end change like a process, not a panic
+<a id="step-9-run-a-year-end-change-like-a-process-not-a-panic"></a>
+
+### Step 9: Plan changes before the next period
 
 When the year will change the plan, use lanes. Modeling is not required every cycle—only when the design moves.
 
@@ -172,7 +192,9 @@ When the year will change the plan, use lanes. Modeling is not required every cy
 
 Mid-year change is an exception with a named reason (acquisition, a broken metric, a legal requirement). “We missed Q2” is not a reason to rewrite variable in July. You will teach the team that the plan is optional.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Eight new-logo AEs. Subscription software. No hardware. Founder still closes a few named accounts outside the team.
 
@@ -223,7 +245,9 @@ Copy the empty fields below. Do not copy the dollars as a market benchmark.
 - Test deals used:
 - Distribute + acknowledge by:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The buyer-facing price is a separate decision; this plan does not “make up” discounting.
 - [ ] Each quota-carrying role has a one-sentence job and a credit metric that matches it.

@@ -3,9 +3,13 @@ title: "MarTech governance"
 sidebarTitle: "Martech Governance"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Buying a logo because a community scorecard ranked it is not governance. **Governance is: which job this tool is allowed to do, who owns it, what it may write into the [CRM](crm-data-model.md), and when you will remove it.** A newer SKU is not automatically the stack. [TOOLS.md](../../TOOLS.md) is a shortlist of products. This page is how you run a bake-off without importing someone else’s satisfaction scores.
+Software decisions are easier when you start with the job, the users, and the constraints. Test a product on real work, talk to relevant customers, and include the cost of setup and maintenance. Give every tool an owner and a date to review whether it is still useful.
+
+![Define the job and constraints; Test on real work; Choose an owner and review date](../../assets/illustrations/martech-governance.svg)
+
+*Reading guide: define the job and constraints → test on real work → choose an owner and review date.*
 
 ## Use this when
 
@@ -20,7 +24,9 @@ Buying a logo because a community scorecard ranked it is not governance. **Gover
 - You need software names for a job. Start in [TOOLS.md](../../TOOLS.md), then come back here to evaluate.
 - Procurement, security, or privacy review must be done by qualified owners. This page will not sign a DPA.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -30,33 +36,49 @@ Buying a logo because a community scorecard ranked it is not governance. **Gover
 | **Pricing model** | Per seat, platform + seat, implementation fee—not a screenshot of list price |
 | **Time to implement** | Range from “usable” to “the team actually lives in it,” not the sales cycle |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Split the jobs before you split the vendors.** Cadence / engagement, conversation intelligence / coaching, and pipeline / forecast are often sold as one suite and fail as one suite. If two-way CRM sync is not in the contract of requirements, you will re-key forever.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the jobs, not the category slogan
+## How to do it
+
+<a id="step-1-write-the-jobs-not-the-category-slogan"></a>
+
+### Step 1: Define the jobs the tool must do
 
 Complete: *we are buying a tool so that ____ can ____ every ____, writing ____ into the CRM.* If you cannot finish that sentence, you are shopping. [Outbound](../05-outbound-and-prospecting/multichannel-sequence.md) needs a sequence home. [Forecasting](forecasting.md) needs a source of truth—often the CRM, sometimes an overlay. Conversation intelligence is coaching and inspection, not a second forecast.
 
-### Step 2: interview recent buyers—or refuse the score
+<a id="step-2-interview-recent-buyersor-refuse-the-score"></a>
+
+### Step 2: Talk to relevant customers
 
 A published grid of “overall satisfaction” is **their** interviews, **their** year, **their** segments. Use it only as a **prompt for questions**, never as your score. Ask: win reasons, what is still weak, who they also evaluated, pricing shape, implementation calendar, CRM (and whether sync is two-way). Write **your** answers in the working file.
 
-### Step 3: put opportunity areas on the same page as wins
+<a id="step-3-put-opportunity-areas-on-the-same-page-as-wins"></a>
+
+### Step 3: Record limitations alongside strengths
 
 Recurring failure modes in this category of tools (from buyer-shaped grids, not as our benchmarks): CRM sync that is one-way or brittle; conversation intelligence that does not match the category leader the buyer compared; support that collapses across time zones or during implementation; forecast that cannot hold large, slow deals; pricing that only looks cheap per seat. Treat these as **test cases**, not as a ranking of named vendors.
 
-### Step 4: capture commercial shape without stealing a median
+<a id="step-4-capture-commercial-shape-without-stealing-a-median"></a>
+
+### Step 4: Understand the full cost
 
 Pricing model, discount logic (seats vs term), implementation as a line item, and a **range** for time-to-live-in-the-tool. Do not copy a community PDF’s median ACV into your model. Quote **your** seats and **your** legal. AI and usage pricing change the bill; treat software as a **portfolio with a kill date**, not a growing stack of seats. A vendor-spend benchmark landing page is a prompt for those questions—not your budget ([Stackpack 2026 spend report](https://www.stackpack.ai/2026-Vendor-Spend-Benchmarks-Report?ref=b2b-playbook) is gated; we did not import its tables).
 
-### Step 5: decide, then assign an owner and a kill date
+<a id="step-5-decide-then-assign-an-owner-and-a-kill-date"></a>
+
+### Step 5: Assign an owner and review date
 
 One owner. Fields it may write (from the [CRM map](crm-data-model.md)). A date you will review usage and sync errors. If the bake-off winner cannot do two-way sync on required fields, that is a no—not a “phase two.”
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Outbound-assist, ~12 sellers. CRM is the forecast source of truth. Not a vendor ranking.
 
@@ -82,7 +104,9 @@ Outbound-assist, ~12 sellers. CRM is the forecast source of truth. Not a vendor 
 
 Working file: [vendor-evaluation.xlsx](../../templates/vendor-evaluation.xlsx). Shortlist of products: [TOOLS.md](../../TOOLS.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Jobs are split; a suite is a choice, not a default.
 - [ ] CRM map exists for every field the tool will touch.

@@ -1,141 +1,86 @@
----
-title: "B2B Playbook（中文）"
-sidebarTitle: "中文"
----
+# B2B Playbook · 中文简介
 
-English is the canonical entrance: [README.md](README.md). This file is a Chinese mirror of that page only.
+一份持续更新的 B2B 营销知识库：从找到客户、讲清产品，到搭建能不断改进的营销团队。
 
-> 一个实用的 B2B 营销操作知识库，用于做出更好的市场进入决策，并将决策转化为可观察的工作。
+**[在 Mintlify 阅读完整内容](https://b2-b-playbook.mintlify.app)** · [English](README.md) · [浏览全部指南](playbooks/)
 
 **当前覆盖：** 77 篇已发布 Playbook · 56 份工作文件 · 43 个精选工具 · 20 个阅读源 · 9 个领域指南
 
 **最后核验：** 2026-09-06
 
-**阅读入口：** [b2-b-playbook.mintlify.app](https://b2-b-playbook.mintlify.app) · [English](README.md)
+## 先解决手头的问题
 
-**先用 10 分钟拿到一个结果：** 定义 [ICP](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)、起草一封 [Cold Email](playbooks/05-outbound-and-prospecting/cold-email.md)，或选择一个 [AI-native 工具](TOOLS.md)。再看 [3 个已核对来源的企业案例](use-cases/index.md)。
+| 你想解决什么 | 从这里开始 |
+|---|---|
+| 第一批客户应该找谁？ | [理想客户画像：10 分钟小练习](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) |
+| 怎么讲清楚客户为什么要选我们？ | [产品定位](playbooks/02-product-marketing/positioning.md) |
+| 第一封陌生开发邮件怎么写？ | [Cold email](playbooks/05-outbound-and-prospecting/cold-email.md) |
+| 这个活动值得参加吗？ | [活动营销](playbooks/06-account-field-and-partner/event-marketing.md) |
+| 创始人在 LinkedIn 上该发什么？ | [创始人故事](playbooks/03-brand-story-and-content/founder-story.md) → [LinkedIn 内容](playbooks/04-channels-and-distribution/linkedin-organic.md) |
+| 哪些营销工作真正带来了客户？ | [效果衡量](playbooks/09-operations-pipeline-and-measurement/measurement-model.md) |
 
-如果某一页帮助你做出了决策，欢迎 **Star 收藏这个仓库**，也让其他从业者更容易发现它。分享时可以直接发对你有帮助的那一页。
+## 这里有什么
 
-本页和英文 [README.md](README.md) 是 GitHub 上的入口说明。完整阅读走站点。
+| 内容板块 | 可以找到什么 |
+|---|---|
+| [营销指南](playbooks/) | 具体做法、示例、检查清单、指标和延伸阅读 |
+| [工作文件](TEMPLATES.md) | 56 份任务简报、评分表、工作表和计划文件，可以复制后私下使用 |
+| [软件工具](TOOLS.md) | 14 个类别、43 个现代产品，说明适用场景和局限 |
+| [企业案例](use-cases/index.md) | PostHog、Buffer、Zapier 的 3 个具体案例，附一手来源和日期 |
+| [阅读来源](RESOURCES.md) | 20 个值得了解的 Newsletter、出版物和从业者 |
+| [智能体 Skill](#智能体-skill) | 让 Claude、Codex 等智能体使用同一套指南 |
 
-### 这是什么
+## 按一条路线读
 
-面向 B2B 市场营销、创始人、营收团队和智能体的公开知识库。九个能力域管长期决策；每篇已发布战术都是可执行页。在 GitHub 上查具体动作请走 [总索引](playbooks/)。根目录 [README.md](README.md) 是英文入口；本页只镜像入口和覆盖数，不是第二份目录。
+不必从头读到尾。选一条和当前工作有关的路线，也可以直接查某一篇。
 
-它主要回答这类问题：
+- **找到第一批客户：** [发现问题](playbooks/01-strategy-and-buyers/idea-discovery.md) → [验证需求](playbooks/01-strategy-and-buyers/idea-validation.md) → [确定客户画像](playbooks/01-strategy-and-buyers/icp.md) → [拿到前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)。
+- **把产品讲清楚：** [定位](playbooks/02-product-marketing/positioning.md) → [信息表达](playbooks/02-product-marketing/messaging.md) → [网站首页](playbooks/07-website-and-conversion/homepage.md) → [产品演示](playbooks/02-product-marketing/demo.md)。
+- **制定可重复执行的计划：** [渠道选择](playbooks/04-channels-and-distribution/channel-strategy.md) → [内容策略](playbooks/03-brand-story-and-content/content-strategy.md) → [市场进入计划](playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) → [效果衡量](playbooks/09-operations-pipeline-and-measurement/measurement-model.md)。
 
-- 这个想法是真痛吗，先卖给谁？
-- 市场该相信什么，哪条动作真正制造客户？
-- 网站、外联句子、付费投放各该干什么——我们怎么知道有效？
-- 成交之后这本书怎么管，那个数字是不是真的？
+## 九个章节
 
-每篇战术自己的操作问题在 [总索引](playbooks/) 里。新页面上线时，不要再往这里加一条。
+| 章节 | 主要内容 |
+|---|---|
+| [01 · 战略与客户](playbooks/01-strategy-and-buyers/) | 想法、客户画像、购买决策参与者、第一批客户、产品市场契合 |
+| [02 · 产品营销](playbooks/02-product-marketing/) | 定位、表达、定价、发布、产品演示 |
+| [03 · 品牌、故事与内容](playbooks/03-brand-story-and-content/) | 内容策略、创始人故事、客户案例、白皮书 |
+| [04 · 渠道与分发](playbooks/04-channels-and-distribution/) | LinkedIn、搜索与 AI 搜索、社群、创作者、付费广告 |
+| [05 · 主动外联与潜在客户](playbooks/05-outbound-and-prospecting/) | 客户研究、购买信号、陌生邮件、陌生电话、跨渠道跟进 |
+| [06 · 大客户、活动与合作伙伴](playbooks/06-account-field-and-partner/) | ABM、客户计划、活动、展会、晚宴、伙伴合作 |
+| [07 · 网站与转化](playbooks/07-website-and-conversion/) | 首页、对比页、定价页、落地页、表单 |
+| [08 · 客户生命周期](playbooks/08-lifecycle-and-customer-marketing/) | 上手、培育、客户成功、续约、增购 |
+| [09 · 运营、销售管道与衡量](playbooks/09-operations-pipeline-and-measurement/) | 计划、预算、CRM、效果衡量、AI 工作流、团队日常协作 |
 
-### 像一本书那样读
+## 智能体 Skill
 
-按顺序读。顺着每页的 **What to read next**。只有那一章的决策已经写下来了，才跳章。
-
-1. [想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md)
-2. [想法验证](playbooks/01-strategy-and-buyers/idea-validation.md)
-3. [理想客户画像](playbooks/01-strategy-and-buyers/icp.md)
-4. [楔子](playbooks/01-strategy-and-buyers/wedge.md)
-5. [购买委员会](playbooks/01-strategy-and-buyers/buying-committee.md)
-6. [前十个客户](playbooks/01-strategy-and-buyers/first-ten-customers.md)
-7. [产品市场契合](playbooks/01-strategy-and-buyers/product-market-fit.md)
-8. [四重契合](playbooks/01-strategy-and-buyers/four-fits.md)
-9. [定位](playbooks/02-product-marketing/positioning.md)
-10. [销售赋能](playbooks/02-product-marketing/sales-enablement.md)
-11. [定价与包装](playbooks/02-product-marketing/pricing-and-packaging.md)
-12. [内容策略](playbooks/03-brand-story-and-content/content-strategy.md)
-13. [渠道策略](playbooks/04-channels-and-distribution/channel-strategy.md)
-14. 然后只做你点名的那条：[外联](playbooks/05-outbound-and-prospecting/)、[活动](playbooks/06-account-field-and-partner/event-marketing.md) / [展会](playbooks/06-account-field-and-partner/trade-shows.md)，或 [生态](playbooks/06-account-field-and-partner/ecosystem.md)
-
-定位之后，网站扫描从 [首页](playbooks/07-website-and-conversion/homepage.md) 开始。发布或买来的东西用两套计分板：[衡量模型](playbooks/09-operations-pipeline-and-measurement/measurement-model.md)。只有十分钟、还没有想法：[想法发现](playbooks/01-strategy-and-buyers/idea-discovery.md)。已经知道给谁做：[ICP 十分钟测试](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)。两边都没有就写冷邮件，是团队一直很忙的原因。
-
-### 从一个决策开始
-
-| 内容入口 | 用来解决什么 | 从这里开始 |
-|---|---|---|
-| **Playbooks** | 查找能力、渠道或战术 | [总索引](playbooks/) |
-| **工作文件** | 打开表格、记分表或 90 天大纲 | [56 份工作文件](TEMPLATES.md) |
-| **工具** | 为明确任务选软件 | [43 个产品](TOOLS.md) |
-| **阅读源** | 跟运营者，不把信息流当战略 | [20 个来源](RESOURCES.md) |
-| **Agent Skill** | 把任务路由到正确方法 | [安装](#智能体-skill) |
-| **企业案例** | 具名公司、一个动作、带日期的一手来源 | [3 个已核对来源的案例](use-cases/index.md) |
-
-### 领域
-
-两层：**能力域**管长期决策，**战术页**执行一个动作。九个域都有指南，且都至少有一篇已发布战术。完整地图在各域 README。
-
-| 编号 | 能力域 | 决策 | 已发布 |
-|---|---|---|---|
-| 01 | [战略与买家](playbooks/01-strategy-and-buyers/) | 在哪里竞争，谁来买 | 8 |
-| 02 | [产品营销](playbooks/02-product-marketing/) | 市场该理解并购买什么 | 8 |
-| 03 | [品牌、故事与内容](playbooks/03-brand-story-and-content/) | 进采购期前记住什么 | 4 |
-| 04 | [渠道与分发](playbooks/04-channels-and-distribution/) | 市场在哪里反复碰到你 | 9 |
-| 05 | [主动外联与潜客](playbooks/05-outbound-and-prospecting/) | 如何发起未被请求的对话 | 9 |
-| 06 | [大客户、线下与伙伴](playbooks/06-account-field-and-partner/) | 如何围着具名账户协同 | 6 |
-| 07 | [网站与转化](playbooks/07-website-and-conversion/) | 自有页面如何帮买家走下一步 | 6 |
-| 08 | [生命周期与客户](playbooks/08-lifecycle-and-customer-marketing/) | 兴趣或成交之后如何教育、留存、扩展 | 9 |
-| 09 | [运营、Pipeline 与衡量](playbooks/09-operations-pipeline-and-measurement/) | 数据和流程如何让系统可重复 | 18 |
-
-企业成交流程（合同、采购、多线程谈判）不在这套分类里。营销必须共享的配额、预测和成交后运营放在 06、08、09。若以后单独做销售运营，会另开顶层。
-
-### 每篇已发布 Playbook 包含什么
-
-1. 一个从业者可以争论的判断
-2. 何时用、何时不用
-3. 操作方法，至少有一个可对照的模式
-4. 可复制模板；工作是表格或 90 天大纲时另有 [工作文件](TEMPLATES.md)
-5. 起飞前清单、该看和不该看的指标、常见错误
-6. 来源、证据边界、核验日期，以及 **What to read next**
-
-不发布空占位，也不把匿名「案例」当成事实。Playbook 正文里的具名公司是带日期来源的**示例**。[企业案例专栏](use-cases/index.md) 单独记录企业报告的动作、结果和证据边界；核对来源不等于独立审计企业业绩。
-
-### 工具、阅读源与 Skill
-
-[TOOLS.md](TOOLS.md) — 43 个产品、14 个任务。每个产品一个主任务。新不等于更好。Lensmor 由 Ivan Xu 维护，条目中已披露。
-
-[RESOURCES.md](RESOURCES.md) — Newsletter 与运营者，A/B/C 分级，并标明免费 / 免费+付费层 / 付费。信息流不能代替 Playbook。
-
-### 智能体 Skill
+安装命令：
 
 ```bash
 npx skills add weilun88313/B2B-Playbook
 ```
 
+可以这样给它任务：
+
 ```text
-使用 $b2b-playbook 评估这 5 个目标账户。
-输出 ICP、购买委员会地图、T1/T2/T3 分级，
-以及每个账户的下一步行动。标记未知信息，不要编造事实。
+使用 $b2b-playbook 评估这五个目标客户。
+说明哪些适合我们、还有什么不知道，
+以及每个客户下一步可以做什么。
 ```
 
-Skill 只负责路由，不发信、不补全联系人、不改 CRM。
+Skill 提供方法，不会自动发消息或修改 CRM。[查看完整规则](SKILL.md)。
 
-第三方链接保留原有参数，并在锚点前加上 `ref=b2b-playbook`。这是来源标记，不是 Affiliate。
+## 关于这个知识库
 
-### 证据、语言与维护
+我是 Ivan Xu，Lensmor 是我自己的产品。我维护这个知识库，希望帮助创始人和 B2B 营销团队解决具体工作中的问题。
 
-| 状态 | 含义 |
-|---|---|
-| **事实** | 可核验的带日期记录或引语 |
-| **观察** | 有限样本里的模式 |
-| **假设** | 未验证、但会改变下一步的判断 |
-| **待验证** | 一个问题，加上能关掉它的测试 |
+- 内容以英文为主。本页是独立的中文简介，与英文入口同步更新。
+- 完整内容建议在 [Mintlify](https://b2-b-playbook.mintlify.app) 阅读。GitHub 保存源文件和修改历史。
+- 演示用的虚构示例会明确标注。企业案例附带日期和一手来源，但企业报告的结果不等于经过独立审计。
+- 工具推荐不收取上榜费。Lensmor 是我的产品，条目中已披露。
+- 外链的 `ref=b2b-playbook` 用于标明流量来源，不是返佣代码。
+- 写好的文章会陆续发布；计划中的主题不会放空白页面。
 
-每个工作周期以一个决策和下一个测试结束。
+你可以复制模板，私下用于自己的工作。转载内容需要获得许可，详见[版权与使用说明](LICENSE)。
 
-- Playbook、工具、Skill 和根目录 [README.md](README.md) 的正文只维护英文。中文只在本页，完整同步入口和覆盖数。
-- 结构或覆盖变化时，中英文必须同一次提交更新。
-- 读者走 [Mintlify 站点](https://b2-b-playbook.mintlify.app)。Mintlify 不发布 `README.md`，站点上的领域指南是 `index.md`（工作文件说明是 `templates/overview.md`）。地图变更时，GitHub README 和站点副本同一次提交更新。
-- Ivan Xu（`weilun88313`）用同一套口径维护。知识库一次只完整发布一篇战术。
-- 已验证案例必须有企业名、一手来源和日期。
-
-内容是行动起点，不是结果保证或法律意见。如果它对你的真实工作有用，欢迎点 Star，让更多人发现。
-
-### 版权与使用
-
-版权所有 © 2026 Ivan Xu，保留全部权利。允许阅读、分享链接，以及在注明作者和正版来源的前提下少量引用；转载、翻译、镜像、大段复制、商业使用，以及用于对外分发的数据集、知识库、RAG 或模型训练，须事先书面许可。完整规则见 [LICENSE](LICENSE)。
-
-唯一正版来源：[github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)
+如果某一页对你有帮助，欢迎 **Star 收藏**，也可以把那一页分享给正在解决类似问题的人。

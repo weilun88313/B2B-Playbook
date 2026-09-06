@@ -3,9 +3,13 @@ title: "Event marketing"
 sidebarTitle: "Event Marketing"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Event marketing uses owned, sponsored, partner, and industry events to create access, memory, evidence, and qualified next actions. The format follows the objective; a booth is not the strategy.
+An event is worth considering when the people you need to meet will be there and you have a useful reason to meet them. Decide whether to host, attend, sponsor, or skip before choosing a format. Plan the follow-up before the event starts.
+
+![Choose the right event; Arrange useful meetings; Follow up on agreements](../../assets/illustrations/event-marketing.svg)
+
+*Reading guide: choose the right event → arrange useful meetings → follow up on agreements.*
 
 ## Use this when
 
@@ -31,7 +35,7 @@ Score each criterion from 0 to 2.
 | Pre-booking potential | No paths | Limited paths | Several direct, partner, or warm paths | |
 | Cost and capacity | Disproportionate | Manageable with limits | Strong fit with available capacity | |
 
-Default interpretation:
+Suggested starting thresholds. This is a planning aid, not a validated prediction of event ROI:
 
 - **8–10:** attend or sponsor with an account plan.
 - **5–7:** attend narrowly; avoid a large commitment until evidence improves.
@@ -39,7 +43,9 @@ Default interpretation:
 
 A high score does not justify a booth by itself. Separate the event decision from the format decision.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: define the event decision
 
@@ -87,7 +93,7 @@ Follow-up should restate the buyer's words, the agreed next step, the owner, and
 
 ### How a filled event brief reads
 
-Teaching fill: a 400-person industry dinner, not a booth. Decision: **attend** because four T1 accounts already accepted a 20-minute slot. Score: access to named seats, not foot traffic. Skip if those meetings cannot be booked beforehand.
+Illustrative example: a 400-person industry dinner, not a booth. Decision: **attend** because four T1 accounts already accepted a 20-minute slot. Score: access to named seats, not foot traffic. Skip if those meetings cannot be booked beforehand.
 
 ### Event brief
 

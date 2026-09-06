@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Slide 1 — Title; Slide 2 — The three windows; Slide 3 — Days 1–30](../assets/illustrations/worksheet-cs-leadership-90.svg)
+
 ## Slide 1 — Title
 
 - Role (CCO / VP CS / first CS leader / other):

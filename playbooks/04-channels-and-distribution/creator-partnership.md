@@ -3,11 +3,13 @@ title: "Creator partnership"
 sidebarTitle: "Creator Partnership"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[RESOURCES.md](../../RESOURCES.md) is who a practitioner may **read**. This page is who you may **work with**: a newsletter, podcast, or operator whose audience is actually your ICP, and a piece you **co-create** around a real operating problem—not a sponsored paragraph at the bottom of someone else’s recap.
+A creator partnership works when the audience, the topic, and your contribution fit together. Find someone your buyers already learn from and make something useful with them. Agree on the deliverable, sponsorship disclosure, distribution, and how you will evaluate it.
 
-[Ecosystem](../06-account-field-and-partner/ecosystem.md) still requires win-win-win. [Peer community](community.md) is the room. This is the **named voice**.
+![The creator's audience; Your useful contribution; A shared piece of work](../../assets/illustrations/creator-partnership.svg)
+
+*Reading guide: the creator's audience · your useful contribution · a shared piece of work.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ sidebarTitle: "Creator Partnership"
 - Follower count is the selection reason and composition is unknown.
 - Legal must clear endorsement, data rights, or paid-promotion labels. Qualified owners; this page will not.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,21 +37,31 @@ sidebarTitle: "Creator Partnership"
 | **Unique cut** | A dated slice only you can source (your book, your events, your sample)—labeled, checkable. |
 | **Placement** | A paid mention with no shared work. Last resort. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Partner on an artifact the reader can use without you.** If the piece dies when the product name is removed, it is an ad. Prefer a benchmark, a research cut, or a “what changed before this event” note over a quote. A grade-A newsletter in [RESOURCES.md](../../RESOURCES.md) is not automatically a partner.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: score overlap, not fame
+## How to do it
+
+<a id="step-1-score-overlap-not-fame"></a>
+
+### Step 1: Check audience fit
 
 Write the seat, the job, and why *this* audience already cares. Ask for a composition sample (titles, company size, geo)—or refuse the deal. High fame and low overlap is a brand tax.
 
-### Step 2: name the operating problem they already cover
+<a id="step-2-name-the-operating-problem-they-already-cover"></a>
+
+### Step 2: Choose a problem their readers care about
 
 Steal the question from their last ten issues or episodes, the way [content strategy](../03-brand-story-and-content/content-strategy.md) steals from live deals. If you cannot point to a dated piece of theirs on that job, you are pitching a stranger.
 
-### Step 3: bring a unique cut—or do not book
+<a id="step-3-bring-a-unique-cutor-do-not-book"></a>
+
+### Step 3: Bring something useful to the collaboration
 
 The creator has voice. You need a fact they cannot invent: a method, a working file, or a **labeled dataset**.
 
@@ -55,17 +69,23 @@ Teaching pattern (not a product requirement): if you uniquely see pre-show accou
 
 Lensmor is built and maintained by Ivan Xu, the owner of this repository. If that event graph is the cut, disclose the relationship in the piece the same way [TOOLS.md](../../TOOLS.md) discloses it. Any other unique book (your win/loss, your CS workspace, your sample) follows the same rule: source, date, limitation, no invented rows.
 
-### Step 4: write the three wins and the label
+<a id="step-4-write-the-three-wins-and-the-label"></a>
+
+### Step 4: Agree on benefits and disclosure
 
 > We get ___. They get ___. The reader gets ___.
 
 If the third blank is “awareness of our launch,” stop. Paid placements must say they are paid. Unpublished customer facts stay unpublished.
 
-### Step 5: one piece, one amplification path, a stop rule
+<a id="step-5-one-piece-one-amplification-path-a-stop-rule"></a>
+
+### Step 5: Plan one piece and its distribution
 
 They publish. You amplify on channels you already run—see [ecosystem](../06-account-field-and-partner/ecosystem.md). You do not stand up a creator program of twelve names. Day-90 test: a champion forwarded it, or a qualified conversation named the piece. Otherwise you bought a mention.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 A weekly ops newsletter. Readers are heads of customer ops. We do not buy the Friday slot. We co-write a two-page cut: “what buying seats show up in the exhibitor graph 30 days before [named show type]”—method, sample limits, no account names. Host owns the narrative; we own the dated table.
 
@@ -92,7 +112,9 @@ A weekly ops newsletter. Readers are heads of customer ops. We do not buy the Fr
 
 Working file: [creator-partnership.md](../../templates/creator-partnership.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Overlap is evidenced, not assumed from fame.
 - [ ] The problem already appears in their archive.

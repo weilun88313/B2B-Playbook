@@ -3,17 +3,13 @@ title: "Channel strategy"
 sidebarTitle: "Channel Strategy"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-The temptation after a few customers is to become a full go-to-market department overnight: a blog, ads, partners, outbound, a self-serve signup, a conference booth. Famous companies used all of those **at some point**. They did not run all of them in the same quarter while still looking for the first repeatable motion.
+You cannot give every channel the same attention, especially with a small team. Start by looking at how your best customers already find and buy from you. Put most of your effort there, then test one additional channel with a clear budget and review date.
 
-Channel strategy is the decision of **which growth motion is primary**, and which one new channel is worth exploring next.
+![Where customers come from; What the team can run; Which channel to test](../../assets/illustrations/channel-strategy.svg)
 
-For B2B companies that later became well known, most scaled growth came from one of three motions: self-serve organic inbound, sales-assist organic inbound, or outbound sales. Content, paid ads, and partnerships can matter. They are usually amplifiers or later engines—not a substitute for naming the primary motion.
-
-Word of mouth sitting under inbound is usually a **symptom of [product-market fit](../01-strategy-and-buyers/product-market-fit.md)**, not a channel you can buy. If organic inbound is absent, ads will not invent it.
-
-This page chooses the motion. Execution lives in the linked playbooks. Expansion revenue from existing customers is owned by [lifecycle](../08-lifecycle-and-customer-marketing/); it is a real lever and is not covered here.
+*Reading guide: where customers come from → what the team can run → which channel to test.*
 
 ## Use this when
 
@@ -30,9 +26,13 @@ This page chooses the motion. Execution lives in the linked playbooks. Expansion
 - There is no working product a buyer can try or buy. Channel mix will not create pull.
 - The request is a seven-channel GTM deck for a board meeting.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name the primary motion from how customers already arrive
+## How to do it
+
+<a id="step-1-name-the-primary-motion-from-how-customers-already-arrive"></a>
+
+### Step 1: Start with how customers already arrive
 
 Pick **one** primary. Use what is already happening, not the motion that sounds modern.
 
@@ -52,19 +52,25 @@ Named illustrations from that 2023 interview set (how *they* arrived, not a menu
 - **Sales-assist inbound:** demand shows up; a seller still walks evaluation. **Databricks** tried a more zero-touch console path and watched revenue flatten until sales was back in the motion.
 - **Outbound:** the team creates the conversation because the buyer will not raise a hand. Do not borrow another company’s later mix until your last 20 wins name *your* primary.
 
-### Step 2: do not force product-led growth
+<a id="step-2-do-not-force-product-led-growth"></a>
+
+### Step 2: Check whether self-service fits your product
 
 Self-serve is a product and activation fact, not a values statement. If a new user cannot swipe a card and get value quickly, turning off sales to “be PLG” can stall revenue. The Databricks episode above is that failure mode. Enterprise deals that need a champion, security review, and a committee are sales-assist or outbound until proven otherwise.
 
 Expect to build a sales team eventually. The question is when, not whether.
 
-### Step 3: name 1–3 marketing advantages before you pick a secondary
+<a id="step-3-name-13-marketing-advantages-before-you-pick-a-secondary"></a>
+
+### Step 3: Identify the team's existing advantages
 
 A secondary channel is how you **accelerate something that is already true**, not a menu item you add because a famous company used it. Write one to three advantages you actually have. Typical shapes: **product** (virality, a free plan that unlocks value, a wedge you will reuse), **ecosystem** (integrations, channel partners, a regulation or trend that creates urgency), **brand-story** (a founder who already has the room, a category you can own, an underserved community). If you cannot name one, do not invent a partner program or a category-creation campaign to look strategic.
 
 Do not treat the list as a checklist. One real advantage beats nine borrowed ones.
 
-### Step 4: spend most of the time on the primary; add **one** secondary from the engine menu
+<a id="step-4-spend-most-of-the-time-on-the-primary-add-one-secondary-from-the-engine-menu"></a>
+
+### Step 4: Keep one main channel and test one more
 
 After the primary motion is named, treat everything else as a **growth-engine menu**, not a department org chart. The six engines are inbound, outbound, product virality, events, ecosystem, and lifecycle. Lifecycle is owned by [lifecycle](../08-lifecycle-and-customer-marketing/); do not stand it up here as a seventh “channel.” Product virality is a product fact—if you do not have it, you do not have that engine.
 
@@ -96,13 +102,17 @@ Treat the remaining tactics as a menu, not a checklist:
 
 A useful rule: you are probably already living in one of the three primaries. Ask which **one** remaining engine is a real opportunity—then give it an owner, a status, a 90-day test, and a stop rule. Content that cannot scale beyond heroic founder posts is a turbo boost, not an engine.
 
-### Step 5: match the site door to the motion
+<a id="step-5-match-the-site-door-to-the-motion"></a>
+
+### Step 5: Match the website to the buying process
 
 - Self-serve: signup, activation, and a credit-card or equivalent path. The scan still starts on the [homepage](../07-website-and-conversion/homepage.md).
 - Sales-assist: a decision-specific demo or conversation request, not a fake self-serve that dumps every visitor into a form.
 - Outbound: the site still has to pass the [homepage 10-second test](../02-product-marketing/positioning.md); it is not the acquisition engine.
 
-### Step 6: treat time-to-revenue as a pace check, not a scoreboard
+<a id="step-6-treat-time-to-revenue-as-a-pace-check-not-a-scoreboard"></a>
+
+### Step 6: Account for the time it takes to earn revenue
 
 In one interview set of later-successful B2B companies, median time from founding to about $1M ARR was roughly two years, and about **1.5 years after the first customer**. Some were faster; some delayed monetization on purpose (for example to become a default tool inside companies). Large ACV and small ACV did not produce a clean split in that sample.
 
@@ -112,7 +122,7 @@ Use the 1.5-year-after-first-customer line as a **worry trigger** if you want to
 
 ### How a filled motion one-pager reads
 
-Teaching fill: last 20 wins were demos booked from inbound and referrals; nobody activated alone. Primary = **sales-assist inbound**. Advantage = founder already has the ops-lead room (brand-story), not a partner motion we wish we had. Secondary this quarter = one [content](../03-brand-story-and-content/content-strategy.md) comparison page (inbound engine, **testing**), not ads. Site door = request a scoped conversation. Stop rule for content: if sales has not pasted the URL into an evaluation thread in 90 days, pause publishing.
+Illustrative example: last 20 wins were demos booked from inbound and referrals; nobody activated alone. Primary = **sales-assist inbound**. Advantage = founder already has the ops-lead room (brand-story), not a partner motion we wish we had. Secondary this quarter = one [content](../03-brand-story-and-content/content-strategy.md) comparison page (inbound engine, **testing**), not ads. Site door = request a scoped conversation. Stop rule for content: if sales has not pasted the URL into an evaluation thread in 90 days, pause publishing.
 
 Copy:
 
@@ -139,7 +149,9 @@ Copy:
 4. Business test (day 90):
 5. Decision: keep as engine / keep as turbo / stop.
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Exactly one primary motion is written.
 - [ ] The last 10–20 customers’ true source is listed (not the CRM default).

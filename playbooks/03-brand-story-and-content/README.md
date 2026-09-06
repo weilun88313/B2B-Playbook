@@ -1,62 +1,46 @@
 # 03 · Brand, story & content
 
-> **Decision owned:** How should future buyers remember, trust, and learn from the company before they are in market?
+Choose the questions worth answering and the stories you can genuinely tell. This chapter covers content planning, founder stories, customer case studies, and longer, sourced arguments.
 
 **Status:** Domain guide published · 4 tactic playbooks published
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-06
 
-## Scope
+![Listen to buyer questions; Write from real experience; Build useful evidence](../../assets/illustrations/03-brand-story-and-content.svg)
 
-This domain builds the ideas, narratives, proof, and educational assets that create memory and trust over time. It connects brand strategy with an editorial system so content is more than a calendar of disconnected posts.
+## Start here
 
-It owns brand narrative, founder story, thought leadership, editorial strategy, long-form and multimedia assets, case-study storytelling, newsletters, webinars, and practitioner communities built around a shared problem. It does not own channel distribution—that belongs to [Channels & distribution](../04-channels-and-distribution/)—or customer-only education and advocacy after purchase.
-
-## Core decisions
-
-1. What should the company be remembered for before a buyer is ready to buy?
-2. Which beliefs, problems, and category ideas deserve repeated investment?
-3. What is the credible role of the founder, executives, experts, and customers in the story?
-4. Which audience questions require a reusable asset rather than another short post?
-5. What evidence, examples, and editorial standards make the content trustworthy?
-6. Which formats fit the idea, audience, production capability, and reuse plan?
-7. How will one core idea become a coherent body of work rather than content volume?
+- [Content strategy](content-strategy.md) — collect buyer questions.
+- [Founder story](founder-story.md) — what you experienced.
+- [Case study](case-study.md) — before the change.
 
 ## Playbook map
 
-| Topic | Status | Operating question |
-|---|---|---|
-| Brand strategy | Planned: `brand-strategy.md` | Which associations and memories should the company build over time? |
-| Brand narrative | Planned: `brand-narrative.md` | What durable story connects the market change, buyer problem, and company point of view? |
-| [Founder story](founder-story.md) | Published | Which lived experience makes the founder's point of view relevant and credible? |
-| Thought leadership | Planned: `thought-leadership.md` | What original, defensible idea can help the market think differently? |
-| Content strategy | [Published](content-strategy.md) | Which audience questions deserve a durable page, and in what order? |
-| [Case study](case-study.md) | Published | How should a named customer's context, action, and result become forwardable proof? |
-| [White paper](white-paper.md) | Published | When does a sourced long argument deserve a URL—and when must it stay ungated? |
-| Newsletter | Planned: `newsletter.md` | What recurring editorial promise will make an audience choose to return? |
-| Webinar | Planned: `webinar.md` | How can a live educational session create useful participation and reusable content? |
-| Podcast | Planned: `podcast.md` | When can a recurring conversation format deepen authority and relationships? |
-| Video | Planned: `video.md` | Which ideas become clearer or more memorable through visual explanation? |
-| Community-led growth | Planned: `community-led-growth.md` | When can an *owned* practitioner community create learning, trust, and market insight? Entering a room that already exists is [peer community](../04-channels-and-distribution/community.md). |
+| Guide | What it helps you do |
+|---|---|
+| [Founder story](founder-story.md) | Which lived experience makes the founder's point of view relevant and credible? |
+| [Content strategy](content-strategy.md) | Which audience questions deserve a durable page, and in what order? |
+| [Case study](case-study.md) | How should a named customer's context, action, and result become forwardable proof? |
+| [White paper](white-paper.md) | When does a sourced long argument deserve a URL—and when must it stay ungated? |
 
-Planned filenames are an editorial roadmap, not empty pages. A tactic file is created only when its guidance, templates, metrics, and evidence are ready.
+## Coming later
 
-## Recommended build order
+These topics are on the writing list. There is no article to open yet.
 
-1. If sales already hears repeating evaluation questions, publish a [content strategy](content-strategy.md) map before a brand workshop.
-2. Define the brand narrative, audience, editorial point of view, and evidence rules.
-3. Build founder story and thought leadership from real experience and research.
-4. When a customer will go on the record, write a [case study](case-study.md). When a method needs sources, write a [white paper](white-paper.md).
-5. Add recurring formats—newsletter, webinar, video, podcast, or community—only when ownership is sustainable.
+| Planned topic | Question to cover |
+|---|---|
+| Brand strategy | Which associations and memories should the company build over time? |
+| Brand narrative | What durable story connects the market change, buyer problem, and company point of view? |
+| Thought leadership | What original, defensible idea can help the market think differently? |
+| Newsletter | What recurring editorial promise will make an audience choose to return? |
+| Webinar | How can a live educational session create useful participation and reusable content? |
+| Podcast | When can a recurring conversation format deepen authority and relationships? |
+| Video | Which ideas become clearer or more memorable through visual explanation? |
+| Community-led growth | When can an *owned* practitioner community create learning, trust, and market insight? Entering a room that already exists is [peer community](../04-channels-and-distribution/community.md). |
 
-## Interfaces with other domains
+## Where to go next
 
-- [Strategy & buyers](../01-strategy-and-buyers/) supplies audience problems, buying situations, language, and evidence gaps.
-- [Product marketing](../02-product-marketing/) supplies positioning, differentiated claims, product truth, and proof boundaries.
-- [Website & conversion](../07-website-and-conversion/) turns the decision-page map into information architecture and live URLs.
-- [Channels & distribution](../04-channels-and-distribution/) turns assets and ideas into repeated market exposure.
-- [Account, field & partner marketing](../06-account-field-and-partner/ecosystem.md) lets creators, communities, and partners teach the same questions with trust the brand does not yet have.
-- [Lifecycle & customer marketing](../08-lifecycle-and-customer-marketing/) converts customer education, stories, and advocacy into post-purchase value.
+Pick a guide above for the task you are working on, or browse [Channels & distribution](../04-channels-and-distribution/) for a related part of the work.
 
 [Back to the playbook index](../README.md)
 

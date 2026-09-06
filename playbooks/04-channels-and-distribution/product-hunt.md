@@ -2,11 +2,13 @@
 title: "Product Hunt"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-Product Hunt is a **one-day concentrator**: launch energy, comments, and a screenshot other people can forward. It is not a growth motion. [Channel strategy](channel-strategy.md) still names the primary. [First ten customers](../01-strategy-and-buyers/first-ten-customers.md) already refuses to let Product Hunt be week-one.
+A Product Hunt launch can bring a concentrated burst of attention. Prepare a product that new users can try, explain who it helps, and make time to answer questions. After launch day, look at qualified signups and actual use, not just the leaderboard.
 
-A good day can mint social proof. A standing “we grow on PH” plan is how teams confuse upvotes with a market.
+![Prepare for new users; Answer questions live; Check what users do next](../../assets/illustrations/product-hunt.svg)
+
+*Reading guide: prepare for new users → answer questions live → check what users do next.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ A good day can mint social proof. A standing “we grow on PH” plan is how tea
 - Leadership wants Product Hunt as the Q3 acquisition channel.
 - You need a coordinated product campaign (tier, GACCS, momentum after day one). That is [product launch](../02-product-marketing/product-launch.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,25 +37,37 @@ A good day can mint social proof. A standing “we grow on PH” plan is how tea
 | **Proof** | A dated page, comment, or press mention a champion can forward. |
 | **Tourist** | A signup that will never match [ICP](../01-strategy-and-buyers/icp.md). |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Budget one day, then close the motion.** Harvest the questions into [content strategy](../03-brand-story-and-content/content-strategy.md). Do not leave a standing campaign, a weekly hunter, or a KPI called “PH traffic.” If the day does not produce a usable proof artifact, you had a party.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write what the day is allowed to produce
+## How to do it
+
+<a id="step-1-write-what-the-day-is-allowed-to-produce"></a>
+
+### Step 1: Define a useful launch outcome
 
 Pick one: a proof URL, a set of buyer questions, a list of people who already used the product, or a “we launched” line for later [creator](creator-partnership.md) pieces. If the sentence is “leads,” you are in the wrong playbook—use [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) only after you know they are not tourists.
 
-### Step 2: make the product survive strangers
+<a id="step-2-make-the-product-survive-strangers"></a>
+
+### Step 2: Test the product with new users
 
 Same-day value, or a honest “request access” with no fake self-serve. Support and comments have an owner from launch to +24 hours. A founder welcome to people who *used* it is allowed. A sequence to everyone who upvoted is not.
 
-### Step 3: staff the thread like a room, not like ads
+<a id="step-3-staff-the-thread-like-a-room-not-like-ads"></a>
+
+### Step 3: Prepare to answer questions
 
 Real users comment first. You answer operating questions. You do not argue with the ranking. You do not seed fake customers. [Peer community](community.md) rules still apply: no scrape of the hunter list into outbound.
 
-### Step 4: next morning, sort
+<a id="step-4-next-morning-sort"></a>
+
+### Step 4: Review the signups after launch
 
 | Keep | Kill |
 |---|---|
@@ -61,7 +77,9 @@ Real users comment first. You answer operating questions. You do not argue with 
 
 Loom-shaped days in the first-ten interviews were **handmade follow-up**, not a channel. Copy the follow-up discipline, not the upvote count.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 A self-serve tool. Launch Tuesday. Hunter is a customer who already used it. Goal = a dated proof page and five ICP questions, not MQLs. Morning after: 12 tourists suppressed; three ICP users get a founder note; PH is not a source we report next quarter.
 
@@ -75,7 +93,9 @@ A self-serve tool. Launch Tuesday. Hunter is a customer who already used it. Goa
 - Suppression rule for tourists:
 - Date we close the motion:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Primary motion is named and is not Product Hunt.
 - [ ] A stranger can get value the same day, or we said they cannot.

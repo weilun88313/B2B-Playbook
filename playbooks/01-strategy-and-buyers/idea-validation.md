@@ -3,13 +3,13 @@ title: "Idea validation"
 sidebarTitle: "Idea Validation"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Nearly half the B2B companies in one later-successful interview set went through at least one failed idea first. Some went through ten. Christina Cacioppo’s version: the first couple of ideas were total crap. Retool was Venmo for the U.K. Amplitude was voice-to-text. Segment was a classroom lecture tool. Vanta was B2B Alexa. Notion was a no-code website builder. Loom was a marketplace for hiring experts. Slack was a game. Box was a Facebook photo box.
+People can like an idea without ever using or buying it. Before building more, find out how they handle the problem today and what they are willing to do differently. Look for commitments as well as encouraging feedback.
 
-The question is not “do we have a slogan.” It is: **is this a real idea, or more crap?** This chapter sits after [idea discovery](idea-discovery.md) and before [ICP](icp.md). You are still allowed to be wrong about *who*. You are not allowed to go all-in on polite interest.
+![Understand the pain; Test a small offer; Look for commitment](../../assets/illustrations/idea-validation.svg)
 
-All four paths below are different investments in the same two things: **pain** (the problem matters) and **pull** (they actually want *your* way). Product-market fit—love, pay, pull at a growing scale—is a later ladder: [PMF](product-market-fit.md).
+*Reading guide: understand the pain → test a small offer → look for commitment.*
 
 ## Use this when
 
@@ -116,7 +116,7 @@ Census called the Amazon conversation **founder-motivation fit**, not PMF. Gusto
 
 ### How a filled validation card reads
 
-Teaching fill: a founder who used to drown in security questionnaires, not sure the pain is real.
+Illustrative example: a founder who used to drown in security questionnaires, not sure the pain is real.
 
 | Field | Fill |
 |---|---|
@@ -148,7 +148,9 @@ Highest honest signal here: **one stranger asked for the manual work.** Not an i
 - Would they pay a stranger? yes / no / unknown:
 - What changed in our idea because of this call:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] We named a path; we are not doing all four as a personality.
 - [ ] “Validation” includes at least one cold signal or a dated reason we cannot get one yet.

@@ -2,13 +2,13 @@
 title: "Four Fits"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[Product-market fit](product-market-fit.md) asks whether one segment loves it, pays, and starts to pull. This page asks the harder question: **are market, product, channel, and model the same company**—or four slides that refuse each other.
+Customers may want your product while the business still struggles to grow. Check whether your market, product, acquisition channel, and pricing model work together. For example, an expensive sales process needs a price that can support it.
 
-A team can have a product buyers want and still feel like they are pushing a boulder uphill. The usual diagnosis is “we lack growth tactics.” The more useful diagnosis is a missing fit: the product was not built for the channel that can actually reach the buyer, the channel cannot pay for itself at this price, or the market cannot support the model you are selling to the board.
+![Market + product; Product + channel; Channel + model](../../assets/illustrations/four-fits.svg)
 
-This is not a $100M manifesto, not a Reforge course, and not permission to skip the [ICP](icp.md).
+*Reading guide: market + product · product + channel · channel + model.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This is not a $100M manifesto, not a Reforge course, and not permission to skip 
 - You want a channel mix menu. That is [channel strategy](../04-channels-and-distribution/channel-strategy.md)—after these four sentences agree.
 - You want a price book. That is [pricing](../02-product-marketing/pricing-and-packaging.md). This page only asks whether that price can live with the channel.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Fit | Meaning here |
 |---|---|
@@ -35,11 +37,15 @@ This is not a $100M manifesto, not a Reforge course, and not permission to skip 
 
 Smooth sailing is all four clicking at once. Tugboat is executing “best practices” on a square peg.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Do not add a channel until you can say which of the other three fits it preserves—and which it would break.** “We’ll find distribution after PMF” is how a sales-assist product ends up on a viral bet, or a $8 seat ends up with a field team.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: write four sentences, not a strategy deck
 
@@ -78,7 +84,9 @@ Product-market fit was always a moment. The interval between “have it” and �
 
 Moving up-market, adding a PLG SKU, or standing up a partner motion is a **system** change. Most failures here are one-fit edits: a new channel on the old product, a new price on the old motion.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 A workflow tool sold by two founders. ACV ~$12k. Buyers find them on comparison pages. The board wants “TikTok plus an enterprise AE.”
 
@@ -90,7 +98,9 @@ A workflow tool sold by two founders. ACV ~$12k. Buyers find them on comparison 
 | Model–market | This slice can support a real company only if we stay in the comparison/outbound path—or we raise ACV and rebuild the product for a committee. |
 | Break if we… | Hire a field team at $12k, or ship a free viral SKU that cannot become the paid seat. |
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Four sentences are written on one card, not four decks.
 - [ ] The product’s actual discovery path is named (not the path we wish we had).

@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Slice; Offer; Sentence](../assets/illustrations/worksheet-message-market-fit.svg)
+
 ## Slice
 
 - ICP slice and seat:

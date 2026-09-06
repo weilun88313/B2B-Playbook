@@ -3,11 +3,13 @@ title: "Buying committee"
 sidebarTitle: "Buying Committee"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A B2B purchase is made by a system of people with different incentives, authority, and risk—not by a single persona. The friendly contact who took the demo is often not the person who can spend, and not the person who can block.
+Your main contact likes the product. Who else needs to agree before the company can buy it? Map the people who will use, fund, evaluate, and approve the purchase, then plan the conversations you are missing.
 
-This chapter names the seats so the next conversation has a job. It is not an org chart to decorate a slide.
+![Who uses it?; Who approves it?; Who can stop it?](../../assets/illustrations/buying-committee.svg)
+
+*Reading guide: who uses it? · who approves it? · who can stop it?.*
 
 ## Use this when
 
@@ -36,7 +38,9 @@ One person may hold several seats. A seat may also be shared across a committee.
 
 April Dunford’s sales-pitch work is the named reminder for this page: the person who took the demo is often not a category expert, will be blamed if the team hates the choice, and will delay rather than pick. The **champion** is the one who can carry the story when you leave. **Help Scout** and **Postman** pitches in that source still have to survive security, procurement, and an economic buyer—you do not write a separate slogan for each seat; you map them.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: begin with the decision
 
@@ -106,7 +110,9 @@ A map that lists six titles and zero evidence is still empty. Copy the fields be
 - Who can stop security, legal, procurement, or implementation?
 - Who must explain the change when the seller is absent?
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The business decision and trigger are explicit.
 - [ ] Seat assignments have evidence.

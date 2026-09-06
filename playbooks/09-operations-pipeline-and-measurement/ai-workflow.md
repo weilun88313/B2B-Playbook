@@ -3,11 +3,13 @@ title: "AI workflow"
 sidebarTitle: "AI Workflow"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A prompt is not a workflow. A custom GPT with a persona is not an operating system. [AI use-case selection](ai-use-case-selection.md) names the problem worth the load. [ai-teammate-brief.md](../../templates/ai-teammate-brief.md) is the **instruction skeleton** once the job exists. This page is the architecture **before you build**: the artifact, the stages, the gates, and how the thing fails.
+An AI workflow needs clear inputs, a useful output, and a way to catch mistakes. Break the work into steps people can inspect, record sources where facts matter, and require approval before customer-facing actions. Start with a real task you already understand.
 
-Agents do not scroll your homepage. They extract structured meaning. That does not require a consulting `/resources/` library or a commerce protocol. It requires facts a machine can parse—and a human gate before anything leaves the building.
+![Ground the inputs; Check each output; Approve external actions](../../assets/illustrations/ai-workflow.svg)
+
+*Reading guide: ground the inputs → check each output → approve external actions.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ Agents do not scroll your homepage. They extract structured meaning. That does n
 - You need the company to show up in answers. That is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md) and [content strategy](../03-brand-story-and-content/content-strategy.md).
 - Legal, privacy, or employment review is the request. Qualified owners; this is not that advice.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -32,37 +36,51 @@ Agents do not scroll your homepage. They extract structured meaning. That does n
 | **Action space** | What the agent may do without a human. |
 | **Escalation** | What forces a human—ambiguity, existing customer, legal language, send. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Do not ask “what are the steps?” Ask: what artifact must exist before the next move is allowed?** If a stage has no artifact, no gate, and no collapse, it is ceremony. If an external message has no human approval, it is an incident waiting for a cron job.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: anchor the artifact
+## How to do it
+
+<a id="step-1-anchor-the-artifact"></a>
+
+### Step 1: Define the finished output
 
 What does the workflow produce? Why is a good one good? What must not be lost when you reproduce it? One-off, personal repeatable, or a module other people will run—pick one. If the output is still “help with sales,” stop.
 
 Write what the example (if you have one) actually depends on: process moves you will keep, tone you will keep, anti-patterns you will ban.
 
-### Step 2: bind the job
+<a id="step-2-bind-the-job"></a>
+
+### Step 2: Set the human and AI responsibilities
 
 Exact use case. Final deliverable. Human role. AI role. Success condition. **Unacceptable** failure. At least one hard constraint. Inputs you are guaranteed versus ones you will pretend to have. Tools and sources that are allowed. Assumptions that are forbidden.
 
 Stop if another operator could not run this from the card.
 
-### Step 3: name how it will cheat
+<a id="step-3-name-how-it-will-cheat"></a>
+
+### Step 3: Identify likely failure modes
 
 Likely shortcuts. Fake-success (the brief looks complete and the ICP was guessed). Stage-mixing. Laundering a guess as evidence. The highest-cost wrong answer (email the wrong account; invent a security claim).
 
 If you have not named the expensive failure, you are decorating.
 
-### Step 4: build stages as artifacts, not a story
+<a id="step-4-build-stages-as-artifacts-not-a-story"></a>
+
+### Step 4: Break the workflow into reviewable steps
 
 For each stage: objective, allowed evidence, prohibited moves, required artifact, advancement gate, collapse condition, recovery move. Repeat until the final package. Then try to break it: can the model jump to the end, fake a stage, or look right without obeying the gates?
 
 Kill stages that exist for elegance. If the job is lighter than the architecture, simplify.
 
-### Step 5: write the four lines before any outbound or customer-facing send
+<a id="step-5-write-the-four-lines-before-any-outbound-or-customer-facing-send"></a>
+
+### Step 5: Define approval rules for external actions
 
 1. **Assignment** — what it is trying to finish.
 2. **Permitted action space** — read, draft, classify—not send, not discount, not invent policy.
@@ -73,7 +91,9 @@ Human-in-the-loop on anything that leaves the company. The first ten live runs a
 
 Parseable owned facts (positioning, packaging, proof, FAQ) still belong on durable URLs. Markdown mirrors can help agents; they are not a substitute for [content strategy](../03-brand-story-and-content/content-strategy.md). Do not copy another firm’s `/resources/` tree or their sprint price list.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist ops tool. Six discovery calls a week.
 
@@ -101,7 +121,9 @@ Sales-assist ops tool. Six discovery calls a week.
 
 Working file: [ai-workflow.md](../../templates/ai-workflow.md). The teammate instructions come after: [ai-teammate-brief.md](../../templates/ai-teammate-brief.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The artifact is concrete enough to reject a bad draft.
 - [ ] Every stage has an artifact, a gate, and a collapse.

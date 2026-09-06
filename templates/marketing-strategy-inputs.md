@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Ranked ICPs; Marketing advantages (1–3, real); Perceptions (3–4 storylines)](../assets/illustrations/worksheet-marketing-strategy-inputs.svg)
+
 ## Ranked ICPs
 
 | Profile (seat + company context) | Maturity (core / scaling / testing / not a priority) | Share of effort this period | Why |

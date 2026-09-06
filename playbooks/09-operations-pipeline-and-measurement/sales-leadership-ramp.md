@@ -3,11 +3,13 @@ title: "Sales-leadership ramp"
 sidebarTitle: "Sales Leadership Ramp"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A new VP of Sales with a 40-slide “vision” in week one has not started. They have performed. The job of the first 90 days is **observe and learn → find and land quick wins → set the course**. Skip to hiring AEs because a template said “day 90: hire” and you will staff a process you have not seen.
+A new sales leader needs to understand customers, deals, and the team before making big changes. Use the first month to learn, the second to make a few useful improvements, and the third to agree on a plan grounded in what you have seen.
 
-This is GTM operations, not a close playbook. It is not [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md) (individual contributors). It is not the founder still selling the [first ten](../01-strategy-and-buyers/first-ten-customers.md). If you are that founder, do not wear this costume.
+![Days 1–30: learn; Days 31–60: improve; Days 61–90: set direction](../../assets/illustrations/sales-leadership-ramp.svg)
+
+*Reading guide: days 1–30: learn → days 31–60: improve → days 61–90: set direction.*
 
 ## Use this when
 
@@ -22,39 +24,55 @@ This is GTM operations, not a close playbook. It is not [SDR onboarding](../05-o
 - You need a compensation plan. Write [sales compensation](sales-compensation.md) as its own page; do not bury pay in a 90-day slide.
 - You need a forecast design. That is [forecasting](forecasting.md). This ramp *uses* those pages; it does not replace them.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Days 1–30 you are not the hero.** You are the auditor. Quick wins in days 31–60 come from what you actually saw—not from a generic org chart. Days 61–90 set a course **with** marketing and [customer success](../08-lifecycle-and-customer-marketing/customer-success.md), not a sales-only cave.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: days 1–30 — observe and learn
+## How to do it
+
+<a id="step-1-days-130--observe-and-learn"></a>
+
+### Step 1: Days 1–30: observe and learn
 
 Meet internal stakeholders. Sit with the people who sell. Take product training like a new AE. Watch live calls and demos. Begin an infrastructure audit (CRM, enablement, dialer, MAP—**what is actually used**). Audit the goals and metrics on the wall versus the metrics in the [forecast](forecasting.md).
 
 Goal of the month: you can explain how a deal is born, worked, and credited without reading a wiki.
 
-### Step 2: days 31–60 — quick wins you can defend
+<a id="step-2-days-3160--quick-wins-you-can-defend"></a>
+
+### Step 2: Days 31–60: make practical improvements
 
 Audit the **sales process** as lived, not as slided. Review pipeline management against hygiene rules. Write or repair **standards of performance** (what “good” is when nobody is watching). Systems: what to stop, what to keep, what to integrate. Historical opportunities: where you win, where you lose, where you stall—by [ICP](../01-strategy-and-buyers/icp.md) slice, not by lore.
 
 Ship small: a stage-exit rule, a demo score, a meeting definition. Do not ship a new methodology brand.
 
-### Step 3: days 61–90 — set the course
+<a id="step-3-days-6190--set-the-course"></a>
+
+### Step 3: Days 61–90: agree on direction
 
 Align with marketing and CS on **one** number and one language for stages. Build a roadmap in months, not in slogans. Refine weekly / monthly / quarterly KPIs so they match [forecasting](forecasting.md) and [sales compensation](sales-compensation.md). Strategy and recommendations go in writing to the people who can say no.
 
 Hire only if the audit said capacity is the constraint—see [GTM planning](gtm-planning.md). “Hire an SDR manager and more AEs” is a slide, not a finding.
 
-### Step 4: org structure is a consequence
+<a id="step-4-org-structure-is-a-consequence"></a>
+
+### Step 4: Design the team around the work
 
 Boxes (AE, SDR, SE, ops, enablement) exist to hit the target and the motion you named. Do not paste a VP-Sales org from a template. Span of control and overlay ratios are **assumptions** you will test in the capacity model.
 
-### Step 5: principles you will be held to
+<a id="step-5-principles-you-will-be-held-to"></a>
+
+### Step 5: Agree on leadership expectations
 
 Write four lines you are willing to be quoted on. Useful ones: structure follows strategy; ICs get support; goals are clear and roles do not overlap by accident; you hire to the company’s values, not to a headcount wish. Delete sample values you would not defend in a 1:1.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 First sales leader, eight people, outbound-assist. CRM is messy. Founder still takes two enterprise deals.
 
@@ -77,7 +95,9 @@ First sales leader, eight people, outbound-assist. CRM is messy. Founder still t
 
 Working file: [sales-leadership-90.md](../../templates/sales-leadership-90.md) (paste into Docs or Slides).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] This person is actually a sales leader, not a founder-seller in a new title.
 - [ ] 30-day calendar is listening, not presenting vision.

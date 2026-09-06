@@ -2,13 +2,13 @@
 title: "Forecasting"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Repeatability starts with **pipeline hygiene**. Hygiene makes a forecast possible. A forecast that you can defend makes a number you can hit. A number you hit is how you keep a reputation inside the company. Skipping to “call the quarter” on dirty opportunities is how forecasts become theater—and how you lose the right to be believed.
+A forecast combines what is in the pipeline with evidence about whether and when deals will close. Use a method that fits your sales process, keep the underlying records current, and make changes in confidence explainable. The review should reveal risks while there is time to act.
 
-This page is GTM operations: stages, categories, calls, coverage, and a cadence. It is not a close process and not a CRM vendor tutorial. [Sales compensation](sales-compensation.md) is how people get paid against a credit rule. This page is whether leadership can trust the path to that number.
+![Check the pipeline; Test timing and confidence; Update the forecast](../../assets/illustrations/forecasting.svg)
 
-Context first: stage of company, segment, ASP, [primary motion](../04-channels-and-distribution/channel-strategy.md), point solution vs platform, vertical vs horizontal, software vs services, personas. Copying an enterprise bottoms-up ritual onto a high-velocity motion (or the reverse) is how you get ceremony without signal.
+*Reading guide: check the pipeline → test timing and confidence → update the forecast.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ Context first: stage of company, segment, ASP, [primary motion](../04-channels-a
 - You need to *create* pipeline. That is channel, outbound, or [account planning](../06-account-field-and-partner/account-planning.md)—not a call.
 - Legal reporting (public company guidance) must set the process. Get qualified owners; this is not securities advice.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -36,15 +38,21 @@ Context first: stage of company, segment, ASP, [primary motion](../04-channels-a
 | **Top-down** | High volume, high velocity: rates and cohorts more than deal archaeology |
 | **Bottoms-up** | Long cycle: inspect the deals |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Always have a reason. Deliver bad news early. Ask for help. Document the process. Align with leadership and evolve it.** A forecast without a reason is a wish. Bad news on Friday of week 12 is a reputation event.
 
 Data is a path to the answer. It is rarely the answer.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: get curious before you get numerical
+## How to do it
+
+<a id="step-1-get-curious-before-you-get-numerical"></a>
+
+### Step 1: Understand how deals really progress
 
 Inspect, in this order:
 
@@ -57,7 +65,9 @@ Inspect, in this order:
 
 Block time for hygiene or it will lose to “real selling.” Calendar tools are optional; the block is not.
 
-### Step 2: improve the experience so the funnel is inspectable
+<a id="step-2-improve-the-experience-so-the-funnel-is-inspectable"></a>
+
+### Step 2: Check the buyer experience and funnel records
 
 Forecast quality is downstream of deal quality:
 
@@ -69,11 +79,15 @@ Forecast quality is downstream of deal quality:
 
 A methodology exists to help sellers understand needs, prioritize, repeat, and give the customer a better path. Bake it into the process. A poster in onboarding is not a methodology.
 
-### Step 3: make pipeline quantitative
+<a id="step-3-make-pipeline-quantitative"></a>
+
+### Step 3: Use consistent pipeline definitions
 
 Document conversion by stage. Compare people and periods. Define **opportunity health** with your manager and RevOps: a short score you can fill without a novel. Then look at where an AE can actually improve—not a pep talk.
 
-### Step 4: pick the model that matches how you sell
+<a id="step-4-pick-the-model-that-matches-how-you-sell"></a>
+
+### Step 4: Choose a method that fits your sales process
 
 - **Top-down** when volume and velocity dominate.
 - **Bottoms-up** when cycles are long (the class used ~90+ days as a rule of thumb for enterprise-shaped deals).
@@ -82,7 +96,9 @@ You can mix: bottoms-up on the named few, rates on the rest. What you cannot do 
 
 Rewind once a year: how was the **annual plan** built? A forecast that ignores the plan’s assumptions will always look “wrong.”
 
-### Step 5: design the process, then inspect it
+<a id="step-5-design-the-process-then-inspect-it"></a>
+
+### Step 5: Design and review the forecast process
 
 A better forecast process:
 
@@ -109,7 +125,9 @@ Cadence (small team: collapse floors, do not skip the job):
 
 Enablement: explain why the process exists, train, reinforce, share outcomes. Redundant meetings are how people stop telling the truth.
 
-### Step 6: drive rigor without a meeting cult
+<a id="step-6-drive-rigor-without-a-meeting-cult"></a>
+
+### Step 6: Keep the review focused
 
 Five lenses, then stop adding rituals:
 
@@ -119,7 +137,9 @@ Five lenses, then stop adding rituals:
 - **Transparency:** marketing, sales, CS, implementation, finance—not a sales-only cave
 - **Questions that matter:** pipeline acceleration, deal execution, risk, strategy, predictability, outcomes
 
-### Step 7: ask coverage questions that force a strategy
+<a id="step-7-ask-coverage-questions-that-force-a-strategy"></a>
+
+### Step 7: Use coverage gaps to guide action
 
 Do we have enough pipeline to hit the target?
 
@@ -131,7 +151,9 @@ Do we have enough pipeline to hit the target?
 
 Performance snapshot: forecast accuracy, variances, coverage, gap to close, attainment to date.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Four AEs. ~45-day cycle. Hybrid: bottoms-up on deals > $40k, rates on the rest.
 
@@ -157,7 +179,9 @@ Four AEs. ~45-day cycle. Hybrid: bottoms-up on deals > $40k, rates on the rest.
 - Single source of truth:
 - Who may change a category after the call:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Stages have entry/exit, not only names.
 - [ ] Categories and the call are published and trained.

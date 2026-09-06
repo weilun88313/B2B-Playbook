@@ -2,11 +2,13 @@
 title: "Demo"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A demo that “went well” is not evidence. Feelings do not close deals. **Execution does.** If you cannot say which seats were in the room, which discovery pain each click served, and what meeting you booked next, you ran a tour. You did not run a demo.
+A useful demo shows how the product handles the buyer's actual problem. Agree on that problem before the call, choose only the parts of the product that matter, and leave with a clear next step. You do not need to show every feature.
 
-This page is the product walk **after** the buyer has agreed a [perfect world](sales-enablement.md). It is not the first meeting. If they have not agreed the insight and the approaches, do not open the product. You will spend the hour answering feature questions they did not earn.
+![Confirm the problem; Show the relevant work; Agree on what is next](../../assets/illustrations/demo.svg)
+
+*Reading guide: confirm the problem → show the relevant work → agree on what is next.*
 
 ## Use this when
 
@@ -21,11 +23,15 @@ This page is the product walk **after** the buyer has agreed a [perfect world](s
 - The motion is truly self-serve and nobody should be walking the product live. That is [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 - You need a close process. Papering stays outside this taxonomy.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **If you cannot connect a click to a pain they said, do not show it.** Most objections are born in features the prospect never asked for. Discovery is the gate. No disco, no demo.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: decide who must be in the room
 
@@ -58,7 +64,9 @@ Ask what excited them most—and **why**. If something fell flat, ask where you 
 
 Managers score every scored line, or the average is a lie. 1 = missed · 2 = grazed · 3 = weak attempt · 4 = solid · 5 = masterclass. An analyst stops at the number. A coach writes **keep / stop / one drill for the next demo**. Do not paste a generic AI prompt over this list and call it enablement. The list *is* the rubric.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Mid-market analytics. Discovery said month-end close is a three-tool stitch. Champion + VP Finance on the call. AE had emailed the VP the day before.
 
@@ -82,7 +90,9 @@ Mid-market analytics. Discovery said month-end close is a three-tool stitch. Cha
 
 Working file: [demo-scorecard.xlsx](../../templates/demo-scorecard.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Discovery notes exist; the demo is not a fishing trip.
 - [ ] Required seats were invited; missing seats are named, not hoped.

@@ -3,13 +3,13 @@ title: "CS workspace"
 sidebarTitle: "CS Workspace"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md) is the commercial spine (Lead, Account, Contact, Opportunity). This page is the **post-sale intelligence layer**: which objects, fields, views, and automations must exist so a CSM can do the job in [customer success](customer-success.md) without a second brain in a spreadsheet.
+A customer success workspace should answer the questions your team asks every week. Where is each account in its journey? Who owns the next action? What value has the customer received, and what needs attention? Design fields and views around those questions.
 
-Service clouds and CS platforms give you tools. They do not give you an operating model. If a property does not help you see **value realized**, **relationship cadence**, **renewal risk**, or **leading risk**, it is swamp. HubSpot, Salesforce, Gainsight, or a Sheet are implementations. The four questions are the architecture.
+![Customer progress; Risks and renewal dates; Owners and next actions](../../assets/illustrations/cs-workspace.svg)
 
-This is not a HubSpot admin course, not a vendor migration SOW, and not a promise that workflows will save a missing charter.
+*Reading guide: customer progress · risks and renewal dates · owners and next actions.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a HubSpot admin course, not a vendor migration SOW, and not a promis
 - You need software names. Start in [TOOLS.md](../../TOOLS.md), then [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md).
 - Legal hold or privacy design is the request. Qualified owners; this is not that advice.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,13 +36,19 @@ This is not a HubSpot admin course, not a vendor migration SOW, and not a promis
 | **Renewal** | Where is the revenue, the date, the owner, the stage? |
 | **Risk** | What leading signals (usage drop, champion leave, unpaid, dark) require a play this week? |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Every field, workflow, and saved view must serve one of the four questions—or it is killed.** “Nice to have for a future report” is how you recreate the last CS tool’s swamp. If you are migrating, move what you **operate**; leave ceremonial customs behind—same discipline as a CRM field map.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: name where the four answers live
+## How to do it
+
+<a id="step-1-name-where-the-four-answers-live"></a>
+
+### Step 1: Define the questions the workspace must answer
 
 Write, for your stack:
 
@@ -51,29 +59,41 @@ Write, for your stack:
 
 If two systems both claim “health,” pick a source of truth or you will argue in the QBR.
 
-### Step 2: properties that matter—then stop
+<a id="step-2-properties-that-matterthen-stop"></a>
+
+### Step 2: Keep fields that support those answers
 
 Inventory like a field map: label, populated count, which of the four jobs, keep / kill / transform. CSMs track activity in the CRM they already work, not in a shadow tool, unless [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md) said the overlay may write back.
 
 Do not import another operator’s HubSpot property list. Their 25 years and client ARR are not your schema.
 
-### Step 3: automate last, and only noisy-if-missed work
+<a id="step-3-automate-last-and-only-noisy-if-missed-work"></a>
+
+### Step 3: Automate work after the process is clear
 
 Automate what the team already does by hand and **misses**: renewal created N days out, inactivity after a defined dark period, handoff task when opp closes. Leave judgment (save-path, commercial exception) manual. Workflows that create false-positive tasks train people to ignore the system.
 
-### Step 4: views the team will open on Monday
+<a id="step-4-views-the-team-will-open-on-monday"></a>
+
+### Step 4: Build views the team will use weekly
 
 One queue for at-risk. One for renewals this quarter. One for onboarding still open. Filters that match [sales operating cadence](../09-operations-pipeline-and-measurement/sales-operating-cadence.md) thinking: one view, one question. Vanity NRR charts for Slack are not a workspace.
 
-### Step 5: integrate only if the job needs a write
+<a id="step-5-integrate-only-if-the-job-needs-a-write"></a>
+
+### Step 5: Connect systems where information needs to move
 
 Another system’s data is not a reason to sync. If you cannot name the field on the four-question list, do not connect it. Consolidation beats a fourth “CS source of truth.”
 
-### Step 6: migrate with a freeze date
+<a id="step-6-migrate-with-a-freeze-date"></a>
+
+### Step 6: Plan the migration and cutoff date
 
 From Gainsight, ChurnZero, Salesforce CS clouds, or Sheets: sequence like [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md)—objects you operate, populated fields, picklists that match forecast language. Leave the swamp. A “lift and shift” is how you pay for two swamps.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Forty logos. CRM is the system of record. Not a HubSpot blueprint.
 
@@ -96,7 +116,9 @@ Forty logos. CRM is the system of record. Not a HubSpot blueprint.
 
 Working file: [cs-workspace.xlsx](../../templates/cs-workspace.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Each kept field maps to realization, relationship, renewal, or risk.
 - [ ] Renewal stages match the forecast page.

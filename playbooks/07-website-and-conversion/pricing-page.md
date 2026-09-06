@@ -3,13 +3,13 @@ title: "Pricing page"
 sidebarTitle: "Pricing Page"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[Pricing and packaging](../02-product-marketing/pricing-and-packaging.md) decides who pays, for what unit, and when you revisit the number. This page decides **what a serious buyer can understand in one scan of `/pricing`**: the unit, the plans, who each plan is for, and what happens next.
+A pricing page should help a buyer understand what they will pay and which option fits. Make the differences between plans easy to compare, explain important limits, and provide a clear route to a quote when the price depends on their situation.
 
-Hiding the number so sales can “control the conversation” is a tactic with a shortening half-life. Buyers who shop with a bottom-up or self-serve alternative will not sit through three meetings to learn the unit. High-ACV sales-assist still benefits from a published range, a value metric, and an honest enterprise path—not from a blank page that says “contact us” and nothing else.
+![What each plan includes; What changes the price; How to choose or ask](../../assets/illustrations/pricing-page.svg)
 
-This is not a packaging redesign, not a Van Westendorp survey, and not a CRO lab for button color.
+*Reading guide: what each plan includes · what changes the price · how to choose or ask.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a packaging redesign, not a Van Westendorp survey, and not a CRO lab
 - The work is a multi-product catalog redesign. Position [the way you sell](../02-product-marketing/positioning.md#step-8-position-the-way-you-sell) first.
 - You want to A/B-test plan names before the metric is readable.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,23 +36,33 @@ This is not a packaging redesign, not a Van Westendorp survey, and not a CRO lab
 | **Enterprise path** | What is actually different (security, admin, contract)—not a black box that only means “more expensive” |
 | **Add-on** | A capability used by a minority on a plan; stuffing it into the tier trains people they overpay |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Show the unit in five seconds.** If a stranger cannot say what they pay *for*, the rest of the page is decoration. Clever headlines, tabbed product families, and “most popular” on the most expensive tier do not fix an invisible metric.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: put price in the main navigation and make the page transactional
+## How to do it
+
+<a id="step-1-put-price-in-the-main-navigation-and-make-the-page-transactional"></a>
+
+### Step 1: Make pricing easy to find
 
 `/pricing` is not a landing page. No newsletter pop-up. CTA above the fold. Restate who this is for in one line (positioning, not a new slogan). Clean structure over a revolutionary layout.
 
-### Step 2: publish a number—or a bounded path to one
+<a id="step-2-publish-a-numberor-a-bounded-path-to-one"></a>
+
+### Step 2: Show a price or explain how to get one
 
 Default: **yes, show pricing.** For a sales-assist motion, a public starting price, a range, or “from $X / [unit]” plus what enterprise adds is still a number. A page that only says “contact us” teaches the buyer you are expensive *and* opaque.
 
 If legal truly forbids a figure, show the metric, the plan jobs, and the questions sales will ask—so the call is not a blank.
 
-### Step 3: three plans, a summary table, waterfall below
+<a id="step-3-three-plans-a-summary-table-waterfall-below"></a>
+
+### Step 3: Make the plans easy to compare
 
 - Three plans is the usual; never more than five.
 - Summary table: the few differences a buyer uses to self-qualify. Full feature list below the fold.
@@ -58,15 +70,21 @@ If legal truly forbids a figure, show the metric, the plan jobs, and the questio
 - Suggest a plan with “recommended” or “best value” only if it is true. Do not tag the top tier “most popular” as a lie.
 - Add-ons sit beside the table when a capability is used by a small share of a plan (Elena Verna’s operating heuristic: think hard below ~30% use). Do not hide them as fake checkmarks.
 
-### Step 4: do not expect tabs to discover the second product
+<a id="step-4-do-not-expect-tabs-to-discover-the-second-product"></a>
+
+### Step 4: Give each product a clear entry point
 
 Multi-product tabs are a hub, not a discovery engine. Most people will not click the other tab. Drive the second product with [content strategy](../03-brand-story-and-content/content-strategy.md) links and sales motion—not with a tab bar. Salesforce-style box salad is what not to do if you need the page to decide.
 
-### Step 5: measure unique visitors, then decide what to test
+<a id="step-5-measure-unique-visitors-then-decide-what-to-test"></a>
+
+### Step 5: Use visitor behaviour to choose a test
 
 Feature-gated products often see repeat pricing visits before pay. Usage-gated products often convert on the visit that hits the limit. Track **unique visitors**, not raw pageviews, before you call conversion “low.” If you have not tested the page in a year, you are running a 100% holdout with no log. Tests still need a decision—see [experimentation](../09-operations-pipeline-and-measurement/experimentation.md). Do not A/B a strategy question (which metric, which motion) as a headline.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Seat-based. Enterprise is SSO, DPA, and a named CSM—not a mystery SKU.
 
@@ -93,7 +111,9 @@ Sales-assist. Seat-based. Enterprise is SSO, DPA, and a named CSM—not a myster
 
 Working file: [pricing-page.md](../../templates/pricing-page.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The commercial unit is already decided on [pricing and packaging](../02-product-marketing/pricing-and-packaging.md).
 - [ ] Pricing is in the main nav.

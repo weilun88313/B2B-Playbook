@@ -3,13 +3,13 @@ title: "CS-leadership ramp"
 sidebarTitle: "CS Leadership Ramp"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A new VP of Sales with a vision deck in week one has not started. A new **chief customer / VP CS** with a “CS is a growth engine” slide and no at-risk list has not started either. The first 90 days are **see the book as it is → reset the charter and the numbers → ship visible standards**. Skip to hiring CSMs because a template said “day 90: scale” and you will staff a fire department.
+Your first months leading customer success are a chance to learn how customers actually experience the company. Listen to customers and the team, check where accounts get stuck, then make a few practical improvements before setting a broader plan.
 
-This is GTM lifecycle operations, not a support-manager costume and not [sales-leadership ramp](../09-operations-pipeline-and-measurement/sales-leadership-ramp.md) (that page is the sales org). If you are the founder still doing all post-sale work, do not wear this title.
+![Days 1–30: listen; Days 31–60: prioritise; Days 61–90: put it to work](../../assets/illustrations/cs-leadership-ramp.svg)
 
-This is not employment advice. Get qualified counsel before you reassign books or change pay.
+*Reading guide: days 1–30: listen → days 31–60: prioritise → days 61–90: put it to work.*
 
 ## Use this when
 
@@ -25,13 +25,19 @@ This is not employment advice. Get qualified counsel before you reassign books o
 - You need implementation clocks. That is [customer onboarding](customer-onboarding.md).
 - You need seller 90 days. That is [sales-leadership ramp](../09-operations-pipeline-and-measurement/sales-leadership-ramp.md).
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Days 1–30 you are the auditor of the book, not the keynote.** Days 31–60 you name what CS is accountable for—and what it is not—with Sales, Product, and Finance in the room. Days 61–90 you prove it with a few visible standards (QBR, onboarding milestones, a health view Sales can see), not a reorg slide.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: days 1–30 — unpack the customer, then the team
+## How to do it
+
+<a id="step-1-days-130--unpack-the-customer-then-the-team"></a>
+
+### Step 1: Days 1–30: understand customers and the team
 
 By segment: what “health” claims, and whether NPS/CSAT/health scores match reality. Which accounts are at risk and **why**. What share of the book had a strategic conversation in the last 90 days—not a ticket.
 
@@ -39,7 +45,9 @@ As a **system**: drop-offs between Sales and CS; onboarding by segment (self-ser
 
 Inward: who is doing success versus support versus admin. Whether CSMs can talk commercially or only “relationship.” Pattern recognition. Map the flywheel you will have to build. Do not announce the flywheel yet.
 
-### Step 2: days 31–60 — charter, numbers, coverage
+<a id="step-2-days-3160--charter-numbers-coverage"></a>
+
+### Step 2: Days 31–60: agree on priorities and coverage
 
 Write the charter: outcomes CS owns; where CS partners vs leads; non-negotiable engagement standards.
 
@@ -49,7 +57,9 @@ With Finance and RevOps: GRR/NRR definitions; churn and expansion language; whet
 
 Culture: if the team is only reactive, you may rebalance portfolios or move from one-size coverage to segments. Ratios are [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) math, not a LinkedIn benchmark. You are setting the foundation for scale, not performing scale.
 
-### Step 3: days 61–90 — prove it in the system of record
+<a id="step-3-days-6190--prove-it-in-the-system-of-record"></a>
+
+### Step 3: Days 61–90: put the plan into daily work
 
 Visible, dated wins: a QBR shape run on **top** accounts; onboarding relaunch with milestones the customer already has in [onboarding communication](onboarding-communication.md); health (or a simpler at-risk flag) visible to Sales; books reassigned only from the segment insight, not from preference.
 
@@ -57,11 +67,15 @@ Then the cross-functional job: Sales on expansion forecast and shared renewals; 
 
 By day 90 the team should know the charter, customers should have a next date, and the CEO should see CS as a number with a process—not a gap.
 
-### Step 4: refuse the two costumes
+<a id="step-4-refuse-the-two-costumes"></a>
+
+### Step 4: Avoid making large changes before learning
 
 **Support lead in a CCO title.** Tickets are a path; they are not the mandate. **Agency-in-week-two as strategy.** Partners can add capacity later; they do not replace seeing the book. Your network is not a substitute for [customer success](customer-success.md) written down.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 First VP CS. Forty logos, one CSM, AE still expands. Health score is a vibe.
 
@@ -80,7 +94,9 @@ First VP CS. Forty logos, one CSM, AE still expands. Health score is a vibe.
 
 Working file: [cs-leadership-90.md](../../templates/cs-leadership-90.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] 30-day work is the book and the journey, not a vision offsite.
 - [ ] Charter names what CS does **not** own.

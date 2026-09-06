@@ -3,11 +3,13 @@ title: "Onboarding communication"
 sidebarTitle: "Onboarding Communication"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-[Customer onboarding](customer-onboarding.md) is the **work**: education versus implementation, kickoff, clocks for launch and value. This page is what the customer **receives in writing**—the packet, the intake, the timeline they can hold, and the handoff note when the implementation owner leaves and the book owner stays.
+New customers should know who to contact, what happens next, and what they need to prepare. Put the essentials in one welcome packet, then adapt the follow-up to their project. Keep routine messages separate from account-specific decisions.
 
-A kickoff without a packet is a meeting. A packet that does not match the order form is a brochure. Automation that nags a logo still in legal is noise.
+![Welcome and contacts; Milestones and responsibilities; Progress and handoff](../../assets/illustrations/onboarding-communication.svg)
+
+*Reading guide: welcome and contacts → milestones and responsibilities → progress and handoff.*
 
 ## Use this when
 
@@ -22,13 +24,19 @@ A kickoff without a packet is a meeting. A packet that does not match the order 
 - You still mix education and implementation in one job. Split that in [customer onboarding](customer-onboarding.md) first.
 - The product is truly self-serve and the only job is in-app empty states. Do not invent a professional-services packet. Lifecycle email (still planned) can wait until the states exist.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **The customer should be able to answer, from one document: who we are, what we asked them, what happens by when, and where help lives.** If that requires a tribal Slack thread, you do not have onboarding communication. You have hope.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: split “every logo” automation from “this logo” work
+## How to do it
+
+<a id="step-1-split-every-logo-automation-from-this-logo-work"></a>
+
+### Step 1: Separate standard messages from account-specific work
 
 **Every new customer (product-shaped):** welcome that matches how they actually start (seat created vs company signed), a nudge if they never take the first action, first-run guidance, empty states that teach instead of looking broken.
 
@@ -36,7 +44,9 @@ A kickoff without a packet is a meeting. A packet that does not match the order 
 
 Do not automate the packet as if it were a drip. Do not staff a CSM to write empty-state copy.
 
-### Step 2: one packet, four parts—then stop decorating
+<a id="step-2-one-packet-four-partsthen-stop-decorating"></a>
+
+### Step 2: Prepare one useful welcome packet
 
 A working packet is:
 
@@ -47,17 +57,23 @@ A working packet is:
 
 If a fifth section is a brand story, put it last or cut it. The packet is a path, not a magazine.
 
-### Step 3: the first call uses the packet; it does not replace it
+<a id="step-3-the-first-call-uses-the-packet-it-does-not-replace-it"></a>
+
+### Step 3: Use the packet during kickoff
 
 Before you talk: confirm the people who must be there (including IT if migration is real). On the call: introductions with roles and locations; timeline and intake due date; where help lives; their current process and the outcome they bought; next steps dated. Walk the [order form](customer-onboarding.md) as onboarding already requires. The agenda is a memory aid. The CRM still holds what sales knew.
 
-### Step 4: when onboarding ends, hand off in writing—to the customer and to the book
+<a id="step-4-when-onboarding-ends-hand-off-in-writingto-the-customer-and-to-the-book"></a>
+
+### Step 4: Confirm completion and the ongoing relationship
 
 If a specialist ran implementation and a CSM/AM owns the book, the customer gets: new person (cc’d), what they own, how to get support, that the work to date is documented. The **internal** note is the real asset: contacts and how to reach them, decision-maker who is not in the tool daily, what the company does and how it makes money, goals hit, challenges left, remaining asks, extra training or SKUs already named.
 
 A “welcome to your CSM” email with no note is how QBRs become archaeology.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist ops tool. Six-week assisted onboarding. Not a HubSpot import guide.
 
@@ -79,7 +95,9 @@ Sales-assist ops tool. Six-week assisted onboarding. Not a HubSpot import guide.
 
 Working file: [onboarding-welcome.md](../../templates/onboarding-welcome.md). The journey and clocks stay in [customer onboarding](customer-onboarding.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Packet matches the signed scope, not a generic “community” letter.
 - [ ] Intake has a due date tied to the first call.

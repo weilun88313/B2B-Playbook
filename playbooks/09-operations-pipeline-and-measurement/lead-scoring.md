@@ -3,11 +3,13 @@ title: "Lead scoring"
 sidebarTitle: "Lead Scoring"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Lead scoring is a **routing hypothesis**: which known people deserve a different action this week. It is not a personality, not a HubSpot feature tour, and not a substitute for an [ICP](../01-strategy-and-buyers/icp.md). If you cannot say what happens at the threshold—who is notified, what they must do, by when—you do not have scoring. You have a vanity integer.
+Lead scoring should help the team choose a next action. Keep account fit separate from buying intent, decide what each score triggers, and test the rules against real outcomes. A high score is not a substitute for knowing why someone needs help.
 
-This page sits in operations because the score must be a shared definition. Marketing cannot invent “MQL” while sales invents “ready.” [Channel strategy](../04-channels-and-distribution/channel-strategy.md) still decides whether a human should touch the lead at all.
+![Does the account fit?; Is there buying intent?; What should happen next?](../../assets/illustrations/lead-scoring.svg)
+
+*Reading guide: does the account fit? · is there buying intent? · what should happen next?.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This page sits in operations because the score must be a shared definition. Mark
 - You need account-level orchestration. Person scores are not an account program. Account scoring is still planned in this domain—do not fake it with a contact integer.
 - Legal or consent rules forbid the events you want to count. This page is not privacy advice.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,35 +38,51 @@ This page sits in operations because the score must be a shared definition. Mark
 | **MQL** | Marketing believes this person deserves sales time—only if the action is written |
 | **SQL** | Sales has accepted the person as worth a working motion. Often a **human** set, not more points |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Do not pay out points for every small action.** Opens, social clicks, and uncritical page views will manufacture MQLs. Use **intervals** (every *n* events) and **high-value URLs** (pricing, demo) instead of “+1 per breath.” Use **negative scoring** for people you must not chase.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the action, then the math
+## How to do it
+
+<a id="step-1-write-the-action-then-the-math"></a>
+
+### Step 1: Define the action a score should trigger
 
 Complete this sentence: *at score ≥ ____ (or rule ____), ____ is notified, must ____, within ____.* If SQL is a Salesforce checkbox a human ticks, say so. Connecting lifecycle stage to a MAP score without a human is a choice—write it. Changing a live model **re-scores the whole database**. Small tweaks only; radical rewrites need a migration note.
 
-### Step 2: split fit from intent
+<a id="step-2-split-fit-from-intent"></a>
+
+### Step 2: Keep fit separate from intent
 
 Fit without intent is a good logo browsing. Intent without fit is a student on the pricing page. Score both, or you will route the wrong people. Hand-raisers (demo, pricing, contact) should **skip the leisurely ladder** and notify whoever owns speed-to-lead. That is a workflow, not a polite +3.
 
-### Step 3: map content and forms to buying stage—not to “more fields”
+<a id="step-3-map-content-and-forms-to-buying-stagenot-to-more-fields"></a>
+
+### Step 3: Relate engagement to the buying situation
 
 Awareness forms should be short enough that a stranger will complete them. Consideration can ask role and size. Decision can ask the questions that make the **meeting** useful. Progressive profiling: if you already have the field, ask the next one—not the same form twice. Reuse forms; segment with **lists** off page + form, not a new form per PDF.
 
 Do not copy another company’s industry dropdown or “50 employees or we disqualify” as your ICP. That is their wedge.
 
-### Step 4: write negatives and exceptions
+<a id="step-4-write-negatives-and-exceptions"></a>
+
+### Step 4: Include negative signals and exceptions
 
 Employees, job seekers, known customers, agencies you do not sell, competitors: either large negatives or a persona that routes elsewhere (HR, CS, partnerships). Customers often need a **different** motion, not a fake MQL. Decide whether customers get a high score for identification or a block from the hunter queue.
 
-### Step 5: review with closed-won, then freeze
+<a id="step-5-review-with-closed-won-then-freeze"></a>
+
+### Step 5: Test the rules against real outcomes
 
 Seed points from **your** past leads, not a vendor blog. After go-live, review MQLs that sales rejected and SQLs that never closed. Adjust intervals before you adjust philosophy. The ledger is the artifact; the MAP is the implementation.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 B2B workflow product. Sales-assist inbound. HubSpot is the MAP; SQL is accepted in the CRM by an SDR.
 
@@ -88,7 +108,9 @@ B2B workflow product. Sales-assist inbound. HubSpot is the MAP; SQL is accepted 
 
 Working file: [lead-scoring-ledger.xlsx](../../templates/lead-scoring-ledger.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] ICP and disqualifiers exist in writing.
 - [ ] Threshold changes a **task**, not a dashboard color.

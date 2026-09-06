@@ -3,11 +3,13 @@ title: "GTM AI maturity"
 sidebarTitle: "GTM AI Maturity"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A ChatGPT seat on every laptop is not a go-to-market operating system. It is assisted typing. A team that automates a channel that does not already work is just shipping slop faster. [MarTech governance](martech-governance.md) decides which tool may do a job. This page decides **where the motion actually sits on a ladder**, so you climb one rung on a working channel instead of buying a “GTM engine” costume.
+Using AI in a few tasks is different from connecting it to a reliable team workflow. Assess each sales or marketing process separately: what context it has, what it can do, and how people check it. Improve one useful workflow before trying to automate the whole department.
 
-This is GTM operations, not a vendor maturity model and not a promise that level five arrives next year.
+![Individual assistance; Repeatable team workflows; Connected, reviewed work](../../assets/illustrations/gtm-ai-maturity.svg)
+
+*Reading guide: individual assistance → repeatable team workflows → connected, reviewed work.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is GTM operations, not a vendor maturity model and not a promise that level
 - You need the architecture of one workflow. That is [AI workflow](ai-workflow.md).
 - You need product names. Start in [TOOLS.md](../../TOOLS.md). A community spreadsheet of logos is not this page.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Rung | Meaning here |
 |---|---|
@@ -34,39 +38,55 @@ This is GTM operations, not a vendor maturity model and not a promise that level
 | **4 · Looped** | Outputs feed other motions (call → objection library → next content). Most of the stack talks. |
 | **5 · Autopilot** | A world-model that experiments across every channel. **Not an operating target on this page.** |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Score the motion you have, then climb one rung on a channel that already works.** Do not automate what you have not made work by hand. Do not skip to a dashboard because a video called it a GTM engine.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: score each motion, not the company slogan
+## How to do it
+
+<a id="step-1-score-each-motion-not-the-company-slogan"></a>
+
+### Step 1: Assess each process separately
 
 Write one line per motion you actually run: outbound, owned content, events, inbound capture, first meeting / demo, expansion. For each: which rung, what evidence, what would make the next rung true.
 
 Most teams are **1–3**. “We use AI” that means Perplexity on research and ChatGPT on DMs is rung 1. It can help. It is not an OS. Over-automating a weak DM motion at rung 1 is how buyers learn to ignore you.
 
-### Step 2: pick the two channels that already produce a sales-usable next step
+<a id="step-2-pick-the-two-channels-that-already-produce-a-sales-usable-next-step"></a>
+
+### Step 2: Choose processes that already produce useful results
 
 AI scales what exists. If LinkedIn content already books conversations, that is a candidate. If events are a monthly hope, do not build an invite agent first.
 
 Refuse a stack that “covers the whole funnel” while no channel has a written win.
 
-### Step 3: write the context before you buy a graph
+<a id="step-3-write-the-context-before-you-buy-a-graph"></a>
+
+### Step 3: Write down the context the AI needs
 
 Rung 2 hits a wall when every tool starts from zero. The fix is not a new SKU named “context.” It is a **small, current file** the workflows may read: ICP, offer, objections, banned claims, what “good” looks like. [Content strategy](../03-brand-story-and-content/content-strategy.md) and [positioning](../02-product-marketing/positioning.md) already own those facts. If they are empty, agents will invent them.
 
-### Step 4: connect one loop before a command center
+<a id="step-4-connect-one-loop-before-a-command-center"></a>
+
+### Step 4: Connect one reviewed workflow
 
 A loop is one output that becomes another motion’s input—transcript objections into the next page, closed-won traits into the next list—with a human still allowed to stop a send. Sheets and a CRM can be the first command center. A custom cockpit that nobody updates is theater.
 
 Rung 4 is “enough of the stack is connected that the system can learn.” It is not “we posted that we run on autopilot.”
 
-### Step 5: treat rung 5 as science fiction you do not purchase
+<a id="step-5-treat-rung-5-as-science-fiction-you-do-not-purchase"></a>
+
+### Step 5: Treat future capabilities as uncertain
 
 A system that senses Slack, Discord, and the roadmap and reallocates every channel without a human steer is a research story. You may watch it. You may not staff or budget as if you are already there. The human still reviews external messages—see [AI workflow](ai-workflow.md).
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist ops tool. Founder-led. Not a survey.
 
@@ -89,7 +109,9 @@ Sales-assist ops tool. Founder-led. Not a survey.
 
 Working file: [gtm-ai-maturity.xlsx](../../templates/gtm-ai-maturity.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Each motion has a rung *and* a sentence of evidence.
 - [ ] We named channels that already work; AI will not “create” a motion.

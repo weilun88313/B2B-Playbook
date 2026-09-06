@@ -13,3 +13,8 @@ The default branch is the reader's current edition; normal updates may go direct
 - Verify author and committer before publishing. Historical author corrections require confirmed identity and a recoverable backup.
 - Keep growth plans, traffic exports, and outreach drafts outside the public repository.
 - Never run the workbook generator over a user's filled working files.
+- Write for a reader doing a real task: explain the situation, show an example, and give a useful next step. Avoid unexplained internal jargon, scolding, and slogans presented as facts.
+- Each playbook and chapter guide has a relevant SVG in assets/illustrations: warm paper (#F6F3EA), teal (#2F6E63), simple lines, readable labels, and an accurate text alternative. Keep the visual helpful; do not add filler images to every section.
+- Retain old heading anchors when renaming sections. Keep last source-review dates honest; use a separate reading-edit date for copy-only revisions.
+- Preserve Mintlify's native navigation, image zoom, table scrolling, keyboard focus, and light/dark controls. Check a phone-width page as well as desktop before publishing style changes.
+- A chapter guide needs a plain introduction, a few starting links, a published-article map, a separate planned list, and related reading. Keep contributor-facing rules in this file, not in the reader's navigation.

@@ -3,11 +3,13 @@ title: "Renewal marketing"
 sidebarTitle: "Renewal Marketing"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A discount email in the last two weeks of the term is not a renewal motion. [Customer success](customer-success.md) owns the book and who is paid for the renewal. [CS workspace](cs-workspace.md) already asks whether you can see the date and the risk. This page is **how value is recognized and risk is reduced before the commercial conversation**—so the renewal is a confirmation, not a rescue.
+A renewal is easier to discuss when the customer can see what they have achieved. Start before the contract deadline, gather a short record of value and unresolved issues, and make the commercial steps clear. Work with the account owner rather than sending a generic reminder.
 
-This is not procurement theater, not a save desk playbook, and not legal advice on auto-renew clauses.
+![Review delivered value; Resolve open issues; Agree on the renewal path](../../assets/illustrations/renewal-marketing.svg)
+
+*Reading guide: review delivered value → resolve open issues → agree on the renewal path.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not procurement theater, not a save desk playbook, and not legal advice 
 - You need expansion of a second job. That is [expansion marketing](expansion-marketing.md).
 - You need the churn math. That is [revenue churn](revenue-churn.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -32,17 +36,25 @@ This is not procurement theater, not a save desk playbook, and not legal advice 
 | **Risk** | Leading evidence they will not renew (dark, champion left, unrealized) |
 | **Save** | An exception path. It is not the default campaign |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Start the renewal when value can still be shown, not when legal can still be threatened.** If the first marketing artifact is a price or a notice, you already lost the champion. The packet must be something they could send to finance without you in the room.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: put the date on a clock everyone shares
+## How to do it
+
+<a id="step-1-put-the-date-on-a-clock-everyone-shares"></a>
+
+### Step 1: Share the renewal timeline
 
 [CS workspace](cs-workspace.md) creates the renewal record N days out. Write N. Write who is notified. Write what “on track / at risk / save” means in one line each. If marketing cannot see the date, they will invent a newsletter.
 
-### Step 2: send value, then the commercial path
+<a id="step-2-send-value-then-the-commercial-path"></a>
+
+### Step 2: Review value before commercial terms
 
 Default order:
 
@@ -53,19 +65,27 @@ Default order:
 
 Do not skip to (3). Do not run (4) as a quarterly “win-back style” blast on still-active accounts.
 
-### Step 3: make the packet forwardable
+<a id="step-3-make-the-packet-forwardable"></a>
+
+### Step 3: Make the summary easy to share
 
 One page or one note: before / after in their metric, what they still use, what they asked us not to do. A [case study](../03-brand-story-and-content/case-study.md) *shape* about **them**, for **them**. If you cannot write it, you do not have realization—do not pretend the health score is the packet.
 
-### Step 4: change price on purpose, not as a panic
+<a id="step-4-change-price-on-purpose-not-as-a-panic"></a>
+
+### Step 4: Explain price changes early
 
 If the renewal includes a price move, it was decided on [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) and told early. A last-week hike or a last-week discount is the same failure: no value conversation.
 
-### Step 5: after a no, do not hide the leak
+<a id="step-5-after-a-no-do-not-hide-the-leak"></a>
+
+### Step 5: Record and learn from a lost renewal
 
 Cancel goes into [revenue churn](revenue-churn.md) as gross. Win-back is still planned; it is not this page. Do not relabel a lost renewal as “nurture.”
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Annual term. CSM owns renewal. AM owns expansion only.
 
@@ -87,7 +107,9 @@ Annual term. CSM owns renewal. AM owns expansion only.
 
 Working file: [renewal-marketing.md](../../templates/renewal-marketing.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Renewal owner and pay are written on [customer success](customer-success.md).
 - [ ] Date and risk are visible in [CS workspace](cs-workspace.md).

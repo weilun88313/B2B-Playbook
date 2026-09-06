@@ -3,15 +3,13 @@ title: "Product-market fit"
 sidebarTitle: "Product Market Fit"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-There is no guaranteed recipe for product-market fit. Anyone selling you one is selling anxiety relief.
+Product-market fit is easier to discuss when you name the evidence. Are customers using the product, paying for it, staying with it, and bringing others in? Start with one customer group and track what improves before expanding to another.
 
-What you can do is stop treating PMF as a binary switch. In B2B it is a process of earning fit with **one segment**, then the next, then a larger market, then a new product line. YouTube could have a hundred million daily users and still feel it had the wrong audience. Databricks could pass $100 million in revenue and still fear a wall. A new fundraise often raises the bar so the last round’s “fit” no longer counts.
+![Useful enough to use; Valuable enough to pay; Strong enough to retain](../../assets/illustrations/product-market-fit.svg)
 
-You still need a starting line. The founders Lenny Rachitsky interviewed did not wait for a feeling of completion. They climbed a ladder: one company that loves the product, one that pays real money, several that do both, then pull instead of push, then growth that does not depend on a heroic week.
-
-This chapter is that ladder. It sits after [idea discovery](idea-discovery.md) and [idea validation](idea-validation.md), after you can name an [ICP](icp.md), and after you have a way to [find the first ten](first-ten-customers.md). It sits before you scale a [channel](../04-channels-and-distribution/channel-strategy.md). Word of mouth is usually a **symptom** of this chapter, not a budget line in the next one.
+*Reading guide: useful enough to use → valuable enough to pay → strong enough to retain.*
 
 ## Use this when
 
@@ -150,7 +148,9 @@ A split that is lying to itself: 4 hours on calls, 36 hours building, “this we
 - Hours building:
 - This week’s one company:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] We can name the one company, the job they run on us, and the last time we watched them do it.
 - [ ] We did not confuse a 25-item wishlist with the product we intend to be.

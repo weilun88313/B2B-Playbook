@@ -1,15 +1,15 @@
 ---
 title: "LinkedIn outbound"
-sidebarTitle: "Linkedin Outbound"
+sidebarTitle: "LinkedIn outbound"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A connection request that says “I’d love to share how we help companies like yours” is email with worse deliverability and a higher ban risk. This page is **when social context is allowed to support a direct conversation**—and when it must stay in [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md) instead.
+Use LinkedIn outreach when it is a sensible way to reach this particular person. Read their work, find a genuine reason to contact them, and keep the message short. A connection request is an invitation, not permission for an automated sales sequence.
 
-[Message-market fit](message-market-fit.md) still gates automation. [Account research](account-research.md) still gates the logo. LinkedIn is a **route**, not a personality. Use it when a public artifact (their post, a comment thread, a shared room) makes a sentence possible that email cannot honestly open with. Do not use it as the default first touch because the phone is scary.
+![Read the person's work; Send a relevant note; Respect the response](../../assets/illustrations/linkedin-outbound.svg)
 
-This is not organic content, not Sales Navigator as a strategy, and not a “social selling” course.
+*Reading guide: read the person's work → send a relevant note → respect the response.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not organic content, not Sales Navigator as a strategy, and not a “soc
 - The only “context” is that they work at a target account. Use [cold email](cold-email.md) or [cold call](cold-call.md).
 - You plan to scrape search, InMail blast, or automate connection requests. That is how accounts die.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,17 +36,25 @@ This is not organic content, not Sales Navigator as a strategy, and not a “soc
 | **Connect** | A request that does not contain a pitch |
 | **InMail / note** | A scarce written touch; same two-sentence standard as email |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Earn the thread before you ask for the inbox.** If you cannot leave a public comment a peer would respect, you do not get a connection pitch. The accept is not consent to a sequence.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: decide this route is better than email for *this* person
+## How to do it
+
+<a id="step-1-decide-this-route-is-better-than-email-for-this-person"></a>
+
+### Step 1: Check whether LinkedIn fits this contact
 
 Write: *LinkedIn is the first or only written touch because [artifact], not because we have Navigator seats.* If the artifact is missing, pick another channel. Activity for its own sake (“they posted last month”) is not enough.
 
-### Step 2: go public first, or do not go
+<a id="step-2-go-public-first-or-do-not-go"></a>
+
+### Step 2: Read and understand the person's public work
 
 Default order:
 
@@ -55,19 +65,27 @@ Default order:
 
 A connection-request pitch skips the order and trains them to ignore you.
 
-### Step 3: write the note like email, shorter
+<a id="step-3-write-the-note-like-email-shorter"></a>
+
+### Step 3: Write a short, relevant message
 
 No “loved your post” without a proof you read it. No attachment. No 200-word manifesto. Interest check, not “are you the right person for a 30-minute demo?” If they ignore the note, the sequence may use email or phone. It does not get three LinkedIn follow-ups.
 
-### Step 4: cap volume and automation
+<a id="step-4-cap-volume-and-automation"></a>
+
+### Step 4: Limit volume and review automation rules
 
 Manual or tightly reviewed sends. Platform limits exist to stop exactly the motion teams try to scale. Automation that fakes dwell time or mass-connects is an incident, not a stack choice. [Contact data](contact-data.md) still applies if you will dial; a LinkedIn profile is not a phone.
 
-### Step 5: keep organic and outbound on different calendars
+<a id="step-5-keep-organic-and-outbound-on-different-calendars"></a>
+
+### Step 5: Keep publishing separate from direct outreach
 
 The founder’s feed is not an SDR workbench. Do not have reps pitch under a post meant for the 95. If a comment thread becomes a conversation, hand it to the owner of that account—do not pile three SDRs into replies.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Ops lead posted: “We still run SLAs in a spreadsheet next to the shared inbox.”
 
@@ -92,7 +110,9 @@ Ops lead posted: “We still run SLAs in a spreadsheet next to the shared inbox.
 
 Working file: [linkedin-outbound.md](../../templates/linkedin-outbound.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Message-market fit exists for this offer.
 - [ ] Artifact is specific and dated.

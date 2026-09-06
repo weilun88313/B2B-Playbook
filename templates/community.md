@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Room; Contribution (one); Endorsement](../assets/illustrations/worksheet-community.svg)
+
 ## Room
 
 - Name / host:

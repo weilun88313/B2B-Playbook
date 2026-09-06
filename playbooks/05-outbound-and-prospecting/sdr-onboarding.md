@@ -3,15 +3,13 @@ title: "SDR onboarding"
 sidebarTitle: "SDR Onboarding"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A login, a Slack intro, and “shadow someone for a week” is not onboarding. It is how a new SDR invents a private version of the job: their own definition of a meeting, their own CRM hygiene, their own idea of what “qualified” means. Ninety days later you have activity and no system.
+A new sales development representative needs more than product slides and a list of accounts. Show what a qualified meeting looks like, how the team uses the CRM, and how they will practise outreach. Set a ramp plan with feedback at each stage.
 
-SDR and BDR titles fight in every company. On this page they mean the same job family: **people paid to create a qualified conversation**, not to close the contract. If they carry a close quota, they are not in this chapter—use [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [sales enablement](../02-product-marketing/sales-enablement.md).
+![Understand the job; Practise with feedback; Work independently](../../assets/illustrations/sdr-onboarding.svg)
 
-The product of the role is not a dial. It is a meeting the account executive can run without reconstructing the story from a two-line CRM note. Train in that order: **who the job is → what the number is → how the system of record works → how you create the meeting → how we look at the work**. Skip to sequences on day two and you will spend month two unteaching bad CRM.
-
-This page is not employment, wage-hour, or discrimination advice. Ramp, PIP language, and commission documents need qualified counsel where you hire.
+*Reading guide: understand the job → practise with feedback → work independently.*
 
 ## Use this when
 
@@ -27,15 +25,21 @@ This page is not employment, wage-hour, or discrimination advice. Ramp, PIP lang
 - You need the mechanics of one email or one sequence. Those are already written: [cold email](cold-email.md), [multichannel sequence](multichannel-sequence.md). Come back here to put a *person* through them.
 - You need the full legal employment file. This page will not write your handbook.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Do not train someone into a job you have not written.** If the manager cannot point to a one-page job, a credit rule, a CRM status list, and an AE handoff definition, the new hire will fill the blanks. Their blanks will not match yours.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 Do these in order. The sequence is the method. Mixing “go book meetings” with “we will explain CRM later” is how garbage enters the calendar.
 
-### Step 1: write the job before day one
+<a id="step-1-write-the-job-before-day-one"></a>
+
+### Step 1: Explain the role before day one
 
 Onboarding fails in the week *before* start, when nobody can answer the new hire’s first four questions.
 
@@ -48,7 +52,9 @@ Write, on one page:
 
 If you cannot finish the page, you are not ready to hire. You are still designing the motion.
 
-### Step 2: put the number in writing—including the ugly parts
+<a id="step-2-put-the-number-in-writingincluding-the-ugly-parts"></a>
+
+### Step 2: Explain targets and compensation
 
 Activity without a number is theater. A number without a day-in-the-life is cruelty.
 
@@ -62,7 +68,9 @@ Train these as one block, not as HR trivia at the end:
 
 A hire who cannot explain quota and credit by the end of week one is not ramping. They are guessing.
 
-### Step 3: CRM is the law, not a filing cabinet
+<a id="step-3-crm-is-the-law-not-a-filing-cabinet"></a>
+
+### Step 3: Teach the CRM process
 
 If two SDRs would treat the same inbound lead differently, you do not have rules of engagement. You have folklore.
 
@@ -76,7 +84,9 @@ Teach until they can do it without a manager in the chair:
 
 Do not graduate them to live sequences until they can change a status, log the next step, and explain *why* the record looks like that.
 
-### Step 4: the meeting is the product—train the last mile first
+<a id="step-4-the-meeting-is-the-producttrain-the-last-mile-first"></a>
+
+### Step 4: Practise qualifying and handing over a meeting
 
 Sequences are easy to romanticize. The last mile is where the job is won or lost.
 
@@ -91,7 +101,9 @@ Before they run a 12-step cadences, they must be able to:
 
 The planned SDR-handoff page in this domain will go deeper on context. Until it exists, the briefing in step 5 *is* the handoff. A converted lead with no note is a meeting the AE will burn.
 
-### Step 5: then teach how they create the conversation
+<a id="step-5-then-teach-how-they-create-the-conversation"></a>
+
+### Step 5: Teach how to start conversations
 
 Now the motion. Split inbound and outbound qualification; they are not the same questions.
 
@@ -102,7 +114,9 @@ Now the motion. Split inbound and outbound qualification; they are not the same 
 
 If the sequence library is a junk drawer of 40 cadences, fix that before you train. Onboarding cannot rescue a messy system.
 
-### Step 6: show them how the company will look at them
+<a id="step-6-show-them-how-the-company-will-look-at-them"></a>
+
+### Step 6: Explain coaching and performance reviews
 
 People optimize the meeting they know is coming.
 
@@ -110,13 +124,17 @@ People optimize the meeting they know is coming.
 - **Their own dashboards.** “How do I see meetings I set?” and “How do I see activity?” should have one canonical answer each. If the answer is “export from three tools,” you will train Excel heroes, not SDRs.
 - **Leaderboards, games, SPIFs.** Optional spice. If the leaderboard is the only scoreboard, you will get sandbagging and junk meetings. Put them after the real metrics, or skip them until the job is stable.
 
-### Step 7: ramp is a calendar, not a vibe
+<a id="step-7-ramp-is-a-calendar-not-a-vibe"></a>
+
+### Step 7: Set a dated ramp plan
 
 Write the weeks. Example shape (invented, not a law): week 1 = job + number + CRM sandbox; week 2 = last-mile meeting + listen to live calls; week 3 = live inbound or a tiny outbound slice with a manager on the first ten; weeks 4–8 = full motion with quota ramped; certification = they can explain credit, statuses, and a handoff on a real record without notes.
 
 Shadowing is a method *inside* a week, not a substitute for the curriculum. “Sit with Jordan” is not a syllabus unless Jordan is teaching from the same written job.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Two SDRs. Inbound demo requests plus a small outbound slice on a named list. One AE. CRM is the system of record; a sales-engagement tool runs the sequences.
 
@@ -169,7 +187,9 @@ Copy the empty fields. Do not copy the “8 meetings” as a benchmark.
 - Certification owner and date:
 - First PIP-eligible date (must be after certification, or write why not):
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The job, number, and CRM statuses exist as documents a hire can keep.
 - [ ] Compensation credit for a meeting matches what onboarding teaches.

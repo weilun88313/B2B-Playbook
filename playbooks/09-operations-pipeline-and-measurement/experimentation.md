@@ -2,11 +2,13 @@
 title: "Experimentation"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A go-to-market plan that has not named its assumptions is a speech. [GTM planning](gtm-planning.md) asks whether demand and capacity can produce the same number. This page asks **which belief we will try to disprove this quarter**, in a test small enough to finish, before we scale the campaign, the ICP slice, or the channel mix.
+A useful experiment helps you decide what to do next. Write down the assumption, the smallest reasonable test, and how you will interpret the result before you start. Record what happened so the next person does not have to repeat the same guess.
 
-This is not a statistics course, not a website CRO lab (that still lives with [website](../07-website-and-conversion/) when the page is the treatment), and not an excuse to run twelve “tests” that cannot change a decision. Attribution theater—one ROAS to rank a podcast against branded search—stays in [measurement model](measurement-model.md). Here the unit is a **hypothesis with an owner and a kill date**.
+![State an assumption; Run a small test; Decide and record what changed](../../assets/illustrations/experimentation.svg)
+
+*Reading guide: state an assumption → run a small test → decide and record what changed.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ This is not a statistics course, not a website CRO lab (that still lives with [w
 - Legal or privacy forbids the treatment. This page will not bless dark patterns or unconsented lists.
 - The request is “prove marketing with a multi-touch model.” That is a different job.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -31,13 +35,19 @@ This is not a statistics course, not a website CRO lab (that still lives with [w
 | **Signal** | Enough evidence to choose—not a perfect p-value |
 | **Learning log** | Dated record of hypothesis, result, and the GTM object it updates (ICP, message, channel, scoring) |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **One assumption per test, and a decision the result is allowed to change.** “We think this might work” is not a hypothesis. A test that cannot alter the plan is a campaign with extra slides. Do not A/B-test a strategy question (which ICP, which motion) as if it were a headline.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the assumption as a sentence you can be wrong about
+## How to do it
+
+<a id="step-1-write-the-assumption-as-a-sentence-you-can-be-wrong-about"></a>
+
+### Step 1: Write an assumption you can test
 
 Pull the hidden bets out of the annual plan: who the buyer is, which pain they will move for, which words they use, which channel they will answer. Isolate **one**.
 
@@ -49,7 +59,9 @@ Shapes that work:
 
 If you cannot name what would prove you wrong, you are still brainstorming.
 
-### Step 2: design for speed and a usable next step
+<a id="step-2-design-for-speed-and-a-usable-next-step"></a>
+
+### Step 2: Design a small, useful test
 
 Answer, on one card:
 
@@ -63,19 +75,25 @@ A two-week paid or email pair with a meeting KPI beats a six-month “brand stud
 
 A useful operating tempo—not a law: a few hypothesis-driven tests per quarter, each tied to a GTM object, beats a dashboard of leftover A/B tests nobody reads.
 
-### Step 3: run, then write what it *means*
+<a id="step-3-run-then-write-what-it-means"></a>
+
+### Step 3: Record the result and its meaning
 
 Collect the number **and** what sales heard. A higher CTR that produces worse meetings is a failed hypothesis if the decision was “which message we put in the pitch.”
 
 When it ends, write four lines: what we tested, what happened, what we now believe, **which artifact changes** (ICP tier, messaging hierarchy, channel mix, [lead scoring](lead-scoring.md) inputs). Tag the learning: segment / message / channel / motion. Do not let the result live in a Slack screenshot.
 
-### Step 4: scale only what you named as validated
+<a id="step-4-scale-only-what-you-named-as-validated"></a>
+
+### Step 4: Expand only after reviewing the evidence
 
 Scaling is not “do more of everything.” Promote a winning message into the core narrative. Promote a winning slice into tier criteria. Move spend toward a channel that produced the **sales-usable** step cheaper. Feed a behavioral signal into scoring only if you will inspect it—see [lead scoring](lead-scoring.md).
 
 A failed test that kills a bad ICP story is a win. Celebrate learning velocity in the review, not only the variant that “won.”
 
-### Step 5: one log, shared, or you will re-run last year’s guess
+<a id="step-5-one-log-shared-or-you-will-re-run-last-years-guess"></a>
+
+### Step 5: Keep a shared experiment log
 
 Marketing, sales, and product put hypotheses in the same ledger. Airtable vs Notion vs a Sheet is a tooling choice; the requirement is **one** list of in-flight and closed tests. If [MarTech governance](martech-governance.md) later buys a testing SKU, it still writes into this log.
 
@@ -83,7 +101,9 @@ Hold a **weekly experiment review** that only asks: what closed, what did we bel
 
 Name each bet as **engine** (a loop that can compound), **lubricant** (makes the engine cheaper), or **turbo** (a one-off). A calendar of only turbos is a launch habit, not a system. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) still names the primary motion; this page refuses to optimize a motion you have not chosen.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist cybersecurity. Not your vertical.
 
@@ -110,7 +130,9 @@ Sales-assist cybersecurity. Not your vertical.
 
 Working file: [gtm-experiment-ledger.xlsx](../../templates/gtm-experiment-ledger.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The hypothesis names one assumption and a falsifier.
 - [ ] A GTM decision is written before launch.

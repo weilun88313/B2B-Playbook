@@ -3,11 +3,13 @@ title: "Revenue churn"
 sidebarTitle: "Revenue Churn"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-Logo count going down is one story. **Revenue** leaving the book is another. [Customer success](customer-success.md) runs the book. [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) already refuses to let new logo hide a leak. This page is the shared language: **gross** vs **net** revenue churn—so Finance and CS cannot “win” by picking the prettier fraction.
+Revenue can grow while existing customers are quietly leaving or spending less. Separate lost revenue, downgrades, and expansion so you can see what is happening. Use gross and net retention together, with the same starting customer group and period.
 
-This is not a ChartMogul tutorial, not a price book, and not a promise that negative churn is normal.
+![Lost revenue + downgrades; The same starting cohort; Expansion shown separately](../../assets/illustrations/revenue-churn.svg)
+
+*Reading guide: lost revenue + downgrades · the same starting cohort · expansion shown separately.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not a ChartMogul tutorial, not a price book, and not a promise that nega
 - You need the year-capacity model. That is [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md).
 - Legal revenue recognition is the request. Qualified owners.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,32 +38,46 @@ This is not a ChartMogul tutorial, not a price book, and not a promise that nega
 
 Write MRR or ARR and stick to it. Do not mix monthly medians with annual speeches.
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Always show gross next to net.** Net can look like health while the product is leaking. Gross is the leak. Net is whether the remaining customers paid for that leak. Negative net is an **expansion loop**, not a slogan you put on a hiring deck.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: freeze the five movements
+## How to do it
+
+<a id="step-1-freeze-the-five-movements"></a>
+
+### Step 1: Define the revenue movements
 
 For the period: new business, expansion, contraction, churn (cancel), reactivation. Same starting balance. Same currency. If a movement cannot be tied to a customer, it does not belong in the speech.
 
-### Step 2: compute both rates, in writing
+<a id="step-2-compute-both-rates-in-writing"></a>
+
+### Step 2: Calculate gross and net measures
 
 Gross = (churn + contraction) / start.  
 Net = (churn + contraction − expansion − reactivation) / start.
 
 If you only report net, you are choosing the coat of paint. If you only report logos, a whale downgrade is invisible.
 
-### Step 3: do not borrow a “good” rate
+<a id="step-3-do-not-borrow-a-good-rate"></a>
+
+### Step 3: Compare rates in the right context
 
 Median-by-ARR-band tables on a metrics vendor’s site are **their** sample, **their** month, **their** mix of PLG and sales-led. Early-stage companies churn more; higher ARPA often churns less. That is a shape, not your target. Write *your* start-of-period book, *your* term, *your* segment. Then compare to last period—not to a chart that says 40% of $15–30M companies have negative churn.
 
-### Step 4: assign the leak a job
+<a id="step-4-assign-the-leak-a-job"></a>
+
+### Step 4: Assign an owner to each problem
 
 Gross up → product, onboarding, packaging, or ICP. See [customer onboarding](customer-onboarding.md) and [customer success](customer-success.md). Net rescued only by expansion → you are growing the survivors; you have not fixed who leaves. Put that sentence in [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) so new-logo quota is not a cover story.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist ops tool. Start MRR $100. Not a benchmark.
 
@@ -88,7 +106,9 @@ We will not tell the board “churn is 10%” without the 20%.
 
 Working file: [revenue-churn.md](../../templates/revenue-churn.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] CS and Finance use the same five movements.
 - [ ] Gross and net are both on the slide.

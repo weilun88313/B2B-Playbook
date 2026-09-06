@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Worth doing?; Tier and alignment; Story](../assets/illustrations/worksheet-product-launch.svg)
+
 ## Worth doing?
 
 - Change in one sentence:

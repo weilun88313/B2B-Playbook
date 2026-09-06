@@ -3,13 +3,13 @@ title: "Comparison page"
 sidebarTitle: "Comparison Page"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A comparison page that always crowns you is a brochure with a table. [Positioning](../02-product-marketing/positioning.md) already owns the outline. [Content strategy](../03-brand-story-and-content/content-strategy.md) decides **whether** the page exists and **which** alternative it covers. This page owns the **public URL**: how to write it so a champion can forward it into an evaluation thread without being embarrassed.
+Buyers comparing products need a fair explanation of the trade-offs. Show where each option fits, back up specific claims, and explain the work involved in switching. A page that admits when another option is better is more useful than a table where you win every row.
 
-Create the page only when the alternative appears repeatedly in live deals. A famous vendor you never lose to is a slide habit, not a decision page.
+![Where each option fits; Evidence for the differences; What switching involves](../../assets/illustrations/comparison-page.svg)
 
-This is not competitive intelligence, not a feature matrix for the sales deck, and not a legal opinion on naming competitors.
+*Reading guide: where each option fits · evidence for the differences · what switching involves.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not competitive intelligence, not a feature matrix for the sales deck, a
 - Legal or brand has forbidden naming that company and you have not agreed a category-level frame instead.
 - You need the commercial number. That is the [pricing page](pricing-page.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,17 +36,25 @@ This is not competitive intelligence, not a feature matrix for the sales deck, a
 | **Honest trade-off** | A sentence where the other option is stronger |
 | **Switching path** | What changes and what remains; “rip and replace” is a claim, not a default |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Name where the other option wins.** If every cell crowns you, a champion cannot use the page. Refusing the other side’s strengths is how comparison pages get ignored.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: earn the URL from deals, not from a competitor slide
+## How to do it
+
+<a id="step-1-earn-the-url-from-deals-not-from-a-competitor-slide"></a>
+
+### Step 1: Choose a comparison buyers actually ask for
 
 Write: *in the last ten serious conversations, they already had [alternative] on the short list because [evidence].* If the name comes from a market-map workshop, stop. One page per repeating alternative. “Us vs the category” is a different page, and usually weaker.
 
-### Step 2: use the outline; do not invent a new shape
+<a id="step-2-use-the-outline-do-not-invent-a-new-shape"></a>
+
+### Step 2: Use a clear comparison outline
 
 From [positioning](../02-product-marketing/positioning.md#comparison-page-outline):
 
@@ -59,19 +69,27 @@ From [positioning](../02-product-marketing/positioning.md#comparison-page-outlin
 
 The short answer must include a line where **they should keep the alternative**. If you cannot write that line, you do not understand the deal yet.
 
-### Step 3: score jobs, not feature counts
+<a id="step-3-score-jobs-not-feature-counts"></a>
+
+### Step 3: Compare jobs and trade-offs
 
 A 40-row feature table trains the buyer to pick the longer checklist. Use five to seven criteria the committee already argues. For each: current alternative / your approach / evidence still missing. Missing evidence stays visible. Inventing a checkmark is a claims incident.
 
-### Step 4: write the switching path as operations, not as victory
+<a id="step-4-write-the-switching-path-as-operations-not-as-victory"></a>
+
+### Step 4: Explain the switching process
 
 What data moves. What stays. Who owns the week of cutover. What they can leave alone. “Zero disruption” is a slogan unless you can name the week.
 
-### Step 5: attach one next step a human can take
+<a id="step-5-attach-one-next-step-a-human-can-take"></a>
+
+### Step 5: Offer a relevant next step
 
 A scoped walkthrough of *their* comparison, a security packet, or “forward this table to [seat].” “Contact us” is not a decision-specific action.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Same Help Scout *shape* used on positioning (not a claim about that company’s page): shared inbox vs a customer-service platform, champion = head of support.
 
@@ -100,7 +118,9 @@ Short answer the page must be willing to print: *keep the inbox if volume is low
 
 Working file: [comparison-page.md](../../templates/comparison-page.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The alternative appeared in live deals, not only on a slide.
 - [ ] The page states who should *not* buy you.

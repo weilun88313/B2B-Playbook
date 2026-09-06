@@ -3,13 +3,13 @@ title: "Measurement model"
 sidebarTitle: "Measurement Model"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A dashboard that assigns every dollar of pipeline to a UTM is not a measurement model. It is a story the pixel can tell. This page decides **which decisions each metric is allowed to support**—and which questions require a human, an experiment, or a longer clock.
+Analytics can show a recorded click path, while buyers may tell you a different story about how they found you. Keep both views. Use tracking for what it can observe, ask buyers directly, and use experiments for questions that attribution cannot settle.
 
-[Channel strategy](../04-channels-and-distribution/channel-strategy.md) splits motions. [Paid media](../04-channels-and-distribution/paid-media.md) splits creation from capture. [Experimentation](experimentation.md) kills a belief. Measurement is the **scoreboard architecture** those pages share. Attribution as a multi-touch math product remains planned; do not wait for it. You can run this page with a form field and two reviews.
+![What tracking records; Read the differences; What buyers tell you](../../assets/illustrations/measurement-model.svg)
 
-This is not a BI tool bake-off, not legal privacy counsel, and not a promise that hybrid data proves causality.
+*Reading guide: what tracking records · read the differences · what buyers tell you.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not a BI tool bake-off, not legal privacy counsel, and not a promise tha
 - You need next year’s capacity math. That is [GTM planning](gtm-planning.md).
 - The request is to implement a vendor’s multi-touch model as the source of truth.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -35,39 +37,55 @@ This is not a BI tool bake-off, not legal privacy counsel, and not a promise tha
 | **Self-reported (SRA)** | What the buyer says, in their words, when asked |
 | **Hybrid** | Read both. Do not average them into one fake ROAS |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Software measures capture paths; humans measure creation paths; neither alone is the budget.** If you only have UTMs, you will over-fund search and retargeting. If you only have stories, you will fund vibes. Ask on the high-intent form, keep the UTM, and refuse to pick a winner with one column.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: freeze two scoreboards before you buy another dashboard
+## How to do it
+
+<a id="step-1-freeze-two-scoreboards-before-you-buy-another-dashboard"></a>
+
+### Step 1: Keep channel tracking and buyer feedback separate
 
 Write which weekly review reads **capture** (qualified conversations, accept rate, capture CAC you actually believe) and which quarterly review reads **creation** (category reach/evenness if you pay for it, HDYHAU mix, branded search, sales “I have been seeing you”). The [CMO Scorecard](https://business.linkedin.com/advertise/resources/b2b-institute/cmo-scorecard?ref=b2b-playbook) is the public version of “creative and media inputs, long-horizon outcomes.” You do not need their product to refuse a 14-day CPL on a memory campaign.
 
 Kellblog-style board metrics (pipeline coverage, CAC payback, NRR) stay **company** numbers. Do not let a channel dashboard impersonate them.
 
-### Step 2: put open-text HDYHAU on declared-intent forms
+<a id="step-2-put-open-text-hdyhau-on-declared-intent-forms"></a>
+
+### Step 2: Ask buyers how they found you
 
 On [demo request](../07-website-and-conversion/demo-request.md) and other hand-raises: mandatory **free text**, no dropdown, no “Google / LinkedIn / Event” hints. Categorize after—string-match or a human pass. Prompting the list biases the study.
 
 Do not put HDYHAU on every content gate. You will train “idk” and you will think you measured demand.
 
-### Step 3: keep software fields honest and narrow
+<a id="step-3-keep-software-fields-honest-and-narrow"></a>
+
+### Step 3: Be clear about what software records
 
 UTMs: first meaningful marketing touch **and** the session that converted—both stored, neither holy. Source = the offer or destination when that is more predictive than the referring hostname (a Refine Labs ops note, not a law). Sales may overwrite with a human source only through a written rule; silent edits are how two truths appear.
 
 Last-touch and first-touch are **diagnostics**. They are not the budget.
 
-### Step 4: read the mismatch; do not reconcile it into one number
+<a id="step-4-read-the-mismatch-do-not-reconcile-it-into-one-number"></a>
+
+### Step 4: Investigate differences between the two views
 
 Hybrid means: *software says X, buyers say Y, here is what we will fund anyway.* Refine Labs’ public study (620 declared-intent conversions, twelve months, software vs SRA) reported a large gap on dark social—podcast was a majority of *their* self-reported revenue and ~0% of *their* software credit. That is **their** tape. Your mix will differ. The method is the mismatch review, not their 90%.
 
-### Step 5: send strategy questions to experiments, not to attribution
+<a id="step-5-send-strategy-questions-to-experiments-not-to-attribution"></a>
+
+### Step 5: Use experiments for causal questions
 
 “Does this channel work?” on a small, new buy is [experimentation](experimentation.md): hypothesis, kill date, decision. Multi-touch models will not save a campaign that never defined the job. Incrementality tests and holdouts beat another attribution schema when the spend is large enough to justify them.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist. Founder posts. Light search capture. No podcast yet.
 
@@ -92,7 +110,9 @@ Sales-assist. Founder posts. Light search capture. No podcast yet.
 
 Working file: [measurement-model.md](../../templates/measurement-model.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Two scoreboards are written; one weekly meeting does not mix them without a label.
 - [ ] HDYHAU is open text on declared intent.

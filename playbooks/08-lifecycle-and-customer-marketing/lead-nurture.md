@@ -3,13 +3,13 @@ title: "Lead nurture"
 sidebarTitle: "Lead Nurture"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A seven-email drip that restates the homepage and asks for a meeting in email three is not nurture. It is leftover demand-gen theater. This page is **how a known person who is not ready for a sales conversation keeps learning**—by state and by question—until a real signal says the job changed.
+Some people are interested but not ready to buy. Help them answer the next question instead of sending the same sales request on a timer. Use what they have asked or done to choose useful content, and hand over to a person when fit and intent are clear.
 
-[Content strategy](../03-brand-story-and-content/content-strategy.md) owns the URLs. [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) owns when a human is notified. Nurture is the **time in between**: education that does not pretend they are in-market, and a stop rule when they are.
+![Understand the current question; Send a useful answer; Recognise when help is wanted](../../assets/illustrations/lead-nurture.svg)
 
-This is not post-sale onboarding, not lifecycle email for customers, and not a HubSpot drip template.
+*Reading guide: understand the current question → send a useful answer → recognise when help is wanted.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not post-sale onboarding, not lifecycle email for customers, and not a H
 - You have no decision pages to send. Write [content strategy](../03-brand-story-and-content/content-strategy.md) first; a drip cannot invent the comparison.
 - Volume is small enough that a founder can write one useful note. Do that.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,13 +36,19 @@ This is not post-sale onboarding, not lifecycle email for customers, and not a H
 | **Useful send** | A URL or artifact they can use without buying you |
 | **MQL theater** | Points for opens and a meeting ask that ignores state |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Nurture the state, not the calendar.** If the next email would be the same on day 3 and day 90, you have a broadcast. If every email asks for a meeting, you have outbound with extra steps. The 95% who are out-of-market need memory and teaching; the 5% who just hit pricing need a human, not email seven.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write states before you write emails
+## How to do it
+
+<a id="step-1-write-states-before-you-write-emails"></a>
+
+### Step 1: Define customer situations before messages
 
 Minimum set:
 
@@ -53,27 +61,37 @@ Minimum set:
 
 If you cannot put a person in one row, do not automate them.
 
-### Step 2: ungated by default; gate only an exchange that is worth it
+<a id="step-2-ungated-by-default-gate-only-an-exchange-that-is-worth-it"></a>
+
+### Step 2: Choose when a form is justified
 
 Refine Labs / modern demand practice: stopping the market at a form to “generate MQLs” trains junk and hides whether the asset was any good. Default: the [comparison](../07-website-and-conversion/comparison-page.md) and category pages are public. Gate a working file or a data cut only when sales will actually use the submit—and even then, do not call the fill a meeting.
 
 Heinz-style ops language still applies: **entry criteria, owner, next action.** A nurture without an exit is a list tax.
 
-### Step 3: trigger off questions and behavior, not off “day 5”
+<a id="step-3-trigger-off-questions-and-behavior-not-off-day-5"></a>
+
+### Step 3: Respond to questions and behaviour
 
 Good triggers: they hit pricing; they asked a constraint question; a [buying signal](../05-outbound-and-prospecting/buying-signals.md) changed the week; they replied “not now, after Q3.” Bad triggers: opened email two; attended a webinar once; downloaded anything.
 
 One send per trigger, then silence unless the state changes. Frequency caps exist so you do not become the vendor they mute.
 
-### Step 4: hand to a human when intent and fit coincide
+<a id="step-4-hand-to-a-human-when-intent-and-fit-coincide"></a>
+
+### Step 4: Hand over when a person can help
 
 Fit without intent stays in known-not-evaluating. Intent without fit gets a polite redirect. Both together: notify per [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md), do not wait for the drip to finish.
 
-### Step 5: measure progression, not open rate
+<a id="step-5-measure-progression-not-open-rate"></a>
+
+### Step 5: Measure progress beyond email opens
 
 The question is: did a known person reach a decision page, a scoped request, or an honest not-now? Opens and click-throughs are diagnostics. They are not the program.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Webinar list of ops leads. Comparison page exists. Demo form is scoped.
 
@@ -98,7 +116,9 @@ Webinar list of ops leads. Comparison page exists. Demo form is scoped.
 
 Working file: [lead-nurture.md](../../templates/lead-nurture.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Decision pages exist; this program is not a substitute for them.
 - [ ] Every person can be placed in one state.

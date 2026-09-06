@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![Perception; Scene; Advantage check](../assets/illustrations/worksheet-founder-story.svg)
+
 ## Perception
 
 - Statement in the buyer’s mouth:

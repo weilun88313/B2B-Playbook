@@ -3,13 +3,13 @@ title: "Content strategy"
 sidebarTitle: "Content Strategy"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-A team can publish twice a week and still have nothing a champion can forward. Analytics look like growth. Sales still pastes the homepage into the evaluation thread and hopes. The champion still cannot answer “why not keep the spreadsheet” without booking another call.
+Start with the questions buyers ask before they choose a product. Decide which questions deserve a page, which ones matter most right now, and how people will find the answers. A publishing calendar comes after those choices.
 
-Content strategy is the decision of **which buyer questions get a durable URL, and in what order**, so the next meeting does not start from zero. Volume, calendars, and “thought leadership” are production systems. They become demand generation only when someone inside the account can use a page to explain the problem, compare a real alternative, or survive an internal objection.
+![Collect buyer questions; Publish useful answers; Help people find them](../../assets/illustrations/content-strategy.svg)
 
-This chapter assumes you already know who the champion is and what they would keep using if you vanished—[ICP](../01-strategy-and-buyers/icp.md) and [positioning](../02-product-marketing/positioning.md). If those are empty, a content engine will only scale confusion.
+*Reading guide: collect buyer questions → publish useful answers → help people find them.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This chapter assumes you already know who the champion is and what they would ke
 - The real goal is to replace outbound or a first conversation with a blog.
 - The request is “publish three times a week” with no decision question attached.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: steal the questions from live deals, not from a brainstorm
 
@@ -127,7 +129,9 @@ Keep the live map to eight rows or fewer. The filled example is in [How a finish
 
 - Order / buyer question / URL / primary seat / next step / status (repeat):
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Three or four perceptions exist; this asset ladders to one of them.
 - [ ] A GACCS exists: goal, audience, unique take, channels, stakeholders—or we wrote why this asset is exempt.

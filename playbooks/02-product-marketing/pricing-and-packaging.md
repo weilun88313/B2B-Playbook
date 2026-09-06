@@ -3,13 +3,13 @@ title: "Pricing and packaging"
 sidebarTitle: "Pricing and Packaging"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A year of free users who give generous product advice is a common way to delay the only question that matters: **who will pay, and for what?** Unpaid usage is a weak signal. People who will not pay still have opinions. Founders then underprice the thing they built, because “startup software should be cheap,” and spend a quarter designing four editions for a tenth customer who does not exist yet.
+Pricing is a conversation about value as well as a number. Work out what customers are buying, how you will charge for it, and what belongs in each package. Keep the first version simple enough to explain and revise it as you learn.
 
-Early B2B pricing is a learning system: charge soon enough to find who will pay, high enough to match value, simple enough to explain, and scheduled for revisit. It is not a four-tier spreadsheet that must survive the next decade.
+![Understand the value; Package the offer; Test willingness to pay](../../assets/illustrations/pricing-and-packaging.svg)
 
-Positioning names the alternative and the result. Pricing converts that result into a number a champion can defend. Complete [positioning](positioning.md) first so you are not discounting a slogan. If nobody loves the product in production, charging will not create [fit](../01-strategy-and-buyers/product-market-fit.md)—but refusing to charge will hide whether fit was ever going to include a buyer.
+*Reading guide: understand the value → package the offer → test willingness to pay.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ Positioning names the alternative and the result. Pricing converts that result i
 - Legal, tax, or public-procurement rules must set the offer. Get a qualified owner; this page is not legal or accounting advice.
 - The work is a full packaging redesign for a multi-product enterprise catalog. Start with [position the way you sell](positioning.md#step-8-position-the-way-you-sell), then return here for the commercial mechanic.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: charge sooner than feels polite
 
@@ -116,7 +118,9 @@ Kill units that are easy to bill and wrong to optimize. Copy: write your candida
 3. Which segment now needs a different door (self-serve vs sales-assist)—see [channel strategy](../04-channels-and-distribution/channel-strategy.md)?
 4. One change we will test on the **next** deals, not a rewrite of every contract.
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Someone has asked for money, not only for feedback.
 - [ ] The number is above the founder’s first gut, or a written reason explains why not.

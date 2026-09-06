@@ -3,11 +3,15 @@ title: "Working files"
 sidebarTitle: "Catalog"
 ---
 
+![Read the matching guide; Make a private working copy; Fill it with your evidence](assets/illustrations/working-files.svg)
+
 **Last reviewed:** 2026-09-03
 
 **Current coverage:** 56 working files
 
-These are original B2B Playbook blanks. Read the playbook, then fill the file. How to open them in Google Sheets, Docs, or Slides is in [`templates/README.md`](templates/README.md). License: you may make a **private operating copy** for your own GTM work; you may not republish the set. See [LICENSE](LICENSE).
+Use these files to turn a guide into work you can share with your team. Choose a brief, worksheet, or spreadsheet, make a private copy, and fill it with your own information. The matching playbook explains how to use it.
+
+For Google Sheets, Docs, and Slides, see [how to use the files](templates/README.md). You may make a **private working copy**; republishing the set requires permission. See the [reuse terms](LICENSE).
 
 Google “Make a copy” URLs are added here only after the owner publishes a view-only original. Until then, download from GitHub.
 

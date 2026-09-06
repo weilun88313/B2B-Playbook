@@ -11,6 +11,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
+![The pair; Boundaries; Fuel and engine](../assets/illustrations/worksheet-wedge.svg)
+
 ## The pair
 
 - Audience (seat + company type):

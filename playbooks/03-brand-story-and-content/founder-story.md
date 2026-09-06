@@ -3,13 +3,13 @@ title: "Founder story"
 sidebarTitle: "Founder Story"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-A biography on `/about` and a founder who pastes the blog into LinkedIn are both “founder content.” Neither is a story. This page is **which lived experience makes the founder’s point of view relevant**—so a buyer can repeat it, and so [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md) has something to say that is not a feature announcement.
+The useful part of a founder story is the experience behind a point of view. What did you see, try, or learn that explains why you built this product? Tell that story plainly, including the details that make it yours.
 
-[Messaging](../02-product-marketing/messaging.md) owns the product hierarchy. [Content strategy](content-strategy.md) owns which questions get a URL. The founder story is one **perception** the person can actually tell. If they will not tell it, it is not a [marketing advantage](../04-channels-and-distribution/channel-strategy.md).
+![What you experienced; What you learned; Why it matters now](../../assets/illustrations/founder-story.svg)
 
-This is not an origin-myth workshop, not a ghostwritten “journey,” and not thought leadership (still planned). Thought leadership is an original idea the market did not have. A founder story is a life the founder did have.
+*Reading guide: what you experienced → what you learned → why it matters now.*
 
 ## Use this when
 
@@ -25,7 +25,9 @@ This is not an origin-myth workshop, not a ghostwritten “journey,” and not t
 - You need the feed mechanics. That is [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md).
 - You need a named customer’s result. That is a [case study](case-study.md).
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,11 +36,15 @@ This is not an origin-myth workshop, not a ghostwritten “journey,” and not t
 | **Advantage** | Founder distribution or founder/market fit *if* they will tell the story. Wish is not an advantage |
 | **Surface** | About page, first-meeting opener, a repeating organic idea—not twelve employee advocates |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **If it is still true with the product name removed, it can run. If only the founder could have lived it, it belongs here.** A feature list in first person is an ad. A childhood-to-Series-B reel with no buying job is theater.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: start from a perception, not from a timeline
 
@@ -74,7 +80,9 @@ A campaign still needs a [GACCS](../../templates/campaign-brief.md). The Goal is
 
 Do not ghostwrite a voice the person will not say on a call. Do not claim founder/market fit because the TAM slide says so. Do not use the founder story to paper over empty [messaging](../02-product-marketing/messaging.md).
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Founder ran customer ops. Alternative: shared inbox.
 
@@ -98,7 +106,9 @@ Founder ran customer ops. Alternative: shared inbox.
 
 Working file: [founder-story.md](../../templates/founder-story.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Positioning and a primary ICP exist.
 - [ ] The story ladders to one named perception, not a timeline.

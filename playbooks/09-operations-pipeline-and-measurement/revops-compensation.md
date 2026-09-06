@@ -3,11 +3,13 @@ title: "RevOps compensation"
 sidebarTitle: "Revops Compensation"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-Quota-carrying pay lives in [sales compensation](sales-compensation.md). This page is for the people who **design the system**—forecast hygiene, routing, credit, the CRM map—not a second hunter OTE on the same dollar. Paying RevOps like an AE (a bookings quota they do not own) is how you get quiet sabotage or quiet job hunting. Paying them a vague “company bonus, leadership discretion” is how a systems role learns the plan is theater.
+Revenue operations roles support many teams, so their incentives should reflect work they can influence. Choose a small number of measurable objectives, agree on how they will be assessed, and explain the payment schedule. Avoid copying a seller's commission plan without checking whether it fits.
 
-This is not a salary survey, not equity advice, and not employment law. Bands vary by city and stage. Get qualified counsel and a real market check before an offer.
+![Define the role's contribution; Agree on measurable objectives; Review and pay consistently](../../assets/illustrations/revops-compensation.svg)
+
+*Reading guide: define the role's contribution → agree on measurable objectives → review and pay consistently.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ This is not a salary survey, not equity advice, and not employment law. Bands va
 - You need seller clawbacks and draws. That is [incentive timing](incentive-timing.md).
 - People/HR or a works council must set the band. This page will not.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -31,13 +35,19 @@ This is not a salary survey, not equity advice, and not employment law. Bands va
 | **Scorecard** | Two to four MBOs with weights, a 100% definition, and a payout date |
 | **Discretion** | A bonus with no published rule. Treat it as a residual, not the plan |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Pay them for outcomes they can own.** Same neutrality as seller pay: if they do not control bookings, do not put most of variable on bookings. If the only lever is “Sales missed,” you trained them to argue with Sales instead of fixing the system. Skin in the game is a **scorecard**, not a second quota.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the job in one sentence
+## How to do it
+
+<a id="step-1-write-the-job-in-one-sentence"></a>
+
+### Step 1: Define the role's contribution
 
 *This person is paid to make ______ true every ______, measured as ______.*
 
@@ -50,7 +60,9 @@ Examples that work:
 
 If you cannot finish the sentence, you are hiring a helper, not designing pay.
 
-### Step 2: pick two to four MBOs, not a revenue clone
+<a id="step-2-pick-two-to-four-mbos-not-a-revenue-clone"></a>
+
+### Step 2: Choose a small set of measurable objectives
 
 Useful families (pick what this year actually needs):
 
@@ -62,21 +74,29 @@ Useful families (pick what this year actually needs):
 
 Company revenue can be a **small** kicker with a floor (they are not bankrupted by a miss they could not book). It should not be the only line. Subjective “leadership discretion” as the main variable is how fairness dies: the person cannot inspect the rule.
 
-### Step 3: pay on a clock they can see
+<a id="step-3-pay-on-a-clock-they-can-see"></a>
+
+### Step 3: Explain the payment schedule
 
 Quarterly (or monthly, if the MBOs are that granular) beats an annual surprise. Publish the scorecard with the plan. Changing MBO weights in November because Q3 missed is the same malpractice as rewriting AE accelerators in July.
 
 Document: weight, 100% definition, data source, who scores, payout date. If scoring is “we’ll know it when we see it,” it is discretion with extra steps.
 
-### Step 4: cash first, equity as a separate sentence
+<a id="step-4-cash-first-equity-as-a-separate-sentence"></a>
+
+### Step 4: Discuss cash and equity separately
 
 Equity can signal long-term ownership. It does not replace a readable cash plan. If the grant is small or illiquid, say so in the offer conversation; do not use it to paper over a mushy bonus. Geography and company size move cash bands; that is a market fact to check, not a table to copy from a vendor PDF.
 
-### Step 5: roll it out like seller pay, smaller
+<a id="step-5-roll-it-out-like-seller-pay-smaller"></a>
+
+### Step 5: Explain and review the plan with the team
 
 Managers (or the CRO) can explain the scorecard in one minute. The person acknowledges the written plan. Ops should be able to **see progress** the same way you wanted reps to see clawback risk: a dashboard, not a rumor.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 First RevOps manager, sales-assist, eight AEs. Not a survey band.
 
@@ -104,7 +124,9 @@ First RevOps manager, sales-assist, eight AEs. Not a survey band.
 - Where progress is visible:
 - Written plan + acknowledgment date:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The job sentence does not require them to close.
 - [ ] Two to four MBOs; each has a 100% definition and a source.

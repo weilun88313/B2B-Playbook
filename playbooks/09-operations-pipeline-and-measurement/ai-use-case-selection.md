@@ -3,11 +3,13 @@ title: "AI use-case selection"
 sidebarTitle: "AI Use Case Selection"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-Most AI programs fail the selection step, not the model. Someone forwards a demo. An investor sends a “interesting” SKU. The team starts three experiments and finishes none. Frontline people learn that last month’s tool is already forgotten. Then the next experiment is dead on arrival.
+Start with a task that is slow, costly, or frequently done badly, rather than with a new AI product. Compare an AI approach with simpler alternatives, estimate the benefit and effort, and choose a small test your team can actually adopt.
 
-[Experimentation](experimentation.md) is how a named bet is tested and killed. This page is **which bet deserves the team’s attention**—starting from a company problem, not from a product. [GTM AI maturity](gtm-ai-maturity.md) tells you whether you are ready to scale a channel; this page tells you whether the problem is even worth a workflow.
+![Name the work problem; Compare possible fixes; Choose a bounded test](../../assets/illustrations/ai-use-case-selection.svg)
+
+*Reading guide: name the work problem → compare possible fixes → choose a bounded test.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ Most AI programs fail the selection step, not the model. Someone forwards a demo
 - You need a bake-off once the job is named. That is [MarTech governance](martech-governance.md).
 - You need a custom GPT’s instruction skeleton. That is [ai-teammate-brief.md](../../templates/ai-teammate-brief.md)—after the job exists.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,21 +38,31 @@ Most AI programs fail the selection step, not the model. Someone forwards a demo
 | **Perspiration** | Total load: your team **and** RevOps, enablement, product marketing, legal. |
 | **Priority** | A conversation: expected value versus that load. Not a fake 7.3. |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Pick the problem first.** If you cannot name it in one sentence the CRO would recognize, you are shopping. A possibility that is only “try this model” is not a possibility. It is a catalog.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the problems that keep the number from landing
+## How to do it
+
+<a id="step-1-write-the-problems-that-keep-the-number-from-landing"></a>
+
+### Step 1: Name the business problems
 
 Three at most. Pipeline missing, quality rotting, hiring gap, cycle slipping, onboarding stalling—**this quarter**. Then ask why until you have a cause you can act on, not a slogan. “We need AI” is not a cause. “Qualified people never reach the case-study stage because we only post the role” is.
 
-### Step 2: list possibilities that are not all software
+<a id="step-2-list-possibilities-that-are-not-all-software"></a>
+
+### Step 2: Compare AI and non-AI options
 
 For each problem: outreach, a human hire, a process change, a compensation change, a page, an agent, a stop-doing. If the only row is a vendor, you jumped.
 
-### Step 3: score payoff, probability, perspiration in the same sitting
+<a id="step-3-score-payoff-probability-perspiration-in-the-same-sitting"></a>
+
+### Step 3: Estimate benefit, confidence, and effort
 
 **Payoff.** Is this a 5% lift you will not feel, or a change that would rewrite the plan? Demand a unit: pipeline, cycle days, hours returned *that you will reinvest*, win rate on a named slice. “Reps will be more productive” is not a payoff.
 
@@ -58,7 +72,9 @@ For each problem: outreach, a human hire, a process change, a compensation chang
 
 A useful comparison—not a law: *(payoff you believe × probability you believe) / perspiration*. If the high-payoff bets all have terrible probability given current load, **change the problem**. That is the framework working.
 
-### Step 4: win the adoption bet before the model bet
+<a id="step-4-win-the-adoption-bet-before-the-model-bet"></a>
+
+### Step 4: Check whether the team can adopt the change
 
 The technology is usually less scarce than change. Principles that keep the frontline:
 
@@ -69,7 +85,9 @@ The technology is usually less scarce than change. Principles that keep the fron
 
 When the bet is chosen, it becomes a row in the [experiment ledger](experimentation.md): hypothesis, decision, kill date.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Sales-assist cybersecurity. Not Owner.com, not your vertical.
 
@@ -96,7 +114,9 @@ Sales-assist cybersecurity. Not Owner.com, not your vertical.
 
 Working file: [ai-use-case-score.xlsx](../../templates/ai-use-case-score.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] The problem is a company goal, not a vendor category.
 - [ ] At least one possibility is not software.

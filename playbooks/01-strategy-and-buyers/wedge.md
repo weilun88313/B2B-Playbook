@@ -2,13 +2,13 @@
 title: "Wedge"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
 
-[ICP](icp.md) says who may buy. A wedge is the **first niche you will actually win**: one audience plus one use case where the product is 10× better than the current way, then a planned expansion that uses that foothold instead of starting from scratch.
+A broad product still needs a specific starting point. Choose one group of buyers and one problem you can solve especially well. Then explain how winning there will help you reach the next group, instead of starting over each time.
 
-A homepage that markets the fundraise TAM is a pitch deck with CSS. Horizontal products still need a wedge. Vertical products still get too broad. Expansion that cannot name how the first niche helps the second is a second startup.
+![One audience; One urgent use case; An adjacent market](../../assets/illustrations/wedge.svg)
 
-This is not a catalog of every segment you might serve later, not the [first ten](first-ten-customers.md) handmade ring, and not [positioning](../02-product-marketing/positioning.md)—positioning frames the wedge; it does not pick it.
+*Reading guide: one audience · one urgent use case · an adjacent market.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This is not a catalog of every segment you might serve later, not the [first ten
 - Product-market fit for this niche is unproven. Climb [product-market fit](product-market-fit.md) before you scale the wedge’s engine.
 - The request is a TAM slide for investors. GTM TAM is narrower than the pitch TAM on purpose.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -34,11 +36,15 @@ This is not a catalog of every segment you might serve later, not the [first ten
 | **Expand** | Same audience, new use case—or same use case, new audience. The first niche must help |
 | **Stuck** | Still treating the first niche as the whole company after it is converting |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Win a niche, then use it to get the next one.** If the second segment needs a new story, a new engine, and a new proof set, you did not have a wedge. You had two bets.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: name the 10× pair, not the vision
 
@@ -79,7 +85,9 @@ Vertical products usually expand use cases inside the industry. Horizontal produ
 
 Do not wait until the first niche is “done.” Do not abandon it the week a board member wants a bigger TAM.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Queue software. Horizontal product. Pitch story is “every ops team.”
 
@@ -107,7 +115,9 @@ Public illustrations Kramer used for *expansion that used the first niche* (cap 
 
 Working file: [wedge.md](../../templates/wedge.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] [ICP](icp.md) canvas exists; this page does not invent a second profile.
 - [ ] The pair is audience **plus** use case, not a category name.

@@ -2,11 +2,13 @@
 title: "SEO and AEO"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-Search used to mean a list of links. Buyers increasingly ask a model a full question and get an answer with or without a click. [Content strategy](../03-brand-story-and-content/content-strategy.md) still decides **which questions get a durable URL**. This page decides **how that knowledge is findable**—on your site, in places models cite, and in the questions you actually test—without making sessions-in-GA the only scoreboard.
+Buyers look for answers in search engines and AI tools. Write clear pages that answer their real questions, make the underlying facts easy to verify, and keep those facts consistent across sources. Track whether relevant buyers find and use the content.
 
-This is not “SEO is dead,” not a promise that LLMs replace the website, and not a PR-agency pitch. [Channel strategy](channel-strategy.md) still names the primary motion. Answer-engine work is an amplifier on that motion, or a capture path if search is how demand already arrives.
+![Find real buyer questions; Publish clear answers; Check discovery and use](../../assets/illustrations/seo-and-aeo.svg)
+
+*Reading guide: find real buyer questions → publish clear answers → check discovery and use.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ This is not “SEO is dead,” not a promise that LLMs replace the website, and 
 - The goal is to replace outbound or the first meeting with a citation.
 - You need a legal opinion on training data or trademarks. Get qualified owners.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -31,13 +35,19 @@ This is not “SEO is dead,” not a promise that LLMs replace the website, and 
 | **Citation surface** | A place models and buyers actually read: your page, a review listing, a credible article, a forum thread you participate in |
 | **Zero-click** | The answer is consumed without a session on your site. Still a visibility event; not automatically a lead |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Document the questions your ICP asks, on surfaces a model can cite—then measure whether the answer is accurate, not only whether anyone clicked.** Volume of new posts is a last resort. Refresh, structure, and third-party corroboration beat a content mill. Clicks remain useful when the motion is inbound capture; they are a **partial** score when the buyer never leaves the chat.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: steal questions from deals, then from prompts
+## How to do it
+
+<a id="step-1-steal-questions-from-deals-then-from-prompts"></a>
+
+### Step 1: Collect questions from buyers
 
 Start with the same evaluation questions [content strategy](../03-brand-story-and-content/content-strategy.md) already ranked. Add the **full questions** a buyer would type into an assistant (“what is the best _____ for a team that still lives in _____”). Keywords still matter as vocabulary; they are not the brief.
 
@@ -45,7 +55,9 @@ Write a prompt test list and **freeze it**. Twenty to fifty high-intent question
 
 Citation share that moves to a decimal every month is not a KPI. Domains in answers churn; overlap across ChatGPT, Perplexity, and Overviews is thin. Measure **movement on a frozen set**, not a score that re-rolls.
 
-### Step 2: make owned pages answer-shaped
+<a id="step-2-make-owned-pages-answer-shaped"></a>
+
+### Step 2: Write pages that answer those questions
 
 For each question that deserves a URL: one primary question, clear headings, a short direct answer near the top, then the comparison or constraint the champion needs. Schema and formatting help machines parse; they do not replace a page that sales would paste.
 
@@ -59,7 +71,9 @@ Crawler hygiene is not a strategy, but missing it is a tax. Before you buy an �
 
 `llms.txt` and prompt-preset buttons are optional experiments. They do not replace rows 1–4 of the [content map](../03-brand-story-and-content/content-strategy.md).
 
-### Step 3: put the same facts where citations come from
+<a id="step-3-put-the-same-facts-where-citations-come-from"></a>
+
+### Step 3: Keep important facts consistent across sources
 
 Answer systems do not only scrape your `/blog`. They weigh reputation: reviews, analyst and press mentions, documentation others already trust. Treat those as **citation surfaces**, not as a random channel spree.
 
@@ -72,7 +86,9 @@ A practical stack to test (not a mandatory media plan):
 
 If you cannot name the surface and the fact it should repeat, you are “doing PR for AI” as a slogan.
 
-### Step 4: change the dashboard before the board meeting
+<a id="step-4-change-the-dashboard-before-the-board-meeting"></a>
+
+### Step 4: Update the metrics you review
 
 Executives still want revenue and CAC. Organic sessions and rankings no longer tell the whole visibility story when answers are zero-click. Last-click “AI referral” under-counts the job the way a Super Bowl QR code under-counts the ad. Add a **ladder** you can collect without pretending the top rung is pipeline:
 
@@ -86,11 +102,15 @@ Aggregate traffic can fall while the remaining visits convert harder. That is no
 
 Do not replace [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) with “share of AI answers.” Brand spend vs demand spend is a portfolio choice; AI search is not a reason to abandon rows 1–4 of the content map.
 
-### Step 5: refuse the two superstitions
+<a id="step-5-refuse-the-two-superstitions"></a>
+
+### Step 5: Avoid unsupported ranking shortcuts
 
 **Clicks-only:** you will under-invest in being cited. **Citations-only:** you will celebrate a mention that sends no one to a sales-usable next step. Hold both. The next step still lives on a URL, a review that names the category correctly, or a human conversation.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Ops-tool, sales-assist. Not a survey.
 
@@ -111,7 +131,9 @@ Ops-tool, sales-assist. Not a survey.
 
 Working file: [answer-visibility.xlsx](../../templates/answer-visibility.xlsx). Pages to write first: [content strategy](../03-brand-story-and-content/content-strategy.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Decision-page rows 1–3 exist or are explicitly deferred.
 - [ ] Critical answers exist in crawlable HTML; schema matches the page; robots.txt states an LLM-crawler policy.

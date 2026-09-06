@@ -3,11 +3,13 @@ title: "Sales operating cadence"
 sidebarTitle: "Sales Operating Cadence"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-A forecast meeting that also “does coaching” and also “talks pipe gen” is not efficient. It is three jobs sharing one hour so that two of them lose. [Forecasting](forecasting.md) designs the call. This page designs the **calendar**: which question gets its own meeting, on which week of the quarter, and what you will delete.
+Forecasting, pipeline creation, and coaching ask different questions. Give each a clear place in the team's calendar, with the right people and a useful output. Review the meeting load regularly so the schedule helps people sell rather than keeping them in meetings.
 
-This is GTM operations, not a close methodology and not a 40-slide operating system. If you need MEDDIC fields, write them on the opportunity—do not smuggle a qualification brand into a weekly standup.
+![Forecast: what will close?; Pipeline: what will come next?; Coaching: what can improve?](../../assets/illustrations/sales-operating-cadence.svg)
+
+*Reading guide: forecast: what will close? · pipeline: what will come next? · coaching: what can improve?.*
 
 ## Use this when
 
@@ -22,7 +24,9 @@ This is GTM operations, not a close methodology and not a 40-slide operating sys
 - The founder still sells three logos. A 13-week factory is costume. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
 - You need a 90-day *leader* plan. That is [sales-leadership ramp](sales-leadership-ramp.md). This page is the rhythm that leader installs—or refuses.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -31,13 +35,19 @@ This is GTM operations, not a close methodology and not a 40-slide operating sys
 | **Deal coaching** | Asks: *what unblocks these few deals?* Inspection of a handful, not a roll-call of the book |
 | **13-week clock** | One quarter treated as weeks you can schedule, not as a slogan |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **One meeting, one question.** If the agenda cannot finish that sentence, split the meeting or delete it. Mixing the three jobs is how pipe gen becomes a footnote, coaching becomes pep talk, and the forecast becomes the only ritual anyone still attends.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the three questions on the wall
+## How to do it
+
+<a id="step-1-write-the-three-questions-on-the-wall"></a>
+
+### Step 1: Separate forecasting, pipeline, and coaching
 
 Before you touch calendars, write:
 
@@ -47,7 +57,9 @@ Before you touch calendars, write:
 
 If your team cannot tell which question yesterday’s meeting answered, you do not have a cadence. You have a standing invite.
 
-### Step 2: put them on different clocks
+<a id="step-2-put-them-on-different-clocks"></a>
+
+### Step 2: Give each a suitable frequency
 
 A pattern that survives small teams:
 
@@ -57,7 +69,9 @@ A pattern that survives small teams:
 
 Weekly 1:1s are not a fourth job. They are where a manager applies those three questions to one person. If the 1:1 is only a private forecast, coaching still has no home.
 
-### Step 3: hang the quarter on 13 weeks
+<a id="step-3-hang-the-quarter-on-13-weeks"></a>
+
+### Step 3: Map the quarter's meetings
 
 Treat the quarter as a clock you can print:
 
@@ -67,17 +81,23 @@ Treat the quarter as a clock you can print:
 
 The point of 13 weeks is not a branded program. It is that week 11 is too late to discover you have no next-quarter pipeline, and week 1 is too early to skip the create plan because “we just kicked off.”
 
-### Step 4: delete meetings, then facilitate what remains
+<a id="step-4-delete-meetings-then-facilitate-what-remains"></a>
+
+### Step 4: Remove meetings that do not help
 
 Cadence fails in two directions: too few forums (everything lumped) and too many (nobody tells the truth). Delete the duplicate forecast standup. Name an owner for each remaining meeting. Time-box. Capture **actions** with an owner and a date; a notes doc without completion is a diary.
 
 Small teams collapse floors. One manager can run pipe-gen and forecast on different days, not in the same 45 minutes. Do not skip the job because headcount is four.
 
-### Step 5: protect coaching from the number
+<a id="step-5-protect-coaching-from-the-number"></a>
+
+### Step 5: Keep coaching focused on improvement
 
 The moment the forecast is light, coaching gets skipped. Write the coaching slot as a standing inspect of **two or three** deals, pre-read from the CRM, not a tour of every open opportunity. If conversation intelligence exists, it is a pre-read—see [MarTech governance](martech-governance.md)—not a reason to add a fourth weekly all-hands.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Eight AEs, one manager, ~45-day cycle. Not a headcount model.
 
@@ -104,7 +124,9 @@ Eight AEs, one manager, ~45-day cycle. Not a headcount model.
 
 Working file: [sales-cadence.xlsx](../../templates/sales-cadence.xlsx).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Each recurring sales meeting finishes one of the three questions, written on the invite.
 - [ ] Forecast and pipe-gen are not the same hour.

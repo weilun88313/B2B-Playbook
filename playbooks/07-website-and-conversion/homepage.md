@@ -2,13 +2,13 @@
 title: "Homepage"
 ---
 
-**Last reviewed:** 2026-09-02
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
 
-A homepage that “looks like a category leader” and still cannot answer *who this is for* in one scan is a brand surface. [Positioning](../02-product-marketing/positioning.md) owns the 10-second test. This page owns the **URL**: what a priority visitor must understand before they bounce, and which one next step the door is allowed to offer.
+A new visitor should be able to understand what you sell, who it helps, and where to go next. Write those answers before designing the page. Add proof near the claims it supports and link to the detail buyers need for a closer look.
 
-[Content strategy](../03-brand-story-and-content/content-strategy.md) decides which evaluation pages exist. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) decides whether that next step is signup, a scoped conversation, or “read the comparison.” The homepage does not invent a second story.
+![What is this for?; Why should I believe it?; What can I do next?](../../assets/illustrations/homepage.svg)
 
-This is not a campaign landing page, not a blog index, and not a product catalog.
+*Reading guide: what is this for? → why should I believe it? → what can I do next?.*
 
 ## Use this when
 
@@ -24,7 +24,9 @@ This is not a campaign landing page, not a blog index, and not a product catalog
 - You need the comparison, pricing, or demo path itself. Those are sibling pages in this domain.
 - The request is a visual-identity refresh with no message change.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -33,13 +35,19 @@ This is not a campaign landing page, not a blog index, and not a product catalog
 | **Constraint link** | Security, deployment, or implementation—linked, not sold as the reason to buy |
 | **Proof** | A dated, checkable fact a champion can defend—not a logo wall of companies you do not serve |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **One scan, one door.** If the first screen cannot name category, seat, alternative, result, and next step, do not add a second CTA, a chat pop-up, or a newsletter modal. Confusion is not “giving options.”
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: write the scan before you open Figma
+## How to do it
+
+<a id="step-1-write-the-scan-before-you-open-figma"></a>
+
+### Step 1: Write the main answers before designing
 
 A reader who never opens the blog should still identify:
 
@@ -61,7 +69,9 @@ Then pass the same screen a second time in four lines that a stranger can comple
 
 If those four lines contradict the 10-second scan, the scan is unfinished. Do not hide the product type so the page “feels premium.”
 
-### Step 2: match the door to the motion
+<a id="step-2-match-the-door-to-the-motion"></a>
+
+### Step 2: Match the next step to how customers buy
 
 | Primary motion | Homepage door |
 |---|---|
@@ -71,19 +81,27 @@ If those four lines contradict the 10-second scan, the scan is unfinished. Do no
 
 Two equal primary buttons (“Start free” and “Talk to sales”) usually mean the motion is unnamed. Pick one. Put the other in the header or below the fold.
 
-### Step 3: place proof where it earns the next click
+<a id="step-3-place-proof-where-it-earns-the-next-click"></a>
+
+### Step 3: Put evidence beside the claims it supports
 
 Above the fold: one specific result or one named constraint you will not hide. Below: two or three dated proofs a champion can forward—not a logo salad of brands outside the ICP. If sales will not paste a proof block into a thread, it is decoration.
 
-### Step 4: link the evaluation path; do not swallow it
+<a id="step-4-link-the-evaluation-path-do-not-swallow-it"></a>
+
+### Step 4: Link to deeper evaluation pages
 
 The homepage introduces. It does not replace the [comparison page](comparison-page.md), the [pricing page](pricing-page.md), or the [demo request](demo-request.md). Navigation should make those three findable in one click. A homepage that tries to be the comparison, the price book, and the blog is how buyers bounce to a competitor’s clearer URL.
 
-### Step 5: refuse the campaign takeover
+<a id="step-5-refuse-the-campaign-takeover"></a>
+
+### Step 5: Keep campaign promotions in proportion
 
 A product launch, a webinar, or a seasonal offer may earn a thin banner. It does not replace the scan. If the only way to understand the product this month is the campaign hero, you rented `/` to marketing ops.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 Ops lead. Alternative: a shared inbox plus a spreadsheet of SLAs. Motion: sales-assist.
 
@@ -113,7 +131,9 @@ Ops lead. Alternative: a shared inbox plus a spreadsheet of SLAs. Motion: sales-
 
 Working file: [homepage.md](../../templates/homepage.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Positioning worksheet is filled; this page does not invent a second story.
 - [ ] A stranger can complete the 10-second test without opening the blog.

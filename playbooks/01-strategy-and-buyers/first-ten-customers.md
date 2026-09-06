@@ -3,13 +3,13 @@ title: "First ten customers"
 sidebarTitle: "First Ten Customers"
 ---
 
-**Last reviewed:** 2026-08-29
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
-None of the ways you will get your first ten B2B customers will scale. That is why they work. Later you will name a [primary motion](../04-channels-and-distribution/channel-strategy.md). Now you are in hand-to-hand combat: a named person, a trust you already have or can earn, and a product unfinished enough that only trust gets it into production.
+Finding your first customers usually means doing the work yourself: asking for introductions, contacting specific people, and helping them get started. Begin with people who trust you, then test whether the same offer works with buyers who do not know you.
 
-This chapter sits after you can name an [ICP](icp.md). It sits before you treat [product-market fit](product-market-fit.md) as a ladder you are climbing. If you do not have a candidate, start at [idea discovery](idea-discovery.md). If the idea itself is still polite interest, stay in [idea validation](idea-validation.md). Ten logos that do not match the ICP, or ten friends who will never pay, do not count.
+![Existing trust; Introductions; Cold outreach](../../assets/illustrations/first-ten-customers.svg)
 
-The sequence is concentric circles. Start where trust is highest, then step outward only when the inner ring is exhausted or is lying to you.
+*Reading guide: existing trust · introductions · cold outreach.*
 
 ## Use this when
 
@@ -34,7 +34,9 @@ The sequence is concentric circles. Start where trust is highest, then step outw
 
 Everything below is that list with the rings filled in.
 
-## Operating method
+<a id="operating-method"></a>
+
+## How to do it
 
 ### Step 1: start with the people who already trust you
 
@@ -136,7 +138,9 @@ Friends who fail the ICP stay off the customer count. Zip-shaped test: mark whet
 - Paid, or still a favor:
 - Next ring we will open only if:
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Every name on this week’s list was checked against the ICP, including warm names.
 - [ ] We wrote whether friends are a *trust* test or a *guilt* test this month.

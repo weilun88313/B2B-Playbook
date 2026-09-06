@@ -3,11 +3,13 @@ title: "Review sites"
 sidebarTitle: "Review Sites"
 ---
 
-**Last reviewed:** 2026-08-30
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
 
-A G2 badge on the homepage and a quarterly “please review us” blast are not a program. [SEO and AEO](seo-and-aeo.md) already treats review listings as a **citation surface**. This page is **how authentic, buyer-visible reviews are earned, governed, and used**—without buying a rating or turning customers into a quota.
+Review sites help buyers hear from people who have used a product. Keep your listing accurate, invite honest feedback after customers have experienced value, and respond helpfully. Avoid treating the rating itself as the goal.
 
-This is not a G2/Gartner buy-guide, not a fake-review SOP, and not legal advice on endorsement rules.
+![Keep the listing accurate; Ask for honest feedback; Respond and learn](../../assets/illustrations/review-sites.svg)
+
+*Reading guide: keep the listing accurate → ask for honest feedback → respond and learn.*
 
 ## Use this when
 
@@ -23,7 +25,9 @@ This is not a G2/Gartner buy-guide, not a fake-review SOP, and not legal advice 
 - You intend to write reviews as the customer. Stop.
 - Category and comparison pages are empty and you want the profile to replace them.
 
-## Words you will use
+<a id="words-you-will-use"></a>
+
+## A few useful terms
 
 | Word | Meaning here |
 |---|---|
@@ -32,35 +36,51 @@ This is not a G2/Gartner buy-guide, not a fake-review SOP, and not legal advice 
 | **Citation** | How buyers and models find you *through* the listing |
 | **Incentive** | Anything of value for a review. Default: none. If legal allows something, write it; this page is not that opinion |
 
-## One rule
+<a id="one-rule"></a>
+
+## Keep this in mind
 
 **Ask after value, never for a score.** A review requested in week one, or while a save is open, is coercion. A review you drafted for them to paste is fraud. The unit is an honest public sentence from someone who did the work.
 
-## Operating method
+<a id="operating-method"></a>
 
-### Step 1: treat the listing as a citation surface, not as the website
+## How to do it
+
+<a id="step-1-treat-the-listing-as-a-citation-surface-not-as-the-website"></a>
+
+### Step 1: Keep the product listing accurate
 
 Fill category, alternative, and constraints so the profile does not contradict [positioning](../02-product-marketing/positioning.md). Link to the [comparison](../07-website-and-conversion/comparison-page.md) and [pricing](../07-website-and-conversion/pricing-page.md) you already own. Do not dump the homepage into the vendor’s CMS and call it done.
 
 [SEO and AEO](seo-and-aeo.md): models cite review pages. Keep facts accurate. Do not stuff keywords into fake “reviewer” copy.
 
-### Step 2: ask from realization, one at a time
+<a id="step-2-ask-from-realization-one-at-a-time"></a>
+
+### Step 2: Ask customers after they have received value
 
 Who: a champion who has used the product through a real job, not a procurement CC. When: after a dated result, not after a kickoff, not during a [renewal](../08-lifecycle-and-customer-marketing/renewal-marketing.md) fight. How: a short human note—what to compare against, that honesty includes the hard parts. Volume targets (“12 this quarter”) recreate the blast.
 
-### Step 3: respond in public like an operator
+<a id="step-3-respond-in-public-like-an-operator"></a>
+
+### Step 3: Respond helpfully to reviews
 
 Thank, correct facts, take product issues offline. Do not argue a 3-star into a 5. Do not offer a discount in the reply. A pattern of defensive replies is a [CS](../08-lifecycle-and-customer-marketing/customer-success.md) signal.
 
-### Step 4: use reviews as proof, not as the campaign
+<a id="step-4-use-reviews-as-proof-not-as-the-campaign"></a>
+
+### Step 4: Use reviews as supporting evidence
 
 A line a champion already wrote can sit on the [homepage](../07-website-and-conversion/homepage.md) or a [case study](../03-brand-story-and-content/case-study.md) **with permission**. Buying a “best of” badge as the quarter’s story is [paid media](paid-media.md) capture theater unless the listing already has enough authentic volume to survive a click-through.
 
-### Step 5: refuse the marketplace that sells the rating
+<a id="step-5-refuse-the-marketplace-that-sells-the-rating"></a>
+
+### Step 5: Avoid programs that promise a rating
 
 If the motion is “pay to place” or “guaranteed stars,” you are buying advertising. Call it that on [paid media](paid-media.md). Do not file it under advocacy.
 
-## Teaching fill (invented—not a customer)
+<a id="teaching-fill-inventednot-a-customer"></a>
+
+## Worked example (illustrative)
 
 | Field | Fill |
 |---|---|
@@ -82,7 +102,9 @@ If the motion is “pay to place” or “guaranteed stars,” you are buying ad
 
 Working file: [review-sites.md](../../templates/review-sites.md).
 
-## Pre-flight checklist
+<a id="pre-flight-checklist"></a>
+
+## Before you start
 
 - [ ] Realization exists for anyone we ask.
 - [ ] We do not draft their review.
