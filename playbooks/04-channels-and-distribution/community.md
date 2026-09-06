@@ -7,7 +7,7 @@ sidebarTitle: "Community"
 
 Your buyers may already learn from each other in a professional group, forum, or industry community. Find those places and contribute something useful before asking for attention. This guide covers participating in an existing community, rather than starting your own.
 
-![Listen to the group; Contribute useful work; Build relationships](../../assets/illustrations/community.svg)
+![Listen to the group; Contribute useful work; Build relationships](../../assets/illustrations/community.webp)
 
 *Reading guide: listen to the group · contribute useful work · build relationships.*
 

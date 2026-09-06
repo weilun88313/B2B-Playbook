@@ -7,7 +7,7 @@ sidebarTitle: "ABM Strategy"
 
 Account-based marketing puts extra effort into a selected group of companies. Choose that group based on fit and the time your team can realistically spend, then agree with sales on what each account will receive and what progress looks like.
 
-![Choose the accounts; Match effort to value; Review account progress](../../assets/illustrations/abm-strategy.svg)
+![Choose the accounts; Match effort to value; Review account progress](../../assets/illustrations/abm-strategy.webp)
 
 *Reading guide: choose the accounts → match effort to value → review account progress.*
 

@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Why this route; Touches; Caps](../assets/illustrations/worksheet-linkedin-outbound.svg)
+![Why this route; Touches; Caps](../assets/illustrations/worksheet-linkedin-outbound.webp)
 
 ## Why this route
 

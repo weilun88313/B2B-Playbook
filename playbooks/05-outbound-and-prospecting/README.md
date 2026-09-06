@@ -6,7 +6,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 
 **Last reviewed:** 2026-09-06
 
-![Research the account; Write a relevant approach; Learn from the response](../../assets/illustrations/05-outbound-and-prospecting.svg)
+![Research the account; Write a relevant approach; Learn from the response](../../assets/illustrations/05-outbound-and-prospecting.webp)
 
 ## Start here
 

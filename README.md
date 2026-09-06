@@ -2,7 +2,7 @@
 
 Practical guides for finding customers, explaining your product, and building a B2B marketing team that learns.
 
-![Understand your buyers, help them choose, and learn from what happens.](assets/illustrations/library.svg)
+![Understand your buyers, help them choose, and learn from what happens.](assets/illustrations/library.webp)
 
 **[Read the library on Mintlify](https://b2-b-playbook.mintlify.app)** · [中文简介](README.zh.md) · [Browse the playbooks](playbooks/)
 

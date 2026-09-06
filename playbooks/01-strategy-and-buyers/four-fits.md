@@ -6,7 +6,7 @@ title: "Four Fits"
 
 Customers may want your product while the business still struggles to grow. Check whether your market, product, acquisition channel, and pricing model work together. For example, an expensive sales process needs a price that can support it.
 
-![Market + product; Product + channel; Channel + model](../../assets/illustrations/four-fits.svg)
+![Market + product; Product + channel; Channel + model](../../assets/illustrations/four-fits.webp)
 
 *Reading guide: market + product · product + channel · channel + model.*
 

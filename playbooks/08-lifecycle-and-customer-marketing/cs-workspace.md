@@ -7,7 +7,7 @@ sidebarTitle: "CS Workspace"
 
 A customer success workspace should answer the questions your team asks every week. Where is each account in its journey? Who owns the next action? What value has the customer received, and what needs attention? Design fields and views around those questions.
 
-![Customer progress; Risks and renewal dates; Owners and next actions](../../assets/illustrations/cs-workspace.svg)
+![Customer progress; Risks and renewal dates; Owners and next actions](../../assets/illustrations/cs-workspace.webp)
 
 *Reading guide: customer progress · risks and renewal dates · owners and next actions.*
 

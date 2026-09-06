@@ -7,7 +7,7 @@ sidebarTitle: "Account Research"
 
 Research should help you decide whether an account is worth contacting and what to say. Collect a few relevant facts, record where they came from, and separate what you know from what you suspect. Stop when you can make a useful next decision.
 
-![Start with a question; Gather dated evidence; Contact, wait, or pass](../../assets/illustrations/account-research.svg)
+![Start with a question; Gather dated evidence; Contact, wait, or pass](../../assets/illustrations/account-research.webp)
 
 *Reading guide: start with a question → gather dated evidence → contact, wait, or pass.*
 

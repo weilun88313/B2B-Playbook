@@ -7,7 +7,7 @@ sidebarTitle: "Comparison Page"
 
 Buyers comparing products need a fair explanation of the trade-offs. Show where each option fits, back up specific claims, and explain the work involved in switching. A page that admits when another option is better is more useful than a table where you win every row.
 
-![Where each option fits; Evidence for the differences; What switching involves](../../assets/illustrations/comparison-page.svg)
+![Where each option fits; Evidence for the differences; What switching involves](../../assets/illustrations/comparison-page.webp)
 
 *Reading guide: where each option fits · evidence for the differences · what switching involves.*
 

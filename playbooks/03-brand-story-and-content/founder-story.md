@@ -7,7 +7,7 @@ sidebarTitle: "Founder Story"
 
 The useful part of a founder story is the experience behind a point of view. What did you see, try, or learn that explains why you built this product? Tell that story plainly, including the details that make it yours.
 
-![What you experienced; What you learned; Why it matters now](../../assets/illustrations/founder-story.svg)
+![What you experienced; What you learned; Why it matters now](../../assets/illustrations/founder-story.webp)
 
 *Reading guide: what you experienced → what you learned → why it matters now.*
 

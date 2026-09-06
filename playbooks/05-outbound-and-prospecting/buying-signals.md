@@ -7,7 +7,7 @@ sidebarTitle: "Buying Signals"
 
 A new hire, a renewal date, or a change in technology can give you a reason to investigate an account. It does not prove the company wants to buy. Check the context, confirm another relevant fact, and decide whether the timing is useful.
 
-![Notice a change; Check its relevance; Decide when to act](../../assets/illustrations/buying-signals.svg)
+![Notice a change; Check its relevance; Decide when to act](../../assets/illustrations/buying-signals.webp)
 
 *Reading guide: notice a change → check its relevance → decide when to act.*
 

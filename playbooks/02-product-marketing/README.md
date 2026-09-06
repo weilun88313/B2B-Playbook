@@ -6,7 +6,7 @@ Turn what you know about customers into a clear offer. Work through positioning,
 
 **Last reviewed:** 2026-09-06
 
-![Explain the difference; Support it with evidence; Help buyers choose](../../assets/illustrations/02-product-marketing.svg)
+![Explain the difference; Support it with evidence; Help buyers choose](../../assets/illustrations/02-product-marketing.webp)
 
 ## Start here
 

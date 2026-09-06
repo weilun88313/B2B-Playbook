@@ -3,7 +3,7 @@ title: "Company use cases"
 sidebarTitle: "Company cases"
 ---
 
-![Understand the situation; Separate results from interpretation; Design your own small test](../assets/illustrations/company-cases.svg)
+![Understand the situation; Separate results from interpretation; Design your own small test](../assets/illustrations/company-cases.webp)
 
 **Last reviewed:** 2026-09-06
 

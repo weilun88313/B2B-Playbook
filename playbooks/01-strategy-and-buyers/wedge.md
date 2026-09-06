@@ -6,7 +6,7 @@ title: "Wedge"
 
 A broad product still needs a specific starting point. Choose one group of buyers and one problem you can solve especially well. Then explain how winning there will help you reach the next group, instead of starting over each time.
 
-![One audience; One urgent use case; An adjacent market](../../assets/illustrations/wedge.svg)
+![One audience; One urgent use case; An adjacent market](../../assets/illustrations/wedge.webp)
 
 *Reading guide: one audience · one urgent use case · an adjacent market.*
 

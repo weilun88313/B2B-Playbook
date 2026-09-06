@@ -7,7 +7,7 @@ sidebarTitle: "Budget & Planning"
 
 A marketing budget should show what the team plans to do and what it will take to do it. Build monthly costs from people, programs, and tools, compare that with the company's targets, and make the assumptions visible before committing the spend.
 
-![Plan the work; Price people and programs; Review spend against progress](../../assets/illustrations/budget-and-planning.svg)
+![Plan the work; Price people and programs; Review spend against progress](../../assets/illustrations/budget-and-planning.webp)
 
 *Reading guide: plan the work → price people and programs → review spend against progress.*
 

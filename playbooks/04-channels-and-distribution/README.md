@@ -6,7 +6,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 
 **Last reviewed:** 2026-09-06
 
-![Choose a main channel; Publish or participate; Learn what brings buyers](../../assets/illustrations/04-channels-and-distribution.svg)
+![Choose a main channel; Publish or participate; Learn what brings buyers](../../assets/illustrations/04-channels-and-distribution.webp)
 
 ## Start here
 

@@ -7,7 +7,7 @@ sidebarTitle: "Account Planning"
 
 An account plan helps everyone working with a customer see the same picture. Keep the business context, key people, open questions, and next actions in one place. Review it often enough that it stays useful for actual conversations.
 
-![Business context; People and relationships; Next actions and owners](../../assets/illustrations/account-planning.svg)
+![Business context; People and relationships; Next actions and owners](../../assets/illustrations/account-planning.webp)
 
 *Reading guide: business context · people and relationships · next actions and owners.*
 

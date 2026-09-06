@@ -6,7 +6,7 @@ title: "Ecosystem"
 
 Partners can help customers get more value from your product and make it easier for the right buyers to find you. Start with a complementary company and one useful joint activity. Make sure the customer, the partner, and your team each benefit.
 
-![Value for the customer; Value for the partner; Value for your company](../../assets/illustrations/ecosystem.svg)
+![Value for the customer; Value for the partner; Value for your company](../../assets/illustrations/ecosystem.webp)
 
 *Reading guide: value for the customer · value for the partner · value for your company.*
 

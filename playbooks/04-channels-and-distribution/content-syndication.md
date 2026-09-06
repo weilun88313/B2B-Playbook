@@ -7,7 +7,7 @@ sidebarTitle: "Content Syndication"
 
 Syndication can mean republishing content with a partner or paying a publisher to distribute an asset. This guide focuses on paid lead-generation programs: how to check the audience, test lead quality, and decide whether the results justify another purchase.
 
-![Check the audience; Test a small batch; Review lead quality](../../assets/illustrations/content-syndication.svg)
+![Check the audience; Test a small batch; Review lead quality](../../assets/illustrations/content-syndication.webp)
 
 *Reading guide: check the audience → test a small batch → review lead quality.*
 

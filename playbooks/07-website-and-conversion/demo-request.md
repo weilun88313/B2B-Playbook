@@ -7,7 +7,7 @@ sidebarTitle: "Demo Request"
 
 When someone requests a demo, tell them what will happen next. Ask only for information you will use, explain who will respond and when, and help the sales team prepare. The experience after submitting the form matters as much as the button.
 
-![Set expectations; Ask for useful details; Respond with context](../../assets/illustrations/demo-request.svg)
+![Set expectations; Ask for useful details; Respond with context](../../assets/illustrations/demo-request.webp)
 
 *Reading guide: set expectations → ask for useful details → respond with context.*
 

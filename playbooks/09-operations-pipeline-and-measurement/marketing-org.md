@@ -6,7 +6,7 @@ title: "Marketing org"
 
 Choose marketing roles around the work the company needs now. A first hire may need to research, write, and run a channel; a larger team can specialise. Make ownership clear and add people when there is enough important work for them to own.
 
-![Content and positioning; Channels and campaigns; Operations and measurement](../../assets/illustrations/marketing-org.svg)
+![Content and positioning; Channels and campaigns; Operations and measurement](../../assets/illustrations/marketing-org.webp)
 
 *Reading guide: content and positioning · channels and campaigns · operations and measurement.*
 

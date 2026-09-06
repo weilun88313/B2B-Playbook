@@ -5,7 +5,7 @@ sidebarTitle: "Buffer: syndication"
 
 **Company:** Buffer · **Motion:** Guest writing and syndication · **Last reviewed:** 2026-09-06
 
-![Write for other audiences; Build publisher relationships; Syndicate useful articles](../assets/illustrations/buffer-syndication.svg)
+![Write for other audiences; Build publisher relationships; Syndicate useful articles](../assets/illustrations/buffer-syndication.webp)
 
 ## Primary record
 

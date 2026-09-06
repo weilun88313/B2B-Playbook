@@ -7,7 +7,7 @@ sidebarTitle: "Sales Operating Cadence"
 
 Forecasting, pipeline creation, and coaching ask different questions. Give each a clear place in the team's calendar, with the right people and a useful output. Review the meeting load regularly so the schedule helps people sell rather than keeping them in meetings.
 
-![Forecast: what will close?; Pipeline: what will come next?; Coaching: what can improve?](../../assets/illustrations/sales-operating-cadence.svg)
+![Forecast: what will close?; Pipeline: what will come next?; Coaching: what can improve?](../../assets/illustrations/sales-operating-cadence.webp)
 
 *Reading guide: forecast: what will close? · pipeline: what will come next? · coaching: what can improve?.*
 

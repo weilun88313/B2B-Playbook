@@ -7,7 +7,7 @@ sidebarTitle: "Product Market Fit"
 
 Product-market fit is easier to discuss when you name the evidence. Are customers using the product, paying for it, staying with it, and bringing others in? Start with one customer group and track what improves before expanding to another.
 
-![Useful enough to use; Valuable enough to pay; Strong enough to retain](../../assets/illustrations/product-market-fit.svg)
+![Useful enough to use; Valuable enough to pay; Strong enough to retain](../../assets/illustrations/product-market-fit.webp)
 
 *Reading guide: useful enough to use → valuable enough to pay → strong enough to retain.*
 

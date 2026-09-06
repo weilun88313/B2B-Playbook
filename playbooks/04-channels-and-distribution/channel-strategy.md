@@ -7,7 +7,7 @@ sidebarTitle: "Channel Strategy"
 
 You cannot give every channel the same attention, especially with a small team. Start by looking at how your best customers already find and buy from you. Put most of your effort there, then test one additional channel with a clear budget and review date.
 
-![Where customers come from; What the team can run; Which channel to test](../../assets/illustrations/channel-strategy.svg)
+![Where customers come from; What the team can run; Which channel to test](../../assets/illustrations/channel-strategy.webp)
 
 *Reading guide: where customers come from → what the team can run → which channel to test.*
 

@@ -7,7 +7,7 @@ sidebarTitle: "Idea Discovery"
 
 You do not need a fully formed startup idea to begin. Start with a problem you have seen, a question you keep hearing, or a workaround people already pay for. This guide helps you turn those observations into a problem worth investigating.
 
-![Notice a problem; Find who has it; Choose what to test](../../assets/illustrations/idea-discovery.svg)
+![Notice a problem; Find who has it; Choose what to test](../../assets/illustrations/idea-discovery.webp)
 
 *Reading guide: notice a problem → find who has it → choose what to test.*
 

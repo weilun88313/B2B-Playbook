@@ -7,7 +7,7 @@ sidebarTitle: "Contact Data"
 
 A large contact database is not useful if it misses the people you need or gives you outdated details. Test providers on the same sample of target accounts, check the role and the contact information, and review how the data may be used.
 
-![Choose a target sample; Verify role and details; Compare usable coverage](../../assets/illustrations/contact-data.svg)
+![Choose a target sample; Verify role and details; Compare usable coverage](../../assets/illustrations/contact-data.webp)
 
 *Reading guide: choose a target sample → verify role and details → compare usable coverage.*
 

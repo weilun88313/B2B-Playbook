@@ -6,7 +6,7 @@ Choose the questions worth answering and the stories you can genuinely tell. Thi
 
 **Last reviewed:** 2026-09-06
 
-![Listen to buyer questions; Write from real experience; Build useful evidence](../../assets/illustrations/03-brand-story-and-content.svg)
+![Listen to buyer questions; Write from real experience; Build useful evidence](../../assets/illustrations/03-brand-story-and-content.webp)
 
 ## Start here
 

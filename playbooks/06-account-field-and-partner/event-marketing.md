@@ -7,7 +7,7 @@ sidebarTitle: "Event Marketing"
 
 An event is worth considering when the people you need to meet will be there and you have a useful reason to meet them. Decide whether to host, attend, sponsor, or skip before choosing a format. Plan the follow-up before the event starts.
 
-![Choose the right event; Arrange useful meetings; Follow up on agreements](../../assets/illustrations/event-marketing.svg)
+![Choose the right event; Arrange useful meetings; Follow up on agreements](../../assets/illustrations/event-marketing.webp)
 
 *Reading guide: choose the right event → arrange useful meetings → follow up on agreements.*
 

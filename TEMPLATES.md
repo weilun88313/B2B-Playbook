@@ -3,7 +3,7 @@ title: "Working files"
 sidebarTitle: "Catalog"
 ---
 
-![Read the matching guide; Make a private working copy; Fill it with your evidence](assets/illustrations/working-files.svg)
+![Read the matching guide; Make a private working copy; Fill it with your evidence](assets/illustrations/working-files.webp)
 
 **Last reviewed:** 2026-09-03
 

@@ -7,7 +7,7 @@ sidebarTitle: "Change Friction"
 
 A buyer can agree that your product is better and still decide to stay put. Switching takes time, creates risk, and affects other people. Make those costs visible so the buyer can compare the effort of changing with the cost of doing nothing.
 
-![Keep the current way; Understand the trade-off; Move to a new way](../../assets/illustrations/change-friction.svg)
+![Keep the current way; Understand the trade-off; Move to a new way](../../assets/illustrations/change-friction.webp)
 
 *Reading guide: keep the current way · understand the trade-off · move to a new way.*
 

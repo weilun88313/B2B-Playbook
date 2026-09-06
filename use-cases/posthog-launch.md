@@ -5,7 +5,7 @@ sidebarTitle: "PostHog: early launch"
 
 **Company:** PostHog · **Motion:** Developer launch · **Last reviewed:** 2026-09-06
 
-![Recruit early users; Make signup work unaided; Launch to a wider audience](../assets/illustrations/posthog-launch.svg)
+![Recruit early users; Make signup work unaided; Launch to a wider audience](../assets/illustrations/posthog-launch.webp)
 
 ## Primary record
 

@@ -7,7 +7,7 @@ sidebarTitle: "Idea Validation"
 
 People can like an idea without ever using or buying it. Before building more, find out how they handle the problem today and what they are willing to do differently. Look for commitments as well as encouraging feedback.
 
-![Understand the pain; Test a small offer; Look for commitment](../../assets/illustrations/idea-validation.svg)
+![Understand the pain; Test a small offer; Look for commitment](../../assets/illustrations/idea-validation.webp)
 
 *Reading guide: understand the pain → test a small offer → look for commitment.*
 

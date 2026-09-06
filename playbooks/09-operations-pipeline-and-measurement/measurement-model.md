@@ -7,7 +7,7 @@ sidebarTitle: "Measurement Model"
 
 Analytics can show a recorded click path, while buyers may tell you a different story about how they found you. Keep both views. Use tracking for what it can observe, ask buyers directly, and use experiments for questions that attribution cannot settle.
 
-![What tracking records; Read the differences; What buyers tell you](../../assets/illustrations/measurement-model.svg)
+![What tracking records; Read the differences; What buyers tell you](../../assets/illustrations/measurement-model.webp)
 
 *Reading guide: what tracking records · read the differences · what buyers tell you.*
 

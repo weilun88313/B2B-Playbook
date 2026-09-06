@@ -6,7 +6,7 @@ title: "SEO and AEO"
 
 Buyers look for answers in search engines and AI tools. Write clear pages that answer their real questions, make the underlying facts easy to verify, and keep those facts consistent across sources. Track whether relevant buyers find and use the content.
 
-![Find real buyer questions; Publish clear answers; Check discovery and use](../../assets/illustrations/seo-and-aeo.svg)
+![Find real buyer questions; Publish clear answers; Check discovery and use](../../assets/illustrations/seo-and-aeo.webp)
 
 *Reading guide: find real buyer questions → publish clear answers → check discovery and use.*
 

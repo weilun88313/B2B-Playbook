@@ -7,7 +7,7 @@ sidebarTitle: "Lead Nurture"
 
 Some people are interested but not ready to buy. Help them answer the next question instead of sending the same sales request on a timer. Use what they have asked or done to choose useful content, and hand over to a person when fit and intent are clear.
 
-![Understand the current question; Send a useful answer; Recognise when help is wanted](../../assets/illustrations/lead-nurture.svg)
+![Understand the current question; Send a useful answer; Recognise when help is wanted](../../assets/illustrations/lead-nurture.webp)
 
 *Reading guide: understand the current question → send a useful answer → recognise when help is wanted.*
 

@@ -7,7 +7,7 @@ sidebarTitle: "Lead Scoring"
 
 Lead scoring should help the team choose a next action. Keep account fit separate from buying intent, decide what each score triggers, and test the rules against real outcomes. A high score is not a substitute for knowing why someone needs help.
 
-![Does the account fit?; Is there buying intent?; What should happen next?](../../assets/illustrations/lead-scoring.svg)
+![Does the account fit?; Is there buying intent?; What should happen next?](../../assets/illustrations/lead-scoring.webp)
 
 *Reading guide: does the account fit? · is there buying intent? · what should happen next?.*
 

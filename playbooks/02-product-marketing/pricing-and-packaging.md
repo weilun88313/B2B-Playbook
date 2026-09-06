@@ -7,7 +7,7 @@ sidebarTitle: "Pricing and Packaging"
 
 Pricing is a conversation about value as well as a number. Work out what customers are buying, how you will charge for it, and what belongs in each package. Keep the first version simple enough to explain and revise it as you learn.
 
-![Understand the value; Package the offer; Test willingness to pay](../../assets/illustrations/pricing-and-packaging.svg)
+![Understand the value; Package the offer; Test willingness to pay](../../assets/illustrations/pricing-and-packaging.webp)
 
 *Reading guide: understand the value → package the offer → test willingness to pay.*
 

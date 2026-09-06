@@ -7,7 +7,7 @@ sidebarTitle: "Landing Page"
 
 A landing page continues a promise made somewhere else, such as an ad, email, or event invitation. Keep that promise clear and give the visitor one relevant next step. Match the page to the campaign without inventing a different product story.
 
-![The campaign promise; The evidence on the page; One relevant next step](../../assets/illustrations/landing-page.svg)
+![The campaign promise; The evidence on the page; One relevant next step](../../assets/illustrations/landing-page.webp)
 
 *Reading guide: the campaign promise → the evidence on the page → one relevant next step.*
 

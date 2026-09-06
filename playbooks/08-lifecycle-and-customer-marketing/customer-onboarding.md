@@ -7,7 +7,7 @@ sidebarTitle: "Customer Onboarding"
 
 Signing the contract is the start of another piece of work. Help the customer get set up, learn the product, and reach the result they bought it for. Agree on responsibilities and milestones early, and measure first value separately from technical setup.
 
-![Handoff and kickoff; Setup and learning; First useful result](../../assets/illustrations/customer-onboarding.svg)
+![Handoff and kickoff; Setup and learning; First useful result](../../assets/illustrations/customer-onboarding.webp)
 
 *Reading guide: handoff and kickoff → setup and learning → first useful result.*
 

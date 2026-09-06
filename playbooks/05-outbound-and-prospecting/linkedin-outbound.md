@@ -7,7 +7,7 @@ sidebarTitle: "LinkedIn outbound"
 
 Use LinkedIn outreach when it is a sensible way to reach this particular person. Read their work, find a genuine reason to contact them, and keep the message short. A connection request is an invitation, not permission for an automated sales sequence.
 
-![Read the person's work; Send a relevant note; Respect the response](../../assets/illustrations/linkedin-outbound.svg)
+![Read the person's work; Send a relevant note; Respect the response](../../assets/illustrations/linkedin-outbound.webp)
 
 *Reading guide: read the person's work → send a relevant note → respect the response.*
 

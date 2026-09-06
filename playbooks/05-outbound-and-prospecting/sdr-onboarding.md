@@ -7,7 +7,7 @@ sidebarTitle: "SDR Onboarding"
 
 A new sales development representative needs more than product slides and a list of accounts. Show what a qualified meeting looks like, how the team uses the CRM, and how they will practise outreach. Set a ramp plan with feedback at each stage.
 
-![Understand the job; Practise with feedback; Work independently](../../assets/illustrations/sdr-onboarding.svg)
+![Understand the job; Practise with feedback; Work independently](../../assets/illustrations/sdr-onboarding.webp)
 
 *Reading guide: understand the job → practise with feedback → work independently.*
 

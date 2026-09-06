@@ -7,7 +7,7 @@ sidebarTitle: "First Ten Customers"
 
 Finding your first customers usually means doing the work yourself: asking for introductions, contacting specific people, and helping them get started. Begin with people who trust you, then test whether the same offer works with buyers who do not know you.
 
-![Existing trust; Introductions; Cold outreach](../../assets/illustrations/first-ten-customers.svg)
+![Existing trust; Introductions; Cold outreach](../../assets/illustrations/first-ten-customers.webp)
 
 *Reading guide: existing trust · introductions · cold outreach.*
 

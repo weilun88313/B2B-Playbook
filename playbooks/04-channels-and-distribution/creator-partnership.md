@@ -7,7 +7,7 @@ sidebarTitle: "Creator Partnership"
 
 A creator partnership works when the audience, the topic, and your contribution fit together. Find someone your buyers already learn from and make something useful with them. Agree on the deliverable, sponsorship disclosure, distribution, and how you will evaluate it.
 
-![The creator's audience; Your useful contribution; A shared piece of work](../../assets/illustrations/creator-partnership.svg)
+![The creator's audience; Your useful contribution; A shared piece of work](../../assets/illustrations/creator-partnership.webp)
 
 *Reading guide: the creator's audience · your useful contribution · a shared piece of work.*
 

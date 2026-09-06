@@ -2,7 +2,7 @@
 title: "Working files"
 ---
 
-![Download a file; Fill it privately; Use it to make a decision](../assets/illustrations/using-templates.svg)
+![Download a file; Fill it privately; Use it to make a decision](../assets/illustrations/using-templates.webp)
 
 **Last reviewed:** 2026-09-03
 

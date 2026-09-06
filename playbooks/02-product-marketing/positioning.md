@@ -6,7 +6,7 @@ title: "Positioning"
 
 Buyers compare your product with something they already know: another tool, an internal process, or doing nothing. Positioning explains who your product is for, what makes it different, and why that difference matters in the buyer's situation.
 
-![Current alternative; What is different; Why the buyer cares](../../assets/illustrations/positioning.svg)
+![Current alternative; What is different; Why the buyer cares](../../assets/illustrations/positioning.webp)
 
 *Reading guide: current alternative · what is different · why the buyer cares.*
 

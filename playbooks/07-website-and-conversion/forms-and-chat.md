@@ -7,7 +7,7 @@ sidebarTitle: "Forms and Chat"
 
 Every form field asks the reader to do a little more work. Keep the fields you genuinely need and make the next step clear. For chat, decide who answers, when they are available, and what happens if nobody can respond.
 
-![Define the reader's task; Collect only what is needed; Make the handoff clear](../../assets/illustrations/forms-and-chat.svg)
+![Define the reader's task; Collect only what is needed; Make the handoff clear](../../assets/illustrations/forms-and-chat.webp)
 
 *Reading guide: define the reader's task → collect only what is needed → make the handoff clear.*
 

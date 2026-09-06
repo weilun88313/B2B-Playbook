@@ -6,7 +6,7 @@ title: "Experimentation"
 
 A useful experiment helps you decide what to do next. Write down the assumption, the smallest reasonable test, and how you will interpret the result before you start. Record what happened so the next person does not have to repeat the same guess.
 
-![State an assumption; Run a small test; Decide and record what changed](../../assets/illustrations/experimentation.svg)
+![State an assumption; Run a small test; Decide and record what changed](../../assets/illustrations/experimentation.webp)
 
 *Reading guide: state an assumption → run a small test → decide and record what changed.*
 

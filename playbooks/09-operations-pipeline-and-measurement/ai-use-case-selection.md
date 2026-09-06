@@ -7,7 +7,7 @@ sidebarTitle: "AI Use Case Selection"
 
 Start with a task that is slow, costly, or frequently done badly, rather than with a new AI product. Compare an AI approach with simpler alternatives, estimate the benefit and effort, and choose a small test your team can actually adopt.
 
-![Name the work problem; Compare possible fixes; Choose a bounded test](../../assets/illustrations/ai-use-case-selection.svg)
+![Name the work problem; Compare possible fixes; Choose a bounded test](../../assets/illustrations/ai-use-case-selection.webp)
 
 *Reading guide: name the work problem → compare possible fixes → choose a bounded test.*
 

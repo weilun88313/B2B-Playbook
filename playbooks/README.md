@@ -4,7 +4,7 @@
 
 Find the guide for the task you are working on. Use the quick lookup below, or browse one of the nine chapters. Each chapter separates published articles from topics still on the writing list.
 
-![Understand your buyers, help them choose, and learn from what happens.](../assets/illustrations/library.svg)
+![Understand your buyers, help them choose, and learn from what happens.](../assets/illustrations/library.webp)
 
 If you are not sure where to start, try a [short reading path](../README.md#read-it-like-a-book). You can also browse [tools](../TOOLS.md), [working files](../TEMPLATES.md), or [reading sources](../RESOURCES.md).
 

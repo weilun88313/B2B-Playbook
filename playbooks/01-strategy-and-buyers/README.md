@@ -6,7 +6,7 @@ Before choosing channels or writing copy, get clear on the customer. These guide
 
 **Last reviewed:** 2026-09-06
 
-![Understand the problem; Choose the first customers; Test demand and fit](../../assets/illustrations/01-strategy-and-buyers.svg)
+![Understand the problem; Choose the first customers; Test demand and fit](../../assets/illustrations/01-strategy-and-buyers.webp)
 
 ## Start here
 

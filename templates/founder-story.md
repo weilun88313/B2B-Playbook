@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Perception; Scene; Advantage check](../assets/illustrations/worksheet-founder-story.svg)
+![Perception; Scene; Advantage check](../assets/illustrations/worksheet-founder-story.webp)
 
 ## Perception
 

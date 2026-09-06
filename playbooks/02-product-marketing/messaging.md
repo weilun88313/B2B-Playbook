@@ -6,7 +6,7 @@ title: "Messaging"
 
 Once you know who the product is for and why they would choose it, you need words people can understand. Build a small set of messages that work together across your homepage, sales conversations, and outreach, with evidence behind each claim.
 
-![One main promise; Proof for the claim; Words for each buyer](../../assets/illustrations/messaging.svg)
+![One main promise; Proof for the claim; Words for each buyer](../../assets/illustrations/messaging.webp)
 
 *Reading guide: one main promise · proof for the claim · words for each buyer.*
 

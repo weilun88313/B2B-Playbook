@@ -7,7 +7,7 @@ sidebarTitle: "Incentive Timing"
 
 Decide when commission is earned and paid before announcing a compensation plan. A signed contract, an invoice, and collected cash are different events. Make any repayment or draw rules clear, and have the policy reviewed for the jurisdictions where the team works.
 
-![Define the earning event; Set the payment schedule; Explain adjustments](../../assets/illustrations/incentive-timing.svg)
+![Define the earning event; Set the payment schedule; Explain adjustments](../../assets/illustrations/incentive-timing.webp)
 
 *Reading guide: define the earning event → set the payment schedule → explain adjustments.*
 

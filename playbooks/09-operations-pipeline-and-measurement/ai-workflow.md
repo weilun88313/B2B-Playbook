@@ -7,7 +7,7 @@ sidebarTitle: "AI Workflow"
 
 An AI workflow needs clear inputs, a useful output, and a way to catch mistakes. Break the work into steps people can inspect, record sources where facts matter, and require approval before customer-facing actions. Start with a real task you already understand.
 
-![Ground the inputs; Check each output; Approve external actions](../../assets/illustrations/ai-workflow.svg)
+![Ground the inputs; Check each output; Approve external actions](../../assets/illustrations/ai-workflow.webp)
 
 *Reading guide: ground the inputs → check each output → approve external actions.*
 

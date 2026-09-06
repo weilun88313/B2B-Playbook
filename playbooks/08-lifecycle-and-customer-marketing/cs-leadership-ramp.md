@@ -7,7 +7,7 @@ sidebarTitle: "CS Leadership Ramp"
 
 Your first months leading customer success are a chance to learn how customers actually experience the company. Listen to customers and the team, check where accounts get stuck, then make a few practical improvements before setting a broader plan.
 
-![Days 1–30: listen; Days 31–60: prioritise; Days 61–90: put it to work](../../assets/illustrations/cs-leadership-ramp.svg)
+![Days 1–30: listen; Days 31–60: prioritise; Days 61–90: put it to work](../../assets/illustrations/cs-leadership-ramp.webp)
 
 *Reading guide: days 1–30: listen → days 31–60: prioritise → days 61–90: put it to work.*
 

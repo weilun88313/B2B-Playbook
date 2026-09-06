@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Core (one primary ICP); Value lines (three, distinct); Variants this quarter](../assets/illustrations/worksheet-messaging.svg)
+![Core (one primary ICP); Value lines (three, distinct); Variants this quarter](../assets/illustrations/worksheet-messaging.webp)
 
 ## Core (one primary ICP)
 

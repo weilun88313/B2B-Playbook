@@ -7,7 +7,7 @@ sidebarTitle: "LinkedIn organic"
 
 LinkedIn gives founders and practitioners a place to share what they are learning with people in their industry. Choose a few topics you know well, use concrete examples, and join the conversations your posts start. Treat the company page as a supporting resource.
 
-![Share a real observation; Make it useful to readers; Continue the conversation](../../assets/illustrations/linkedin-organic.svg)
+![Share a real observation; Make it useful to readers; Continue the conversation](../../assets/illustrations/linkedin-organic.webp)
 
 *Reading guide: share a real observation → make it useful to readers → continue the conversation.*
 

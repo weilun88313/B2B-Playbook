@@ -7,7 +7,7 @@ sidebarTitle: "Revops Compensation"
 
 Revenue operations roles support many teams, so their incentives should reflect work they can influence. Choose a small number of measurable objectives, agree on how they will be assessed, and explain the payment schedule. Avoid copying a seller's commission plan without checking whether it fits.
 
-![Define the role's contribution; Agree on measurable objectives; Review and pay consistently](../../assets/illustrations/revops-compensation.svg)
+![Define the role's contribution; Agree on measurable objectives; Review and pay consistently](../../assets/illustrations/revops-compensation.webp)
 
 *Reading guide: define the role's contribution → agree on measurable objectives → review and pay consistently.*
 

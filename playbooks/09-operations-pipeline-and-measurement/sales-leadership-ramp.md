@@ -7,7 +7,7 @@ sidebarTitle: "Sales Leadership Ramp"
 
 A new sales leader needs to understand customers, deals, and the team before making big changes. Use the first month to learn, the second to make a few useful improvements, and the third to agree on a plan grounded in what you have seen.
 
-![Days 1–30: learn; Days 31–60: improve; Days 61–90: set direction](../../assets/illustrations/sales-leadership-ramp.svg)
+![Days 1–30: learn; Days 31–60: improve; Days 61–90: set direction](../../assets/illustrations/sales-leadership-ramp.webp)
 
 *Reading guide: days 1–30: learn → days 31–60: improve → days 61–90: set direction.*
 

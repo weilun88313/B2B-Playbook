@@ -7,7 +7,7 @@ sidebarTitle: "Trade Shows"
 
 A trade show has many moving parts: the account list, pre-booked meetings, booth conversations, lead capture, and follow-up. Plan those together so the team knows whom to meet and what to record. A busy stand is useful only if the conversations go somewhere.
 
-![Before: book meetings; During: capture context; After: own the next step](../../assets/illustrations/trade-shows.svg)
+![Before: book meetings; During: capture context; After: own the next step](../../assets/illustrations/trade-shows.webp)
 
 *Reading guide: before: book meetings → during: capture context → after: own the next step.*
 

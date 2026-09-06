@@ -6,7 +6,7 @@ title: "Product Hunt"
 
 A Product Hunt launch can bring a concentrated burst of attention. Prepare a product that new users can try, explain who it helps, and make time to answer questions. After launch day, look at qualified signups and actual use, not just the leaderboard.
 
-![Prepare for new users; Answer questions live; Check what users do next](../../assets/illustrations/product-hunt.svg)
+![Prepare for new users; Answer questions live; Check what users do next](../../assets/illustrations/product-hunt.webp)
 
 *Reading guide: prepare for new users → answer questions live → check what users do next.*
 

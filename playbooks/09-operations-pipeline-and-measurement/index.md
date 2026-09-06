@@ -9,7 +9,7 @@ This chapter covers the practical systems behind marketing and revenue work: pla
 
 **Last reviewed:** 2026-09-06
 
-![Agree on the plan; Keep useful records; Review and improve](/assets/illustrations/09-operations-pipeline-and-measurement.svg)
+![Agree on the plan; Keep useful records; Review and improve](/assets/illustrations/09-operations-pipeline-and-measurement.webp)
 
 ## Start here
 

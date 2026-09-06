@@ -6,7 +6,7 @@ Some opportunities need coordination across sales, marketing, events, and partne
 
 **Last reviewed:** 2026-09-06
 
-![Select relevant accounts; Create useful interactions; Follow up together](../../assets/illustrations/06-account-field-and-partner.svg)
+![Select relevant accounts; Create useful interactions; Follow up together](../../assets/illustrations/06-account-field-and-partner.webp)
 
 ## Start here
 

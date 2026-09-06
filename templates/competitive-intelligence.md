@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Alternative; Sources; Card](../assets/illustrations/worksheet-competitive-intelligence.svg)
+![Alternative; Sources; Card](../assets/illustrations/worksheet-competitive-intelligence.webp)
 
 ## Alternative
 

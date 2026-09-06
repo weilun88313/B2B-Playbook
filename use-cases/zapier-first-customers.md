@@ -5,7 +5,7 @@ sidebarTitle: "Zapier: first customers"
 
 **Company:** Zapier · **Motion:** Founder outreach from demand signals · **Last reviewed:** 2026-09-06
 
-![Find an integration request; Ask about the actual need; Sell a small solution](../assets/illustrations/zapier-first-customers.svg)
+![Find an integration request; Ask about the actual need; Sell a small solution](../assets/illustrations/zapier-first-customers.webp)
 
 ## Primary record
 

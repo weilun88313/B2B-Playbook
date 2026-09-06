@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Foundation (account-driven, not “ABM everyone”); Capacity; Rules](../assets/illustrations/worksheet-abm-strategy.svg)
+![Foundation (account-driven, not “ABM everyone”); Capacity; Rules](../assets/illustrations/worksheet-abm-strategy.webp)
 
 ## Foundation (account-driven, not “ABM everyone”)
 

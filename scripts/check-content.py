@@ -121,24 +121,52 @@ for p in tactics:
     check(bool(re.search(r'\*\*Last reviewed:\*\* \d{4}-\d{2}-\d{2}', text)), f"{p.name}: missing review date")
     check("## Sources" in text and "## What to read next" in text, f"{p.name}: missing evidence/next reading")
     check("Copyright © 2026 Ivan Xu" in text, f"{p.name}: missing copyright")
-    check(f"assets/illustrations/{p.stem}.svg" in text, f"{p.name}: missing reading diagram")
+    check(f"assets/illustrations/{p.stem}.webp" in text, f"{p.name}: missing reading illustration")
 
-illustrations = list((ROOT / "assets/illustrations").glob("*.svg"))
+illustrations = list((ROOT / "assets/illustrations").glob("*.webp"))
+check(len(illustrations) == 133, "illustrations: expected all 133 reading images")
+check(not list((ROOT / "assets/illustrations").glob("*.svg")), "illustrations: retire replaced SVG diagrams")
+
+def webp_dimensions(data):
+    if data[:4] != b"RIFF" or data[8:12] != b"WEBP":
+        raise ValueError("not a WebP image")
+    offset = 12
+    while offset + 8 <= len(data):
+        kind = data[offset:offset + 4]
+        size = int.from_bytes(data[offset + 4:offset + 8], "little")
+        payload = data[offset + 8:offset + 8 + size]
+        if kind == b"VP8 " and payload[3:6] == b"\x9d\x01\x2a":
+            return (int.from_bytes(payload[6:8], "little") & 0x3fff,
+                    int.from_bytes(payload[8:10], "little") & 0x3fff)
+        if kind == b"VP8X":
+            return (1 + int.from_bytes(payload[4:7], "little"),
+                    1 + int.from_bytes(payload[7:10], "little"))
+        if kind == b"VP8L" and payload[0] == 0x2f:
+            bits = int.from_bytes(payload[1:5], "little")
+            return (1 + (bits & 0x3fff), 1 + ((bits >> 14) & 0x3fff))
+        offset += 8 + size + (size % 2)
+    raise ValueError("missing image dimensions")
+
+for p in illustrations:
+    try:
+        check(webp_dimensions(p.read_bytes()) == (1600, 900), f"{p.name}: expected 1600x900 (16:9)")
+        check(p.stat().st_size < 250_000, f"{p.name}: reading asset exceeds 250 KB")
+    except (ValueError, IndexError) as error:
+        check(False, f"{p.name}: invalid WebP: {error}")
+
 # Keep the selected reading theme consistent across the site and owned artwork.
 check(CONFIG.get("theme") == "luma", "docs.json: expected the selected Luma theme")
 check(CONFIG.get("fonts", {}).get("family") == "Geist", "docs.json: expected Geist typography")
 retired_colors = {"#2f6e63", "#9bd0b7", "#24443b", "#f6f3ea", "#fcfaf5"}
 brand_assets = list((ROOT / "assets/brand").glob("*.svg"))
-for asset in illustrations + brand_assets + [ROOT / "docs.json", ROOT / "style.css"]:
+for asset in brand_assets + [ROOT / "docs.json", ROOT / "style.css"]:
     palette = set(re.findall(r'#[0-9a-f]{6}\b', asset.read_text().lower()))
     check(not palette & retired_colors, f"{asset.name}: retired green/paper palette")
-for p in illustrations:
+for p in brand_assets:
     try:
         svg = ET.fromstring(p.read_text())
         ns = "{http://www.w3.org/2000/svg}"
         check(svg.tag == ns + "svg" and "viewBox" in svg.attrib, f"{p.name}: invalid scalable SVG")
-        check(svg.find(ns + "title") is not None and svg.find(ns + "desc") is not None,
-              f"{p.name}: missing accessible title/description")
         check(all(e.tag not in {ns + "script", ns + "foreignObject"} for e in svg.iter()),
               f"{p.name}: unexpected active SVG content")
     except ET.ParseError as error:
@@ -193,4 +221,4 @@ if ERRORS:
     sys.exit(1)
 print(f"PASS: {len(DOCS)} pages; {len(tactics)} playbooks; {len(working)} working files; {len(tools)} tools; {len(resources)} sources; {len(pages)} navigation entries.")
 print(f"PASS: local links/anchors, domain mirrors, coverage, favicons, {len(external)} unique third-party ref URLs.")
-print(f"PASS: {len(illustrations)} accessible SVG illustrations; every playbook has its own reading diagram.")
+print(f"PASS: {len(illustrations)} 1600x900 WebP illustrations; every playbook has its own reading illustration.")

@@ -7,7 +7,7 @@ sidebarTitle: "ICP"
 
 Which companies are worth your team's time? An ideal customer profile gives you a practical way to answer that question. Use evidence from real accounts to decide who fits, who does not, and what to do next.
 
-![Check the fit; Look for urgency; Choose a next step](../../assets/illustrations/icp.svg)
+![Check the fit; Look for urgency; Choose a next step](../../assets/illustrations/icp.webp)
 
 *Reading guide: check the fit → look for urgency → choose a next step.*
 

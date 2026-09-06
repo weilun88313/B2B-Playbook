@@ -7,7 +7,7 @@ sidebarTitle: "Company Cadence"
 
 Product launches, marketing campaigns, and quarter-end sales work can compete for the same people. Put the important dates on one calendar and agree on when decisions will be made. Leave enough room for each team to do its part well.
 
-![Plan the quarter; Coordinate launches; Protect the close and review](../../assets/illustrations/company-cadence.svg)
+![Plan the quarter; Coordinate launches; Protect the close and review](../../assets/illustrations/company-cadence.webp)
 
 *Reading guide: plan the quarter → coordinate launches → protect the close and review.*
 

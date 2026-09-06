@@ -7,7 +7,7 @@ sidebarTitle: "Executive Dinners"
 
 A small dinner can give senior buyers time to compare notes with peers. Invite people who share a meaningful problem, choose a focused discussion, and make the evening worth attending without a sales presentation. Follow up on what each person actually discussed.
 
-![A shared problem; A relevant guest list; A useful peer discussion](../../assets/illustrations/executive-dinners.svg)
+![A shared problem; A relevant guest list; A useful peer discussion](../../assets/illustrations/executive-dinners.webp)
 
 *Reading guide: a shared problem · a relevant guest list · a useful peer discussion.*
 

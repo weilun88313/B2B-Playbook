@@ -7,7 +7,7 @@ sidebarTitle: "Cold Email"
 
 A good cold email gives the right person a credible reason to reply. Start with something you actually know about their company, connect it to a relevant problem, and ask a small, clear question. Test the audience as carefully as the wording.
 
-![A fact about the account; A relevant business problem; One easy question](../../assets/illustrations/cold-email.svg)
+![A fact about the account; A relevant business problem; One easy question](../../assets/illustrations/cold-email.webp)
 
 *Reading guide: a fact about the account → a relevant business problem → one easy question.*
 

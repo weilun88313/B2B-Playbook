@@ -7,7 +7,7 @@ sidebarTitle: "GTM AI Maturity"
 
 Using AI in a few tasks is different from connecting it to a reliable team workflow. Assess each sales or marketing process separately: what context it has, what it can do, and how people check it. Improve one useful workflow before trying to automate the whole department.
 
-![Individual assistance; Repeatable team workflows; Connected, reviewed work](../../assets/illustrations/gtm-ai-maturity.svg)
+![Individual assistance; Repeatable team workflows; Connected, reviewed work](../../assets/illustrations/gtm-ai-maturity.webp)
 
 *Reading guide: individual assistance → repeatable team workflows → connected, reviewed work.*
 

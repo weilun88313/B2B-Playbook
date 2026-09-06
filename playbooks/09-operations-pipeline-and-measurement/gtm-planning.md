@@ -7,7 +7,7 @@ sidebarTitle: "GTM Planning"
 
 A go-to-market plan needs both enough customer demand and enough capacity to serve it. Estimate the funnel by channel, work out what the team can handle, include renewals, and reconcile the two sides. Put uncertain assumptions where everyone can see them.
 
-![Demand from channels; Shared assumptions; Capacity of the team](../../assets/illustrations/gtm-planning.svg)
+![Demand from channels; Shared assumptions; Capacity of the team](../../assets/illustrations/gtm-planning.webp)
 
 *Reading guide: demand from channels · shared assumptions · capacity of the team.*
 

@@ -7,7 +7,7 @@ sidebarTitle: "Paid Media"
 
 Before buying ads, decide what you want them to do: introduce your product to future buyers or help people already evaluating a solution. That choice affects the audience, creative, landing page, and how long you should wait before judging the results.
 
-![Reach future buyers; Match creative to intent; Help active buyers choose](../../assets/illustrations/paid-media.svg)
+![Reach future buyers; Match creative to intent; Help active buyers choose](../../assets/illustrations/paid-media.webp)
 
 *Reading guide: reach future buyers · match creative to intent · help active buyers choose.*
 

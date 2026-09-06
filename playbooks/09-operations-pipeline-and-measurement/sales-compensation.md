@@ -7,7 +7,7 @@ sidebarTitle: "Sales Compensation"
 
 A sales compensation plan tells the team what the company values. Define the role, the revenue it gets credit for, and the relationship between quota and pay. Model several realistic outcomes and explain the rules before the plan takes effect.
 
-![Define credit and quota; Model the payout; Explain the plan clearly](../../assets/illustrations/sales-compensation.svg)
+![Define credit and quota; Model the payout; Explain the plan clearly](../../assets/illustrations/sales-compensation.webp)
 
 *Reading guide: define credit and quota → model the payout → explain the plan clearly.*
 

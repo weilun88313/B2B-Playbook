@@ -6,7 +6,7 @@ title: "Product launch"
 
 Some product changes need a coordinated launch. Others need a helpful update to existing customers. Choose the audience and the size of the campaign first, then plan the announcement, the product experience, and the follow-up after launch day.
 
-![Choose the audience; Prepare the launch; Follow through](../../assets/illustrations/product-launch.svg)
+![Choose the audience; Prepare the launch; Follow through](../../assets/illustrations/product-launch.webp)
 
 *Reading guide: choose the audience → prepare the launch → follow through.*
 

@@ -7,7 +7,7 @@ sidebarTitle: "Cold Call"
 
 A cold call interrupts someone who was not expecting you. Explain why you are calling, describe a problem that may be relevant, and give them room to respond. Aim to find out whether a further conversation would be useful, not to run a full sales meeting.
 
-![Give a clear reason; Ask about the problem; Agree to continue or stop](../../assets/illustrations/cold-call.svg)
+![Give a clear reason; Ask about the problem; Agree to continue or stop](../../assets/illustrations/cold-call.webp)
 
 *Reading guide: give a clear reason → ask about the problem → agree to continue or stop.*
 

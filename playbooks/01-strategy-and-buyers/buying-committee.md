@@ -7,7 +7,7 @@ sidebarTitle: "Buying Committee"
 
 Your main contact likes the product. Who else needs to agree before the company can buy it? Map the people who will use, fund, evaluate, and approve the purchase, then plan the conversations you are missing.
 
-![Who uses it?; Who approves it?; Who can stop it?](../../assets/illustrations/buying-committee.svg)
+![Who uses it?; Who approves it?; Who can stop it?](../../assets/illustrations/buying-committee.webp)
 
 *Reading guide: who uses it? · who approves it? · who can stop it?.*
 

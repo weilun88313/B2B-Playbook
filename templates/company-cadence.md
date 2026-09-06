@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Fiscal; Product–marketing; Offset check](../assets/illustrations/worksheet-company-cadence.svg)
+![Fiscal; Product–marketing; Offset check](../assets/illustrations/worksheet-company-cadence.webp)
 
 ## Fiscal
 

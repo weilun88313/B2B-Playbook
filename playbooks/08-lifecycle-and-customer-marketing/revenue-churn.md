@@ -7,7 +7,7 @@ sidebarTitle: "Revenue Churn"
 
 Revenue can grow while existing customers are quietly leaving or spending less. Separate lost revenue, downgrades, and expansion so you can see what is happening. Use gross and net retention together, with the same starting customer group and period.
 
-![Lost revenue + downgrades; The same starting cohort; Expansion shown separately](../../assets/illustrations/revenue-churn.svg)
+![Lost revenue + downgrades; The same starting cohort; Expansion shown separately](../../assets/illustrations/revenue-churn.webp)
 
 *Reading guide: lost revenue + downgrades · the same starting cohort · expansion shown separately.*
 

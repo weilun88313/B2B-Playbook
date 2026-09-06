@@ -4,7 +4,7 @@ sidebarTitle: "Tools"
 mode: "wide"
 ---
 
-![Name the job to finish; Compare a short list; Test on your own workflow](assets/illustrations/tools.svg)
+![Name the job to finish; Compare a short list; Test on your own workflow](assets/illustrations/tools.webp)
 
 > A curated directory of modern software for researching markets, creating demand, reaching buyers, operating revenue workflows, and measuring results.
 

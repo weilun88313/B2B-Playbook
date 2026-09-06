@@ -9,7 +9,7 @@ Your website should help a visitor understand the offer and decide what to do. I
 
 **Last reviewed:** 2026-09-06
 
-![Explain the offer; Answer evaluation questions; Make the next step clear](/assets/illustrations/07-website-and-conversion.svg)
+![Explain the offer; Answer evaluation questions; Make the next step clear](/assets/illustrations/07-website-and-conversion.webp)
 
 ## Start here
 

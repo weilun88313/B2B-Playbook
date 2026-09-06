@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![State; Change; Copy](../assets/illustrations/worksheet-lead-nurture.svg)
+![State; Change; Copy](../assets/illustrations/worksheet-lead-nurture.webp)
 
 ## State
 

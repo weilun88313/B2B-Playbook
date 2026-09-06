@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Artifact; Bind; Constraints and runtime](../assets/illustrations/worksheet-ai-workflow.svg)
+![Artifact; Bind; Constraints and runtime](../assets/illustrations/worksheet-ai-workflow.webp)
 
 ## Artifact
 

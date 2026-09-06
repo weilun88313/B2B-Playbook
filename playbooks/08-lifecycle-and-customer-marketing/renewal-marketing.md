@@ -7,7 +7,7 @@ sidebarTitle: "Renewal Marketing"
 
 A renewal is easier to discuss when the customer can see what they have achieved. Start before the contract deadline, gather a short record of value and unresolved issues, and make the commercial steps clear. Work with the account owner rather than sending a generic reminder.
 
-![Review delivered value; Resolve open issues; Agree on the renewal path](../../assets/illustrations/renewal-marketing.svg)
+![Review delivered value; Resolve open issues; Agree on the renewal path](../../assets/illustrations/renewal-marketing.webp)
 
 *Reading guide: review delivered value → resolve open issues → agree on the renewal path.*
 

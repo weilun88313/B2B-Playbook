@@ -7,7 +7,7 @@ sidebarTitle: "Case Study"
 
 A useful case study shows what a real customer changed and what happened next. Capture the starting point, the work involved, the result, and the limits of the evidence. Ask for permission before publishing names, quotes, or customer data.
 
-![Before the change; What the customer did; What happened next](../../assets/illustrations/case-study.svg)
+![Before the change; What the customer did; What happened next](../../assets/illustrations/case-study.webp)
 
 *Reading guide: before the change → what the customer did → what happened next.*
 

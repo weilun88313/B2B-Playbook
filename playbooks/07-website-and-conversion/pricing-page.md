@@ -7,7 +7,7 @@ sidebarTitle: "Pricing Page"
 
 A pricing page should help a buyer understand what they will pay and which option fits. Make the differences between plans easy to compare, explain important limits, and provide a clear route to a quote when the price depends on their situation.
 
-![What each plan includes; What changes the price; How to choose or ask](../../assets/illustrations/pricing-page.svg)
+![What each plan includes; What changes the price; How to choose or ask](../../assets/illustrations/pricing-page.webp)
 
 *Reading guide: what each plan includes · what changes the price · how to choose or ask.*
 

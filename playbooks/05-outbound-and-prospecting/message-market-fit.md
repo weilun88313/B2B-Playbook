@@ -7,7 +7,7 @@ sidebarTitle: "Message Market Fit"
 
 Before automating outreach, find out whether a specific group of buyers responds to your offer. Keep the audience and offer narrow, write the first messages yourself, and review the replies. Change one important variable at a time so you can learn from the test.
 
-![One audience and offer; A small manual test; Learn from the replies](../../assets/illustrations/message-market-fit.svg)
+![One audience and offer; A small manual test; Learn from the replies](../../assets/illustrations/message-market-fit.webp)
 
 *Reading guide: one audience and offer → a small manual test → learn from the replies.*
 

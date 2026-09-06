@@ -7,7 +7,7 @@ sidebarTitle: "Multichannel Sequence"
 
 Email, phone, LinkedIn, and events can support the same conversation, but each touch should add something useful. Plan why you are using each channel, what changes between messages, and when to pause or stop. More touches are not automatically better.
 
-![Give each channel a job; Add new context; Stop when appropriate](../../assets/illustrations/multichannel-sequence.svg)
+![Give each channel a job; Add new context; Stop when appropriate](../../assets/illustrations/multichannel-sequence.webp)
 
 *Reading guide: give each channel a job → add new context → stop when appropriate.*
 

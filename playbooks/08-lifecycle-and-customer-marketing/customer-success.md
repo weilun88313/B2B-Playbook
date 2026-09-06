@@ -7,7 +7,7 @@ sidebarTitle: "Customer Success"
 
 Customer success helps customers achieve the outcome they bought the product for. Make the handoff from sales clear, agree on responsibilities across support and account management, and keep customer progress visible. Retention and expansion should follow from real value.
 
-![Understand the promise; Help the customer achieve it; Review value and risks](../../assets/illustrations/customer-success.svg)
+![Understand the promise; Help the customer achieve it; Review value and risks](../../assets/illustrations/customer-success.webp)
 
 *Reading guide: understand the promise → help the customer achieve it → review value and risks.*
 

@@ -7,7 +7,7 @@ sidebarTitle: "Onboarding Communication"
 
 New customers should know who to contact, what happens next, and what they need to prepare. Put the essentials in one welcome packet, then adapt the follow-up to their project. Keep routine messages separate from account-specific decisions.
 
-![Welcome and contacts; Milestones and responsibilities; Progress and handoff](../../assets/illustrations/onboarding-communication.svg)
+![Welcome and contacts; Milestones and responsibilities; Progress and handoff](../../assets/illustrations/onboarding-communication.webp)
 
 *Reading guide: welcome and contacts → milestones and responsibilities → progress and handoff.*
 

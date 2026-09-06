@@ -6,7 +6,7 @@ title: "Homepage"
 
 A new visitor should be able to understand what you sell, who it helps, and where to go next. Write those answers before designing the page. Add proof near the claims it supports and link to the detail buyers need for a closer look.
 
-![What is this for?; Why should I believe it?; What can I do next?](../../assets/illustrations/homepage.svg)
+![What is this for?; Why should I believe it?; What can I do next?](../../assets/illustrations/homepage.webp)
 
 *Reading guide: what is this for? → why should I believe it? → what can I do next?.*
 

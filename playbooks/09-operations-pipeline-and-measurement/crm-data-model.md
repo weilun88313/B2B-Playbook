@@ -7,7 +7,7 @@ sidebarTitle: "CRM Data Model"
 
 A CRM is easier to use when the team agrees on what each record and field means. Define accounts, contacts, opportunities, and their relationships before adding automation. If you are migrating, map the old fields to the new ones and decide what to leave behind.
 
-![Accounts; People; Opportunities](../../assets/illustrations/crm-data-model.svg)
+![Accounts; People; Opportunities](../../assets/illustrations/crm-data-model.webp)
 
 *Reading guide: accounts · people · opportunities.*
 

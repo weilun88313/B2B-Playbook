@@ -7,7 +7,7 @@ sidebarTitle: "White Paper"
 
 Use a white paper when a buyer needs a deeper explanation than a short article can provide. Develop one clear argument, support it with sources, and explain the practical implications. Length and a download form do not make the argument stronger.
 
-![Ask one question; Build a sourced argument; Explain the implications](../../assets/illustrations/white-paper.svg)
+![Ask one question; Build a sourced argument; Explain the implications](../../assets/illustrations/white-paper.webp)
 
 *Reading guide: ask one question → build a sourced argument → explain the implications.*
 

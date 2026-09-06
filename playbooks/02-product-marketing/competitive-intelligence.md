@@ -7,7 +7,7 @@ sidebarTitle: "Competitive Intel"
 
 When a buyer mentions another product, sales needs a useful answer, not a giant research folder. Keep a short, sourced comparison of where each option fits, what has changed, and which claims you can actually support.
 
-![Collect current facts; Compare buyer needs; Keep the card updated](../../assets/illustrations/competitive-intelligence.svg)
+![Collect current facts; Compare buyer needs; Keep the card updated](../../assets/illustrations/competitive-intelligence.webp)
 
 *Reading guide: collect current facts → compare buyer needs → keep the card updated.*
 

@@ -7,7 +7,7 @@ sidebarTitle: "Review Sites"
 
 Review sites help buyers hear from people who have used a product. Keep your listing accurate, invite honest feedback after customers have experienced value, and respond helpfully. Avoid treating the rating itself as the goal.
 
-![Keep the listing accurate; Ask for honest feedback; Respond and learn](../../assets/illustrations/review-sites.svg)
+![Keep the listing accurate; Ask for honest feedback; Respond and learn](../../assets/illustrations/review-sites.webp)
 
 *Reading guide: keep the listing accurate → ask for honest feedback → respond and learn.*
 

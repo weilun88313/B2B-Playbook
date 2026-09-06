@@ -7,7 +7,7 @@ sidebarTitle: "Sales Enablement"
 
 Buyers often need help explaining a purchase to their colleagues. Give sales a clear story about the problem, the available approaches, and why your product fits. The goal is a better buying conversation, supported by material the buyer can share.
 
-![Explain the problem; Compare the approaches; Support the decision](../../assets/illustrations/sales-enablement.svg)
+![Explain the problem; Compare the approaches; Support the decision](../../assets/illustrations/sales-enablement.webp)
 
 *Reading guide: explain the problem → compare the approaches → support the decision.*
 

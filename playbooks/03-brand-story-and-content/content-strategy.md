@@ -7,7 +7,7 @@ sidebarTitle: "Content Strategy"
 
 Start with the questions buyers ask before they choose a product. Decide which questions deserve a page, which ones matter most right now, and how people will find the answers. A publishing calendar comes after those choices.
 
-![Collect buyer questions; Publish useful answers; Help people find them](../../assets/illustrations/content-strategy.svg)
+![Collect buyer questions; Publish useful answers; Help people find them](../../assets/illustrations/content-strategy.webp)
 
 *Reading guide: collect buyer questions → publish useful answers → help people find them.*
 

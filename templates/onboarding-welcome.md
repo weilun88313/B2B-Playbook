@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Automation (every logo); This logo; Packet](../assets/illustrations/worksheet-onboarding-welcome.svg)
+![Automation (every logo); This logo; Packet](../assets/illustrations/worksheet-onboarding-welcome.webp)
 
 ## Automation (every logo)
 

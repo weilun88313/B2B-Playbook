@@ -6,7 +6,7 @@ The work continues after a signup or a sale. Help people get started, answer the
 
 **Last reviewed:** 2026-09-06
 
-![Help people get started; Track value and risks; Discuss the next need](../../assets/illustrations/08-lifecycle-and-customer-marketing.svg)
+![Help people get started; Track value and risks; Discuss the next need](../../assets/illustrations/08-lifecycle-and-customer-marketing.webp)
 
 ## Start here
 

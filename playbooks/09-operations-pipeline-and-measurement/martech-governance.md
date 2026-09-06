@@ -7,7 +7,7 @@ sidebarTitle: "Martech Governance"
 
 Software decisions are easier when you start with the job, the users, and the constraints. Test a product on real work, talk to relevant customers, and include the cost of setup and maintenance. Give every tool an owner and a date to review whether it is still useful.
 
-![Define the job and constraints; Test on real work; Choose an owner and review date](../../assets/illustrations/martech-governance.svg)
+![Define the job and constraints; Test on real work; Choose an owner and review date](../../assets/illustrations/martech-governance.webp)
 
 *Reading guide: define the job and constraints → test on real work → choose an owner and review date.*
 

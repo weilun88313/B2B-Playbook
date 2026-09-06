@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Promise; Door; Retire](../assets/illustrations/worksheet-landing-page.svg)
+![Promise; Door; Retire](../assets/illustrations/worksheet-landing-page.webp)
 
 ## Promise
 

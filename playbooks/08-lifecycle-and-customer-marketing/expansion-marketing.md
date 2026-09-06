@@ -7,7 +7,7 @@ sidebarTitle: "Expansion Marketing"
 
 An existing customer may need another use case, more capacity, or a wider rollout. Start with evidence of value and a new need, then work with the account owner on a relevant offer. Do not treat the customer base as a list for every product announcement.
 
-![Value from today's use; Evidence of another need; A relevant expansion offer](../../assets/illustrations/expansion-marketing.svg)
+![Value from today's use; Evidence of another need; A relevant expansion offer](../../assets/illustrations/expansion-marketing.webp)
 
 *Reading guide: value from today's use → evidence of another need → a relevant expansion offer.*
 

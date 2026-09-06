@@ -6,7 +6,7 @@ title: "Demo"
 
 A useful demo shows how the product handles the buyer's actual problem. Agree on that problem before the call, choose only the parts of the product that matter, and leave with a clear next step. You do not need to show every feature.
 
-![Confirm the problem; Show the relevant work; Agree on what is next](../../assets/illustrations/demo.svg)
+![Confirm the problem; Show the relevant work; Agree on what is next](../../assets/illustrations/demo.webp)
 
 *Reading guide: confirm the problem → show the relevant work → agree on what is next.*
 

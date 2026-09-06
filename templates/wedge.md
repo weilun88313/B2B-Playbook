@@ -11,7 +11,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![The pair; Boundaries; Fuel and engine](../assets/illustrations/worksheet-wedge.svg)
+![The pair; Boundaries; Fuel and engine](../assets/illustrations/worksheet-wedge.webp)
 
 ## The pair
 

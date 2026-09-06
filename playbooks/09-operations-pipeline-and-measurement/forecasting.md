@@ -6,7 +6,7 @@ title: "Forecasting"
 
 A forecast combines what is in the pipeline with evidence about whether and when deals will close. Use a method that fits your sales process, keep the underlying records current, and make changes in confidence explainable. The review should reveal risks while there is time to act.
 
-![Check the pipeline; Test timing and confidence; Update the forecast](../../assets/illustrations/forecasting.svg)
+![Check the pipeline; Test timing and confidence; Update the forecast](../../assets/illustrations/forecasting.webp)
 
 *Reading guide: check the pipeline → test timing and confidence → update the forecast.*
 

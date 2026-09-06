@@ -119,13 +119,14 @@ table:has(.tool-cell) td:nth-child(n + 3) {
   display: block;
   width: 100%;
   height: auto;
-  max-width: 600px;
+  max-width: 800px;
   margin: 1.8rem auto;
   border-radius: 12px;
+  background: #fff;
 }
 
-#content-area img[data-path*="illustrations/library.svg"],
-#content-area img[src*="illustrations/library.svg"] {
+#content-area img[data-path*="illustrations/library.webp"],
+#content-area img[src*="illustrations/library.webp"] {
   max-width: 900px;
 }
 
