@@ -124,6 +124,14 @@ for p in tactics:
     check(f"assets/illustrations/{p.stem}.svg" in text, f"{p.name}: missing reading diagram")
 
 illustrations = list((ROOT / "assets/illustrations").glob("*.svg"))
+# Keep the selected reading theme consistent across the site and owned artwork.
+check(CONFIG.get("theme") == "luma", "docs.json: expected the selected Luma theme")
+check(CONFIG.get("fonts", {}).get("family") == "Geist", "docs.json: expected Geist typography")
+retired_colors = {"#2f6e63", "#9bd0b7", "#24443b", "#f6f3ea", "#fcfaf5"}
+brand_assets = list((ROOT / "assets/brand").glob("*.svg"))
+for asset in illustrations + brand_assets + [ROOT / "docs.json", ROOT / "style.css"]:
+    palette = set(re.findall(r'#[0-9a-f]{6}\b', asset.read_text().lower()))
+    check(not palette & retired_colors, f"{asset.name}: retired green/paper palette")
 for p in illustrations:
     try:
         svg = ET.fromstring(p.read_text())

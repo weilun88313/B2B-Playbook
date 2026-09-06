@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "luma",
   "name": "B2B Playbook",
   "description": "Practical guides for finding customers, explaining your product, and building a B2B marketing team that learns.",
   "logo": {
@@ -14,14 +14,17 @@
   },
   "background": {
     "color": {
-      "light": "#FCFAF5",
-      "dark": "#18221D"
+      "light": "#FFFFFF",
+      "dark": "#141417"
     }
   },
   "colors": {
-    "primary": "#2F6E63",
-    "light": "#9BD0B7",
-    "dark": "#24443B"
+    "primary": "#7054BA",
+    "light": "#B6A0ED",
+    "dark": "#594093"
+  },
+  "fonts": {
+    "family": "Geist"
   },
   "navbar": {
     "links": [

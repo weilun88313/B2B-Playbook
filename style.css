@@ -64,10 +64,9 @@ table:has(.tool-cell) td:nth-child(n + 3) {
   width: 23.33%;
 }
 
-/* Editorial reading surface. Keep native Mintlify navigation and interactions. */
+/* Luma reading surface. Let the native theme own navigation and layout. */
 #page-title {
-  font-family: Georgia, "Times New Roman", serif;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: -0.025em;
   line-height: 1.15;
   text-wrap: balance;
@@ -75,7 +74,7 @@ table:has(.tool-cell) td:nth-child(n + 3) {
 
 #content-area .mdx-content {
   font-size: 1rem;
-  line-height: 1.8;
+  line-height: 1.75;
 }
 
 #content-area .mdx-content :is(p, li) {
@@ -132,14 +131,14 @@ table:has(.tool-cell) td:nth-child(n + 3) {
 
 #content-area a:focus-visible,
 #sidebar a:focus-visible {
-  outline: 2px solid #2F6E63;
+  outline: 2px solid #7054BA;
   outline-offset: 4px;
   border-radius: 3px;
 }
 
 .dark #content-area a:focus-visible,
 .dark #sidebar a:focus-visible {
-  outline-color: #9BD0B7;
+  outline-color: #B6A0ED;
 }
 
 @media (max-width: 640px) {
