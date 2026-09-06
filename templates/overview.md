@@ -21,13 +21,13 @@ Playbook pages teach the method. Files in this folder are the **blank you actual
 4. Yellow / “INPUT” cells are yours. Gray / formula cells are the model. The **Teaching fill** sheet is invented—delete it before the file becomes your operating record.
 5. Do not commit your customer data back to this repository.
 
-Canonical files live here so they stay versioned, reviewable, and not locked in one Drive account. When a Google copy exists, it is listed in the [working-files catalog](/templates). Rebuild the `.xlsx` files with `python scripts/build-working-files.py` (openpyxl) after you change the generator—do not hand-edit the binaries as the source of truth.
+Canonical files live here so they stay versioned, reviewable, and not locked in one Drive account. When a Google copy exists, it is listed in the [working-files catalog](/TEMPLATES). Rebuild the `.xlsx` files with `python scripts/build-working-files.py` (openpyxl) after you change the generator—do not hand-edit the binaries as the source of truth.
 
 ## What these files are not
 
 They are not Pavilion, HubSpot, or classroom originals. They are original B2B Playbook working files distilled from method. Sample conversion rates, quotas, and point tables in source decks are **not** imported as facts.
 
-[Catalog](/templates) · [Playbook index](/playbooks)
+[Catalog](/TEMPLATES) · [Playbook index](/playbooks)
 
 ---
 

@@ -51,7 +51,7 @@ Quota-carrying pay, **when** that pay is safe, the **forecast**, and the **weekl
 | Sales compensation | Published: [`sales-compensation.md`](/playbooks/09-operations-pipeline-and-measurement/sales-compensation) | How should quota-carrying people be paid, credited, told the plan, and paid on time? |
 | Forecasting | Published: [`forecasting.md`](/playbooks/09-operations-pipeline-and-measurement/forecasting) | How should hygiene, stages, categories, and calls make a number leadership can defend? |
 | Lead scoring | Published: [`lead-scoring.md`](/playbooks/09-operations-pipeline-and-measurement/lead-scoring) | When does person-level fit and behavior justify a different action? |
-| GTM planning | Published: [`gtm-planning.md`](/playbooks/09-operations-pipeline-and-measurement/gtm-planning) | Can demand creation and sales capacity produce the same number? |
+| GTM planning | Published: [`gtm-planning.md`](/playbooks/09-operations-pipeline-and-measurement/gtm-planning) | Can demand creation and sales capacity produce the same number—after strategy inputs are ranked? |
 | [Budget and planning](/playbooks/09-operations-pipeline-and-measurement/budget-and-planning) | Published | How should resources, monthly headcount, and efficiency diagnostics iterate with that plan? |
 | [Marketing org](/playbooks/09-operations-pipeline-and-measurement/marketing-org) | Published | Who do we hire so fuel, engine, and PMM are covered—without too many firsts? |
 | Sales-leadership ramp | Published: [`sales-leadership-ramp.md`](/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp) | What should a new sales leader actually do in 90 days? |

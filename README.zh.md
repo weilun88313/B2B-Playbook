@@ -11,7 +11,11 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 
 **最后核验：** 2026-09-03
 
-**阅读入口：** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.app)
+**阅读入口：** [b2-b-playbook.mintlify.app](https://b2-b-playbook.mintlify.app) · [English](README.md)
+
+**先用 10 分钟拿到一个结果：** 定义 [ICP](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test)、起草一封 [Cold Email](playbooks/05-outbound-and-prospecting/cold-email.md)，或选择一个 [AI-native 工具](TOOLS.md)。再看 [3 个已核对来源的企业案例](use-cases/index.md)。
+
+如果某一页帮助你做出了决策，欢迎 **Star 收藏这个仓库**，也让其他从业者更容易发现它。分享时可以直接发对你有帮助的那一页。
 
 本页和英文 [README.md](README.md) 是 GitHub 上的入口说明。完整阅读走站点。
 
@@ -58,7 +62,7 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 | **工具** | 为明确任务选软件 | [43 个产品](TOOLS.md) |
 | **阅读源** | 跟运营者，不把信息流当战略 | [20 个来源](RESOURCES.md) |
 | **Agent Skill** | 把任务路由到正确方法 | [安装](#智能体-skill) |
-| **已验证案例** | 具名公司、一个动作、带日期来源 | 计划中 |
+| **企业案例** | 具名公司、一个动作、带日期的一手来源 | [3 个已核对来源的案例](use-cases/index.md) |
 
 ### 领域
 
@@ -87,7 +91,7 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 5. 起飞前清单、该看和不该看的指标、常见错误
 6. 来源、证据边界、核验日期，以及 **What to read next**
 
-不发布空占位，也不把匿名「案例」当成事实。正文里的具名公司是带日期来源的**插图**，不是计划中的已验证案例专栏。
+不发布空占位，也不把匿名「案例」当成事实。Playbook 正文里的具名公司是带日期来源的**示例**。[企业案例专栏](use-cases/index.md) 单独记录企业报告的动作、结果和证据边界；核对来源不等于独立审计企业业绩。
 
 ### 工具、阅读源与 Skill
 

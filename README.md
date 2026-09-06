@@ -6,7 +6,11 @@
 
 **Last reviewed:** 2026-09-03
 
-**Read the library:** [b2-b-playbook.mintlify.site](https://b2-b-playbook.mintlify.app)
+**Read the library:** [b2-b-playbook.mintlify.app](https://b2-b-playbook.mintlify.app) · [中文](README.zh.md)
+
+**Get one useful result in 10 minutes:** define your [ICP](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test), draft a [cold email](playbooks/05-outbound-and-prospecting/cold-email.md), or choose an [AI-native tool](TOOLS.md). Then explore [3 source-checked company cases](use-cases/index.md).
+
+If a page helps you make a decision, **star this repository** to save it and help another operator find it. Share the specific page that helped.
 
 This README is the GitHub entrance—coverage, how to start, and where source lives. The site is the reading surface.
 
@@ -51,9 +55,9 @@ After positioning, the site scan starts at the [homepage](playbooks/07-website-a
 | **Playbooks** | Find a capability, channel, or tactic | [Master index](playbooks/) |
 | **Working files** | Open a sheet, scorecard, or 90-day outline | [56 working files](TEMPLATES.md) |
 | **Tools** | Pick software for a defined job | [43-tool directory](TOOLS.md) |
-| **Reading sources** | Follow operators without treating a feed as strategy | [19-source directory](RESOURCES.md) |
+| **Reading sources** | Follow operators without treating a feed as strategy | [20-source directory](RESOURCES.md) |
 | **Agent Skill** | Route a task through the right method | [Install](#agent-skill) |
-| **Verified use cases** | A named company, one motion, dated sources | Planned |
+| **Company use cases** | Study a named company, one motion, and dated primary sources | [3 source-checked cases](use-cases/index.md) |
 
 ### Domains
 
@@ -82,7 +86,7 @@ Enterprise close (papering, procurement, multi-threaded negotiation) is outside 
 5. Pre-flight checklist, metrics and non-metrics, common mistakes
 6. Sources, evidence boundary, last-reviewed date, and **What to read next**
 
-No empty placeholders. No anonymous “case studies” as fact. Named companies inside pages are **attributed illustrations** from dated sources, not the planned verified-use-case collection.
+No empty placeholders. No anonymous “case studies” as fact. Named companies inside playbooks are **attributed illustrations**. The [company case collection](use-cases/index.md) separately documents reported actions, outcomes, and evidence limits; source checks are not independent audits of company results.
 
 ### Tools, sources, and the Skill
 

@@ -10,7 +10,7 @@ Use this page to locate a specific B2B marketing motion. The library is organize
 1. **Capability domain:** the durable marketing function that owns the work.
 2. **Tactic playbook:** the specific motion, channel, or asset to execute.
 
-If you are reading rather than looking up, start with [Read it like a book](/#read-it-like-a-book), then follow each chapter’s “What to read next.” Software lives in [Tools](/tools). Newsletters and operators live in [Sources](/resources). Spreadsheet and slide blanks live in [Working files](/templates).
+If you are reading rather than looking up, start with [Read it like a book](/#read-it-like-a-book), then follow each chapter’s “What to read next.” Software lives in [Tools](/TOOLS). Newsletters and operators live in [Sources](/RESOURCES). Spreadsheet and slide blanks live in [Working files](/TEMPLATES).
 
 Every capability domain has a published README that defines its decision, scope, boundaries, topic map, recommended build order, and interfaces with other domains. A domain guide is useful before every tactic is written, but it is not counted as a published tactic playbook.
 
@@ -281,7 +281,7 @@ Every published tactic playbook should contain:
 2. when to use and when not to use it;
 3. strategy and operating principles;
 4. step-by-step execution, with at least one concrete mechanism or worked pattern;
-5. copyable templates, plus a [working file](/templates) when the work is a spreadsheet, scorecard, or 90-day deck;
+5. copyable templates, plus a [working file](/TEMPLATES) when the work is a spreadsheet, scorecard, or 90-day deck;
 6. a pre-flight checklist;
 7. operating metrics and non-metrics;
 8. common mistakes;

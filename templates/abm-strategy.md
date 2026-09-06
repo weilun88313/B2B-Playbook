@@ -16,7 +16,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 - GTM TAM in CRM (accounts + contacts):
 - Who is **not** TAM this year:
 - Signals we will act on (few):
-- Inbound is one signal among: 
+- Inbound is one signal among:
 
 ## Capacity
 

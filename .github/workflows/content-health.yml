@@ -1,0 +1,25 @@
+name: Content health
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  content:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Check content, links, mirrors, and navigation
+        run: python3 scripts/check-content.py
+      - name: Check external sources on manual runs
+        if: github.event_name == 'workflow_dispatch'
+        run: python3 scripts/check-content.py --external
+

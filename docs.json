@@ -44,6 +44,10 @@
             "pages": ["index", "playbooks/index", "skill", "copyright"]
           },
           {
+            "group": "Company cases",
+            "pages": ["use-cases/index", "use-cases/posthog-launch", "use-cases/buffer-syndication", "use-cases/zapier-first-customers"]
+          },
+          {
             "group": "01 · Strategy & buyers",
             "icon": "bullseye",
             "pages": [
