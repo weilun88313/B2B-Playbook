@@ -9,7 +9,7 @@ English is the canonical entrance: [README.md](README.md). This file is a Chines
 
 **当前覆盖：** 77 篇已发布 Playbook · 56 份工作文件 · 43 个精选工具 · 20 个阅读源 · 9 个领域指南
 
-**最后核验：** 2026-09-03
+**最后核验：** 2026-09-06
 
 **阅读入口：** [b2-b-playbook.mintlify.app](https://b2-b-playbook.mintlify.app) · [English](README.md)
 

@@ -4,7 +4,7 @@
 
 **Current coverage:** 77 published playbooks · 56 working files · 43 curated tools · 20 reading sources · 9 domain guides
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-06
 
 **Read the library:** [b2-b-playbook.mintlify.app](https://b2-b-playbook.mintlify.app) · [中文](README.zh.md)
 
