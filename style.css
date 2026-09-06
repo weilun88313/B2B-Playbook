@@ -64,7 +64,26 @@ table:has(.tool-cell) td:nth-child(n + 3) {
   width: 23.33%;
 }
 
-/* Luma reading surface. Let the native theme own navigation and layout. */
+/* Luma desktop navigation: show the full chapter names on one line. */
+@media (min-width: 1024px) {
+  #sidebar-content {
+    width: 24rem;
+  }
+
+  #body-content {
+    padding-left: 24rem;
+  }
+
+  #content-area {
+    margin-left: max(0px, calc(50vw - 348px - 24rem));
+  }
+
+  #sidebar-content .sidebar-group button[aria-expanded] > div:has(> span) {
+    white-space: nowrap;
+  }
+}
+
+/* Luma reading surface. Preserve native mobile navigation and interactions. */
 #page-title {
   font-weight: 600;
   letter-spacing: -0.025em;
