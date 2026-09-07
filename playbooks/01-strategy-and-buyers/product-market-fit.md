@@ -1,197 +1,520 @@
 ---
 title: "Product-market fit"
 sidebarTitle: "Product Market Fit"
+description: "Judge product-market fit with evidence about customer outcomes, continued use, payment, demand, and delivery—then decide what to improve next."
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-09-07 · **Reading edit:** 2026-09-07
 
-Product-market fit is easier to discuss when you name the evidence. Are customers using the product, paying for it, staying with it, and bringing others in? Start with one customer group and track what improves before expanding to another.
+A customer pays. Another asks for a feature. Revenue goes up. Someone on the team says, “Maybe we have product-market fit.”
+
+Then the first customer stops using the product, the second needs a version you cannot build, and the revenue increase turns out to come from one unusually large account.
+
+None of the earlier progress was imaginary. It just answered fewer questions than you hoped.
+
+Product-market fit means that a particular product serves a particular market well enough to sustain meaningful customer demand. In practice, you build confidence by looking at several kinds of evidence: whether customers achieve the intended result, keep choosing the product, pay under workable terms, and resemble other customers you can reach and serve.
+
+There is no single certificate at the end. The useful question is **what the evidence supports doing next**. Should you improve onboarding, deepen a promising use case, revisit the customer group, or invest more in acquisition?
 
 ![Useful enough to use; Valuable enough to pay; Strong enough to retain](../../assets/illustrations/product-market-fit.webp)
 
-*Reading guide: useful enough to use → valuable enough to pay → strong enough to retain.*
+This guide turns that discussion into a working review. Jump to [the retention example](#read-retention-by-cohort-not-only-in-total), [revenue retention](#revenue-can-grow-while-customers-leave), [the PMF survey](#use-a-pmf-survey-as-a-question-not-a-verdict), or [the decision card](#ladder-card-copy).
 
 ## Use this when
 
-- The team is arguing whether you “have PMF yet” as if it were a yes/no.
-- You have been iterating for months and cannot tell progress from motion.
-- Retention dashboards look fine and still nobody would be angry if the product vanished for a day.
-- Fundraising language has outrun what a stranger would pay for.
+Use this when you have some customer evidence but are unsure how much confidence it deserves. You may have successful pilots, early subscriptions, or growth that looks stronger than the underlying usage.
+
+It is also useful before a larger commitment: hiring, increasing acquisition spend, entering another segment, or building an adjacent product. Specify which commitment you are considering so the discussion has a purpose.
+
+A small team can begin with account notes. You do not need a sophisticated dashboard before asking whether someone received value and chose to return.
 
 ## Do not use this when
 
-- You have not talked to real buyers. Fill [ICP](icp.md) from conversations first—or [validate the idea](idea-validation.md) if you do not even know whether the problem is real. If there is no candidate yet, start at [idea discovery](idea-discovery.md).
-- You have no path to a first company. Walk [first ten customers](first-ten-customers.md) before arguing about fit.
-- You want a metric that replaces sitting with one company until they succeed.
-- You are using “we lack PMF” as a reason not to [ask for money](../02-product-marketing/pricing-and-packaging.md).
+If nobody has attempted the proposed job, begin with [idea validation](idea-validation.md). You can investigate demand before a finished product exists, but hypothetical interest is not the same as evidence from use.
 
-## How long this usually takes (survivor sample)
+If your immediate problem is finding suitable people to approach, read [first ten customers](first-ten-customers.md). Acquisition and product learning can happen together; you do not have to complete one perfectly before starting the other.
 
-In one set of later-successful B2B companies:
+Do not use “we have not found PMF” as a substitute for a specific diagnosis. It does not tell you whether the issue is an irrelevant audience, missing capability, confusing setup, poor reliability, or a price the business cannot support.
 
-| Span | Typical in that sample |
-|---|---|
-| Idea → first *feeling* of PMF | About **2 years** (worry after 2, take it seriously after 3) |
-| Working product → that feeling | About **9–18 months** of iteration |
-| Alpha out the door | Often **1–3 months**. Do not wait to be the next Figma |
+## Name the product and market before judging the fit
 
-Figma, Airtable, and Slack took 4+ years in that telling; Slack spent years on a different product first. Large ACV and small ACV did not split the timelines cleanly.
+“We have PMF with operations teams” leaves a great deal unspecified.
 
-These numbers are not your OKR. They are a pace check against a survivor set. If you build something people truly want, they often do come—**after** the ladder below, not instead of it.
+Which teams? What job? What version of the offer? How much assistance? At what price and under which deployment conditions?
 
-Founders in that set rarely named **retention curves** as the moment they knew. Retention still matters: a paying logo that churns does not count. What they remembered was love, payment, anger when it broke, and pull.
+An assisted preparation service for one recurring request type can work well even when an autonomous operations platform would not. A product may be valuable to a small team but unsuitable for an enterprise that requires a different implementation.
 
-## The ladder
+Write the scope in a sentence:
 
-### Step 1: one company loves it, keeps using it, and you would be ashamed to let them fail
+**“We are evaluating whether operations teams with recurring request-preparation gaps will repeatedly buy and use our bounded preparation offer, with an available engineering reviewer and an acceptable data arrangement.”**
 
-Do not try to be pretty good for everyone. Get the thing **damn useful for one customer**. Trust is the early weapon: they believed you enough to put real work on an unfinished product.
+That sentence is deliberately less impressive than “operations platform PMF.” It gives you a group of accounts whose experiences you can compare.
 
-That looks like watching them do the job—payroll, a support queue, their own data—not interviewing them about features. It looks like calling the moment they get stuck, because they will pick up. It looks like treating a weekend bug as a red alert even before you have launched.
+Also name the business you intend to build. A focused, profitable service does not need the same market size or growth profile as a venture-funded platform. Market size, customer value, and the economics of serving customers are related questions, not interchangeable ones.
 
-In Lenny Rachitsky’s 2023 interviews that is not abstract:
+<a id="the-ladder"></a>
 
-- **Hex:** you will not be pretty good for everyone; get damn useful for *one* company first.
-- **Gusto:** founders sat next to the first ~30 customers while those companies ran payroll on the product.
-- **Gong and Retool:** watch the real work; call when they stall.
-- **Figma:** treated an unfinished product in a real company (Coda) as a production incident, not a beta courtesy.
-- **Amplitude:** about half the founding team’s time talking to customers, half building. A year of building for people who will never pay is a common way to burn the 9–18 months.
+## Read several kinds of evidence together
 
-It does **not** look like becoming a requirements printer. One early **Coda** customer listed 25 reasonable items and said they would return when those shipped. Half the team heard a gift. The other half heard a hole in the wrong shape of product. They did not finish the list. They built the document they meant to build, and it took more than a year to return to the list. Pain is real; the requested shape may not be the product.
+The questions below are not rungs that every company climbs in order. A self-serve product may have substantial usage before a sales conversation. A service may earn payment before its delivery process is repeatable.
 
-Two earlier fits are allowed while the product is still thin:
+Keep the answers separate. Strong evidence in one area should not conceal a gap in another.
 
-- **Message-market fit (Ramp, in that telling):** strangers understand the story—press, cold replies, a pitch that does not bounce—before the product fully delivers it.
-- **Product-user fit vs product-buyer fit (Snyk, in that telling):** users may love it a year before a buyer will pay for the commercial version. That is an [ICP](icp.md) problem, not only a pricing problem.
+<a id="step-1-one-company-loves-it-keeps-using-it-and-you-would-be-ashamed-to-let-them-fail"></a>
 
-### Step 2: one company pays a meaningful amount
+### Does the customer get the result?
 
-Meaningful here means **five to six figures a year**, not a token “friend of the product” fee. Wizard-of-Oz is allowed if they are paying for the outcome (hand-written reports that look generated still taught Vanta the price). If users *ask* you to start charging, you are late to notice.
+Start with the task the customer wanted to accomplish. Watch a realistic attempt or inspect an appropriate record of the outcome, with permission.
 
-If they leave, they do not count. Charge more than the founder’s stomach; that rule is expanded in [pricing](../02-product-marketing/pricing-and-packaging.md).
+A login tells you the product was opened. A generated draft tells you something was produced. Neither necessarily tells you the work was completed or useful.
 
-### Step 3: more than one company loves it and pays
+For a preparation product, the result might be a packet the reviewer can use without avoidable clarification. For an analytics tool, it might be a decision supported by trustworthy data. Define the event around the job, not the easiest button to instrument.
 
-Most founders in that sample first *felt* PMF around **3 to 10** successful paying customers—and the sense they could close more. Design partners converting (Gong: 11 of 12 bought when beta ended) is a cleaner signal than a survey. People yelling because it broke is a signal they treated it like production, not a speaker they can ignore.
+Compare with the existing approach, including its strengths. Count new work introduced by your product: checking output, fixing errors, setting up access, or maintaining another system.
 
-One paying design partner who later turns it off, then a CEO demanding it back on, is the texture you want. Ten successful live customers is a common “this is real” line. One logo is an anecdote.
+Then ask whether the improvement matters enough to justify switching. A technically successful test can still produce too little value for the customer.
 
-### Step 4: push becomes pull
+### Do they choose it again when the need returns?
 
-You stop explaining molasses. Cold inbound shows up from people you have never met. Someone heard from someone else. A prospect writes a long document of *what to build next* because they are trying to pull the product out of you. Feature requests appear as a path through the forest, not as fog.
+Continued use is more persuasive than a good first impression. It suggests the product has a place in the customer's workflow rather than only in the demo.
 
-YC’s blunt version: explosive use, or users who spontaneously tell others. If you are not getting that, either you are not building what they want or there are not many of them.
+Use the task's natural rhythm. A weekly operating process, a quarterly planning exercise, and an annual filing should not all be judged by daily activity.
 
-Pull can arrive before you *feel* it. Several founders said a friend or a later year of hindsight saw PMF earlier than they did. Do not wait for a cinematic moment to start acting like you have something.
+Find out what brought the customer back. Did a new task arise? Did a colleague request the output? Did your team remind them repeatedly? Reminders and customer success can be legitimate parts of the service, but record their role.
 
-### Another naming: levels, not a switch
+Also understand why an account stays. Satisfaction is one explanation; a prepaid contract, migration effort, or lack of an available alternative is another. Continued payment is useful evidence, but it does not by itself describe the quality of the experience.
 
-If the team is arguing “do we have it,” First Round’s public Levels frame is a useful second vocabulary—not a replacement for the ladder above. **Nascent** is three to five customers with an urgent problem and almost no repeatability. **Developing** is still a hunt for the next logo. **Strong** and **extreme** are when finding and serving the *marginal* customer gets easier, and when **satisfaction, demand, and efficiency** can all be pointed at. Efficiency is the dimension most “we have PMF” slides skip: lines out the door at a price that cannot pay for itself is a stand, not a company.
+<a id="step-2-one-company-pays-a-meaningful-amount"></a>
 
-When you are stuck, change one of four levers: **persona, problem, promise, product**. Promise (how you talk about the benefit) is the one teams skip. That work then lives in [positioning](../02-product-marketing/positioning.md). Whether the channel and the price still belong to the same company is [four fits](four-fits.md).
+### Will the buyer support the offer commercially?
 
-Do not import Looker’s board numbers, or a two-to-six-year venture clock, as your OKR.
+Payment adds information because the buyer has made a tradeoff. It does not erase uncertainty about outcomes, retention, or delivery cost.
 
-### Step 5: growth that does not need a special week
+There is no universal minimum annual contract value for PMF. A low-priced product with a suitable distribution and support model can have real demand. A six-figure contract can still be a bespoke project that would be difficult to repeat.
 
-Confidence compounds when signups, usage, or revenue keep moving **without** a launch stunt every month. For some teams that was week-over-week MRR with no marketing team. For others it was a later ARR number, because every deal still felt like it might be the last—until they noticed that businesses share surprisingly similar problems.
+Record the actual offer: price, discount, free services, custom work, contract length, and payment status. Distinguish a paid evaluation from a recurring subscription, and an agreement from collected payment.
 
-Open-source fame without revenue is not this step. Downloads can explode while the board asks where the restaurant-scale revenue is. Monetization has its own fit.
+For products with different users and buyers, understand both sides. An operator may value the workflow while the budget owner sees too little benefit to justify the expense. That could reflect the wrong buyer, incomplete value, poor packaging, or an adequate existing alternative—not automatically a pricing problem.
 
-This step does not end. The next segment, geography, or product resets the ladder.
+<a id="step-3-more-than-one-company-loves-it-and-pays"></a>
+
+### Does the result appear in comparable accounts?
+
+One successful customer is a useful place to start. It is not evidence that every company with the same job title needs the product.
+
+Compare accounts with similar workflow conditions. Which have the problem, receive the intended result, and make a relevant commitment? Which do not, and why?
+
+Avoid defining the segment only after seeing the winners. You can discover a promising pattern in early outcomes, but write the resulting hypothesis down and test it with another suitable group. Otherwise, “our ICP” can become a retrospective label for whoever happened to buy.
+
+Keep failures and unknowns in view. An account that never completed setup may reveal an onboarding problem. An account waiting for a project may be too early to judge. They should not quietly disappear from the analysis.
+
+<a id="step-4-push-becomes-pull"></a>
+
+### Can you find more demand without reinventing the story?
+
+Useful signs include customers bringing relevant colleagues, referrals that lead to real evaluations, repeat purchases, or prospects arriving with a recognizable problem and a reason to act.
+
+None requires completely passive acquisition. A product can serve a market well and still need sales, partnerships, marketing, or a long procurement process.
+
+Record how the opportunity developed. A prospect who submits a form after an event is still inbound through that form, with event influence in the history. Calling them a stranger does not improve the evidence.
+
+Feature requests also need interpretation. A request connected to repeated valuable use may point to a worthwhile improvement. A long wishlist from someone who has never used the product may describe an entirely different business.
+
+<a id="step-5-growth-that-does-not-need-a-special-week"></a>
+
+### Can you deliver the value on workable terms?
+
+Early delivery can be deliberately inefficient while you learn. The important distinction is between understood assistance and an invisible subsidy.
+
+Track the work required to sell, set up, support, and deliver the offer. Include human review, exceptions, third-party costs, and the time spent repairing failures.
+
+Do not assume that today's service effort will disappear because the roadmap includes automation. Identify which work could realistically become cheaper and what evidence would demonstrate that improvement.
+
+You can have promising product value before the business model is fully resolved. Describe both facts. Strong demand does not make unlimited support affordable, and a healthy margin on a product nobody wants does not establish fit.
+
+<a id="another-naming-levels-not-a-switch"></a>
+
+## Frameworks help when they lead to a decision
+
+First Round's public **Levels of PMF** framework distinguishes satisfaction, demand, and efficiency, and describes fit as developing rather than simply switching on. It is a useful reminder that enthusiastic users and an economical business are not the same question. [First Round: Levels of PMF](https://www.firstround.com/levels?ref=b2b-playbook).
+
+Use the vocabulary if it helps your team. Do not import another company's funding stage, customer count, or revenue milestones as your own passing grade.
+
+A more useful summary than “Level 2” is: “The result is repeatable for this workflow, renewal evidence is immature, and onboarding still requires two kinds of assistance we need to understand.”
+
+That statement tells you what to investigate. A label alone does not.
+
+## Read retention by cohort, not only in total
+
+A cohort is a group that starts under a defined condition during a defined period. Looking at comparable groups at the same age helps distinguish continued use from a constant supply of new arrivals.
+
+For B2B, decide whether the unit is a person, team, or paying company. User-level retention can change when employees move roles even if the account still receives value. Account-level retention can look healthy while only one person remains active.
+
+Define four things before reading the chart:
+
+1. **Entry:** What puts an account in the group?
+2. **Return:** What useful behavior counts as continued use?
+3. **Interval:** Over what period would that behavior reasonably recur?
+4. **Maturity:** Has each account had enough time to reach the interval you are measuring?
+
+Your analytics settings matter. Amplitude's documentation distinguishes retention based on particular return windows from broader return definitions and flags incomplete observations. Record your own event and time-window choices rather than comparing unlike charts. [Amplitude retention documentation](https://amplitude.com/docs/analytics/charts/retention-analysis/retention-analysis-interpret?ref=b2b-playbook).
+
+### A small example with the denominator left visible
+
+The following numbers are invented for teaching and are separate from the five-account story later in this guide.
+
+Suppose the offer supports recurring monthly work. A cohort starts when an account receives usable access under the agreed setup. A return means completing the defined job during the relevant monthly interval. The observations below are all from completed intervals.
+
+| Cohort | Starting accounts | Month 1 | Month 2 | Month 3 |
+|---|---:|---:|---:|---:|
+| Earlier batch | 6 | 5 of 6 | 4 of 6 | 4 of 6 |
+| Recent batch | 4 | 3 of 4 | Not yet observable | Not yet observable |
+
+The earlier batch has four accounts doing the job in Month 3. That is useful evidence, but two unchanged observations in a small group do not establish a durable retention plateau.
+
+The recent batch is not failing Month 2. It has not reached Month 2. Treating unavailable observations as zero would invent churn; treating them as success would invent retention.
+
+Do not add both cohorts into a Month 3 percentage. Only the earlier group has reached that age.
+
+Now inspect the accounts behind the numbers. In this fictional example, one earlier account never completed its first task and another stopped after trying the product. Those situations suggest different investigations.
+
+You can also analyze retention among accounts that activated successfully. Label it as such and show the activation rate separately. Removing setup failures from every chart would make the overall experience look better without improving it.
+
+### Separate renewal evidence from contract duration
+
+An account three months into a twelve-month contract has not yet made its annual renewal decision. It may be using the product well, which is encouraging, but “has not canceled” is not the same as “has renewed.”
+
+Show renewal eligibility and outcomes. For example, if only two accounts have reached renewal and both renewed, say two out of two—not that the entire customer base has demonstrated annual retention.
+
+Follow usage and customer feedback while waiting for renewal evidence. These can support nearer-term decisions, but they do not make the unobserved period disappear.
+
+## Revenue can grow while customers leave
+
+For a recurring subscription business, customer retention and revenue retention answer different questions.
+
+**Customer retention** asks how many accounts from the starting group remain. **Gross revenue retention**, or GRR, looks at recurring revenue kept from that group after losses, without credit for expansion. **Net revenue retention**, or NRR, also includes expansion from the existing group.
+
+New-customer revenue does not belong in either retention numerator. Keep one-off fees separate from recurring revenue. Specify the period, cohort, and treatment of reactivations and other adjustments. [ChartMogul's gross and net retention explanation](https://chartmogul.com/blog/net-and-gross-retention-rates/?ref=b2b-playbook) and [NRR calculation notes](https://help.chartmogul.com/article/143-chart-net-mrr-retention?ref=b2b-playbook).
+
+Here is an invented, simplified example with no reactivations, currency changes, or other adjustments:
+
+| Movement over the period | Monthly recurring revenue |
+|---|---:|
+| Starting revenue from 10 accounts | &#36;10,000 |
+| Lost when 2 accounts leave | −&#36;2,000 |
+| Lost through smaller subscriptions | −&#36;1,000 |
+| Added through expansion in remaining accounts | +&#36;4,000 |
+| Ending revenue from the original group | &#36;11,000 |
+
+Customer retention is **8 of 10, or 80%**. GRR is **70%**: the original &#36;10,000 minus &#36;3,000 of losses, divided by the original &#36;10,000. NRR is **110%** after including expansion.
+
+If new accounts add another &#36;3,000, total MRR reaches &#36;14,000. NRR remains 110% for the original group; new sales do not repair its lost accounts.
+
+These are arithmetic examples, not targets. They show why “revenue is up” is not a complete account of customer health.
+
+Look at concentration, too. If one expansion explains the improvement, ask whether it reflects a repeatable opportunity or a special circumstance. Keep the aggregate and the underlying customer stories together.
+
+## Use a PMF survey as a question, not a verdict
+
+A survey can reveal which users would miss the product, what they value, and where the experience falls short. It adds a stated preference to your behavioral and commercial evidence; it does not replace either.
+
+**Superhuman offers a well-known example.** In Rahul Vohra's account, published on the company blog on November 27, 2018, the team asked recently active users how they would feel without the product. He reported an initial 22% selecting the strongest disappointment response, 33% after narrowing the target group, and 58% after subsequent product work. The article discusses the 40% heuristic associated with Sean Ellis. [Superhuman's PMF account](https://blog.superhuman.com/how-superhuman-built-an-engine-to-find-product-market-fit/?ref=b2b-playbook).
+
+Those are reported survey results, not retention rates or a controlled estimate of improvement. The composition of the surveyed group changed, which matters when interpreting the scores. The company's publication notes an earlier November 13, 2018 appearance in First Round Review.
+
+For your own survey, define eligibility before sending it. Users need enough experience to answer the question, but surveying only the happiest regular users will not explain why other people never got started. Study those groups separately.
+
+Report invitations, responses, customer roles, and the time period. Ten answers from two companies are not ten independent buying decisions. Four favorable answers out of ten can become three out of ten with one changed response; a threshold does not remove that uncertainty.
+
+Ask follow-up questions about an actual recent task, the alternative, and the main benefit. In B2B, speak to the buyer as well as users when their responsibilities differ.
+
+Use the findings to form a hypothesis, then look for evidence in subsequent use and purchase decisions. Do not keep redefining the audience until the score becomes flattering.
+
+<a id="how-a-filled-ladder-card-reads"></a>
+
+## A worked review of the early customer evidence
+
+The example below continues the **fictional record-correction scenario** from [ICP](icp.md), [wedge](wedge.md), and [first ten customers](first-ten-customers.md). It is not a real customer case or Ivan's operating data.
+
+Account A bought a limited, assisted preparation pilot and used a later batch. Account B already had an adequate internal tool. C was interested but occupied with another project. D required an unsupported deployment arrangement. E's workflow remained uncertain.
+
+The tempting summary is: “One customer pays, people like the idea, and there is a pipeline.”
+
+A more useful review asks what each fact establishes.
+
+| Evidence | What it supports | What remains open |
+|---|---|---|
+| A paid for a bounded pilot | Willingness to buy that scope on those terms | A subscription at the intended standard terms |
+| A used a later batch | Some repeat use in the observed period | Whether the benefit persists without exceptional help |
+| B declined because its tool was adequate | A relevant alternative can be sufficient | Whether another workflow condition distinguishes suitable accounts |
+| C expressed interest but could not allocate time | Possible relevance, with a timing constraint | Actual evaluation or payment |
+| D needed unsupported deployment | A limit of the current offer | Demand for a different version, which would need separate evaluation |
+| E asked a related question | A reason for research | Recurring need, suitability, and intent to buy |
+
+This is promising evidence around one specific offer, with substantial uncertainty. It does not become broad PMF because the founder can name five companies.
+
+### Conversation 1: what would the customer actually miss?
+
+**Founder:** “You used the service again. What made it worth bringing back for the next batch?”
+
+**Operations lead:** “Having the requests ready before the review meeting. But you also chased the missing information for us.”
+
+**Founder:** “If we supplied the packet software without that follow-up, would it still solve enough of the problem?”
+
+**Operations lead:** “Some of it. I am not sure I would buy it on the same terms.”
+
+That answer does not invalidate the pilot. It clarifies what the customer bought.
+
+The founder now has a delivery question: is gathering missing information a repeatable part of a valuable service, a product capability they can support, or an expensive custom dependency?
+
+They should not relabel the assisted outcome as software-only value. Nor should they abruptly withdraw assistance the customer was promised just to run an experiment. Agree any change before testing it.
+
+### Conversation 2: a usage event is not yet a useful result
+
+**Founder:** “The dashboard shows that every packet was opened. Did the packets reduce the clarification work?”
+
+**Engineering reviewer:** “Opening them was part of the test. Some were ready, but others still needed information from another team.”
+
+**Founder:** “Then packet opens are not a good success measure. Could we distinguish packets accepted for review from those returned for more information?”
+
+**Engineering reviewer:** “Yes. Include the work operations did before sending them, too.”
+
+The revised measure follows the job more closely. It still needs judgment: a reviewer accepting a packet does not prove the underlying record is correct, and preparation does not include executing the change.
+
+The founder keeps the scope intact and compares the whole preparation-and-review process with the revised existing form. They do not claim to have eliminated a delay caused by engineering availability.
+
+### Conversation 3: the buyer is deciding what to buy next
+
+**Founder:** “Would you want to continue after this pilot?”
+
+**Business owner:** “Possibly, if the benefit lasts and we know what support is included.”
+
+**Founder:** “We should separate the result from the extra work we did. I can propose a defined next scope, with the assistance and price written down.”
+
+**Business owner:** “That would help. We are not ready to commit the whole department.”
+
+The next step is a scoped commercial decision and a delivery test, not an announcement of company-wide adoption.
+
+The founder can also look for another account with the same preparation problem. That tests whether the useful pattern extends beyond the original relationship. It does not require solving D's enterprise requirements first.
 
 ## If you are stuck
 
-This happens to almost every company. Most do not get through it. Take ten honest minutes:
+Begin with the point where evidence weakens. “We need more PMF” is too broad to choose a sensible experiment.
 
-1. Is the problem important **and** underserved?
-2. Is the solution clearly better than the status quo—not a slight polish?
-3. Have you [rethought the ICP](icp.md)? How painful is it *for them*?
-4. Have you rethought the idea—not just the roadmap? Return to step 1 with one company.
-5. If you are on a venture path: is the idea actually that scale? (A lifestyle business can still have real fit.)
+| Pattern you observe | Investigate first | A useful next test |
+|---|---|---|
+| Suitable people do not understand the offer | Explanation and scope | Show a concrete example and ask where it fits |
+| People understand but do not prioritize it | Importance, timing, and alternatives | Examine a recent instance and the consequence of leaving it unchanged |
+| Customers agree to try but cannot get started | Setup, ownership, access, or coordination | Observe one onboarding attempt end to end |
+| Customers use it once and stop | Result quality, recurrence, or total effort | Review the next occurrence of the task and the alternative chosen |
+| Users value it but buyers decline | Business value, approval path, packaging, or price | Hold a specific purchase discussion with the relevant owner |
+| A few customers thrive while similar accounts struggle | The conditions behind the difference | State a narrower hypothesis and test it prospectively |
+| Customers stay but delivery is too expensive | Assistance, exceptions, scope, and costs | Test one delivery improvement while preserving the promised result |
 
-Do not use these questions as a workshop theme. Use them to change who you sit with this week.
+These are investigation prompts, not diagnoses from a chart. Two accounts can stop using a product for completely different reasons.
+
+Make the experiment address the uncertainty. If the problem is a missing approval, changing the homepage may not help. If the output is not useful, another sales sequence will not repair it.
+
+Write the expected observation before you change something. “A new operator can complete the first task with the documented setup” is more informative than “onboarding gets better.”
+
+Include a reason to stop or revise. If an improved form performs equally well with less effort, that should affect your decision. A fair comparison must be allowed to favor the alternative.
+
+## When should you narrow, improve, or rethink the offer?
+
+**Narrow** when a coherent group gets value for an identifiable reason and other accounts lack that condition. Describe the condition in terms you can investigate before the sale.
+
+**Improve the experience** when suitable customers want the result but a specific, addressable obstacle prevents it. Fixing permissions, reliability, or a confusing handoff may be more valuable than adding another use case.
+
+**Reconsider the offer** when the customer values something different from what you thought you were selling. The preparation example might support a service, a different workflow, or a smaller software offer. Evaluate the tradeoffs explicitly.
+
+**Reconsider the problem or market** when repeated, well-run tests show that suitable people can achieve the result but do not value it enough, or the existing approach is consistently sufficient.
+
+These choices can be uncomfortable because several may require admitting that earlier work answered the wrong question. Keep the evidence rather than rewriting the history. What you learned can improve the next decision even if the current offer does not survive.
+
+Do not pivot because of one quiet week, and do not continue indefinitely because one customer once paid. Review the quality and consistency of the evidence, the remaining uncertainty, and the resources needed to learn more.
+
+<a id="how-long-this-usually-takes-survivor-sample"></a>
+
+## Give the next test a time horizon, not the company a borrowed deadline
+
+A story about a famous company taking two years does not tell you how long your own search should take. Such stories often select survivors and combine different products, customer cycles, and definitions of success.
+
+Set a time horizon around the thing you need to observe. A weekly task may provide several opportunities to learn in a month. An annual renewal cannot provide annual evidence after six weeks.
+
+Long observation windows do not require waiting passively. You can investigate first value, usage, buyer expectations, implementation cost, and intent to continue while labeling the ultimate outcome as unobserved.
+
+For each next test, specify what it costs, when relevant evidence could arrive, and what you will do if it does not. Respect the customer's normal process; your review date is not permission to invent their urgency.
+
+A responsible stopping decision can also reflect resources or an unattractive business model. You do not need to prove that no possible customer anywhere would want the idea before deciding not to pursue it.
+
+## AI products need evidence beyond the impressive first output
+
+A first AI-generated result can make a demo feel successful. The more useful question is whether people can rely on the product for the intended task after checking, correcting, and integrating the output.
+
+Track accepted results and completed jobs, not only generations, prompts, or time inside the interface. More attempts may mean exploration, but they may also mean the user is struggling to get an acceptable answer.
+
+Include review effort, rework, latency, model and infrastructure cost, and escalation to a person. If a workflow appears cheaper only because someone checks the output for free, the economics are incomplete.
+
+For an agent that can take actions, evaluate the agreed action boundaries, permissions, recovery, and operational consequences. A high task-completion rate is not enough if an unacceptable failure mode remains hidden in the average.
+
+Separate exploratory use from intended ongoing work. Early curiosity can be useful for discovery, but it should not be mistaken for recurring demand. Similarly, a fall in prompt volume can be good if the same job now completes with fewer attempts.
+
+<Accordion title="What if the product is used only once a quarter or for a single project?">
+
+Choose an observation window that matches the need. For quarterly work, investigate whether customers return at the next relevant cycle and whether the prior result was useful. Do not interpret low weekly activity as failure by default.
+
+For a one-off project, examine completion, customer value, commercial terms, and demand from other suitable buyers. Repeat use may not be the right requirement.
+
+Be careful not to use infrequency as an excuse for missing evidence. If the next cycle has arrived and the customer chooses another method, investigate that choice.
+
+</Accordion>
+
+<Accordion title="What if customers would be angry if we disappeared?">
+
+Ask what would be disrupted and why. The answer may reveal real dependence, but it may also reflect inaccessible data, migration cost, a contractual expectation, or an urgent unresolved task.
+
+Do not deliberately create an outage, remove access, or threaten a customer's workflow to test attachment. Use ordinary feedback, observed use, voluntary renewal decisions, and agreed evaluations.
+
+A calm customer who consistently receives value and renews can be stronger evidence than a dramatic complaint. Emotional intensity is not a required PMF metric.
+
+</Accordion>
+
+## Turn the review into a limited decision
+
+End the review with a statement someone outside the founding team could understand:
+
+**“We have evidence that this assisted offer helps one type of team. We do not yet know whether the standard version retains customers at the intended price. We will test that scope with suitable accounts before increasing acquisition substantially.”**
+
+You can make progress without resolving every uncertainty. A promising pattern might justify improving the product and running another bounded acquisition test, while not yet justifying a large expansion.
+
+Keep guardrails with the decision. Decide what result would make you pause, how much support capacity you have, and which customer commitments must remain protected.
+
+Revisit the scope when you change the market, price, delivery model, or core capability. Evidence from the original offer is relevant background, not automatic proof that the new version will work.
 
 ## Copyable templates
 
-### How a filled ladder card reads
+<a id="ladder-card-copy"></a>
 
-This is a **worksheet fill**, not a customer case study. A team that would tell the board “we have PMF” often looks like this when they are forced to date each rung:
+### PMF evidence card
 
-| Rung | Evidence we have | Label | Still missing |
-|---|---|---|---|
-| One company loves and uses it in production | Design partner #1 runs a weekly job on it; we watched them last Tuesday | Fact | We have not sat with a second company doing the same job |
-| They would be harmed if we vanished for a week | Slack lit up when we shipped a bug on a Saturday | Observation | Nobody has said they would miss payroll, a queue, or a close if we disappeared |
-| One company pays five–six figures / year | They asked for a “friends” invoice at &#36;500 so procurement has a PO | Fact | The number is a token. Real ACV is still unasked |
-| 3–10 paying companies, and we can name the next | Two other logos in a pilot Slack | Assumption | Both unpaid. We cannot name who closes after the first real invoice |
-| Pull: inbound or word of mouth from strangers | Three “inbound” forms last month | Assumption | All three met us at the conference we staffed |
-| Growth holds without a heroic campaign | MRR ticked up the week we launched on Product Hunt | Observation | The two weeks after that were flat |
+Use this card to compare evidence and choose the next test. Unknowns are useful entries; you do not need to fill every line with a positive result.
 
-Highest honest rung here: **love in production, not pay, not pull.** Friend-and-family logos, token invoices, and conference forms do not move the line.
+```text
+REVIEW DATE:
+DECISION WE ARE CONSIDERING:
 
-Copy the empty card below. Fill it for *your* company this week. Mark each line fact / observation / assumption.
+CUSTOMER GROUP AND WORKFLOW:
+PRODUCT VERSION / SCOPE:
+PRICE / SPECIAL TERMS:
+ASSISTANCE INCLUDED:
+CURRENT ALTERNATIVE:
 
-### Ladder card (copy)
+For each evidence area:
+- Customer result:
+- Continued use at the relevant interval:
+- Payment and renewal:
+- Comparable-account outcomes:
+- Additional demand:
+- Delivery effort and economics:
 
-- One company loves and uses it in production — evidence / date / still missing:
-- They would be harmed if we vanished for a week — evidence / date / still missing:
-- One company pays five–six figures / year — evidence / date / still missing:
-- 3–10 paying companies, and we can name the next — evidence / date / still missing:
-- Pull: inbound or word of mouth from strangers — evidence / date / still missing:
-- Growth holds without a heroic campaign — evidence / date / still missing:
+Record:
+- What happened / source / date:
+- Accounts observed and eligible denominator:
+- Observation window:
+- Confirmed / reported / inferred / not yet observable:
+- Plausible alternative explanation:
+- What would change our interpretation:
+
+STRONGEST SUPPORTED CONCLUSION:
+IMPORTANT LIMITS:
+NEXT TEST / OWNER / EXPECTED OBSERVATION DATE:
+EFFORT OR COST LIMIT:
+CONTINUE / REVISE / STOP CONDITIONS:
+CUSTOMER COMMITMENTS TO PROTECT:
+```
+
+Keep actual customer records and commercially sensitive information in your approved private system. Do not commit a filled version to this public library.
 
 ### Weekly founder split
 
-A split that is lying to itself: 4 hours on calls, 36 hours building, “this week’s one company” still blank. The target until step 3 is real is about **half and half**, and the company has a name.
+Review the work against the uncertainty you chose, rather than forcing a universal ratio between talking and building.
 
-- Hours talking to buyers and watching them work:
-- Hours building:
-- This week’s one company:
+Ask what you learned from customers, what you changed, and whether the change produced the expected result. A week of interviews without acting can stall progress; a week of coding without checking the underlying assumption can do the same.
+
+Use this brief review:
+
+```text
+THIS WEEK'S MAIN UNCERTAINTY:
+CUSTOMER / TASK / COHORT WE OBSERVED:
+WHAT THE EVIDENCE CHANGED:
+WHAT WE BUILT OR ADJUSTED:
+WHAT HAPPENED AFTERWARD:
+WHAT IS STILL TOO EARLY TO KNOW:
+NEXT WEEK'S MOST USEFUL ACTION:
+```
+
+The appropriate cadence depends on the job and decision cycle. Keep contact and observation proportionate; customers do not owe you a weekly research meeting.
 
 <a id="pre-flight-checklist"></a>
 
 ## Before you start
 
-- [ ] We can name the one company, the job they run on us, and the last time we watched them do it.
-- [ ] We did not confuse a 25-item wishlist with the product we intend to be.
-- [ ] At least one invoice exists at a price that would embarrass a “SaaS is &#36;50/month” reflex—or we have a dated reason to delay charging.
-- [ ] Churned early logos were removed from the love/pay count.
-- [ ] “Inbound” means strangers, not the last conference we staffed.
-- [ ] We are not using a retention chart as a substitute for anger-when-it-breaks.
-- [ ] The next segment we do **not** have fit with is written down, so we stop pretending the current rung is the whole market.
+- [ ] The customer group, product scope, commercial terms, and assistance are named.
+- [ ] The outcome measure follows a useful customer job.
+- [ ] Cohort entry, return behavior, interval, and eligibility are explicit.
+- [ ] New accounts and immature observations are not inflating retention.
+- [ ] Payment, usage, renewal, and customer sentiment are kept distinct.
+- [ ] Unsuccessful accounts and alternative explanations remain visible.
+- [ ] The next investment is tied to a bounded test or supported conclusion.
 
 ## Metrics
 
-| Metric | Diagnostic use |
-|---|---|
-| Production love | Named accounts running a weekly job on the product |
-| Meaningful ACV | Paying accounts at five–six figures / year (or your equivalent bar) |
-| Repeatability | Paying accounts that look like the ICP / paying accounts |
-| Pull share | New qualified starts from inbound or referral with no outbound that week |
-| Ladder position | Highest rung with dated evidence, not a slide title |
+Choose a small set that addresses your current decision. You do not need every metric below in every business.
 
-Do not count GitHub stars, waitlist size, or “the vision is working” as a rung.
+| Question | Useful evidence | Interpretation to avoid |
+|---|---|---|
+| Do customers get value? | Completed jobs, outcome quality, effort versus the alternative | Equating logins or generated output with success |
+| Do they return? | Cohort retention at a relevant interval | Counting customers who have not reached that interval |
+| Will they keep paying? | Renewal outcomes, GRR, NRR, actual commercial terms | Letting expansion conceal losses or treating prepaid time as renewal |
+| Can the pattern repeat? | Outcomes in prospectively defined comparable accounts | Naming only the winners as the segment |
+| Is more demand available? | Suitable opportunities, referrals, purchases, and acquisition effort | Treating attention or a lead source as sufficient proof |
+| Can delivery work? | Setup, support, variable costs, and exceptions | Assuming founder labor is free or future automation is certain |
+
+Use benchmark comparisons only when the customer type, price, product rhythm, definitions, and observation period are reasonably comparable. A number from a different business can prompt a question without becoming your target.
 
 ## Common mistakes
 
-- Hunting a completion feeling that famous companies never had.
-- Building for a year without becoming a salesperson half the week.
-- Calling PMF when one design partner is happy and unpaid.
-- Implementing every request from the first lover and burying the actual product.
-- Forcing PLG to skip this ladder—see [channel strategy](../04-channels-and-distribution/channel-strategy.md).
-- Importing someone else’s two-year median as a board commitment.
+**Turning a milestone into a verdict.** One payment, ten logos, a funding round, or a survey percentage does not settle the entire question.
+
+**Treating customer happiness as permission to ignore retention.** Combine what people say with what they do and the conditions under which they pay.
+
+**Removing inconvenient accounts.** Keep historical failures visible even when you refine the target segment. Test the new segment on subsequent accounts.
+
+**Confusing high price with strong fit.** The relevant question is whether the actual offer creates value and can be acquired and delivered on workable terms.
+
+**Automating before understanding the service.** First identify which human work creates the result, which is avoidable, and which must remain.
+
+**Scaling the acquisition of an unreliable outcome.** More demand can amplify a problem you have not yet resolved.
+
+**Treating fit as permanent.** A competitor, customer workflow, price change, or new product version can change the relationship you previously understood.
 
 ## What to read next
 
-You know who should love it: stay in [ICP](icp.md) and [buying committee](buying-committee.md) until the seats are named. You still need a way to reach them: [first ten customers](first-ten-customers.md). You need them to choose you in a room: [positioning](../02-product-marketing/positioning.md), then the [pitch](../02-product-marketing/sales-enablement.md). You need them to pay: [pricing](../02-product-marketing/pricing-and-packaging.md). After they pay, first value is [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) and the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). Whether market, product, channel, and model still agree is [four fits](four-fits.md). You think pull should already be a channel: read [channel strategy](../04-channels-and-distribution/channel-strategy.md) only after you can point to a rung, not a hope.
+Return to [ICP](icp.md) if the useful pattern belongs to a narrower customer group, or [wedge](wedge.md) if the initial job needs a clearer boundary.
+
+Use [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) when suitable accounts struggle to start, [customer success](../08-lifecycle-and-customer-marketing/customer-success.md) when value does not persist, and [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) when commercial terms need testing.
+
+Continue to [Four Fits](four-fits.md) to examine how the product, market, channel, and business model work together. A promising product-market relationship is an important part of that picture, not the whole business.
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. It will not find PMF for you.
+This is an owner-maintained operating synthesis. The account conversations, cohort counts, revenue example, and templates are original teaching material, not actual customer records or promised outcomes.
 
-The ladder, the pacing table, the warning that PMF is per segment and never “done,” the one-company obsession, message vs product vs buyer fit, the 3–10 customer band, push-to-pull signs, and the stuck questions draw on Lenny Rachitsky’s founder interviews ([Lenny’s Newsletter, 2023-09-12](https://www.lennysnewsletter.com/p/finding-product-market-fit?ref=b2b-playbook)). That is a survivor sample of companies that later looked obvious. Named episodes in the source (Figma and Coda, Gong’s design partners, Vanta’s first paid work, Databricks’ later revenue confidence, and others) are the author’s illustrations, not audited case studies here. Retention remains necessary even though it was not the story they told.
+The Superhuman case uses Rahul Vohra's [company publication dated November 27, 2018](https://blog.superhuman.com/how-superhuman-built-an-engine-to-find-product-market-fit/?ref=b2b-playbook), checked September 7, 2026. Its reported survey changes are not presented as retention rates or causal estimates.
 
-The levels (nascent → extreme), the three dimensions (satisfaction, demand, efficiency), the “how hard is the next marginal customer” test, and the persona / problem / promise / product levers draw on First Round’s open-sourced session ([Levels of PMF, 2024-04-08](https://www.firstround.com/levels?ref=b2b-playbook)). That essay is a **method prompt**, not a source to copy. Looker board figures, composite cases, and the PMF Method retreat stay with that author. They are not this library’s benchmarks.
+Measurement references, checked September 7, 2026, are [Amplitude's retention documentation](https://amplitude.com/docs/analytics/charts/retention-analysis/retention-analysis-interpret?ref=b2b-playbook), [ChartMogul's gross/net retention explanation](https://chartmogul.com/blog/net-and-gross-retention-rates/?ref=b2b-playbook), and its [NRR calculation notes](https://help.chartmogul.com/article/143-chart-net-mrr-retention?ref=b2b-playbook). Tools can implement different settings; verify the definitions in your own analysis.
+
+[First Round's Levels of PMF](https://www.firstround.com/levels?ref=b2b-playbook) supplies the explicitly attributed three-dimension framing. Lenny Rachitsky's [September 12, 2023 founder-interview collection](https://www.lennysnewsletter.com/p/finding-product-market-fit?ref=b2b-playbook) informed the earlier edition and remains further reading. This revision does not reproduce those sources' extended cases, paid material, or benchmark tables, and does not treat survivor timelines as operating deadlines.
 
 ---
 
