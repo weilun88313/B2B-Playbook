@@ -1,189 +1,494 @@
 ---
 title: "First ten customers"
 sidebarTitle: "First Ten Customers"
+description: "Find suitable early buyers, make a clear first offer, help them reach a useful result, and learn which parts of the sale you can repeat."
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-09-07 · **Reading edit:** 2026-09-07
 
-Finding your first customers usually means doing the work yourself: asking for introductions, contacting specific people, and helping them get started. Begin with people who trust you, then test whether the same offer works with buyers who do not know you.
+You have a product people can try. You can describe who it is for. A few people have said it looks interesting.
+
+Now you need someone to make room for it in an ordinary working week.
+
+That is a different problem from collecting feedback. A customer has to choose your offer over another use of their money and time. Someone must arrange access, do the setup, attempt the task, and decide whether the result was worth the effort.
+
+The first few customers make those steps visible. You learn which explanation earns a conversation, what the buyer needs before committing, where the product disappoints, and how much help you are really selling.
+
+“First ten” is a useful way to keep the work concrete. It is not a scientific threshold, a promise that ten customers establish product-market fit, or a reason to turn away an eleventh conversation. The aim is to build a small base of genuine customers and understand how to serve more people like them.
 
 ![Existing trust; Introductions; Cold outreach](../../assets/illustrations/first-ten-customers.webp)
 
-*Reading guide: existing trust · introductions · cold outreach.*
+Read in order for the full path, or jump to [outreach examples](#step-3-make-an-invitation-someone-can-answer), [the worked example](#how-a-filled-trust-map-reads), or [the weekly review](#weekly-hunt-card).
 
 ## Use this when
 
-- The ICP is written and you still have fewer than about ten companies using the product in anger.
-- The team is waiting for a launch, a PR hit, or a “growth engine” to produce the first customers.
-- Founders will not ask people they already know, or they will *only* ask people they know.
-- Cold outbound is a spray of titles with no targeting.
+Use this when you have a specific offer to test with a provisional [ICP](icp.md), but acquiring and serving a customer is still unfamiliar work.
+
+You may have no paying customers, a handful of assisted pilots, or an audience that has not turned into purchases. The same method can help an established company introduce a genuinely new offer, although its existing reputation changes the starting conditions.
+
+Expect to be involved personally, or to have someone on the founding team closely involved. Early conversations often change the offer itself. You want those lessons to reach the people who can act on them.
 
 ## Do not use this when
 
-- You cannot name who should buy. Complete [ICP](icp.md) first.
-- There is no candidate yet. Start at [idea discovery](idea-discovery.md).
-- Pain and pull are still mush. Complete [idea validation](idea-validation.md) first.
-- You already have repeatable pull and are choosing a scale motion. That is [channel strategy](../04-channels-and-distribution/channel-strategy.md).
-- You want a playbook that replaces sitting with one company until they succeed. That is still [PMF](product-market-fit.md).
+If you cannot describe the person, task, and proposed result, return to [idea discovery](idea-discovery.md). If the offer cannot yet be evaluated, use [idea validation](idea-validation.md) to design a smaller test.
+
+You do not need a perfectly proven ICP before approaching anyone. Research and selling can develop together. Be explicit about whether you are asking for advice, offering an experiment, or selling something you can already deliver.
+
+If customers already arrive, buy, and succeed through a reasonably repeatable process, your main question may be [channel strategy](../04-channels-and-distribution/channel-strategy.md) or scaling delivery. Do not keep describing a mature acquisition problem as “finding our first customers.”
 
 ## If you keep it extremely simple
 
-1. Former colleagues—yours, and those of the first people you hired.
-2. Investor and accelerator lists that match the ICP, then **you** send the mail (creatively). Do not wait for a partner to “make intros.”
-3. One community where those buyers already gather. Participate before you pitch.
+Choose a small group of people who may have the same problem. Make an honest, specific invitation. Help the interested ones evaluate a bounded offer, ask for the appropriate commitment, and stay close enough to understand the result.
 
-Everything below is that list with the rings filled in.
+Then compare what happened. Why did one company proceed while another declined? Which parts of the experience could you offer again without reinventing the business?
+
+That loop is more useful than opening five channels at once. You can expand the search when you know what you are trying to improve.
+
+## Decide what you are counting
+
+A company on a waitlist is not the same as a company using the product. A free user is not the same as a paying customer. A paying customer who never gets started is still a commercial fact, but not evidence of successful adoption.
+
+Keep the distinctions visible rather than choosing whichever definition produces the largest number.
+
+| Status | What happened | What is still unproven |
+|---|---|---|
+| Research participant | Shared information about the work | Willingness to try or buy |
+| Interested prospect | Asked about the offer or agreed to a next step | Actual commitment |
+| Free evaluator | Tried a defined version without paying | Willingness to pay |
+| Paid pilot customer | Bought a bounded evaluation or initial project | Ongoing use or a larger purchase |
+| Paying customer in use | Paid and is using the offer for the intended job | Retention beyond the observed period |
+| Returning or renewing customer | Made another relevant commitment | Repeatability across a larger market |
+
+Count companies separately from seats, and explain when several teams belong to the same buyer. Five users in one department do not become five independent customer decisions.
+
+Keep commercial records accurate when someone leaves. Do not erase churned accounts from the historical count to improve the story. Report active customers, former customers, pilots, and refunds separately where relevant.
+
+For a subscription product, continued use and renewal matter. For a one-off service, completion and a worthwhile result may be the appropriate first evidence; repeat purchases depend on whether the need actually recurs. “In production” is not a useful universal definition for every B2B business.
 
 <a id="operating-method"></a>
 
 ## How to do it
 
-### Step 1: start with the people who already trust you
+<a id="step-1-start-with-the-people-who-already-trust-you"></a>
 
-Friends, former teammates, and *their* friends who match the ICP. They have the most innate trust and the least skepticism. Early employees’ networks count: Gong’s first dozen were personal ties, including a part-time contractor who called people he already knew at Greenhouse. Coda’s first users included a former colleague’s company (then still called Krypton), a jewelry shop run by an employee’s spouse, and Box via a recruiting lead. Census’s first ten split between a co-founder who “knew everyone” (ex-Dropbox operators starting product-led companies) and a YC relationship old enough to skip the small talk (Fivetran). Hex’s early customers were people the founder already knew in data. Gusto walked the YC batch *and* a swim camp found through family. Ramp’s first customer was an employee from the last company: “don’t break payroll and I will try you.” Notion’s first ten were friends, SF founders, and investor intros—including a two-way friendship with Figma.
+### Step 1: choose a first result you can deliver
 
-Okta treated this as a quota: fifteen to eighteen new IT conversations a month in the first half-year, including alumni and angels’ LinkedIn graphs.
+Start from your [wedge](wedge.md). Describe one job for one plausible type of customer, including what they need to provide and what you will not do.
 
-**The honest disagreement.** Zip refused friends for the first ten on purpose: people who owe you may buy from guilt, which ruins the test. Coda’s counter: for a product people can abandon, friends still stop using it if it is bad, and they are more likely to tell you the truth. Write which test you are running this month. Do not pretend both are the same experiment.
+“An AI platform for operations” leaves the buyer to invent the use case. “Prepare one supported type of correction request so an engineer can review it with fewer avoidable clarification questions” gives both sides something to inspect.
 
-**When you are too small.** Persona learned they could not sell a PII system to a large company that would not host it. That constraint was useful: it forced “why would *this* person buy?” Salesforce’s version (as told in that set): nobody wants to be the first. Mark Benioff asked a founder he had already invested in (Blue Martini). The first customer is often a pioneer you already helped, not a logo from a cold list.
+The second promise still needs evidence. It also has a boundary: preparing a request is not executing a production change. Keep the boundary visible in outreach, the demo, and the offer.
 
-Trust is the weapon. Figma’s early designers tried it because someone they trusted used it—not because a marketing team said so. Census could show Fivetran a rough demo and skip the courtesy discovery. Ramp’s early buyers accepted risk because they liked the people and had a backup.
+Write down the minimum customer conditions. In this example, the task must recur, the current preparation process must have a meaningful gap, and a reviewer must be available. The customer must also be able to use an acceptable data-handling arrangement.
 
-### Step 2: go cold, but get more targeted if it is not working
+A famous logo that cannot meet those conditions may be a poor first customer. A smaller team with a real problem and a workable setup may teach you much more.
 
-Cold email, DM, and call work early—if you are clever. Volume without a filter is not this step.
+<a id="step-2-go-cold-but-get-more-targeted-if-it-is-not-working"></a>
 
-- **Figma:** designers do not switch tools because a VP mandated it. Dylan Field built a script to find influential designers on Twitter and DM’d them. Bottom-up, one craftsperson at a time.
-- **Retool:** shared a Crunchbase seat with five other companies to save money. Filtered on recent funding and **not** SaaS (SaaS teams were not building internal tools). Targeted ops-heavy companies (delivery, fintech). Emailed CTOs *and* VPs of operations—the people in pain. DoorDash, Rappi, and Brex came through that motion.
-- **Zip:** LinkedIn, asking for *advice* until the ICP was clear; first ten entirely cold so the idea could fail. First paid conversation: a CFO at an 80-person company, near YC Demo Day, negotiated from a token thousand toward a real number.
+### Step 2: build a short list with reasons, not just names
 
-Gusto and Persona also just asked: a florist when buying flowers; “we will build anything identity-related if someone will pay.”
+Choose a batch you can research and follow through personally. If you can only support two evaluations, a huge prospect list will not fix the delivery constraint.
 
-When cold outbound is the ring you are in, execute it with [account research](../05-outbound-and-prospecting/account-research.md) and [cold email](../05-outbound-and-prospecting/cold-email.md)—still as a handmade list, not a sequence factory.
+For each account, record why it might fit, how you learned about it, what remains unknown, and a reasonable route to a conversation. A job posting or a public discussion can suggest relevant work. It does not prove that the company has your exact problem or budget.
 
-### Step 3: mine investor and accelerator networks yourself
+You might begin with a dozen candidates because that is manageable this week. That is a planning choice, not a required sample size or a prediction of how many will buy.
 
-Do not sit around waiting for intros. Pull the list, prioritize with a partner if you have one, and send the mail. Ask those founders for *other* founders who fit.
+Use separate columns for **possible fit** and **existing relationship**. They answer different questions. Someone may trust you but have no use for the offer; someone else may fit well and never have heard of you.
 
-- **Vanta:** joined YC *for* this. Same-batch companies in 2018 were too early for SOC 2. Christina Cacioppo worked the *older* YC list and Bookface threads that had used the word “compliance.” That produced the first ten.
-- **Amplitude:** selling to batch-mates is a common YC mistake—those companies are not yet businesses with money. Early word of mouth came from ex-Zynga PMs who had started companies, via an investor intro, then a Facebook group.
-- **Sprig:** cold email to YC companies produced the first customer with no prior relationship (Thunkable: demo, install, come back a week later, then ask what it costs). First Round’s customer-discovery program (their name for an SDR motion): five ICP meetings a week, a biweekly feedback review, and a job to get to &#36;1M ARR before hiring sales.
-- **Carta:** an angel (Andy Palmer / Tamr) put the product into his own company; sister-fund founders via investors. The product sat next to founders and investors, so that network was the ICP.
+#### People who already know your work
 
-YC is unusually useful for early users. Often not in the way founders expect.
+Former colleagues, customers from an unrelated role, and professional acquaintances may be willing to hear what you are building. Ask whether the problem exists in their current context, not whether they will help you reach a milestone.
 
-### Step 4: show up where the ICP already is—and give first
+Give them an easy way to decline. Do not treat a friendship as an obligation to buy, or a favorable comment as independent demand evidence.
 
-If you only arrive to sell, nobody listens. Snyk went to meetups, conferences, and open-source maintainers with a free product for nearly a year; the first (tiny) paying customers came *out of* that user pool. Plaid spent time in forums, IRC, meetups, and accelerators with fintech founders. Databricks ran “AMP camps” at Berkeley: hackathons on the open-source stack, seventy people in a room, hand-holding on ML. Persona worked every First Round event and grabbed identity problems in the hallway (UrbanSitter).
+A warm customer can still provide valuable evidence. Record the relationship, the actual usage, the terms, and the reason for buying. Later, compare that experience with accounts that did not begin with personal trust.
 
-This is not yet a full [ecosystem](../06-account-field-and-partner/ecosystem.md) flywheel. It is one room, one forum, one camp.
+<a id="step-3-mine-investor-and-accelerator-networks-yourself"></a>
 
-### Step 5: publish, then see who raises a hand
+#### Introductions and professional networks
 
-A surprising number of first customers came from an audience, not a CRM.
+Make an introduction request easy to assess. Describe the work you help with, the type of team, and the question you want to explore. Provide a short note the introducer can forward after checking with the recipient.
 
-Front poured content onto Hacker News and Twitter and watched who joined a ~3,000-person B2B beta. Linear used existing Twitter followings to fill a waitlist from a landing-page tweet when they went full-time. Hex wrote about the problem, built a waitlist, then turned feature-update replies into accounts; even a large waitlist took a while to become ten customers on a complex product. “Opinion-leader” users then pulled others in.
+An investor, accelerator, former manager, or industry association may help you reach suitable people. None is a prerequisite for getting started.
 
-Early content here is “who cares enough to try.” Decision pages a champion can forward come later: [content strategy](../03-brand-story-and-content/content-strategy.md).
+Use directories and communities according to their rules. Membership is not permission to export private contact lists or solicit everyone. An introduction is also not evidence that the recipient needs the product.
 
-### Step 6: treat press as a lottery ticket, not a plan
+#### People you do not know yet
 
-Lenny’s sample found **three** companies for which early PR actually mattered, and the same essays warn that press is usually a bad channel.
+Cold outreach can test whether the problem and offer make sense without a personal relationship. Start with account-specific reasons for contact and a modest request.
 
-Amplitude got a TechCrunch launch in early 2014 and some customers (KeepSafe among them)—then said you still grow on community and word of mouth. Canva got coverage because media likes **financing** stories; converting those articles into users was slow (the piece often did not link). Slack’s invite waitlist (8,000 the first day, 15,000 two weeks later, in Stewart Butterfield’s telling via First Round) used a media push from people who already knew how. Canva’s launch night was a trickle, then thousands of signups over weeks; a Daft Punk visualization on a founder’s old site, with a banner, later beat the TechCrunch article for traffic. Social-media managers and bloggers who like talking about tools became the first advocates.
+Research enough to avoid an obvious mismatch. You do not need to manufacture a personalized compliment or pretend to have read someone's entire career history.
 
-Do not staff a “PR motion” until the inner rings have names.
+If responses are poor, check the assumptions separately: are you reaching the right role, describing a recognizable situation, offering a reasonable next step, and using a suitable contact route? Sending more of an unclear message may only make the result harder to interpret.
 
-### Step 7: sometimes you just ship
+<a id="step-4-show-up-where-the-icp-already-isand-give-first"></a>
 
-Segment posted on Hacker News; engineers tried it on side projects and said what it would take to bring inside. Stytch’s first non-friend internet user (Jon Ma / Public Comps) got an API key after a 20-minute call and sent production traffic eight hours later—before the public beta. A seed announcement plus a Benchmark partner’s retweet then filled demo signups. Loom launched on Product Hunt and had thousands of extension downloads by end of day.
+#### Communities where the work is discussed
 
-Canva did almost every ring: a two-year waitlist (~10,000), embargoed press, email to the list, and still no overnight flood. There was no silver bullet—odd traffic sources and noisy early users, stacked.
+Look for places where people describe the task, ask for help, or compare existing approaches. That could be a professional group, a small event, a specialist forum, or a local association rather than a large startup community.
 
-“Build it and they will come” is a [PMF](product-market-fit.md) symptom, not a substitute for walking the rings.
+Contribute something useful on its own: an explanation, a worked example, or help with a question you understand. Follow the community's promotion rules and disclose your connection when mentioning your product.
+
+Do not treat participation as a transaction in which two helpful comments earn permission to pitch. If someone shows relevant interest, ask whether a separate conversation would be useful.
+
+### Step 3: make an invitation someone can answer
+
+An early message should explain why you are contacting this person, what you are exploring or offering, and what you want them to do next.
+
+Avoid asking someone to “pick your brain” when you intend to run a sales demo. Research is a reasonable request when it is genuinely research. A commercial invitation can also be reasonable when it is clear.
+
+Here is an illustrative note to a former colleague. Replace the background with something true:
+
+```text
+Hi [name] — we used to work together on [actual shared context].
+
+I'm testing a small service that prepares correction requests
+for engineering review. It does not execute the changes.
+
+I don't know whether this is a problem for your current team.
+Do requests still come back because information is missing,
+or is your existing process working well?
+
+If it is relevant, I can send a short example. No need to try
+the service just to help me out.
+```
+
+For a person you do not know, the opening needs an honest basis. A public description of the workflow may be enough, as long as you do not turn it into a claim about their private problems:
+
+```text
+Hi [name] — your team's public [post/job description] mentions
+[the specific workflow it actually describes].
+
+I'm building a service that prepares [supported request type]
+for engineering review. I wondered whether preparation causes
+extra back-and-forth on your team, or whether that is already
+handled well.
+
+Would a short example be useful? It shows the input, the
+prepared packet, and what the engineer still has to check.
+
+If this is not relevant, let me know and I won't follow up.
+```
+
+These are examples of tone and structure, not a complete compliance template or a guaranteed response formula. Check the rules that apply to your channel and recipients before running outreach.
+
+A clear refusal ends the outreach. For silence, a short follow-up can be reasonable if the context and channel permit it. Add something useful or close the loop; do not invent deadlines, imply a prior relationship, or keep nudging indefinitely.
+
+When someone replies, respond to their answer. If they ask for an example, send the example. Requiring a meeting before answering a simple question can create unnecessary work for both sides.
+
+### Step 4: use the first conversation to choose a next step
+
+A productive first conversation can end with a decision not to proceed. That is better than a friendly demo followed by an evaluation nobody needs.
+
+Begin with a recent instance of the work. Ask how the task started, what the person did, who else became involved, and what happened when something went wrong. Clarify what the existing approach already does well.
+
+Then show the part of the offer that relates to what you heard. You do not need to tour every feature. Ask the person to explain where the example would fit and where it would fail.
+
+End with one of a few clear outcomes:
+
+- The problem is not important enough: stop or agree an appropriate future check-in.
+- The workflow is relevant but a key fact is unknown: investigate that fact.
+- The offer is plausible and can be evaluated: agree the smallest useful evaluation.
+- The buyer is ready for a clear, deliverable purchase: discuss the offer without inventing an unnecessary pilot.
+
+Before arranging an evaluation, confirm who needs to approve it. The [buying committee](buying-committee.md) guide explains why interest, data-use permission, spending authority, and signing authority are different things.
+
+### Step 5: make the first commercial offer understandable
+
+An early buyer is taking a chance on a small supplier. Make the commitment easy to understand: the result, scope, inputs, responsibilities, timing, price, and what happens if the work does not proceed as expected.
+
+A paid pilot can be appropriate when both sides need a bounded evaluation. It is not automatically better than a free trial, and neither should be the default for every offer.
+
+A low-friction, self-serve tool may not need a negotiated pilot. A complex workflow may need an agreed test before a wider commitment. Choose based on the uncertainty and the cost of evaluating it.
+
+Discuss money before providing weeks of customized work. “If this comparison shows a useful improvement, what would you need to decide whether to buy?” opens a commercial conversation without pretending the improvement is already established.
+
+A discount can reduce the initial commitment, but it also changes what you learn. Record the standard offer, the actual terms, and what the concession covers. A heavily assisted, discounted customer has not validated an unassisted offer at a higher price.
+
+Be especially careful with “design partner.” Define what the customer receives and what participation involves. Feedback access is not an unlimited claim on your roadmap, and a design-partner agreement is not automatically recurring revenue.
+
+### Step 6: help them reach the first useful result
+
+The sale does not finish the learning. Stay close enough to see whether the customer can do the intended job and whether the result survives ordinary working conditions.
+
+Agree who will provide inputs, handle setup, review the output, and resolve exceptions. If you are doing work manually, say so. Record the time and judgment involved so you can distinguish product capability from founder assistance.
+
+Do not remove controls to make onboarding look effortless. Use appropriate permissions, approved data, and the customer's agreed process. A demo that works only because you took access the product should not have is not a successful implementation.
+
+Once the first result arrives, ask the customer to compare it with the alternative. What became easier? What new work appeared? What would make them use it again?
+
+Then arrange the appropriate next decision. That may be another task, a subscription, a broader evaluation, or stopping. Continued free work without a decision can hide a lack of willingness to buy.
+
+<a id="step-5-publish-then-see-who-raises-a-hand"></a>
+
+## Content can start a conversation before you have an audience
+
+You do not need to become a full-time creator before finding customers. One useful piece can help a specific person understand the problem or evaluate your approach.
+
+For the request-preparation offer, that might be an annotated example showing a request before and after preparation, with the remaining reviewer work made explicit. It could also be a short explanation of why requests get returned and when a better form is enough.
+
+Share it where the topic is welcome, or send it in response to an interested prospect. Include an appropriate next step: inspect a sample, ask a question, or evaluate the offer.
+
+Measure what happens after reading. A relevant reply or a customer using the example is different from impressions. Keep the piece useful even for readers who do not buy.
+
+Content that helps an internal decision is useful early, too. You do not have to wait for a mature marketing team to create the [decision brief](buying-committee.md#help-your-contact-explain-the-decision) your first buyer needs.
+
+<a id="step-6-treat-press-as-a-lottery-ticket-not-a-plan"></a>
+<a id="step-7-sometimes-you-just-ship"></a>
+
+## A launch can help, but prepare the next day
+
+A public launch can put a usable product in front of suitable people. It is not inherently wrong to launch before ten customers, and publicity is not proof that customers will stay.
+
+Choose a venue whose audience can evaluate the offer. Prepare an explanation, a working path to try it, and a way to respond when someone gets stuck. If you have limited support capacity, make that visible rather than accepting commitments you cannot serve.
+
+Think about the day after the launch. Who will review the inquiries? How will suitable accounts get started? How will you separate curiosity from intended use? What will you do with a report that the product failed?
+
+**Segment provides a useful historical example.** In a September 6, 2018 founder interview, Peter Reinhardt described launching the analytics.js library on Hacker News and attracting early customers largely from small companies whose founders wanted better application instrumentation. He also described why a hosted version was useful: changing destinations with the library required rebuilding and redeploying. The reported result was a relevant early audience and demand for the hosted experience, not simply attention on a launch post. [Y Combinator's interview with Peter Reinhardt](https://www.ycombinator.com/blog/peter-reinhardt-on-finding-product-market-fit-at-segment?ref=b2b-playbook).
+
+That retrospective does not establish the payment status or retention of each first user, or show that the same channel would work for a different buyer. The practical lesson here is to connect distribution with a usable next step and pay attention to what adoption requires.
+
+## Free adoption and paid demand are different questions
+
+Free access can help you learn, especially when the user can try the product with little coordination. It can also attract people who value the offer only at a zero price.
+
+Neither outcome is inherently bad. The important question is whether your learning matches the business you intend to build.
+
+**PostHog's founder described both sides of this transition.** In his June 20, 2024 retrospective, James Hawkins wrote that early sales came from conversations with existing users and from a pricing page that listed paid features and offered a booking link. Both worked, but he reported that new users arriving through the pricing page were easier to sell to than the existing community. The team iterated toward public pricing and self-serve payment. The account also reports reaching 1,000 users in May 2020; that is a user milestone, not a claim of 1,000 paying customers. [PostHog: How we got our first 1,000 users](https://newsletter.posthog.com/p/how-we-got-our-first-1000-users?ref=b2b-playbook).
+
+This is one founder's retrospective, not a controlled comparison of pricing strategies. It illustrates why free usage, commercial interest, and payment should remain distinct in your own notes.
+
+If you begin free, define what you are learning and when you will discuss the paid offer. Do not surprise users by treating informal feedback as agreement to become a customer.
+
+## How a filled trust map reads
+
+This is a **fictional continuation** of the record-correction example in the earlier chapters. The accounts, dialogue, and outcomes below are teaching examples, not Ivan's customer records or reported company results.
+
+The founder's first offer prepares one supported request type for engineering review. It does not execute changes. Earlier assisted examples showed a possible preparation benefit, but missing information and an improved existing form remain important alternatives to investigate.
+
+The founder starts with several different routes, without assuming that a warm account is good or a cold one is better.
+
+| Candidate | How the conversation starts | What the founder needs to learn |
+|---|---|---|
+| Account A | A former colleague knows the operations lead | Is the preparation gap meaningful, and can the team evaluate it? |
+| Account B | A permitted introduction from a professional contact | Does their existing internal tool already solve the task? |
+| Account C | A reply to a public worked example | Is there a current project or only general interest? |
+| Account D | A targeted conversation about the relevant workflow | Can the offer meet their deployment and data requirements? |
+| Account E | A community member asks a related question | Is this recurring work or a one-off incident? |
+
+The founder does not need five different products for five conversations. The comparison is useful precisely because the proposed first job stays reasonably consistent.
+
+### A warm introduction is not a reason to skip discovery
+
+**Operations lead at A:** “Our mutual contact said you are working on this. Happy to help.”
+
+**Founder:** “Thank you. I would rather learn that the offer is unnecessary than have you try it as a favor. Could we look at the last request that needed clarification?”
+
+**Operations lead:** “There was one last week. But the wait was partly because engineering was handling an incident.”
+
+**Founder:** “Then we should separate preparation from reviewer availability. The service would not fix the incident queue.”
+
+That distinction prevents a misleading promise. The founder investigates the part they can change instead of claiming responsibility for the entire delay.
+
+After the bounded evaluation and approvals described in [Buying Committee](buying-committee.md), suppose Account A purchases a limited pilot and uses a later batch. This is the same illustrative paid-pilot situation used in the ICP chapter, not a claim that an annual subscription has been secured.
+
+### A polite no can save a week of work
+
+**Operations lead at B:** “We already have an internal form that checks the required fields.”
+
+**Founder:** “Where does it still break down?”
+
+**Operations lead:** “It mostly does not. We occasionally change the form, but that is manageable.”
+
+**Founder:** “It sounds like this would add another tool without solving much for you. I will leave it there.”
+
+There is no need to rescue the opportunity with a discount. Account B may resemble A by company size and job title while having a much better current alternative.
+
+The founder records why the account declined. That information improves the next list: look for an unresolved preparation problem, not merely an operations team.
+
+### A promising reply still needs a buying decision
+
+**Contact at C:** “The example is useful. Could we test it sometime?”
+
+**Founder:** “What would you want to compare, and when would someone be able to review the result?”
+
+**Contact:** “Probably after our current migration. Nobody has time before that.”
+
+**Founder:** “Would it be useful to revisit it after your migration review, or should I leave it with you?”
+
+The account is not lost simply because it cannot act now. It is also not an active pilot. The founder records the agreed timing, if any, and does not reserve delivery capacity based on an indefinite possibility.
+
+For Account D, the required deployment arrangement is beyond the current offer, so the founder declines that scope. For E, recurrence and fit remain unknown. Neither becomes an invented success to complete the story.
+
+### What the founder can honestly say afterward
+
+The result is one paid pilot account with later use that still needs assistance, one account well served by its existing tool, one interested account without current capacity, one unsupported requirement, and one unresolved research lead.
+
+That is not five customers. It is a more useful understanding of where the first offer can work.
+
+The next move is to find more accounts with A's relevant workflow conditions, improve the expensive parts of delivery, and see whether the offer works beyond the original relationship. It is not to declare the warm-introduction channel proven from one purchase.
+
+## What to do when everyone likes it and nobody buys
+
+First locate where progress stops. “People are interested” groups together several different problems.
+
+| Where things stop | A question worth asking |
+|---|---|
+| Few relevant replies | Are the recipients suitable, and is the invitation understandable? |
+| Good conversations, no evaluation | Is the problem important enough to justify the work? |
+| Evaluation agreed, no start | Are inputs, ownership, permissions, and time actually available? |
+| Product used, no purchase | Did it produce enough value, and was a paid decision ever discussed? |
+| One payment, no continued use | Was the result repeatable, or did the customer buy an exceptional service? |
+
+Ask for concrete feedback without bargaining against every answer. A buyer who says “too expensive” may be comparing you with a sufficient existing tool, facing a budget constraint, or politely declining. Clarify the context rather than assuming a lower price will solve it.
+
+Silence has limits as evidence. You may never learn why someone did not reply. Record what you know, improve the next test, and avoid turning a guessed reason into an ICP rule.
+
+Change one important part of the approach at a time where practical. If you change the audience, offer, price, and message together, you may get a different result without knowing why.
+
+<Accordion title="What if I have no network, investors, or audience?">
+
+Start with a task you understand and public places where suitable people discuss it. Build a small, researched list or contribute a useful example in a relevant community.
+
+A direct, honest invitation can be enough to begin learning. Explain why the work appears relevant and offer a small next step. You do not need an invented introduction or an impressive customer list.
+
+Keep the time horizon realistic. A low-trust start may take more effort, and poor response alone does not tell you whether the problem or the message is wrong. Use what you learn to improve the next small batch.
+
+</Accordion>
+
+<Accordion title="Should I build the feature a prospect says they need before buying?">
+
+Find out which job the feature enables and whether the current offer can be evaluated without it. Ask what else would need to happen before purchase; a feature request is not a commitment.
+
+Consider whether the capability fits your chosen direction, is useful to similar customers, and can be supported at the proposed price. If you accept custom work, describe it and price it as such rather than hiding it in a standard subscription.
+
+You can choose to learn through a small custom project. Just keep its evidence separate from demand for a repeatable product, and do not promise delivery dates you cannot support.
+
+</Accordion>
+
+## The second purchase teaches you something new
+
+After the first useful result, ask what the customer wants to do next and why. Do they want to repeat the same task, bring in a colleague, purchase a wider scope, or stop because the need is satisfied?
+
+For recurring work, see whether the next use happens with less prompting and a realistic amount of help. For an occasional task, use the appropriate time horizon; lack of daily activity does not automatically mean abandonment.
+
+Ask for a referral only when it makes sense. “Do you know another operations team with this preparation problem?” is clearer than “Can you introduce us to five founders?”
+
+Make the introduction optional and provide a forwardable description. Obtain permission before using names, logos, quotes, or customer results publicly. Paying for the product does not mean the customer has agreed to appear in your marketing.
+
+A second account that buys a similar offer under similar conditions is another piece of evidence. Keep observing support cost, outcome, and continued use instead of treating the referral itself as proof of repeatability.
+
+## Learn what you can repeat before adding more activity
+
+Review what stayed the same across your early customers: the task, reason to act, offer, buyer, required proof, setup, price, and support.
+
+If the only common factor is that you personally rescued every implementation, focus on understanding the rescue work. Some assistance may be a sensible part of the business; some may reveal a product gap or an unsustainable promise.
+
+Write a usable first sales process from what actually happened. Include the account conditions, sample outreach, questions, demo path, common concerns, offer boundaries, and first-result checklist. Keep it short enough for someone else to follow.
+
+There is no universal customer count at which hiring a seller becomes correct. The important question is what work you are asking the person to do. Repeating an understood process is different from expecting a new hire to discover the market, redesign the product, and invent the pitch alone.
+
+Likewise, you can test another channel before reaching ten customers if there is a reason. Define the question, effort, and capacity available. Avoid expanding activity simply because the current work feels uncomfortable.
 
 ## Copyable templates
 
-### How a filled trust map reads
-
-Teaching fill for a founder who used to do customer ops at a B2B SaaS, now selling questionnaire packs:
-
-| Ring | Who we will actually contact this month | Why they might trust us | ICP match? |
-|---|---|---|---|
-| Former colleagues | Three heads of ops from the last company | Shared war stories | Yes / ask |
-| Their friends | One intro already offered | One hop | Unknown until the call |
-| Early hire’s network | Recruiter’s spouse’s shop—**no**, wrong ICP | Trust without fit | Exclude |
-| Investor list | Older batch companies that said “security review” in a forum | Weak; we still send | Filter like Vanta |
-| Cold, targeted | Ops-heavy companies with a dated trigger, CTO + VP Ops | None yet—Retool-shaped | Yes if filters hold |
-| Community | The local ops meetup; we give a teardown, not a pitch | After we show up twice | Maybe |
-| Content / press / launch | Not this month | — | — |
-
-Friends who fail the ICP stay off the customer count. Zip-shaped test: mark whether this month’s ten are allowed to be warm.
-
 ### Trust map (copy)
 
-- Ring (colleagues / one hop / investor list / cold targeted / community / content / press / launch):
-- Named people or accounts this week:
-- Trust we already have:
-- ICP pass / fail / unknown:
-- Ask (advice, trial, paid, intro to someone who fits):
+Use this as a working account note. The relationship field helps interpret the evidence; it is not a ranking of someone's personal worth.
+
+```text
+ACCOUNT / TEAM:
+PROPOSED JOB AND RESULT:
+WHY THIS ACCOUNT MAY FIT:
+EVIDENCE SOURCE AND DATE:
+WHAT IS STILL UNKNOWN:
+
+HOW WE CAN REACH THEM:
+EXISTING RELATIONSHIP, IF ANY:
+WHY THIS INVITATION IS RELEVANT:
+NEXT ASK: research / example / evaluation / purchase
+
+CURRENT STATUS:
+WHAT THE CUSTOMER ACTUALLY AGREED TO:
+SCOPE / PRICE / SPECIAL TERMS, IF DISCUSSED:
+REQUIRED APPROVALS:
+NEXT ACTION / OWNER / AGREED DATE:
+
+FIRST RESULT, IF OBSERVED:
+ASSISTANCE AND DELIVERY EFFORT:
+PAYMENT / CONTINUED USE / REFUND STATUS:
+REASON TO CONTINUE, PAUSE, OR STOP:
+```
+
+Keep filled customer records in your approved private system, not this public repository. The blank example does not require collecting personal information unrelated to the work.
 
 ### Weekly hunt card
 
-- Inner ring exhausted? yes / no — evidence:
-- Cold motion: filter we used (not “all SaaS CTOs”):
-- Community: where we showed up, and what we gave:
-- New company in production this week:
-- Paid, or still a favor:
-- Next ring we will open only if:
+Review a small set of actual accounts once a week. The schedule is a useful operating habit, not a promise of a seven-day sales cycle.
+
+Write down:
+
+1. **New evidence:** What did a suitable account say, do, use, or buy?
+2. **Where progress stopped:** Was the issue fit, timing, clarity, approval, value, or delivery?
+3. **Next commitments:** Which actions did customers agree to, and what do we owe them?
+4. **Capacity:** How many evaluations and customers can we support responsibly?
+5. **One adjustment:** What will we change in the next batch, and what result would inform the following decision?
+
+Keep wins and inconvenient outcomes together. If one customer paid but needed extensive assistance, record both facts in the same review.
+
+For a first week, a reasonable output may be a clear offer, a researched list, a few invitations, and better knowledge of the workflow. For another business it may be a purchase. Judge the work against the customer's process and the evidence obtained, not a borrowed timetable.
 
 <a id="pre-flight-checklist"></a>
 
 ## Before you start
 
-- [ ] Every name on this week’s list was checked against the ICP, including warm names.
-- [ ] We wrote whether friends are a *trust* test or a *guilt* test this month.
-- [ ] Cold outreach has a targeting rule we could explain to a stranger (funding date, vertical, seat pair)—not a purchased title dump.
-- [ ] Investor/accelerator work is *our* mail to a mined list, not a calendar hold for “intros.”
-- [ ] Community time includes a gift (talk, teardown, help) before a pitch.
-- [ ] Press and Product Hunt are not the plan for week one. A later launch day is [Product Hunt](../04-channels-and-distribution/product-hunt.md)—an amplifier, not a channel.
-- [ ] We can name the pioneer who might be first—and why they would take the risk.
-- [ ] Logos that churned or never used the product in production were removed from the ten.
+- [ ] The first offer describes a specific result and its boundaries.
+- [ ] Each candidate has a reason for possible fit, with unknowns visible.
+- [ ] The invitation accurately distinguishes research from selling.
+- [ ] The customer has an easy way to decline or stop outreach.
+- [ ] Evaluation, price, responsibilities, and approvals are discussed at the appropriate stage.
+- [ ] We can support the commitments we are asking customers to make.
+- [ ] Free users, paid pilots, active customers, and former customers remain distinguishable.
 
 ## Metrics
 
-| Metric | Diagnostic use |
-|---|---|
-| ICP-matching companies in production | The only numerator that matters for “first ten” |
-| Warm vs cold among those ten | Which experiment you ran (Coda vs Zip) |
-| Conversations from mined lists | Investor/YC work that you actually sent |
-| Community → trial | People who tried after you gave, not after you spammed |
-| Time to first non-friend | Sprig-shaped: someone who did not owe you |
+Track the path in your own context. Useful records include relevant conversations, evaluations that actually started, first results achieved, paying companies, later use, renewals where applicable, and delivery effort.
 
-Do not count waitlist size, HN points, or “we announced.” Canva’s launch night is the warning.
+When calculating conversion, name the denominator and period. “Two purchases from six completed evaluations” is different from “two purchases from twenty people contacted.” Neither is a reliable benchmark for another business.
+
+Separate source from proof of cause. A customer may read an article, receive an introduction, and then book a call. Record the known sequence instead of assigning the entire sale to whichever link was clicked last.
+
+For a small early sample, short account explanations are often more informative than percentages. Review who bought, who did not, what changed, and how much work the result required.
 
 ## Common mistakes
 
-- Skipping the inner ring because it feels like cheating—or living there forever so the idea never meets a stranger.
-- Selling to your accelerator batch because they are nearby, not because they can buy.
-- Cold outbound to everyone with the title, instead of a filter that matches how the work is done.
-- Showing up in a Slack or meetup only to drop a link.
-- Staffing PR before you have a list of people who already trust you.
-- Counting friends-and-family as the ten when they fail the ICP or never ran the job.
-- Waiting for users to arrive without shipping anything they can touch.
+**Treating ten as a finish line.** Ten unrelated custom projects may teach less about a repeatable offer than a smaller set of comparable customers.
+
+**Using friendship as a substitute for fit.** Warm access helps you start; the workflow, purchase, and result still need to be real.
+
+**Hiding the commercial conversation inside endless research.** Be clear when you are ready to make an offer and what it costs.
+
+**Offering a free pilot with no decision at the end.** Define what will be evaluated and what happens afterward.
+
+**Adding channels before fixing the first-result problem.** More interested people can make a delivery failure more expensive.
+
+**Making every prospect the product manager.** Learn from requests, but make explicit choices about the business you are building.
+
+**Waiting for a perfect self-serve flow before speaking to anyone.** Manual help can reveal what to build, provided it is disclosed and its cost is understood.
 
 ## What to read next
 
-You have names: keep the [committee](buying-committee.md) map honest so the first meeting is not a single thread. Whether those ten love it, pay, and start to pull is [product-market fit](product-market-fit.md). How you ask for money is [pricing](../02-product-marketing/pricing-and-packaging.md). How the first conversation sounds is the [pitch](../02-product-marketing/sales-enablement.md). If cold is the ring you are in, stay in [outbound](../05-outbound-and-prospecting/). Do not open [channel strategy](../04-channels-and-distribution/channel-strategy.md) until these ten exist as more than a slide. Do not design [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) for a team of one still closing by hand. Bake the narrative, the materials, and the first ~30 yourself before you hire a seller to invent them—[message-market fit](../05-outbound-and-prospecting/message-market-fit.md) is the outbound version of that gate. [Four Fits](four-fits.md) is whether the path you used for these ten can still be the company.
+Use [buying committee](buying-committee.md) when interest is stuck inside an account, [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) when the offer is hard to buy, and [sales enablement](../02-product-marketing/sales-enablement.md) when the explanation or materials need work.
+
+For a targeted outbound approach, continue with [account research](../05-outbound-and-prospecting/account-research.md) and [cold email](../05-outbound-and-prospecting/cold-email.md). For evidence beyond early sales, read [product-market fit](product-market-fit.md). [Four Fits](four-fits.md) helps examine whether the product, market, channel, and business model work together.
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. It will not produce ten customers for you.
+This is an owner-maintained practical synthesis, not a guaranteed acquisition sequence or a statistical model. The account examples, messages, dialogues, and worksheets are original teaching material; they do not describe actual outreach or Ivan's customer outcomes.
 
-The seven-ring sequence, the claim that none of them scale, the simple three-step version, YC and First Round as unexpected early-user machines, and the concentric-trust takeaway draw on Lenny Rachitsky’s founder interviews ([Lenny’s Newsletter, 2023-09-05](https://www.lennysnewsletter.com/p/how-to-win-your-first-10-b2b-customers?ref=b2b-playbook)). Named episodes (Figma and Coda, Gong, Census, Hex, Okta, Gusto, Ramp, Notion, Retool, Zip, Vanta, Amplitude, Sprig, Carta, Snyk, Plaid, Databricks AMP camps, Persona, Front, Linear, Canva, Slack, Segment, Stytch, Loom, Salesforce/Blue Martini, and others) are that author’s illustrations, not audited case studies here. Friend-as-signal (Coda) versus friend-as-contamination (Zip) are both in the source; pick the test you mean.
+Two dated primary accounts support the historical examples: Peter Reinhardt's [September 6, 2018 Y Combinator interview](https://www.ycombinator.com/blog/peter-reinhardt-on-finding-product-market-fit-at-segment?ref=b2b-playbook) and James Hawkins's [June 20, 2024 PostHog retrospective](https://newsletter.posthog.com/p/how-we-got-our-first-1000-users?ref=b2b-playbook). Both were checked on September 7, 2026. Reported adoption and founder interpretations are not audited causal evidence, and user counts are not relabeled as paying-customer counts.
 
-The founder-does-the-first-dozen sequence (narrative → materials → prospect → pitch → then hire) is the durable method in Pete Kazanjy’s *Founding Sales*. That book and its paid extras are not reproduced here. Use it as a **order-of-operations prompt**, not as a second playbook.
+For further reading, Lenny Rachitsky's [September 5, 2023 founder-interview collection](https://www.lennysnewsletter.com/p/how-to-win-your-first-10-b2b-customers?ref=b2b-playbook) informed the earlier edition's channel discussion. This revision uses its own acquisition-to-delivery structure and does not reproduce the collection's extended company anecdotes or subscriber-only material.
 
 ---
 
