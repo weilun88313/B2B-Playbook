@@ -33,7 +33,7 @@ If you are not sure where to start, try a [short reading path](../README.md#read
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | [Founder story](03-brand-story-and-content/founder-story.md) |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | [White paper](03-brand-story-and-content/white-paper.md) |
 | Community (owned) | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
-| Peer room / existing community | [Channels & distribution](04-channels-and-distribution/) | [Peer community](04-channels-and-distribution/community.md) |
+| Community participation / hosting | [Channels & distribution](04-channels-and-distribution/) | [Community](04-channels-and-distribution/community.md) |
 | Channel strategy / PLG vs sales | [Channels & distribution](04-channels-and-distribution/) | [Channel strategy](04-channels-and-distribution/channel-strategy.md) |
 | SEO / AEO / AI search visibility | [Channels & distribution](04-channels-and-distribution/) | [SEO and AEO](04-channels-and-distribution/seo-and-aeo.md) |
 | Newsletter / podcast / KOL partnership | [Channels & distribution](04-channels-and-distribution/) | [Creator partnership](04-channels-and-distribution/creator-partnership.md) |
@@ -149,7 +149,7 @@ Published:
 
 - [Channel strategy](04-channels-and-distribution/channel-strategy.md)
 - [SEO and AEO](04-channels-and-distribution/seo-and-aeo.md)
-- [Peer community](04-channels-and-distribution/community.md)
+- [Community](04-channels-and-distribution/community.md)
 - [Creator partnership](04-channels-and-distribution/creator-partnership.md)
 - [Product Hunt](04-channels-and-distribution/product-hunt.md)
 - [Content syndication](04-channels-and-distribution/content-syndication.md)

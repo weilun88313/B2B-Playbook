@@ -36,7 +36,7 @@ If you are not sure where to start, try a [short reading path](/index#read-it-li
 | Founder story | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Founder story](/playbooks/03-brand-story-and-content/founder-story) |
 | White paper | [Brand, story & content](/playbooks/03-brand-story-and-content) | [White paper](/playbooks/03-brand-story-and-content/white-paper) |
 | Community (owned) | [Brand, story & content](/playbooks/03-brand-story-and-content) | Planned: `community-led-growth.md` |
-| Peer room / existing community | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Peer community](/playbooks/04-channels-and-distribution/community) |
+| Community participation / hosting | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Community](/playbooks/04-channels-and-distribution/community) |
 | Channel strategy / PLG vs sales | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Channel strategy](/playbooks/04-channels-and-distribution/channel-strategy) |
 | SEO / AEO / AI search visibility | [Channels & distribution](/playbooks/04-channels-and-distribution) | [SEO and AEO](/playbooks/04-channels-and-distribution/seo-and-aeo) |
 | Newsletter / podcast / KOL partnership | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Creator partnership](/playbooks/04-channels-and-distribution/creator-partnership) |
@@ -152,7 +152,7 @@ Published:
 
 - [Channel strategy](/playbooks/04-channels-and-distribution/channel-strategy)
 - [SEO and AEO](/playbooks/04-channels-and-distribution/seo-and-aeo)
-- [Peer community](/playbooks/04-channels-and-distribution/community)
+- [Community](/playbooks/04-channels-and-distribution/community)
 - [Creator partnership](/playbooks/04-channels-and-distribution/creator-partnership)
 - [Product Hunt](/playbooks/04-channels-and-distribution/product-hunt)
 - [Content syndication](/playbooks/04-channels-and-distribution/content-syndication)
