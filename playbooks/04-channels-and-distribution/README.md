@@ -22,7 +22,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [SEO and AEO](seo-and-aeo.md) | How should useful content become discoverable through search and answer engines? |
 | [Community](community.md) | How do we participate in existing groups or host a useful, sustainable community? |
 | [Creator partnership](creator-partnership.md) | How do we choose, scope, publish, and evaluate a useful creator collaboration? |
-| [Product Hunt](product-hunt.md) | What is a launch day allowed to do—and when must the motion close? |
+| [Product Hunt](product-hunt.md) | How do we prepare, run, and evaluate a launch beyond the leaderboard? |
 | [Content syndication](content-syndication.md) | When may a rented fill enter the queue? |
 | [LinkedIn organic](linkedin-organic.md) | How should people—not the company page—build memory in a professional feed? |
 | [Paid media](paid-media.md) | Is this money hired to create memory or capture demand—and which scoreboard? |
