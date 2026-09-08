@@ -21,7 +21,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Channel strategy](channel-strategy.md) | Which growth motion is primary, and which one channel is worth adding next? |
 | [SEO and AEO](seo-and-aeo.md) | How should useful content become discoverable through search and answer engines? |
 | [Community](community.md) | How do we participate in existing groups or host a useful, sustainable community? |
-| [Creator partnership](creator-partnership.md) | Which operator’s audience is actually our ICP, and what artifact do we co-create? |
+| [Creator partnership](creator-partnership.md) | How do we choose, scope, publish, and evaluate a useful creator collaboration? |
 | [Product Hunt](product-hunt.md) | What is a launch day allowed to do—and when must the motion close? |
 | [Content syndication](content-syndication.md) | When may a rented fill enter the queue? |
 | [LinkedIn organic](linkedin-organic.md) | How should people—not the company page—build memory in a professional feed? |
