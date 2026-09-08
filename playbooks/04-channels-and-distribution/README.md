@@ -24,7 +24,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Creator partnership](creator-partnership.md) | How do we choose, scope, publish, and evaluate a useful creator collaboration? |
 | [Product Hunt](product-hunt.md) | How do we prepare, run, and evaluate a launch beyond the leaderboard? |
 | [Content syndication](content-syndication.md) | How do we arrange useful republication or a paid content program, then evaluate what follows? |
-| [LinkedIn organic](linkedin-organic.md) | How should people—not the company page—build memory in a professional feed? |
+| [LinkedIn organic](linkedin-organic.md) | How do we turn real work into useful posts, relevant conversations, and measurable learning? |
 | [Paid media](paid-media.md) | Is this money hired to create memory or capture demand—and which scoreboard? |
 | [Review sites](review-sites.md) | How should authentic buyer-visible reviews be earned, governed, and used? |
 
