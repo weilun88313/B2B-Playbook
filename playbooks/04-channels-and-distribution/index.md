@@ -26,7 +26,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Community](/playbooks/04-channels-and-distribution/community) | How do we participate in existing groups or host a useful, sustainable community? |
 | [Creator partnership](/playbooks/04-channels-and-distribution/creator-partnership) | How do we choose, scope, publish, and evaluate a useful creator collaboration? |
 | [Product Hunt](/playbooks/04-channels-and-distribution/product-hunt) | How do we prepare, run, and evaluate a launch beyond the leaderboard? |
-| [Content syndication](/playbooks/04-channels-and-distribution/content-syndication) | When may a rented fill enter the queue? |
+| [Content syndication](/playbooks/04-channels-and-distribution/content-syndication) | How do we arrange useful republication or a paid content program, then evaluate what follows? |
 | [LinkedIn organic](/playbooks/04-channels-and-distribution/linkedin-organic) | How should people—not the company page—build memory in a professional feed? |
 | [Paid media](/playbooks/04-channels-and-distribution/paid-media) | Is this money hired to create memory or capture demand—and which scoreboard? |
 | [Review sites](/playbooks/04-channels-and-distribution/review-sites) | How should authentic buyer-visible reviews be earned, governed, and used? |
