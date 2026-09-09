@@ -24,7 +24,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 | [Account research](/playbooks/05-outbound-and-prospecting/account-research) | How do we turn account evidence into a useful question, a clear next action, or a reason to stop? |
 | [Buying signals](/playbooks/05-outbound-and-prospecting/buying-signals) | How do we tell a useful buying signal from noise, and decide whether to respond, investigate, approach, wait, or stop? |
 | [Message-market fit](/playbooks/05-outbound-and-prospecting/message-market-fit) | How do we test whether buyers understand, value, and trust the offer—and decide what to revise or expand? |
-| [Cold email](/playbooks/05-outbound-and-prospecting/cold-email) | How should a concise, relevant first-touch email be constructed and tested? |
+| [Cold email](/playbooks/05-outbound-and-prospecting/cold-email) | How do we write a clear, truthful first email, handle replies, and follow up or stop appropriately? |
 | [Multichannel sequence](/playbooks/05-outbound-and-prospecting/multichannel-sequence) | How should several touches work together without becoming repetitive noise? |
 | [SDR onboarding](/playbooks/05-outbound-and-prospecting/sdr-onboarding) | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
 | [Contact data](/playbooks/05-outbound-and-prospecting/contact-data) | How do we know a phone (or route) is real, theirs, and worth a dial? |
