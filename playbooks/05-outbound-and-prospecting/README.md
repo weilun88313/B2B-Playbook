@@ -20,7 +20,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 |---|---|
 | [Account research](account-research.md) | How do we turn account evidence into a useful question, a clear next action, or a reason to stop? |
 | [Buying signals](buying-signals.md) | How do we tell a useful buying signal from noise, and decide whether to respond, investigate, approach, wait, or stop? |
-| [Message-market fit](message-market-fit.md) | Has this offer and sentence already worked by hand—before we automate? |
+| [Message-market fit](message-market-fit.md) | How do we test whether buyers understand, value, and trust the offer—and decide what to revise or expand? |
 | [Cold email](cold-email.md) | How should a concise, relevant first-touch email be constructed and tested? |
 | [Multichannel sequence](multichannel-sequence.md) | How should several touches work together without becoming repetitive noise? |
 | [SDR onboarding](sdr-onboarding.md) | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
