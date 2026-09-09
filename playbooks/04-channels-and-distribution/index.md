@@ -29,7 +29,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Content syndication](/playbooks/04-channels-and-distribution/content-syndication) | How do we arrange useful republication or a paid content program, then evaluate what follows? |
 | [LinkedIn organic](/playbooks/04-channels-and-distribution/linkedin-organic) | How do we turn real work into useful posts, relevant conversations, and measurable learning? |
 | [Paid media](/playbooks/04-channels-and-distribution/paid-media) | How do we choose, launch, and evaluate a paid test without confusing cheap actions with valuable customers? |
-| [Review sites](/playbooks/04-channels-and-distribution/review-sites) | How should authentic buyer-visible reviews be earned, governed, and used? |
+| [Review sites](/playbooks/04-channels-and-distribution/review-sites) | How do we invite honest reviews, respond usefully, and evaluate evidence rights and paid services? |
 
 ## Coming later
 
