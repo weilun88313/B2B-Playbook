@@ -21,7 +21,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 
 | Guide | What it helps you do |
 |---|---|
-| [Account research](/playbooks/05-outbound-and-prospecting/account-research) | What evidence is strong enough to justify outreach to this account? |
+| [Account research](/playbooks/05-outbound-and-prospecting/account-research) | How do we turn account evidence into a useful question, a clear next action, or a reason to stop? |
 | [Buying signals](/playbooks/05-outbound-and-prospecting/buying-signals) | When does a dated change earn a different sentence this week? |
 | [Message-market fit](/playbooks/05-outbound-and-prospecting/message-market-fit) | Has this offer and sentence already worked by hand—before we automate? |
 | [Cold email](/playbooks/05-outbound-and-prospecting/cold-email) | How should a concise, relevant first-touch email be constructed and tested? |
