@@ -25,7 +25,7 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Product Hunt](product-hunt.md) | How do we prepare, run, and evaluate a launch beyond the leaderboard? |
 | [Content syndication](content-syndication.md) | How do we arrange useful republication or a paid content program, then evaluate what follows? |
 | [LinkedIn organic](linkedin-organic.md) | How do we turn real work into useful posts, relevant conversations, and measurable learning? |
-| [Paid media](paid-media.md) | Is this money hired to create memory or capture demand—and which scoreboard? |
+| [Paid media](paid-media.md) | How do we choose, launch, and evaluate a paid test without confusing cheap actions with valuable customers? |
 | [Review sites](review-sites.md) | How should authentic buyer-visible reviews be earned, governed, and used? |
 
 ## Coming later
@@ -34,8 +34,8 @@ These topics are on the writing list. There is no article to open yet.
 
 | Planned topic | Question to cover |
 |---|---|
-| Paid search | Channel-specific capture hygiene. The job decision lives in [paid media](paid-media.md). |
-| Paid social | Channel-specific creation buys. The job decision lives in [paid media](paid-media.md). |
+| Paid search | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](paid-media.md). |
+| Paid social | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](paid-media.md). |
 | Retargeting | Follow-on frequency and exclusions. The job decision lives in [paid media](paid-media.md). |
 | PR and media | Which genuinely newsworthy story can earn credible third-party attention? |
 | Content distribution | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](content-syndication.md). |
