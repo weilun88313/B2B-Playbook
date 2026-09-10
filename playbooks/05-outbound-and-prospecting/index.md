@@ -27,7 +27,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 | [Cold email](/playbooks/05-outbound-and-prospecting/cold-email) | How do we write a clear, truthful first email, handle replies, and follow up or stop appropriately? |
 | [Multichannel sequence](/playbooks/05-outbound-and-prospecting/multichannel-sequence) | How do we give each channel a job, coordinate replies and stops, and measure the account outcome? |
 | [SDR onboarding](/playbooks/05-outbound-and-prospecting/sdr-onboarding) | How do we teach buyer judgment, practise the workflow, and prepare a new rep for reliable independent work and handoffs? |
-| [Contact data](/playbooks/05-outbound-and-prospecting/contact-data) | How do we know a phone (or route) is real, theirs, and worth a dial? |
+| [Contact data](/playbooks/05-outbound-and-prospecting/contact-data) | How do we evaluate contact sources, verify roles and routes, and keep CRM corrections and restrictions intact? |
 | [Cold call](/playbooks/05-outbound-and-prospecting/cold-call) | How should a rep open with context, pitch the problem, and handle the reaction? |
 | [LinkedIn outbound](/playbooks/05-outbound-and-prospecting/linkedin-outbound) | When does a public artifact earn a conversation—without a connection pitch? |
 
