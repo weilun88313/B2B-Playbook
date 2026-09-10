@@ -25,7 +25,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 | [Multichannel sequence](multichannel-sequence.md) | How do we give each channel a job, coordinate replies and stops, and measure the account outcome? |
 | [SDR onboarding](sdr-onboarding.md) | How do we teach buyer judgment, practise the workflow, and prepare a new rep for reliable independent work and handoffs? |
 | [Contact data](contact-data.md) | How do we evaluate contact sources, verify roles and routes, and keep CRM corrections and restrictions intact? |
-| [Cold call](cold-call.md) | How should a rep open with context, pitch the problem, and handle the reaction? |
+| [Cold call](cold-call.md) | How do we open clearly, listen to the response, respect boundaries, and agree on an accurate next step? |
 | [LinkedIn outbound](linkedin-outbound.md) | When does a public artifact earn a conversation—without a connection pitch? |
 
 ## Coming later
