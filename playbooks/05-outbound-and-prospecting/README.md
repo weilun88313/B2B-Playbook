@@ -22,7 +22,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 | [Buying signals](buying-signals.md) | How do we tell a useful buying signal from noise, and decide whether to respond, investigate, approach, wait, or stop? |
 | [Message-market fit](message-market-fit.md) | How do we test whether buyers understand, value, and trust the offer—and decide what to revise or expand? |
 | [Cold email](cold-email.md) | How do we write a clear, truthful first email, handle replies, and follow up or stop appropriately? |
-| [Multichannel sequence](multichannel-sequence.md) | How should several touches work together without becoming repetitive noise? |
+| [Multichannel sequence](multichannel-sequence.md) | How do we give each channel a job, coordinate replies and stops, and measure the account outcome? |
 | [SDR onboarding](sdr-onboarding.md) | How should a new SDR/BDR learn the job, the number, CRM, and the meeting last mile? |
 | [Contact data](contact-data.md) | How do we know a phone (or route) is real, theirs, and worth a dial? |
 | [Cold call](cold-call.md) | How should a rep open with context, pitch the problem, and handle the reaction? |
