@@ -26,7 +26,7 @@ Choose companies worth contacting, find the right people, and give them a credib
 | [SDR onboarding](sdr-onboarding.md) | How do we teach buyer judgment, practise the workflow, and prepare a new rep for reliable independent work and handoffs? |
 | [Contact data](contact-data.md) | How do we evaluate contact sources, verify roles and routes, and keep CRM corrections and restrictions intact? |
 | [Cold call](cold-call.md) | How do we open clearly, listen to the response, respect boundaries, and agree on an accurate next step? |
-| [LinkedIn outbound](linkedin-outbound.md) | When does a public artifact earn a conversation—without a connection pitch? |
+| [LinkedIn outbound](linkedin-outbound.md) | How do we choose a suitable LinkedIn route, write a relevant message, and coordinate replies and next steps? |
 
 ## Coming later
 
