@@ -1,7 +1,7 @@
 # Maintaining B2B Playbook
 
 Start from the latest origin/main and preserve unrelated edits.
-The default branch is the reader's current edition; normal updates may go directly to main.
+The default branch is the reader's current edition. Ivan confirmed on 2026-09-11 that this repository is maintained by a single operator: after required checks pass, commit and push routine content, asset, and maintenance updates directly to main. Do not create a PR or an extra approval step by default; use a PR only when Ivan requests one or repository protection requires it.
 
 - English is canonical. Update README.zh.md whenever root README coverage, entry points, or meaning changes.
 - Edit the GitHub README sources for chapter and collection introductions. Run `python3 scripts/sync-entrypoints.py` to generate their Mintlify mirrors, refresh homepage coverage counts, and synchronize chapter navigation. Run it with `--check` in CI; do not edit generated mirrors by hand.
