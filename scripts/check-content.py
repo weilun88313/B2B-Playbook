@@ -124,11 +124,27 @@ for p in tactics:
     check(bool(re.search(r'\*\*Last reviewed:\*\* \d{4}-\d{2}-\d{2}', text)), f"{p.name}: missing review date")
     check("## Sources" in text and "## What to read next" in text, f"{p.name}: missing evidence/next reading")
     check("Copyright © 2026 Ivan Xu" in text, f"{p.name}: missing copyright")
-    check(f"assets/illustrations/{p.stem}.webp" in text, f"{p.name}: missing reading illustration")
 
 illustrations = list((ROOT / "assets/illustrations").glob("*.webp"))
-check(len(illustrations) == 133, "illustrations: expected all 133 reading images")
-check(not list((ROOT / "assets/illustrations").glob("*.svg")), "illustrations: retire replaced SVG diagrams")
+# Only publish final reading assets; generators and source files stay outside Git.
+for p in (ROOT / "assets/illustrations").iterdir():
+    check(p.suffix == ".webp" or p.name == "ATTRIBUTION.txt", f"{p.name}: unexpected illustration source/build file")
+referenced_images = set()
+for name, text in DOCS.items():
+    for url in links(text):
+        if "assets/illustrations/" in url and not urlsplit(url).scheme:
+            target = resolve(name, url)
+            if target:
+                referenced_images.add(target.resolve())
+    for alt, url in MD_LINK.findall(text):
+        if "assets/illustrations/" in url:
+            check(bool(alt.strip()), f"{name}: illustration needs meaningful alternative text")
+for p in illustrations:
+    check(p.resolve() in referenced_images, f"{p.name}: unreferenced illustration")
+for name, text in DOCS.items():
+    for number, line in enumerate(text.splitlines(), 1):
+        check(not re.search(r"(?i)(?:for this library, preserve|this knowledge base's article illustrations|do not paste .+ into this repo|the playbook wins until|python(?:3)? scripts/build-working-files\.py)", line),
+              f"{name}:{number}: maintainer instruction in reader content")
 
 def webp_dimensions(data):
     if data[:4] != b"RIFF" or data[8:12] != b"WEBP":
@@ -224,4 +240,4 @@ if ERRORS:
     sys.exit(1)
 print(f"PASS: {len(DOCS)} pages; {len(tactics)} playbooks; {len(working)} working files; {len(tools)} tools; {len(resources)} sources; {len(pages)} navigation entries.")
 print(f"PASS: local links/anchors, domain mirrors, coverage, favicons, {len(external)} unique third-party ref URLs.")
-print(f"PASS: {len(illustrations)} 1600x900 WebP illustrations; every playbook has its own reading illustration.")
+print(f"PASS: {len(illustrations)} 1600x900 WebP illustrations; all retained images are referenced; illustrations are optional.")

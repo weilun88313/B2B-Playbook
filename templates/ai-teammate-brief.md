@@ -9,8 +9,6 @@ Use this after [AI workflow](../playbooks/09-operations-pipeline-and-measurement
 
 This is an original B2B Playbook blank. It is not a third-party prompt mill and not a command to hide system prompts from your own operators.
 
-![Job sentence (fill before you generate instructions); Guardrails (keep at the top of the teammate instructions); Body of the instructions (fill)](../assets/illustrations/worksheet-ai-teammate-brief.webp)
-
 ## 0. Job sentence (fill before you generate instructions)
 
 - Who it helps:

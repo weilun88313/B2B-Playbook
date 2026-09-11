@@ -11,6 +11,8 @@ sidebarTitle: "Sources"
 
 **Last reviewed:** 2026-09-02
 
+**Reading edited:** 2026-09-11
+
 These are places to keep learning: newsletters, podcasts, publications, and communities. Pick two or three that cover the questions you are working on. Use [playbooks](playbooks/) for step-by-step guidance and [tools](TOOLS.md) for software recommendations.
 
 Want to collaborate with a writer or creator rather than follow their work? See [creator partnerships](playbooks/04-channels-and-distribution/creator-partnership.md). This reading list is not a paid ranking or an affiliate program.
@@ -44,7 +46,7 @@ Use these when you need a **stable operator voice** on metrics, early marketing,
 | Source | Focus | Grade | Access | Why it is here | Limitation |
 |---|---|---|---|---|---|
 | [Kellblog / Dave Kellogg](https://www.kellblog.com/?ref=b2b-playbook) | SaaS metrics, sales productivity, forecast, board / CRO framing | A | **Freemium.** ~750-post archive is public. New posts: pay for immediate access, or wait ~30 days. Standard and Founding tiers; list price is on the site portal, not quoted in the Aug 2026 intro post. | Long public archive; still treated as a primary metrics voice in 2026 operator threads | Enterprise-software defaults. Do not import CAC, coverage, or board packs without matching your stage and motion. |
-| [MKT1 / Emily Kramer](https://www.mkt1.co/?ref=b2b-playbook) | Early B2B marketing, team design, growth systems, AI workflows for marketers | A | **Freemium.** Newsletter has a free layer. Paid: **&#36;99/year** (annual called out on the Perk Stack page); monthly checkout also exists. Paid unlocks templates, MCP, archive, perks. | Repeated operator recommendation for first-marketer and early-team problems. This library distills public methods (GACCS, advantages, engines, paid table stakes)—not the paid template pack. | Advisory and media sit together. A newsletter is not your org chart. Do not paste MKT1 Google Docs into this repo. |
+| [MKT1 / Emily Kramer](https://www.mkt1.co/?ref=b2b-playbook) | Early B2B marketing, team design, growth systems, AI workflows for marketers | A | **Freemium.** Newsletter has a free layer. Paid: **&#36;99/year** (annual called out on the Perk Stack page); monthly checkout also exists. Paid unlocks templates, MCP, archive, perks. | Repeated operator recommendation for first-marketer and early-team problems. This library distills public methods (GACCS, advantages, engines, paid table stakes)—not the paid template pack. | Advisory and media sit together. Adapt the advice to your team size, stage, and responsibilities. Paid templates are separate from the public articles. |
 | [Growth Unhinged / Kyle Poyar](https://www.growthunhinged.com/?ref=b2b-playbook) | PLG, pricing, modern GTM, AEO / GEO | A | **Freemium.** Weekly free issues. Premium **&#36;15/month** or **&#36;150/year** (full archive, reports, perks). | Data-heavy essays that operators actually forward | PLG and packaging advice can overfit the last survey. Pair with [pricing](playbooks/02-product-marketing/pricing-and-packaging.md) and [channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md). |
 | [Marketing Ideas / Tom Orbach](https://www.marketingideas.com/?ref=b2b-playbook) | One unconventional growth or campaign tactic per issue | B | **Freemium.** Free subscribers get about one idea a month. Premium **&#36;199/year** (annual list on the 2026-04-03 perk post); monthly checkout also exists. Paid unlocks weekly issues, archive, chat, and a book PDF. Partner software perks are not a reason to subscribe. | Independently named on 2026 marketing-newsletter roundups; practitioner-written, short, and easy to forward | Tactics and stunts, not a GTM operating system. Wiz/Google campaign shapes will not invent your ICP. Do not replace [channel strategy](playbooks/04-channels-and-distribution/channel-strategy.md) or [idea validation](playbooks/01-strategy-and-buyers/idea-validation.md) with last week’s idea. |
 | [GTMnow](https://gtmnow.com/?ref=b2b-playbook) | Sales and GTM guides, podcasts, webinars, benchmarks | A | **Free** core media. Events or network extras may be ticketed; no public newsletter paywall listed. | Systematic free media for people moving into RevOps / GTM | Benchmarks are survivor samples. Do not treat a webinar as a process. |
@@ -83,7 +85,7 @@ A generic “AI partnerships” newsletter without a stable, checkable homepage 
 4. If you sell with humans, add **30MPC** or GTMnow. If you run RevOps, add RevOps Impact as B.
 5. Keep AI feeds in a separate folder. They do not get a vote on ICP.
 
-If a source disagrees with a published playbook, the playbook wins until you can cite a dated primary source and change the page.
+If sources disagree, compare their dates, evidence, and operating context. A playbook can be outdated or inapplicable to your situation. Record the uncertainty and check the primary source before making the decision.
 
 ## Sources and evidence boundary
 

@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Gates; Talk track (adapt, do not recite); Refuse](../assets/illustrations/worksheet-cold-call.webp)
-
 ## Gates
 
 - Why this number is theirs and worth a dial:

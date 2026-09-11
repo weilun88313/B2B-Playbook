@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Account; Temperature; Hunt](../assets/illustrations/worksheet-buying-signals.webp)
-
 ## Account
 
 - Account / person:

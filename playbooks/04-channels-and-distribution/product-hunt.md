@@ -4,6 +4,8 @@ title: "Product Hunt"
 
 **Last reviewed:** 2026-09-08 · **Reading edit:** 2026-09-08
 
+**Reading edited:** 2026-09-11
+
 The team has spent the morning refreshing the leaderboard. Someone posts a screenshot in the company chat. There are new comments, a burst of traffic, and a signup notification every few minutes.
 
 Meanwhile, a new user cannot get past the verification email. Another has signed up expecting a capability that is still on the roadmap. A third looks like exactly the right customer, but nobody has answered their question.
@@ -195,8 +197,6 @@ The first gallery image can establish the job and the product's role. The next c
 Use readable interface details and captions. A screenshot covered with tiny annotations may look impressive at full resolution and become useless in the actual listing.
 
 The [posting instructions](https://help.producthunt.com/en/articles/479557-how-to-post-a-product?ref=b2b-playbook) describe the submission fields, recommend a square thumbnail and a 1270×760 gallery, and require at least two gallery images for display. They also describe full, non-private YouTube links for video. Check the live form before exporting final assets.
-
-Those are platform asset specifications. This knowledge base's article illustrations remain 16:9; they are not a promise that every external publishing surface uses that ratio.
 
 Prepare a short description and a slightly longer version. The official [preparation guide](https://www.producthunt.com/launch/preparing-for-launch?ref=b2b-playbook) and posting help currently disagree on the description limit, so the live form should settle the usable limit. Do not build a campaign around an unverified character count.
 

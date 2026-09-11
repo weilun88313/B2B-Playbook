@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Buy; Gates; Cap](../assets/illustrations/worksheet-content-syndication.webp)
-
 ## Buy
 
 - Publisher / asset:

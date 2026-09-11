@@ -7,3 +7,14 @@
 .vscode/
 node_modules/
 __pycache__/
+
+# Local production and analysis artifacts
+.tmp/
+tmp/
+outputs/
+output/
+traffic-exports/
+image-sources/
+generation-records/
+*.psd
+*.ai

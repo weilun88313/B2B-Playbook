@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Scan (write before design); Door; Proof](../assets/illustrations/worksheet-homepage.webp)
-
 ## Scan (write before design)
 
 - Category:

@@ -4,7 +4,7 @@ Start from the latest origin/main and preserve unrelated edits.
 The default branch is the reader's current edition; normal updates may go directly to main.
 
 - English is canonical. Update README.zh.md whenever root README coverage, entry points, or meaning changes.
-- Keep each domain README.md and index.md synchronized; only frontmatter and platform link destinations differ.
+- Edit the GitHub README sources for chapter and collection introductions. Run `python3 scripts/sync-entrypoints.py` to generate their Mintlify mirrors, refresh homepage coverage counts, and synchronize chapter navigation. Run it with `--check` in CI; do not edit generated mirrors by hand.
 - Run `python3 scripts/check-content.py` before committing. CI runs the same checks.
 - Write currency as `&#36;100` in Markdown prose and tables so Mintlify does not treat dollar pairs as math. Keep code examples and URL targets unchanged; reading safeguard tests run in CI.
 - Add new reading pages to docs.json and an existing collection index.
@@ -22,3 +22,9 @@ The default branch is the reader's current edition; normal updates may go direct
 - Retain old heading anchors when renaming sections. Keep last source-review dates honest; use a separate reading-edit date for copy-only revisions.
 - Preserve Mintlify's native navigation, image zoom, table scrolling, keyboard focus, and light/dark controls. Check a phone-width page as well as desktop before publishing style changes.
 - A chapter guide needs a plain introduction, a few starting links, a published-article map, a separate planned list, and related reading. Keep contributor-facing rules in this file, not in the reader's navigation.
+
+## Reader cleanup policy — 2026-09-11
+
+Ivan requested a cleanup after reviewing the public repository. Illustrations are optional: retain useful article artwork, brand assets, and attribution; omit decorative hero images from short working files. Validate retained assets and links rather than requiring an image count or an image on every article. Keep generation instructions, draft assets, traffic exports, and editorial process notes outside reader pages. Preserve source attribution and evidence limits. Prioritize the three task paths and reader feedback before expanding coverage.
+
+- Workbook source maintenance: rebuild the distributed `.xlsx` files with `python3 scripts/build-working-files.py` (openpyxl) after changing the generator. Keep this command out of reader instructions and never overwrite filled user files.

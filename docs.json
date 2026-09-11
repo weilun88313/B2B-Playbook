@@ -66,6 +66,7 @@
             "icon": "house",
             "pages": [
               "index",
+              "playbooks/start-here",
               "skill",
               "copyright"
             ]
@@ -97,9 +98,9 @@
                   "playbooks/02-product-marketing/positioning",
                   "playbooks/02-product-marketing/messaging",
                   "playbooks/02-product-marketing/competitive-intelligence",
+                  "playbooks/02-product-marketing/pricing-and-packaging",
                   "playbooks/02-product-marketing/product-launch",
                   "playbooks/02-product-marketing/sales-enablement",
-                  "playbooks/02-product-marketing/pricing-and-packaging",
                   "playbooks/02-product-marketing/demo",
                   "playbooks/02-product-marketing/change-friction"
                 ],
@@ -110,8 +111,8 @@
                 "icon": "pen-nib",
                 "pages": [
                   "playbooks/03-brand-story-and-content/index",
-                  "playbooks/03-brand-story-and-content/content-strategy",
                   "playbooks/03-brand-story-and-content/founder-story",
+                  "playbooks/03-brand-story-and-content/content-strategy",
                   "playbooks/03-brand-story-and-content/case-study",
                   "playbooks/03-brand-story-and-content/white-paper"
                 ],

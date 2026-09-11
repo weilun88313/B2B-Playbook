@@ -8,6 +8,8 @@ Find the guide for the task you are working on. Use the quick lookup below, or b
 
 If you are not sure where to start, try a [short reading path](../README.md#read-it-like-a-book). You can also browse [tools](../TOOLS.md), [working files](../TEMPLATES.md), or [reading sources](../RESOURCES.md).
 
+Start with [a practical task path](start-here.md) if you want a guide, a template, and a worked example together.
+
 ## Fast finder
 
 | Looking for | Domain | Playbook / status |

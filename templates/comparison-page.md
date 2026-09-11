@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Decision; Criteria (five to seven jobs); Switching path](../assets/illustrations/worksheet-comparison-page.webp)
-
 ## Decision
 
 - Alternative (from win/loss, not a radar):

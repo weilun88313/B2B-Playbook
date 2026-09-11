@@ -5,6 +5,8 @@ sidebarTitle: "Sales Operating Cadence"
 
 **Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
 
+**Reading edited:** 2026-09-11
+
 Forecasting, pipeline creation, and coaching ask different questions. Give each a clear place in the team's calendar, with the right people and a useful output. Review the meeting load regularly so the schedule helps people sell rather than keeping them in meetings.
 
 ![Forecast: what will close?; Pipeline: what will come next?; Coaching: what can improve?](../../assets/illustrations/sales-operating-cadence.webp)
@@ -166,7 +168,7 @@ The quarterly company clock—launch offset from close—is [company cadence](co
 
 This is an owner-maintained operating synthesis. It is not a meeting product, not a qualification methodology, and not a claim about anyone’s EBITDA.
 
-The split of purpose (pipe-gen vs forecast vs deal coaching), the instruction not to lump them, the 13-week quarter as a printable clock, and monthly strategy vs QBR as different altitudes are distilled from a public operator essay on a 13-week sales operating cadence ([Giri Fox, Medium, 2025-12-08](https://medium.com/@girifox/13-week-sales-operating-cadence-67426b5645e7?ref=b2b-playbook)). That essay is a **method prompt**, not a source to copy. Personal results, company names, and team sizes in the essay are the author’s illustrations, not this library’s outcomes. The essay points at a Google Doc (agendas, checklists). That Doc is not reproduced here. Do not paste a third-party MEDDIC/WEWIN packet into this repository.
+The split of purpose (pipe-gen vs forecast vs deal coaching), the instruction not to lump them, the 13-week quarter as a printable clock, and monthly strategy vs QBR as different altitudes are distilled from a public operator essay on a 13-week sales operating cadence ([Giri Fox, Medium, 2025-12-08](https://medium.com/@girifox/13-week-sales-operating-cadence-67426b5645e7?ref=b2b-playbook)). That essay is a **method prompt**, not a source to copy. Personal results, company names, and team sizes in the essay are the author’s illustrations, not this library’s outcomes. The essay points at a Google Doc (agendas, checklists). That Doc is not reproduced here. Third-party qualification materials are outside the scope of this guide.
 
 ---
 

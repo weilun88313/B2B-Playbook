@@ -7,13 +7,15 @@ sidebarTitle: "Catalog"
 
 **Last reviewed:** 2026-09-03
 
+**Reading edited:** 2026-09-11
+
 **Current coverage:** 56 working files
 
 Use these files to turn a guide into work you can share with your team. Choose a brief, worksheet, or spreadsheet, make a private copy, and fill it with your own information. The matching playbook explains how to use it.
 
 For Google Sheets, Docs, and Slides, see [how to use the files](templates/README.md). You may make a **private working copy**; republishing the set requires permission. See the [reuse terms](LICENSE).
 
-Google “Make a copy” URLs are added here only after the owner publishes a view-only original. Until then, download from GitHub.
+Download the files from GitHub, then follow the instructions above to make your own editable copy.
 
 | Working file | Format | Use it to | Playbook |
 |---|---|---|---|
