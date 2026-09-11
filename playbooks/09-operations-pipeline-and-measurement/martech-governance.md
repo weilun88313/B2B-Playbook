@@ -20,7 +20,7 @@ Software decisions are easier when you start with the job, the users, and the co
 
 ## Do not use this when
 
-- There is no motion and no CRM map. Stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [CRM data model](crm-data-model.md).
+- There is no motion and no CRM map. Stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model).
 - You need software names for a job. Start in [TOOLS.md](../../TOOLS.md), then come back here to evaluate.
 - Procurement, security, or privacy review must be done by qualified owners. This page will not sign a DPA.
 
@@ -50,7 +50,7 @@ Software decisions are easier when you start with the job, the users, and the co
 
 ### Step 1: Define the jobs the tool must do
 
-Complete: *we are buying a tool so that ____ can ____ every ____, writing ____ into the CRM.* If you cannot finish that sentence, you are shopping. [Outbound](../05-outbound-and-prospecting/multichannel-sequence.md) needs a sequence home. [Forecasting](forecasting.md) needs a source of truth—often the CRM, sometimes an overlay. Conversation intelligence is coaching and inspection, not a second forecast.
+Complete: *we are buying a tool so that ____ can ____ every ____, writing ____ into the CRM.* If you cannot finish that sentence, you are shopping. [Outbound](../05-outbound-and-prospecting/multichannel-sequence.md) needs a sequence home. [Forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting) needs a source of truth—often the CRM, sometimes an overlay. Conversation intelligence is coaching and inspection, not a second forecast.
 
 <a id="step-2-interview-recent-buyersor-refuse-the-score"></a>
 
@@ -74,7 +74,7 @@ Pricing model, discount logic (seats vs term), implementation as a line item, an
 
 ### Step 5: Assign an owner and review date
 
-One owner. Fields it may write (from the [CRM map](crm-data-model.md)). A date you will review usage and sync errors. If the bake-off winner cannot do two-way sync on required fields, that is a no—not a “phase two.”
+One owner. Fields it may write (from the [CRM map](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model)). A date you will review usage and sync errors. If the bake-off winner cannot do two-way sync on required fields, that is a no—not a “phase two.”
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -138,7 +138,7 @@ Do not count vendor demos attended, or a 9.2/10 in a partner PDF, as governance.
 
 ## What to read next
 
-The record the tools must obey is [CRM data model](crm-data-model.md). Sequences live in [multichannel sequence](../05-outbound-and-prospecting/multichannel-sequence.md). The call still lives in [forecasting](forecasting.md). Product names for a defined job start in [TOOLS.md](../../TOOLS.md)—start with the job table there, then the row. A community logo sheet or a marketplace-first skill pack is not the stack—pick the problem in [AI use-case selection](ai-use-case-selection.md) and the rung in [GTM AI maturity](gtm-ai-maturity.md) first.
+The record the tools must obey is [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model). Sequences live in [multichannel sequence](../05-outbound-and-prospecting/multichannel-sequence.md). The call still lives in [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). Product names for a defined job start in [TOOLS.md](../../TOOLS.md)—start with the job table there, then the row. A community logo sheet or a marketplace-first skill pack is not the stack—pick the problem in [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection) and the rung in [GTM AI maturity](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity) first.
 
 ## Sources and evidence boundary
 
@@ -148,6 +148,6 @@ The evaluation shape (overall buyer sentiment as a prompt not a score, win reaso
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

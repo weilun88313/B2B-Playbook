@@ -20,13 +20,13 @@ Read in order for the full process, or jump to [choosing a test](#pick-one-path)
 
 You can name a customer, a recurring situation, and a reason the current approach may be inadequate. You may have interview notes, a mockup, or an early product. What you lack is evidence that the proposed change deserves more investment.
 
-Bring the problem card from [idea discovery](idea-discovery.md), including the uncomfortable unknowns. “The operations manager likes it; the buyer is unknown” is a better starting point than a confident statement that operations teams need your product.
+Bring the problem card from [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery), including the uncomfortable unknowns. “The operations manager likes it; the buyer is unknown” is a better starting point than a confident statement that operations teams need your product.
 
 ## Do not use this when
 
 If the problem is still “AI for sales” or “better collaboration,” return to discovery. A broad category gives you too many ways to reinterpret any answer as support.
 
-If customers already buy and use the product, validation continues, but the questions become more specific: which customers to focus on, how to reach more of them, and whether they stay. The [ICP](icp.md), [first ten customers](first-ten-customers.md), and [product-market fit](product-market-fit.md) guides cover those next steps.
+If customers already buy and use the product, validation continues, but the questions become more specific: which customers to focus on, how to reach more of them, and whether they stay. The [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp), [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers), and [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) guides cover those next steps.
 
 ## Start with the decision, not the experiment
 
@@ -148,7 +148,7 @@ The same article argues for understanding the problem behind feature requests an
 
 ## Follow one hypothesis through a pilot
 
-This is a **fictional continuation** of the record-correction example in [idea discovery](idea-discovery.md#follow-one-idea-through-three-conversations). The teams, conversations, counts, and outcomes below are invented for teaching. They are not Ivan's customer research or results from Buffer or Linear.
+This is a **fictional continuation** of the record-correction example in [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery#follow-one-idea-through-three-conversations). The teams, conversations, counts, and outcomes below are invented for teaching. They are not Ivan's customer research or results from Buffer or Linear.
 
 ### First, make sure there is enough to test
 
@@ -342,9 +342,9 @@ Record support effort and reasons for stopping. A customer who never started bec
 
 ## What to read next
 
-If the problem itself remains unclear, return to [idea discovery](idea-discovery.md). If one type of customer responds differently from another, refine your [ICP](icp.md) and map the [buying committee](buying-committee.md).
+If the problem itself remains unclear, return to [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery). If one type of customer responds differently from another, refine your [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp) and map the [buying committee](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee).
 
-When suitable customers are ready to engage, use [first ten customers](first-ten-customers.md). For the cost of changing an established workflow, see [change friction](../02-product-marketing/change-friction.md). For commercial terms, continue to [pricing and packaging](../02-product-marketing/pricing-and-packaging.md). Look to [product-market fit](product-market-fit.md) for the later question of sustained demand.
+When suitable customers are ready to engage, use [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers). For the cost of changing an established workflow, see [change friction](../02-product-marketing/change-friction.md). For commercial terms, continue to [pricing and packaging](../02-product-marketing/pricing-and-packaging.md). Look to [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) for the later question of sustained demand.
 
 ## Sources and evidence boundary
 
@@ -356,6 +356,6 @@ The experiment design, dialogue, decision rules, and templates here are editoria
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

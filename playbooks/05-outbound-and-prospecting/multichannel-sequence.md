@@ -51,7 +51,7 @@ A recipient has declined the approach and the plan is to find a less visible rou
 
 The proposed channel depends on unreviewed data, prohibited automation, deceptive identity, or a permission assumption nobody can explain. A contact appearing in a tool is not approval to use every field in the record.
 
-If your actual question is whether buyers understand and value the offer, start with [message-market fit](message-market-fit.md). If the first email itself is the problem, start with [cold email](cold-email.md).
+If your actual question is whether buyers understand and value the offer, start with [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit). If the first email itself is the problem, start with [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email).
 
 ## Sequence design
 
@@ -746,11 +746,11 @@ Read the exchanges and inspect the outcomes. If the additional channel did not h
 
 ## What to read next
 
-Use [account research](account-research.md) to establish what you know before approaching the account. Use [buying signals](buying-signals.md) to separate a reason to investigate from permission or confirmed intent.
+Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) to establish what you know before approaching the account. Use [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) to separate a reason to investigate from permission or confirmed intent.
 
-For the written first approach, read [cold email](cold-email.md). If the offer itself still produces confusion, return to [message-market fit](message-market-fit.md).
+For the written first approach, read [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email). If the offer itself still produces confusion, return to [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit).
 
-Next in this chapter is [SDR onboarding](sdr-onboarding.md): how to teach a new operator the judgment, task handling, and handoff behind the sequence. [Sales enablement](../02-product-marketing/sales-enablement.md) covers the material and context needed when a prospecting exchange becomes a real evaluation.
+Next in this chapter is [SDR onboarding](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-onboarding): how to teach a new operator the judgment, task handling, and handoff behind the sequence. [Sales enablement](../02-product-marketing/sales-enablement.md) covers the material and context needed when a prospecting exchange becomes a real evaluation.
 
 ## Sources and evidence boundary
 
@@ -766,6 +766,6 @@ Review applicable law, platform rules, provider requirements, data use, and orga
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

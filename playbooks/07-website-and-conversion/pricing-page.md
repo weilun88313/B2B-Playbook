@@ -147,7 +147,7 @@ Elena Verna’s public PLG tape (signups who hit pricing ~25%; checkout-to-order
 
 ## What to read next
 
-The high-intent form that should skip the leisurely score ladder is [demo request](demo-request.md). The scan that must still work if they never open `/pricing` is the [homepage](homepage.md). How you will read whether ads or content created this visit is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). The commercial revisit calendar stays on [pricing and packaging](../02-product-marketing/pricing-and-packaging.md).
+The high-intent form that should skip the leisurely score ladder is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). The scan that must still work if they never open `/pricing` is the [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage). How you will read whether ads or content created this visit is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). The commercial revisit calendar stays on [pricing and packaging](../02-product-marketing/pricing-and-packaging.md).
 
 ## Sources and evidence boundary
 
@@ -159,6 +159,6 @@ This is an owner-maintained operating synthesis.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

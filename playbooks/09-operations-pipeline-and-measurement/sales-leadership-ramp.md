@@ -21,8 +21,8 @@ A new sales leader needs to understand customers, deals, and the team before mak
 ## Do not use this when
 
 - There are no customers and no motion. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md).
-- You need a compensation plan. Write [sales compensation](sales-compensation.md) as its own page; do not bury pay in a 90-day slide.
-- You need a forecast design. That is [forecasting](forecasting.md). This ramp *uses* those pages; it does not replace them.
+- You need a compensation plan. Write [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation) as its own page; do not bury pay in a 90-day slide.
+- You need a forecast design. That is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). This ramp *uses* those pages; it does not replace them.
 
 <a id="one-rule"></a>
 
@@ -38,7 +38,7 @@ A new sales leader needs to understand customers, deals, and the team before mak
 
 ### Step 1: Days 1–30: observe and learn
 
-Meet internal stakeholders. Sit with the people who sell. Take product training like a new AE. Watch live calls and demos. Begin an infrastructure audit (CRM, enablement, dialer, MAP—**what is actually used**). Audit the goals and metrics on the wall versus the metrics in the [forecast](forecasting.md).
+Meet internal stakeholders. Sit with the people who sell. Take product training like a new AE. Watch live calls and demos. Begin an infrastructure audit (CRM, enablement, dialer, MAP—**what is actually used**). Audit the goals and metrics on the wall versus the metrics in the [forecast](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
 
 Goal of the month: you can explain how a deal is born, worked, and credited without reading a wiki.
 
@@ -54,9 +54,9 @@ Ship small: a stage-exit rule, a demo score, a meeting definition. Do not ship a
 
 ### Step 3: Days 61–90: agree on direction
 
-Align with marketing and CS on **one** number and one language for stages. Build a roadmap in months, not in slogans. Refine weekly / monthly / quarterly KPIs so they match [forecasting](forecasting.md) and [sales compensation](sales-compensation.md). Strategy and recommendations go in writing to the people who can say no.
+Align with marketing and CS on **one** number and one language for stages. Build a roadmap in months, not in slogans. Refine weekly / monthly / quarterly KPIs so they match [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting) and [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation). Strategy and recommendations go in writing to the people who can say no.
 
-Hire only if the audit said capacity is the constraint—see [GTM planning](gtm-planning.md). “Hire an SDR manager and more AEs” is a slide, not a finding.
+Hire only if the audit said capacity is the constraint—see [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). “Hire an SDR manager and more AEs” is a slide, not a finding.
 
 <a id="step-4-org-structure-is-a-consequence"></a>
 
@@ -103,7 +103,7 @@ Working file: [sales-leadership-90.md](../../templates/sales-leadership-90.md) (
 - [ ] 30-day calendar is listening, not presenting vision.
 - [ ] 60-day wins are visible in CRM or recordings, not in a narrative deck.
 - [ ] 90-day course includes marketing and CS by name.
-- [ ] Hiring is an output of [GTM planning](gtm-planning.md), not a template bullet.
+- [ ] Hiring is an output of [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning), not a template bullet.
 - [ ] Compensation and forecast pages exist or are explicitly queued.
 - [ ] Sample “guiding principles” from someone else’s deck were rewritten.
 
@@ -129,7 +129,7 @@ Do not count slides delivered to the board in week two as ramp success.
 
 ## What to read next
 
-The number people carry is [sales compensation](sales-compensation.md). Whether that number is real is [forecasting](forecasting.md). How the week splits pipe-gen, forecast, and coaching is [sales operating cadence](sales-operating-cadence.md). Whether you can staff it is [GTM planning](gtm-planning.md). A new CS executive’s 90 days are [CS-leadership ramp](../08-lifecycle-and-customer-marketing/cs-leadership-ramp.md)—not this page. How first meetings sound is the [pitch](../02-product-marketing/sales-enablement.md) and the [demo](../02-product-marketing/demo.md). If the team is SDRs, their curriculum is [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
+The number people carry is [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation). Whether that number is real is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). How the week splits pipe-gen, forecast, and coaching is [sales operating cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence). Whether you can staff it is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). A new CS executive’s 90 days are [CS-leadership ramp](../08-lifecycle-and-customer-marketing/cs-leadership-ramp.md)—not this page. How first meetings sound is the [pitch](../02-product-marketing/sales-enablement.md) and the [demo](../02-product-marketing/demo.md). If the team is SDRs, their curriculum is [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
 
 ## Sources and evidence boundary
 
@@ -139,6 +139,6 @@ The 30 / 60 / 90 verbs (observe and learn → quick wins → set the course), th
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

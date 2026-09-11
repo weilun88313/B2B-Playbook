@@ -498,11 +498,11 @@ Either result moves the business further than another week of debating whether t
 
 ## What to read next
 
-Turn the decision brief into a consistent set of messages with [messaging](messaging.md). Apply it to a real meeting through [sales enablement](sales-enablement.md), and keep important comparisons current with [competitive intelligence](competitive-intelligence.md).
+Turn the decision brief into a consistent set of messages with [messaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/messaging). Apply it to a real meeting through [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement), and keep important comparisons current with [competitive intelligence](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/competitive-intelligence).
 
-If the offer itself remains unclear, revisit [four fits](../01-strategy-and-buyers/four-fits.md) and [pricing and packaging](pricing-and-packaging.md). If the intended buyer is still too broad, return to [ICP](../01-strategy-and-buyers/icp.md) and [wedge](../01-strategy-and-buyers/wedge.md).
+If the offer itself remains unclear, revisit [four fits](../01-strategy-and-buyers/four-fits.md) and [pricing and packaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging). If the intended buyer is still too broad, return to [ICP](../01-strategy-and-buyers/icp.md) and [wedge](../01-strategy-and-buyers/wedge.md).
 
-For publishing the resulting story, continue to [product launch](product-launch.md) and [content strategy](../03-brand-story-and-content/content-strategy.md).
+For publishing the resulting story, continue to [product launch](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/product-launch) and [content strategy](../03-brand-story-and-content/content-strategy.md).
 
 ## Sources and evidence boundary
 
@@ -514,6 +514,6 @@ This guide does not reproduce paid positioning templates or present consulting o
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

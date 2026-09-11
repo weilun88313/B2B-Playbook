@@ -493,11 +493,11 @@ The [pricing-page working file](../../templates/pricing-page.md) is for presenti
 
 ## What to read next
 
-Use [positioning](positioning.md) to explain the relevant alternative and advantage, and [sales enablement](sales-enablement.md) to handle the commercial conversation accurately. Use [pricing page](../07-website-and-conversion/pricing-page.md) to present the finished offer.
+Use [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning) to explain the relevant alternative and advantage, and [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement) to handle the commercial conversation accurately. Use [pricing page](../07-website-and-conversion/pricing-page.md) to present the finished offer.
 
-Next, continue with [demo](demo.md): show the buyer enough of the actual experience to judge whether the proposed commitment makes sense.
+Next, continue with [demo](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/demo): show the buyer enough of the actual experience to judge whether the proposed commitment makes sense.
 
-For the broader relationship between price, acquisition, and delivery, see [four fits](../01-strategy-and-buyers/four-fits.md). For early paid evaluations, keep [first ten customers](../01-strategy-and-buyers/first-ten-customers.md) and [product launch](product-launch.md) aligned with what you can deliver.
+For the broader relationship between price, acquisition, and delivery, see [four fits](../01-strategy-and-buyers/four-fits.md). For early paid evaluations, keep [first ten customers](../01-strategy-and-buyers/first-ten-customers.md) and [product launch](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/product-launch) aligned with what you can deliver.
 
 ## Sources and evidence boundary
 
@@ -511,6 +511,6 @@ Sources checked on September 7, 2026. Product-specific terms can change. Tax, in
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

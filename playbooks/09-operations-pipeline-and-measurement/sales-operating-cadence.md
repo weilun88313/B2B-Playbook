@@ -22,9 +22,9 @@ Forecasting, pipeline creation, and coaching ask different questions. Give each 
 
 ## Do not use this when
 
-- There are no stages and no credit rule. Stay in [forecasting](forecasting.md) and [sales compensation](sales-compensation.md).
+- There are no stages and no credit rule. Stay in [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting) and [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation).
 - The founder still sells three logos. A 13-week factory is costume. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need a 90-day *leader* plan. That is [sales-leadership ramp](sales-leadership-ramp.md). This page is the rhythm that leader installs—or refuses.
+- You need a 90-day *leader* plan. That is [sales-leadership ramp](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp). This page is the rhythm that leader installs—or refuses.
 
 <a id="words-you-will-use"></a>
 
@@ -77,7 +77,7 @@ Weekly 1:1s are not a fourth job. They are where a manager applies those three q
 
 Treat the quarter as a clock you can print:
 
-- **Every week:** the jobs in Step 2, collapsed to the time you actually have. Hygiene before the forecast, or the call is fiction—see [forecasting](forecasting.md).
+- **Every week:** the jobs in Step 2, collapsed to the time you actually have. Hygiene before the forecast, or the call is fiction—see [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
 - **Once a month:** a strategic check that is *not* a forecast. Capacity, motion, enablement, what to stop. If this meeting re-litigates commit, you failed Step 1.
 - **Once a quarter:** a QBR that looks back *and* sets the next 13 weeks. A QBR that is a longer forecast call is overtime, not strategy.
 
@@ -95,7 +95,7 @@ Small teams collapse floors. One manager can run pipe-gen and forecast on differ
 
 ### Step 5: Keep coaching focused on improvement
 
-The moment the forecast is light, coaching gets skipped. Write the coaching slot as a standing inspect of **two or three** deals, pre-read from the CRM, not a tour of every open opportunity. If conversation intelligence exists, it is a pre-read—see [MarTech governance](martech-governance.md)—not a reason to add a fourth weekly all-hands.
+The moment the forecast is light, coaching gets skipped. Write the coaching slot as a standing inspect of **two or three** deals, pre-read from the CRM, not a tour of every open opportunity. If conversation intelligence exists, it is a pre-read—see [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance)—not a reason to add a fourth weekly all-hands.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -109,7 +109,7 @@ Eight AEs, one manager, ~45-day cycle. Not a headcount model.
 | Pipe-gen | Wednesday 40 min. Next-quarter coverage, created this week, gap strategy. Outbound owner brings the create list—not a vibe. |
 | Coaching | Thursday 45 min. Two deals, CRM pre-read, next step owned. Rest of book stays in 1:1s. |
 | 1:1 | 30 min each AE. Skill + their call. Not a second forecast committee. |
-| Monthly | First Friday 50 min. What to stop. Capacity vs [GTM planning](gtm-planning.md). |
+| Monthly | First Friday 50 min. What to stop. Capacity vs [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). |
 | QBR | Week 13 afternoon. Last quarter vs plan; next 13-week calendar published before week 1. |
 | Deleted | Friday “pipeline standup” that repeated Monday’s call. |
 
@@ -162,7 +162,7 @@ Do not count meetings held, or a decorated 13-week poster, as an operating syste
 
 ## What to read next
 
-The quarterly company clock—launch offset from close—is [company cadence](company-cadence.md). The call itself is still [forecasting](forecasting.md). Pay and credit stay in [sales compensation](sales-compensation.md). Whether next year is possible is [GTM planning](gtm-planning.md). A new leader’s first 90 days are [sales-leadership ramp](sales-leadership-ramp.md). Creating the pipeline you inspect is [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [outbound](../05-outbound-and-prospecting/).
+The quarterly company clock—launch offset from close—is [company cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/company-cadence). The call itself is still [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). Pay and credit stay in [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation). Whether next year is possible is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). A new leader’s first 90 days are [sales-leadership ramp](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp). Creating the pipeline you inspect is [channel strategy](../04-channels-and-distribution/channel-strategy.md) and [outbound](../05-outbound-and-prospecting/).
 
 ## Sources and evidence boundary
 
@@ -172,6 +172,6 @@ The split of purpose (pipe-gen vs forecast vs deal coaching), the instruction no
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

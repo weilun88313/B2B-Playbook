@@ -22,7 +22,7 @@ You are looking for a B2B idea, choosing between several possibilities, or wonde
 
 ## Do not use this when
 
-If you can already name the customer and problem, move to [idea validation](idea-validation.md). If you have customers and need to choose which ones to pursue, use [ICP](icp.md). This guide is for deciding what to investigate first.
+If you can already name the customer and problem, move to [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation). If you have customers and need to choose which ones to pursue, use [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp). This guide is for deciding what to investigate first.
 
 ## What makes a business problem worth investigating?
 
@@ -30,7 +30,7 @@ A complaint is a starting point, but it leaves a lot unanswered. Someone can dis
 
 Imagine a finance manager spending an afternoon preparing a monthly report. You see repetitive copying and think “automation.” The manager may see a useful checkpoint: the manual review is where they catch mistakes before the numbers reach the board. A faster export would not necessarily replace that work. You need to understand what the apparent inefficiency is doing for them.
 
-For B2B discovery, follow three connections. **Who experiences the problem? Who cares about its consequences? Who can authorize a change?** These may be three different people. A coordinator loses time, a department head misses a deadline, and IT controls access to the system. A product that helps only the first person may still be difficult to adopt. The [buying committee guide](buying-committee.md) goes deeper once you have a candidate.
+For B2B discovery, follow three connections. **Who experiences the problem? Who cares about its consequences? Who can authorize a change?** These may be three different people. A coordinator loses time, a department head misses a deadline, and IT controls access to the system. A product that helps only the first person may still be difficult to adopt. The [buying committee guide](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee) goes deeper once you have a candidate.
 
 Frequency matters, but so does the consequence of being wrong. A rare migration can justify substantial help; a daily annoyance may remain too minor to command attention. Neither automatically implies a recurring software business. Some problems are better served by a one-off service, a process change, or an existing product configured properly.
 
@@ -146,7 +146,7 @@ If you are enthusiastic about AI, write down the specific change it could enable
 
 Make the action answer a specific uncertainty. For example: “Ask another operations manager to walk through their last record correction, so we can learn whether the engineering dependency exists outside our team.”
 
-Start with a couple of conversations to improve the question. That is a scheduling suggestion, not a validation threshold. Move to [idea validation](idea-validation.md) when you have a clear customer/problem hypothesis and are ready to test demand more deliberately.
+Start with a couple of conversations to improve the question. That is a scheduling suggestion, not a validation threshold. Move to [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) when you have a clear customer/problem hypothesis and are ready to test demand more deliberately.
 
 ## Two company stories, and what to take from them
 
@@ -320,7 +320,7 @@ Track what you are learning: roles you have spoken to, recurring problems, obser
 
 ## What to read next
 
-Have one clear candidate? Continue to [idea validation](idea-validation.md). Need to narrow the customer? Use [ICP](icp.md). Ready to approach potential early customers? Read [first ten customers](first-ten-customers.md).
+Have one clear candidate? Continue to [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation). Need to narrow the customer? Use [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp). Ready to approach potential early customers? Read [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers).
 
 ## Sources and evidence boundary
 
@@ -330,6 +330,6 @@ For more origin stories, read [Lenny's original article](https://www.lennysnewsl
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

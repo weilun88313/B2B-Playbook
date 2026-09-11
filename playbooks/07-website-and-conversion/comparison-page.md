@@ -23,7 +23,7 @@ Buyers comparing products need a fair explanation of the trade-offs. Show where 
 - Positioning and the decision-page map are empty. Stay in [positioning](../02-product-marketing/positioning.md) and [content strategy](../03-brand-story-and-content/content-strategy.md).
 - The alternative has never appeared in a win/loss note. Do not manufacture a rival for search volume.
 - Legal or brand has forbidden naming that company and you have not agreed a category-level frame instead.
-- You need the commercial number. That is the [pricing page](pricing-page.md).
+- You need the commercial number. That is the [pricing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page).
 
 <a id="words-you-will-use"></a>
 
@@ -151,7 +151,7 @@ Do not treat “vs” keyword rank as success if sales will not send the page.
 
 ## What to read next
 
-The number they will defend next is on the [pricing page](pricing-page.md). The walk after they agree the job is [demo](../02-product-marketing/demo.md); the form that books it is [demo request](demo-request.md). If the alternative is still unnamed, return to [positioning](../02-product-marketing/positioning.md). Change cost that is not a feature fight lives in [change friction](../02-product-marketing/change-friction.md).
+The number they will defend next is on the [pricing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page). The walk after they agree the job is [demo](../02-product-marketing/demo.md); the form that books it is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). If the alternative is still unnamed, return to [positioning](../02-product-marketing/positioning.md). Change cost that is not a feature fight lives in [change friction](../02-product-marketing/change-friction.md).
 
 ## Sources and evidence boundary
 
@@ -161,6 +161,6 @@ This is an owner-maintained operating synthesis. The eight-part outline and the 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

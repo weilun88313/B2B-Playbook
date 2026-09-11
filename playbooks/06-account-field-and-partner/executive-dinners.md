@@ -22,7 +22,7 @@ A small dinner can give senior buyers time to compare notes with peers. Invite p
 
 - The ICP cannot name who should sit down. Stay in [ICP](../01-strategy-and-buyers/icp.md).
 - You cannot staff follow-up the next morning. That is how dinners become theater.
-- You need a booth. That is [trade shows](trade-shows.md).
+- You need a booth. That is [trade shows](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows).
 - The goal is “brand” with no dated next action.
 
 <a id="words-you-will-use"></a>
@@ -57,7 +57,7 @@ Write: *[seat] will sit for [question] because it is already costing them _____.
 
 ### Step 2: Research the guest list
 
-Every name has a reason, a [account](account-planning.md) note if they are named, and a why-them. Invite fewer than you want. A no from the right seat is better than a yes from a tourist. Customers and peers can outnumber you at the table; that is the point.
+Every name has a reason, a [account](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning) note if they are named, and a why-them. Invite fewer than you want. A no from the right seat is better than a yes from a tourist. Customers and peers can outnumber you at the table; that is the point.
 
 <a id="step-3-design-the-night-so-you-talk-last"></a>
 
@@ -100,7 +100,7 @@ Working file: [executive-dinners.md](../../templates/executive-dinners.md).
 
 ## Before you start
 
-- [ ] [Event](event-marketing.md) score still says host or attend.
+- [ ] [Event](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing) score still says host or attend.
 - [ ] One seat, one question, ≤12 guests.
 - [ ] Every name has a why-them.
 - [ ] Host reputation is real; we are not renting a celebrity for a pitch.
@@ -126,12 +126,12 @@ Do not count RSVPs, photos, or “everyone had a good time.”
 - Three personas “for energy.”
 - A fifteen-minute product slot “because we paid.”
 - One recap to the whole list.
-- Skipping [event marketing](event-marketing.md) and hosting because dinners are fashionable.
+- Skipping [event marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing) and hosting because dinners are fashionable.
 - Calling a 40-person reception a roundtable.
 
 ## What to read next
 
-Whether the night should exist is [event marketing](event-marketing.md). A booth week is [trade shows](trade-shows.md). The room you did not host is [peer community](../04-channels-and-distribution/community.md). Named accounts at the table need [account planning](account-planning.md). The story in follow-up is [sales enablement](../02-product-marketing/sales-enablement.md).
+Whether the night should exist is [event marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing). A booth week is [trade shows](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows). The room you did not host is [peer community](../04-channels-and-distribution/community.md). Named accounts at the table need [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning). The story in follow-up is [sales enablement](../02-product-marketing/sales-enablement.md).
 
 ## Sources and evidence boundary
 
@@ -141,6 +141,6 @@ Role lock, small table, and “mixer ≠ pipeline” are judgments in this libra
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

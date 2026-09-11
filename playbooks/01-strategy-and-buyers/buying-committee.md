@@ -30,7 +30,7 @@ For marketing teams, this work explains why a good landing page and a persuasive
 
 ## Do not use this when
 
-If the account clearly cannot benefit from your current offer, a detailed relationship map will not make it a better [ICP](icp.md) match. If fit is unknown, investigate the workflow alongside the buying process.
+If the account clearly cannot benefit from your current offer, a detailed relationship map will not make it a better [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp) match. If fit is unknown, investigate the workflow alongside the buying process.
 
 Lack of urgency is different from lack of fit. You can learn how a suitable company buys without treating it as an active opportunity. Record the timing honestly instead of inventing a deadline to justify the account.
 
@@ -147,7 +147,7 @@ If the commitment does not happen, ask what changed. Correct the map and timing 
 
 ## How a filled committee map reads
 
-The following is a **fictional continuation** of the record-correction example in [idea validation](idea-validation.md), [ICP](icp.md), and [wedge](wedge.md). The people, dialogue, and proposed decisions below are invented to demonstrate the method. They are not customer research or a reported company result.
+The following is a **fictional continuation** of the record-correction example in [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation), [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp), and [wedge](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/wedge). The people, dialogue, and proposed decisions below are invented to demonstrate the method. They are not customer research or a reported company result.
 
 The proposed offer prepares correction requests for an engineer to review. It does not change production records. Earlier, five approved, redacted past requests were prepared with manual assistance: three were review-ready, while two still lacked information from another department. An improved existing form might explain part of the benefit.
 
@@ -442,9 +442,9 @@ For small samples, inspect the notes behind the numbers. If three opportunities 
 
 ## What to read next
 
-If you need to find and approach relevant accounts, continue to [first ten customers](first-ten-customers.md). If the main problem is explaining why your offer deserves consideration, read [positioning](../02-product-marketing/positioning.md).
+If you need to find and approach relevant accounts, continue to [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers). If the main problem is explaining why your offer deserves consideration, read [positioning](../02-product-marketing/positioning.md).
 
-Use [account planning](../06-account-field-and-partner/account-planning.md) when an opportunity deserves coordinated work across several people. Return to [product-market fit](product-market-fit.md) when you need to distinguish successful selling from evidence that customers repeatedly value and use the product.
+Use [account planning](../06-account-field-and-partner/account-planning.md) when an opportunity deserves coordinated work across several people. Return to [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) when you need to distinguish successful selling from evidence that customers repeatedly value and use the product.
 
 ## Sources and evidence boundary
 
@@ -456,6 +456,6 @@ The record-correction story, conversations, and brief are illustrative. They do 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

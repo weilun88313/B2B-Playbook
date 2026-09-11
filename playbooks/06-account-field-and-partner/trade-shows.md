@@ -23,7 +23,7 @@ A trade show has many moving parts: the account list, pre-booked meetings, booth
 - The budget is committed before account access is tested.
 - Badge volume is the success metric.
 
-Use the [event-marketing playbook](event-marketing.md) first to decide attend, sponsor, exhibit, or skip.
+Use the [event-marketing playbook](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing) first to decide attend, sponsor, exhibit, or skip.
 
 ## 40 / 20 / 40 operating heuristic
 
@@ -71,7 +71,7 @@ Working file: [show-capture.md](../../templates/show-capture.md).
 
 ### How a filled meeting brief reads
 
-Same shape as [event marketing](event-marketing.md): T1 account, champion booked, trigger = questionnaire losses, next step = working session with the operator, not a badge scan.
+Same shape as [event marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing): T1 account, champion booked, trigger = questionnaire losses, next step = working session with the operator, not a badge scan.
 
 ### Meeting brief (copy)
 
@@ -145,7 +145,7 @@ Same shape as [event marketing](event-marketing.md): T1 account, champion booked
 
 ## What to read next
 
-The meetings you booked still need a story: [sales enablement](../02-product-marketing/sales-enablement.md). Whether a show should exist at all is [event marketing](event-marketing.md). A small night instead of a booth is [executive dinners](executive-dinners.md). Pre-show density that becomes a public cut is [creator partnership](../04-channels-and-distribution/creator-partnership.md). Partners who already own the aisle are [ecosystem](ecosystem.md). A dated change that is not a scan is [buying signals](../05-outbound-and-prospecting/buying-signals.md).
+The meetings you booked still need a story: [sales enablement](../02-product-marketing/sales-enablement.md). Whether a show should exist at all is [event marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing). A small night instead of a booth is [executive dinners](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners). Pre-show density that becomes a public cut is [creator partnership](../04-channels-and-distribution/creator-partnership.md). Partners who already own the aisle are [ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem). A dated change that is not a scan is [buying signals](../05-outbound-and-prospecting/buying-signals.md).
 
 ## Sources and evidence boundary
 
@@ -153,6 +153,6 @@ This is an owner-maintained operating synthesis. Event data rights, badge consen
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

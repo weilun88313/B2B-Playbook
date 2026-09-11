@@ -47,7 +47,7 @@ You already know the product cannot meet a requirement and want language that hi
 
 You are trying to prove broad product-market fit from a few positive replies. A useful message does not establish adoption, retention, delivery quality, or a sustainable business.
 
-You need the full positioning strategy, an individual account brief, or the mechanics of a channel. Use [positioning](../02-product-marketing/positioning.md), [account research](account-research.md), and [cold email](cold-email.md) for those tasks.
+You need the full positioning strategy, an individual account brief, or the mechanics of a channel. Use [positioning](../02-product-marketing/positioning.md), [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research), and [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) for those tasks.
 
 You are also not required to postpone all tools until someone has personally written fifty emails. Software can help organize learning from the beginning. The problem is expanding an unexamined promise, not using a tool.
 
@@ -119,7 +119,7 @@ Write down what makes an account unsuitable as well as what makes it promising. 
 
 You do not need a recent funding round or two public facts to test whether people understand an offer. You need appropriate participants or accounts and enough context to avoid testing on people whose work is unrelated.
 
-A company headline can help with timing; it does not replace the audience definition. Read [buying signals](buying-signals.md) when the question is whether a change creates a useful reason to act now.
+A company headline can help with timing; it does not replace the audience definition. Read [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) when the question is whether a change creates a useful reason to act now.
 
 ### Name the current alternative fairly
 
@@ -878,11 +878,11 @@ The discipline is to stop promptly for harm or clear error, while avoiding prema
 
 Use [positioning](../02-product-marketing/positioning.md) when the question is how the product should be understood against alternatives. Return to [ICP](../01-strategy-and-buyers/icp.md) if feedback challenges who the offer is for.
 
-For a specific account and its timing, read [account research](account-research.md) and [buying signals](buying-signals.md).
+For a specific account and its timing, read [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) and [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals).
 
-Once the audience and message hypothesis are clear, continue with [cold email](cold-email.md) or [cold call](cold-call.md). Those guides cover the channel execution that this page deliberately keeps separate from offer validation.
+Once the audience and message hypothesis are clear, continue with [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) or [cold call](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-call). Those guides cover the channel execution that this page deliberately keeps separate from offer validation.
 
-For coordinated follow-up, use [multichannel sequence](multichannel-sequence.md). When another seller takes over, [SDR onboarding](sdr-onboarding.md) helps turn what you learned into a repeatable working practice.
+For coordinated follow-up, use [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence). When another seller takes over, [SDR onboarding](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-onboarding) helps turn what you learned into a repeatable working practice.
 
 For the wider relationship between market, product, channel, and business model, read [four fits](../01-strategy-and-buyers/four-fits.md). If you introduce automation, keep the claim boundaries and human review explicit in the [AI workflow](../09-operations-pipeline-and-measurement/ai-workflow.md).
 
@@ -901,6 +901,6 @@ Message-market fit is used more broadly here than the cold-email definition in t
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

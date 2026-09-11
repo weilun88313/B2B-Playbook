@@ -21,8 +21,8 @@ Your first months leading customer success are a chance to learn how customers a
 ## Do not use this when
 
 - There are no customers. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need the CS operating system for ICs. Write [customer success](customer-success.md) first; this ramp *uses* it.
-- You need implementation clocks. That is [customer onboarding](customer-onboarding.md).
+- You need the CS operating system for ICs. Write [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success) first; this ramp *uses* it.
+- You need implementation clocks. That is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding).
 - You need seller 90 days. That is [sales-leadership ramp](../09-operations-pipeline-and-measurement/sales-leadership-ramp.md).
 
 <a id="one-rule"></a>
@@ -51,7 +51,7 @@ Inward: who is doing success versus support versus admin. Whether CSMs can talk 
 
 Write the charter: outcomes CS owns; where CS partners vs leads; non-negotiable engagement standards.
 
-Reset with Sales, Marketing, Product, RevOps: segmentation; renewal and upsell **homes** (same fight as [customer success](customer-success.md) and [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md)); QBR depth and frequency; CS → Product feedback loop that Product will actually read.
+Reset with Sales, Marketing, Product, RevOps: segmentation; renewal and upsell **homes** (same fight as [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success) and [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md)); QBR depth and frequency; CS → Product feedback loop that Product will actually read.
 
 With Finance and RevOps: GRR/NRR definitions; churn and expansion language; whether the health score is a model or a mood. If the formulas disagree, that is the work—not a dashboard color.
 
@@ -61,7 +61,7 @@ Culture: if the team is only reactive, you may rebalance portfolios or move from
 
 ### Step 3: Days 61–90: put the plan into daily work
 
-Visible, dated wins: a QBR shape run on **top** accounts; onboarding relaunch with milestones the customer already has in [onboarding communication](onboarding-communication.md); health (or a simpler at-risk flag) visible to Sales; books reassigned only from the segment insight, not from preference.
+Visible, dated wins: a QBR shape run on **top** accounts; onboarding relaunch with milestones the customer already has in [onboarding communication](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/onboarding-communication); health (or a simpler at-risk flag) visible to Sales; books reassigned only from the segment insight, not from preference.
 
 Then the cross-functional job: Sales on expansion forecast and shared renewals; Marketing on advocacy only where value is real; Product on a short list of escalations, not a suggestion box.
 
@@ -71,7 +71,7 @@ By day 90 the team should know the charter, customers should have a next date, a
 
 ### Step 4: Avoid making large changes before learning
 
-**Support lead in a CCO title.** Tickets are a path; they are not the mandate. **Agency-in-week-two as strategy.** Partners can add capacity later; they do not replace seeing the book. Your network is not a substitute for [customer success](customer-success.md) written down.
+**Support lead in a CCO title.** Tickets are a path; they are not the mandate. **Agency-in-week-two as strategy.** Partners can add capacity later; they do not replace seeing the book. Your network is not a substitute for [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success) written down.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -127,7 +127,7 @@ Do not count CCO-school enrollment, or a “growth engine” slide in week two, 
 
 ## What to read next
 
-The book those 90 days inspect is [customer success](customer-success.md). First value is [customer onboarding](customer-onboarding.md) and [onboarding communication](onboarding-communication.md). The record CS lives in is [CS workspace](cs-workspace.md). Seller-side 90 days remain [sales-leadership ramp](../09-operations-pipeline-and-measurement/sales-leadership-ramp.md). Pay still sits in [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md).
+The book those 90 days inspect is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). First value is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding) and [onboarding communication](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/onboarding-communication). The record CS lives in is [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace). Seller-side 90 days remain [sales-leadership ramp](../09-operations-pipeline-and-measurement/sales-leadership-ramp.md). Pay still sits in [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md).
 
 ## Sources and evidence boundary
 
@@ -137,6 +137,6 @@ The 30 / 60 / 90 CS-executive verbs (audit the book and journey → charter, met
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -20,8 +20,8 @@ Every form field asks the reader to do a little more work. Keep the fields you g
 
 ## Do not use this when
 
-- The path is a scoped walkthrough. That is [demo request](demo-request.md).
-- The path is a campaign promise. That is a [landing page](landing-page.md).
+- The path is a scoped walkthrough. That is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request).
+- The path is a campaign promise. That is a [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page).
 - You need scoring math. That is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md).
 - Legal must set lawful basis. Get a qualified owner.
 
@@ -40,7 +40,7 @@ Every form field asks the reader to do a little more work. Keep the fields you g
 
 ## Keep this in mind
 
-**The form is as short as the intent, and chat is not a second demo queue.** If you cannot write what happens in the first hour after submit, delete the form. If chat cannot hand a scoped request to the [demo](demo-request.md) SLA, it is decoration.
+**The form is as short as the intent, and chat is not a second demo queue.** If you cannot write what happens in the first hour after submit, delete the form. If chat cannot hand a scoped request to the [demo](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request) SLA, it is decoration.
 
 <a id="operating-method"></a>
 
@@ -54,7 +54,7 @@ Every form field asks the reader to do a little more work. Keep the fields you g
 |---|---|---|
 | Education / optional file | Work email, or nothing | Send the URL; do not notify sales |
 | Event / webinar | Email, name | Register; nurture state = known |
-| Hand-raise | [Demo request](demo-request.md) rules + HDYHAU | Human SLA |
+| Hand-raise | [Demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request) rules + HDYHAU | Human SLA |
 | Signup | What activation needs | Product, not a BDR |
 
 “Contact us” without a job becomes a junk drawer. Split it or kill it.
@@ -69,7 +69,7 @@ If you already have role and company, do not ask again. Progressive profiling is
 
 ### Step 3: Make the exchange worth the effort
 
-Default ungated for [comparison](comparison-page.md), category, and [white paper](../03-brand-story-and-content/white-paper.md). Gate a working file only if someone will use the submit. Newsletter popups on first visit are refused on the [homepage](homepage.md); they are refused here too.
+Default ungated for [comparison](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/comparison-page), category, and [white paper](../03-brand-story-and-content/white-paper.md). Gate a working file only if someone will use the submit. Newsletter popups on first visit are refused on the [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage); they are refused here too.
 
 <a id="step-4-give-chat-a-script-or-turn-it-off"></a>
 
@@ -111,7 +111,7 @@ Working file: [forms-and-chat.md](../../templates/forms-and-chat.md).
 ## Before you start
 
 - [ ] Every live form has a written job and owner.
-- [ ] Hand-raises use the [demo request](demo-request.md) path, not a generic contact.
+- [ ] Hand-raises use the [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request) path, not a generic contact.
 - [ ] Known fields are not re-asked.
 - [ ] Chat cannot cover the homepage door.
 - [ ] Popups are off on first visit.
@@ -134,18 +134,18 @@ Do not treat form-fill volume or chat engagement as conversion.
 - Chat as unofficial SDR.
 - HDYHAU dropdowns on newsletters.
 - Popup to “save the bounce.”
-- Building a new form per campaign instead of a [landing page](landing-page.md) with one door.
+- Building a new form per campaign instead of a [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page) with one door.
 
 ## What to read next
 
-The high-intent special case is [demo request](demo-request.md). Campaign URLs are [landing page](landing-page.md). Routing for non-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). State after a light fill is [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). CRO as button theater is still planned; do not use this page as a lab.
+The high-intent special case is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Campaign URLs are [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). Routing for non-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). State after a light fill is [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). CRO as button theater is still planned; do not use this page as a lab.
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. Short-by-intent, progressive profiling, and high-value URLs as routing already live on [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) and [demo request](demo-request.md). Ungated defaults follow [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) and [white paper](../03-brand-story-and-content/white-paper.md). Chat-vendor benchmarks are not method.
+This is an owner-maintained operating synthesis. Short-by-intent, progressive profiling, and high-value URLs as routing already live on [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) and [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Ungated defaults follow [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) and [white paper](../03-brand-story-and-content/white-paper.md). Chat-vendor benchmarks are not method.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

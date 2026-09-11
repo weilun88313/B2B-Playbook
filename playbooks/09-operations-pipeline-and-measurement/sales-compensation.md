@@ -81,7 +81,7 @@ The credit metric is the unit that hits quota. Choose the one that matches **how
 - **License, hardware, and services in one motion:** **total contract value (TCV)** or bookings is usually the honest number. Forcing CMRR onto a perpetual-license shop just invents arguments.
 - **The test:** would two equally good years look the same under this metric, or does the metric reward a packaging trick (prepaid multi-year dumped into one period, services stuffed into “bookings,” a side letter that finance will unwind)?
 
-Write when a deal **counts**: signed, booked in the system of record, invoiceable, or collected. “Verbal commit” is not a credit event. If you claw back on logo churn or never-collect, write the window on [incentive timing](incentive-timing.md)—not in a Q4 surprise.
+Write when a deal **counts**: signed, booked in the system of record, invoiceable, or collected. “Verbal commit” is not a credit event. If you claw back on logo churn or never-collect, write the window on [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing)—not in a Q4 surprise.
 
 <a id="step-3-set-ote-then-mix-then-quota"></a>
 
@@ -154,7 +154,7 @@ Write, in one page:
 - Credit splits (AE/SE, AE/AE, partner).
 - Overlay rules.
 - When credit is earned and when it is reversed.
-- Draws and ramps for new hires (how many months, at what percent of variable, and whether it is recoverable)—detail on [incentive timing](incentive-timing.md).
+- Draws and ramps for new hires (how many months, at what percent of variable, and whether it is recoverable)—detail on [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing).
 - Who arbitrates a dispute, and in how many days.
 
 Then ask: can the current system (CRM + spreadsheet + payroll) produce a correct paycheck on the promised date? If the answer is “we will figure it out,” either **cut components** until a human can calculate it in an afternoon, or you need an ICM category tool. Buying software to rescue an eight-component plan is how you spend a year implementing last year’s politics.
@@ -291,7 +291,7 @@ Do not count a finished kickoff deck, the number of SPIFs, or resemblance to a f
 
 ## What to read next
 
-What the market pays is still [pricing](../02-product-marketing/pricing-and-packaging.md). How the first meeting sounds is [sales enablement](../02-product-marketing/sales-enablement.md). Whether this role should exist is [channel strategy](../04-channels-and-distribution/channel-strategy.md). If the hire is an SDR/BDR, the number is useless until they can do the job: [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether leadership can trust the path to the number is [forecasting](forecasting.md). When pay is reversed or advanced, that is [incentive timing](incentive-timing.md). Ops leaders are not a second AE quota: [RevOps compensation](revops-compensation.md). If you do not yet have the first handful of customers, do not start here—[first ten](../01-strategy-and-buyers/first-ten-customers.md). Write the credit event in the plan itself so marketing and sales are not using two definitions of “won.”
+What the market pays is still [pricing](../02-product-marketing/pricing-and-packaging.md). How the first meeting sounds is [sales enablement](../02-product-marketing/sales-enablement.md). Whether this role should exist is [channel strategy](../04-channels-and-distribution/channel-strategy.md). If the hire is an SDR/BDR, the number is useless until they can do the job: [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether leadership can trust the path to the number is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). When pay is reversed or advanced, that is [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing). Ops leaders are not a second AE quota: [RevOps compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/revops-compensation). If you do not yet have the first handful of customers, do not start here—[first ten](../01-strategy-and-buyers/first-ten-customers.md). Write the credit event in the plan itself so marketing and sales are not using two definitions of “won.”
 
 ## Sources and evidence boundary
 
@@ -305,6 +305,6 @@ Pavilion as a paid community is listed in [RESOURCES.md](../../RESOURCES.md). Th
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

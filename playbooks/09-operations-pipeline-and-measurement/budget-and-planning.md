@@ -20,9 +20,9 @@ A marketing budget should show what the team plans to do and what it will take t
 
 ## Do not use this when
 
-- Strategy inputs are empty. Fill [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md) and [GTM planning](gtm-planning.md) first.
-- You need who to hire for fuel vs engine. That is [marketing org](marketing-org.md).
-- You need the weekly forecast call. That is [forecasting](forecasting.md).
+- Strategy inputs are empty. Fill [marketing-strategy-inputs.md](../../templates/marketing-strategy-inputs.md) and [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning) first.
+- You need who to hire for fuel vs engine. That is [marketing org](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/marketing-org).
+- You need the weekly forecast call. That is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
 - This is securities guidance or an investor model. Get qualified owners.
 
 <a id="words-you-will-use"></a>
@@ -51,7 +51,7 @@ A marketing budget should show what the team plans to do and what it will take t
 
 ### Step 1: Compare targets with a bottom-up plan
 
-Top-down without bottom-up is a number nobody can create. Bottom-up without top-down is a hobby. Put both on the table with [GTM planning](gtm-planning.md). If finance needs &#36;X and the demand sheet says &#36;Y, that is a conversation—not a cell you overwrite.
+Top-down without bottom-up is a number nobody can create. Bottom-up without top-down is a hobby. Put both on the table with [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). If finance needs &#36;X and the demand sheet says &#36;Y, that is a conversation—not a cell you overwrite.
 
 You cannot finish budget without a forecast, or forecast without a budget. Iterate. Paid, programs, and events change what is possible; what is possible changes what you can spend on people; people change what you can run.
 
@@ -71,13 +71,13 @@ A budget as a percent of revenue is a weaker prompt; if leadership insists on on
 
 Fully loaded cost per marketer from finance—not salary. Count who is **in seat each month**, including people who start in April or November. Subtract that from the working budget. What remains is programs, paid, events, tools, agencies.
 
-Then reconcile: if leftover cannot fund the engines in the demand plan, cut scope, slip a hire, or change the revenue target. Do not keep the hire plan and the paid plan as if both were free. [Marketing org](marketing-org.md) decides **which** seats; this step decides **when they hit the P&L**.
+Then reconcile: if leftover cannot fund the engines in the demand plan, cut scope, slip a hire, or change the revenue target. Do not keep the hire plan and the paid plan as if both were free. [Marketing org](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/marketing-org) decides **which** seats; this step decides **when they hit the P&L**.
 
 <a id="step-4-monthly-targets-a-one-page-summary-track-efficiency-as-you-spend"></a>
 
 ### Step 4: Review spending against the plan
 
-Break the year into months. Put the summary next to the [GTM planning](gtm-planning.md) one-pager: revenue target, efficiency diagnostic you are steering to, headcount by month, remaining mix, constraint. Revisit when conversion or start dates slip—same rule as the demand sheet: **only change inputs**.
+Break the year into months. Put the summary next to the [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning) one-pager: revenue target, efficiency diagnostic you are steering to, headcount by month, remaining mix, constraint. Revisit when conversion or start dates slip—same rule as the demand sheet: **only change inputs**.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -98,7 +98,7 @@ Not your rates. Not a benchmark.
 ## Copy: budget card (fill)
 
 - Top-down number and owner:
-- Bottom-up number ([GTM planning](gtm-planning.md) reconcile):
+- Bottom-up number ([GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning) reconcile):
 - Gap and the decision (target / mix / efficiency / capacity):
 - Shared definitions: CAC, payback, LTV, new ARR:
 - Marketing vs sales share of total CAC (and when we will replace the guess):
@@ -142,20 +142,20 @@ Do not count a finished spreadsheet tab, or a CAC ratio copied from a 2024 essay
 - Pasting public payback or LTV:CAC bands into the board deck as “the target.”
 - Locking paid and events before people.
 - Changing conversion cells so the budget “fits.”
-- Hiring plan from [marketing org](marketing-org.md) with no monthly cost.
+- Hiring plan from [marketing org](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/marketing-org) with no monthly cost.
 
 ## What to read next
 
-Whether the funnel and the sales floor can meet is [GTM planning](gtm-planning.md). Who sits in the seats is [marketing org](marketing-org.md). Calling the quarter is [forecasting](forecasting.md). Two scoreboards for what you buy or publish: [measurement model](measurement-model.md). The calendar that keeps a launch off the close: [company cadence](company-cadence.md).
+Whether the funnel and the sales floor can meet is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Who sits in the seats is [marketing org](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/marketing-org). Calling the quarter is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). Two scoreboards for what you buy or publish: [measurement model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/measurement-model). The calendar that keeps a launch off the close: [company cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/company-cadence).
 
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis. It is not a financial model for fundraising, not tax advice, and not a benchmark.
 
-Iterate budget with top-down and bottom-up forecasts, start with a range from efficiency diagnostics, **split total CAC** into marketing vs sales, **model headcount by month** at fully loaded cost, then allocate the remainder and reconcile to the demand plan draw on Emily Kramer ([MKT1, 2024-12-11](https://newsletter.mkt1.co/p/budget?ref=b2b-playbook)), as a companion to the annual-planning series already cited on [GTM planning](gtm-planning.md) ([2024-09-23](https://newsletter.mkt1.co/p/annual-marketing-planning?ref=b2b-playbook)). CAC-ratio, payback, and LTV:CAC **bands** in that 2024-12-11 essay, and the 35–45% marketing-share-of-CAC sketch, are **her** prompts for early-to-growth venture-backed B2B SaaS on that date—not this library’s SLA, not a command to copy her calculator, and not a fit for every business model. The paid budget template, efficiency calculator, and AI prompts behind that paywall are not reproduced here.
+Iterate budget with top-down and bottom-up forecasts, start with a range from efficiency diagnostics, **split total CAC** into marketing vs sales, **model headcount by month** at fully loaded cost, then allocate the remainder and reconcile to the demand plan draw on Emily Kramer ([MKT1, 2024-12-11](https://newsletter.mkt1.co/p/budget?ref=b2b-playbook)), as a companion to the annual-planning series already cited on [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning) ([2024-09-23](https://newsletter.mkt1.co/p/annual-marketing-planning?ref=b2b-playbook)). CAC-ratio, payback, and LTV:CAC **bands** in that 2024-12-11 essay, and the 35–45% marketing-share-of-CAC sketch, are **her** prompts for early-to-growth venture-backed B2B SaaS on that date—not this library’s SLA, not a command to copy her calculator, and not a fit for every business model. The paid budget template, efficiency calculator, and AI prompts behind that paywall are not reproduced here.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

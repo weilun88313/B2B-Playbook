@@ -21,7 +21,7 @@ A CRM is easier to use when the team agrees on what each record and field means.
 ## Do not use this when
 
 - There is no [ICP](../01-strategy-and-buyers/icp.md) and no stages. You will migrate a mess with better branding.
-- You need a weekly forecast call. That is [forecasting](forecasting.md).
+- You need a weekly forecast call. That is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
 - Legal hold, privacy, or deletion rules must be designed by qualified owners. This is not that advice.
 
 <a id="one-rule"></a>
@@ -56,13 +56,13 @@ Right side: the counterpart. Standard if the new CRM already has the job. Custom
 
 ### Step 4: Map picklist values separately
 
-Every picklist and multi-select: object, field, values. Stage names here must be the same words [forecasting](forecasting.md) and [lead scoring](lead-scoring.md) use. Hidden synonyms (“SQL” vs “Sales Qualified”) are how routing dies.
+Every picklist and multi-select: object, field, values. Stage names here must be the same words [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting) and [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring) use. Hidden synonyms (“SQL” vs “Sales Qualified”) are how routing dies.
 
 <a id="step-5-freeze-the-map-before-automation"></a>
 
 ### Step 5: Agree on the model before adding automation
 
-Integrations, sequences, and scoring write to **this** map. If [MarTech governance](martech-governance.md) later finds a tool that cannot two-way sync a field you marked required, that is a stack decision—not a surprise in week three. Date the map. Changing it after go-live is a migration of its own.
+Integrations, sequences, and scoring write to **this** map. If [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance) later finds a tool that cannot two-way sync a field you marked required, that is a stack decision—not a surprise in week three. Date the map. Changing it after go-live is a migration of its own.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -119,13 +119,13 @@ Do not count objects created, or resemblance to a Salesforce-shaped template, as
 - Migrating every field because someone might need it.
 - Matching labels and ignoring types.
 - Picklists left as free text.
-- Stage names that do not match [forecasting](forecasting.md).
+- Stage names that do not match [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
 - Rebuilding scoring and sequences before the map exists.
 - Copying another company’s objects (including a sample Lead/Account/Contact/Opportunity set) as if they were yours.
 
 ## What to read next
 
-What the score **does** at a threshold is [lead scoring](lead-scoring.md). Whether a tool may write into this record is [MarTech governance](martech-governance.md). Post-sale intelligence (value, cadence, renewal, risk) is [CS workspace](../08-lifecycle-and-customer-marketing/cs-workspace.md). The number people call sits in [forecasting](forecasting.md). If you are still inventing the commercial motion, stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+What the score **does** at a threshold is [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). Whether a tool may write into this record is [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance). Post-sale intelligence (value, cadence, renewal, risk) is [CS workspace](../08-lifecycle-and-customer-marketing/cs-workspace.md). The number people call sits in [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). If you are still inventing the commercial motion, stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 
 ## Sources and evidence boundary
 
@@ -135,6 +135,6 @@ The left-to-right field map (label, API name, type, record count → new label, 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

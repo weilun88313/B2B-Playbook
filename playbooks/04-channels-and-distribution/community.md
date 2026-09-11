@@ -716,7 +716,7 @@ Costs also need a clear boundary. Host time, paid facilitation, platform fees, e
 
 ## What to read next
 
-Use [channel strategy](channel-strategy.md) to decide how community participation fits alongside other routes to customers. [Creator partnership](creator-partnership.md) covers working with someone who already has an audience.
+Use [channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) to decide how community participation fits alongside other routes to customers. [Creator partnership](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/creator-partnership) covers working with someone who already has an audience.
 
 For live formats, continue with [event marketing](../06-account-field-and-partner/event-marketing.md) and [executive dinners](../06-account-field-and-partner/executive-dinners.md). [Ecosystem](../06-account-field-and-partner/ecosystem.md) covers broader partner relationships.
 
@@ -736,6 +736,6 @@ Community ownership, privacy, recording, and contractual questions depend on the
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

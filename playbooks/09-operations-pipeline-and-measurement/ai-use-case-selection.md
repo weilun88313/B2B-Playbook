@@ -20,9 +20,9 @@ Start with a task that is slow, costly, or frequently done badly, rather than wi
 
 ## Do not use this when
 
-- There is no ICP and no number. Stay in [ICP](../01-strategy-and-buyers/icp.md) and [GTM planning](gtm-planning.md).
-- You already picked the problem and need stages, gates, and recovery. That is [AI workflow](ai-workflow.md).
-- You need a bake-off once the job is named. That is [MarTech governance](martech-governance.md).
+- There is no ICP and no number. Stay in [ICP](../01-strategy-and-buyers/icp.md) and [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning).
+- You already picked the problem and need stages, gates, and recovery. That is [AI workflow](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-workflow).
+- You need a bake-off once the job is named. That is [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance).
 - You need a custom GPT’s instruction skeleton. That is [ai-teammate-brief.md](../../templates/ai-teammate-brief.md)—after the job exists.
 
 <a id="words-you-will-use"></a>
@@ -83,7 +83,7 @@ The technology is usually less scarce than change. Principles that keep the fron
 - Size enablement to the change: a Slack note, a written standard plus meeting time, or formal training. Most companies under-staff the last two.
 - One bet at a time with enough attention to finish. Random experiments train people to tune out.
 
-When the bet is chosen, it becomes a row in the [experiment ledger](experimentation.md): hypothesis, decision, kill date.
+When the bet is chosen, it becomes a row in the [experiment ledger](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation): hypothesis, decision, kill date.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -133,7 +133,7 @@ Working file: [ai-use-case-score.xlsx](../../templates/ai-use-case-score.xlsx).
 | Bets finished vs started | Attention vs fatigue |
 | Problems killed because the math failed | Framework vs shopping |
 | Frontline still using the thing at day 60 | Adoption vs launch |
-| Experiment rows with a decision | Selection connected to [experimentation](experimentation.md) |
+| Experiment rows with a decision | Selection connected to [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation) |
 
 Do not count tools trialed, or a CRO’s public “zero bad AI bets” story, as your selection system.
 
@@ -149,7 +149,7 @@ Do not count tools trialed, or a CRO’s public “zero bad AI bets” story, as
 
 ## What to read next
 
-Where the motion sits on the ladder is [GTM AI maturity](gtm-ai-maturity.md). How the chosen job is staged is [AI workflow](ai-workflow.md). How you try to disprove it is [experimentation](experimentation.md). Which SKU may do the job is [MarTech governance](martech-governance.md). Instructions for a teammate come last: [ai-teammate-brief.md](../../templates/ai-teammate-brief.md).
+Where the motion sits on the ladder is [GTM AI maturity](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity). How the chosen job is staged is [AI workflow](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-workflow). How you try to disprove it is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). Which SKU may do the job is [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance). Instructions for a teammate come last: [ai-teammate-brief.md](../../templates/ai-teammate-brief.md).
 
 ## Sources and evidence boundary
 
@@ -159,6 +159,6 @@ Problem-first selection, a full possibility set, payoff × probability versus or
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -43,7 +43,7 @@ Calling does not require a successful email campaign first. It does require a re
 
 ## Do not use this when
 
-The account is outside your intended market, the number is unsupported, or a restriction blocks the contact. Work through [account research](account-research.md) and [contact data](contact-data.md) first.
+The account is outside your intended market, the number is unsupported, or a restriction blocks the contact. Work through [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) and [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data) first.
 
 You want to get around an unanswered email, an explicit rejection, or an opt-out by switching to a more intrusive route. Silence and a stop request are different, but neither creates permission by itself.
 
@@ -103,7 +103,7 @@ Is a colleague already in a conversation with this account? Is it a customer, an
 
 Check the current state. An export prepared yesterday can be stale if a reply arrived this morning.
 
-Then confirm why the route is appropriate. A number that can ring is not proof of current identity or permitted use. Keep the evidence and uncertainties from [contact data](contact-data.md) visible to the caller.
+Then confirm why the route is appropriate. A number that can ring is not proof of current identity or permitted use. Keep the evidence and uncertainties from [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data) visible to the caller.
 
 #### Set the rules before the calling block
 
@@ -782,7 +782,7 @@ Do not disguise a sales meeting as a casual look with no expectations.
 
 Some audiences and offers may fit other routes better. Calling is an option to evaluate, not a test of the rep's courage.
 
-Coordinate through [multichannel sequence](multichannel-sequence.md), including its stop rules, rather than adding attempts independently.
+Coordinate through [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence), including its stop rules, rather than adding attempts independently.
 
 ### Over-researching the opening
 
@@ -804,11 +804,11 @@ Check the data, rules, product knowledge, and follow-through alongside conversat
 
 ## What to read next
 
-Use [contact data](contact-data.md) to evaluate the route and maintain corrections. [Account research](account-research.md) and [buying signals](buying-signals.md) help develop a supported reason for the approach.
+Use [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data) to evaluate the route and maintain corrections. [Account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) and [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) help develop a supported reason for the approach.
 
-The written channel has its own constraints: see [cold email](cold-email.md). Coordinate the overall account workflow with [multichannel sequence](multichannel-sequence.md), and treat [LinkedIn outbound](linkedin-outbound.md) as a separate channel rather than another place to paste the call script.
+The written channel has its own constraints: see [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email). Coordinate the overall account workflow with [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence), and treat [LinkedIn outbound](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/linkedin-outbound) as a separate channel rather than another place to paste the call script.
 
-For an agreed conversation, prepare through [sales enablement](../02-product-marketing/sales-enablement.md) and [demo](../02-product-marketing/demo.md). Teach these habits through [SDR onboarding](sdr-onboarding.md).
+For an agreed conversation, prepare through [sales enablement](../02-product-marketing/sales-enablement.md) and [demo](../02-product-marketing/demo.md). Teach these habits through [SDR onboarding](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-onboarding).
 
 ## Sources and evidence boundary
 
@@ -825,6 +825,6 @@ The earlier edition's general reference to Gong opener research is not used as e
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

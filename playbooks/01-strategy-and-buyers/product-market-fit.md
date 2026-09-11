@@ -30,9 +30,9 @@ A small team can begin with account notes. You do not need a sophisticated dashb
 
 ## Do not use this when
 
-If nobody has attempted the proposed job, begin with [idea validation](idea-validation.md). You can investigate demand before a finished product exists, but hypothetical interest is not the same as evidence from use.
+If nobody has attempted the proposed job, begin with [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation). You can investigate demand before a finished product exists, but hypothetical interest is not the same as evidence from use.
 
-If your immediate problem is finding suitable people to approach, read [first ten customers](first-ten-customers.md). Acquisition and product learning can happen together; you do not have to complete one perfectly before starting the other.
+If your immediate problem is finding suitable people to approach, read [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers). Acquisition and product learning can happen together; you do not have to complete one perfectly before starting the other.
 
 Do not use “we have not found PMF” as a substitute for a specific diagnosis. It does not tell you whether the issue is an irrelevant audience, missing capability, confusing setup, poor reliability, or a price the business cannot support.
 
@@ -234,7 +234,7 @@ Use the findings to form a hypothesis, then look for evidence in subsequent use 
 
 ## A worked review of the early customer evidence
 
-The example below continues the **fictional record-correction scenario** from [ICP](icp.md), [wedge](wedge.md), and [first ten customers](first-ten-customers.md). It is not a real customer case or Ivan's operating data.
+The example below continues the **fictional record-correction scenario** from [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp), [wedge](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/wedge), and [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers). It is not a real customer case or Ivan's operating data.
 
 Account A bought a limited, assisted preparation pilot and used a later batch. Account B already had an adequate internal tool. C was interested but occupied with another project. D required an unsupported deployment arrangement. E's workflow remained uncertain.
 
@@ -500,11 +500,11 @@ Use benchmark comparisons only when the customer type, price, product rhythm, de
 
 ## What to read next
 
-Return to [ICP](icp.md) if the useful pattern belongs to a narrower customer group, or [wedge](wedge.md) if the initial job needs a clearer boundary.
+Return to [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp) if the useful pattern belongs to a narrower customer group, or [wedge](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/wedge) if the initial job needs a clearer boundary.
 
 Use [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) when suitable accounts struggle to start, [customer success](../08-lifecycle-and-customer-marketing/customer-success.md) when value does not persist, and [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) when commercial terms need testing.
 
-Continue to [Four Fits](four-fits.md) to examine how the product, market, channel, and business model work together. A promising product-market relationship is an important part of that picture, not the whole business.
+Continue to [Four Fits](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/four-fits) to examine how the product, market, channel, and business model work together. A promising product-market relationship is an important part of that picture, not the whole business.
 
 ## Sources and evidence boundary
 
@@ -518,6 +518,6 @@ Measurement references, checked September 7, 2026, are [Amplitude's retention do
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

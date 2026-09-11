@@ -21,9 +21,9 @@ Product launches, marketing campaigns, and quarter-end sales work can compete fo
 ## Do not use this when
 
 - The founder still sells the first logos. A company calendar is costume. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need the weekly sales meetings. That is [sales operating cadence](sales-operating-cadence.md).
-- You need next year’s demand vs capacity math. That is [GTM planning](gtm-planning.md).
-- You need the budget and monthly headcount that follow that plan. That is [budget and planning](budget-and-planning.md).
+- You need the weekly sales meetings. That is [sales operating cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence).
+- You need next year’s demand vs capacity math. That is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning).
+- You need the budget and monthly headcount that follow that plan. That is [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning).
 - You need MEDDIC fields. Write them on the opportunity. Do not smuggle a qualification brand into a launch week.
 
 <a id="words-you-will-use"></a>
@@ -109,7 +109,7 @@ The [company-cadence card](../../templates/company-cadence.md) is the artifact. 
 - [ ] SKO, close, and board have dates; quotas do not move after SKO.
 - [ ] One shippable rock is named for the next strike.
 - [ ] The strike sits in month two, not on the close.
-- [ ] Weekly sales meetings still follow [sales operating cadence](sales-operating-cadence.md)—this page did not absorb them.
+- [ ] Weekly sales meetings still follow [sales operating cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence)—this page did not absorb them.
 - [ ] We did not add a COO requisition to avoid writing the dates.
 
 ## Metrics
@@ -132,7 +132,7 @@ Do not count all-hands held, or a keynote that shipped nothing, as cadence.
 
 ## What to read next
 
-The weekly sales clock is [sales operating cadence](sales-operating-cadence.md). Whether the year can close is [GTM planning](gtm-planning.md). The money and monthly headcount that make that year honest are [budget and planning](budget-and-planning.md). The launch as a market event (not the close-week date) is [product launch](../02-product-marketing/product-launch.md). Which assumption you will kill this quarter is [experimentation](experimentation.md). What marketing is allowed to concentrate on is still [content strategy](../03-brand-story-and-content/content-strategy.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). A night that is a table, not a keynote, is [executive dinners](../06-account-field-and-partner/executive-dinners.md).
+The weekly sales clock is [sales operating cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence). Whether the year can close is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). The money and monthly headcount that make that year honest are [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning). The launch as a market event (not the close-week date) is [product launch](../02-product-marketing/product-launch.md). Which assumption you will kill this quarter is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). What marketing is allowed to concentrate on is still [content strategy](../03-brand-story-and-content/content-strategy.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). A night that is a table, not a keynote, is [executive dinners](../06-account-field-and-partner/executive-dinners.md).
 
 ## Sources and evidence boundary
 
@@ -142,6 +142,6 @@ The two-system picture (sales–finance vs product–marketing), quarterly rocks
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

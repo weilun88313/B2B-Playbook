@@ -33,7 +33,7 @@ Start with one decision you need to improve. It is much easier to build a useful
 
 ## Do not use this when
 
-If you need the details of one prospective customer's business, start with [account research](../05-outbound-and-prospecting/account-research.md). If you need to decide how your offer fits a market, use [positioning](positioning.md) alongside this work.
+If you need the details of one prospective customer's business, start with [account research](../05-outbound-and-prospecting/account-research.md). If you need to decide how your offer fits a market, use [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning) alongside this work.
 
 Competitive research cannot determine whether your own product works. It also cannot substitute for learning why customers use it or whether your economics are sustainable.
 
@@ -540,7 +540,7 @@ A higher win rate after introducing cards does not establish that the cards caus
 
 ## What to read next
 
-Use [positioning](positioning.md) to turn the findings into a market decision and [messaging](messaging.md) to express supported differences. Apply them in a conversation through [sales enablement](sales-enablement.md).
+Use [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning) to turn the findings into a market decision and [messaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/messaging) to express supported differences. Apply them in a conversation through [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement).
 
 For public comparisons, continue to the [comparison-page guide](../07-website-and-conversion/comparison-page.md). For how those pages are discovered, see [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md).
 
@@ -556,6 +556,6 @@ GitLab's dated Field Flash documents the creation and distribution of competitiv
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

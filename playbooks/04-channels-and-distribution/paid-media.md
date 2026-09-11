@@ -788,15 +788,15 @@ Do not keep spending only to avoid admitting that the first idea did not work. D
 
 ## What to read next
 
-Use [Channel strategy](channel-strategy.md) to compare paid distribution with other routes. [LinkedIn organic](linkedin-organic.md) and [SEO & AEO](seo-and-aeo.md) cover unpaid work that can support or overlap with advertising.
+Use [Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) to compare paid distribution with other routes. [LinkedIn organic](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/linkedin-organic) and [SEO & AEO](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/seo-and-aeo) cover unpaid work that can support or overlap with advertising.
 
 For the destination, read [Homepage](../07-website-and-conversion/homepage.md), [Pricing page](../07-website-and-conversion/pricing-page.md), [Comparison page](../07-website-and-conversion/comparison-page.md), and [Demo request](../07-website-and-conversion/demo-request.md).
 
-[Content syndication](content-syndication.md) covers publisher-delivered content and records. [Lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) helps distinguish an appropriate follow-up program from repeated advertising.
+[Content syndication](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-syndication) covers publisher-delivered content and records. [Lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) helps distinguish an appropriate follow-up program from repeated advertising.
 
 [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md) provide the deeper measurement and comparison methods.
 
-Paid search, paid social, and retargeting remain planned as dedicated execution pages in the [chapter guide](README.md). This article supplies the shared decision process without claiming those deeper pages are already written.
+Paid search, paid social, and retargeting remain planned as dedicated execution pages in the [chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution). This article supplies the shared decision process without claiming those deeper pages are already written.
 
 ## Sources and evidence boundary
 
@@ -814,6 +814,6 @@ The operating method, conversations, templates, and worked example are original 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

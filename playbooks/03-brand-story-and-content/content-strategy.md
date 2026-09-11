@@ -579,7 +579,7 @@ Leave time to inspect the reading experience and maintain the result. A content 
 
 ## What to read next
 
-Use [Founder story](founder-story.md) for a perspective grounded in actual experience, [Case study](case-study.md) for an approved customer's context and outcome, and [White paper](white-paper.md) for a longer sourced argument.
+Use [Founder story](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/founder-story) for a perspective grounded in actual experience, [Case study](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/case-study) for an approved customer's context and outcome, and [White paper](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/white-paper) for a longer sourced argument.
 
 Keep product explanations consistent with [Messaging](../02-product-marketing/messaging.md) and [Sales enablement](../02-product-marketing/sales-enablement.md). Use [Comparison page](../07-website-and-conversion/comparison-page.md) when a fair comparison is the specific task.
 
@@ -600,6 +600,6 @@ Only the publicly available material was consulted. Paid generators, templates, 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

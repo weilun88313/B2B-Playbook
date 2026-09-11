@@ -374,7 +374,7 @@ If an evaluation or migration service is paid, state what the payment covers and
 
 A discount can address a budget constraint or overlap cost. It does not provide an unavailable engineer, make an unsupported integration work, or establish that the new routine is worthwhile.
 
-Do not conceal a broader recurring commitment inside a small-looking pilot. Equally, do not promise open-ended assistance without considering delivery capacity. Work from the actual [pricing and packaging](pricing-and-packaging.md), with appropriate review of consequential terms.
+Do not conceal a broader recurring commitment inside a small-looking pilot. Equally, do not promise open-ended assistance without considering delivery capacity. Work from the actual [pricing and packaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging), with appropriate review of consequential terms.
 
 <Accordion title="What if the customer wants to wait until the existing contract ends?">
 
@@ -526,7 +526,7 @@ Do not label every onboarding delay a sales qualification failure. Capacity can 
 
 ## What to read next
 
-Use [Demo](demo.md) to make the proposed work inspectable before asking for commitment. Use [Buying committee](../01-strategy-and-buyers/buying-committee.md) to understand who can approve the necessary steps, and [Pricing and packaging](pricing-and-packaging.md) to make the commercial commitment clear.
+Use [Demo](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/demo) to make the proposed work inspectable before asking for commitment. Use [Buying committee](../01-strategy-and-buyers/buying-committee.md) to understand who can approve the necessary steps, and [Pricing and packaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging) to make the commercial commitment clear.
 
 Continue with [Customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) for delivery and first-use support. If a partner carries part of the transition, use [Ecosystem](../06-account-field-and-partner/ecosystem.md) to clarify the joint responsibilities rather than assuming a partner logo means implementation is covered.
 
@@ -544,6 +544,6 @@ The operational suggestions around these examples are editorial reasoning, not r
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

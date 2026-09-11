@@ -21,7 +21,7 @@ New customers should know who to contact, what happens next, and what they need 
 ## Do not use this when
 
 - There is no signed customer. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You still mix education and implementation in one job. Split that in [customer onboarding](customer-onboarding.md) first.
+- You still mix education and implementation in one job. Split that in [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding) first.
 - The product is truly self-serve and the only job is in-app empty states. Do not invent a professional-services packet. Lifecycle email (still planned) can wait until the states exist.
 
 <a id="one-rule"></a>
@@ -61,7 +61,7 @@ If a fifth section is a brand story, put it last or cut it. The packet is a path
 
 ### Step 3: Use the packet during kickoff
 
-Before you talk: confirm the people who must be there (including IT if migration is real). On the call: introductions with roles and locations; timeline and intake due date; where help lives; their current process and the outcome they bought; next steps dated. Walk the [order form](customer-onboarding.md) as onboarding already requires. The agenda is a memory aid. The CRM still holds what sales knew.
+Before you talk: confirm the people who must be there (including IT if migration is real). On the call: introductions with roles and locations; timeline and intake due date; where help lives; their current process and the outcome they bought; next steps dated. Walk the [order form](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding) as onboarding already requires. The agenda is a memory aid. The CRM still holds what sales knew.
 
 <a id="step-4-when-onboarding-ends-hand-off-in-writingto-the-customer-and-to-the-book"></a>
 
@@ -93,7 +93,7 @@ Sales-assist ops tool. Six-week assisted onboarding. Not a HubSpot import guide.
 - Customer-facing handoff: new owner, scope, support path:
 - Internal handoff note: contacts · decision-maker · goals hit · leftover work:
 
-Working file: [onboarding-welcome.md](../../templates/onboarding-welcome.md). The journey and clocks stay in [customer onboarding](customer-onboarding.md).
+Working file: [onboarding-welcome.md](../../templates/onboarding-welcome.md). The journey and clocks stay in [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding).
 
 <a id="pre-flight-checklist"></a>
 
@@ -130,7 +130,7 @@ Do not count packets designed, or resemblance to a Pavilion welcome template, as
 
 ## What to read next
 
-The work those messages sit on is [customer onboarding](customer-onboarding.md). Who owns the book after handoff is [customer success](customer-success.md). A new CS leader’s first 90 days are [CS-leadership ramp](cs-leadership-ramp.md). Named-account depth is [account planning](../06-account-field-and-partner/account-planning.md).
+The work those messages sit on is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding). Who owns the book after handoff is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). A new CS leader’s first 90 days are [CS-leadership ramp](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp). Named-account depth is [account planning](../06-account-field-and-partner/account-planning.md).
 
 ## Sources and evidence boundary
 
@@ -140,6 +140,6 @@ Automation versus per-logo work, a four-part packet (people, intake, timeline wi
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

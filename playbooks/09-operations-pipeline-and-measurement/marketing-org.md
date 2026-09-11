@@ -20,8 +20,8 @@ Choose marketing roles around the work the company needs now. A first hire may n
 ## Do not use this when
 
 - There is no ICP and no motion. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md).
-- You need next year’s demand vs capacity math. That is [GTM planning](gtm-planning.md). Headcount dollars are [budget and planning](budget-and-planning.md).
-- You need the weekly sales clock. That is [sales operating cadence](sales-operating-cadence.md).
+- You need next year’s demand vs capacity math. That is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Headcount dollars are [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning).
+- You need the weekly sales clock. That is [sales operating cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence).
 - The request is a JD, a hiring scorecard, or a copy of someone else’s org chart.
 
 <a id="words-you-will-use"></a>
@@ -73,7 +73,7 @@ Do not hire three growth people and a contractor for “some blogs.” Do not hi
 
 ### Step 3: Keep leadership close to execution
 
-The Head of Marketing still produces until the team is well past a small squad (Kramer’s 2024 guide: still an IC until the team is well over ~20). Around a handful of people, a **producer**—campaigns, program management, mileage, feedback into the three crafts—reports to the Head, not into one silo. That is how fuel and engine stay married. [Company cadence](company-cadence.md) and [content strategy](../03-brand-story-and-content/content-strategy.md) still set the calendar; producers run it.
+The Head of Marketing still produces until the team is well past a small squad (Kramer’s 2024 guide: still an IC until the team is well over ~20). Around a handful of people, a **producer**—campaigns, program management, mileage, feedback into the three crafts—reports to the Head, not into one silo. That is how fuel and engine stay married. [Company cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/company-cadence) and [content strategy](../03-brand-story-and-content/content-strategy.md) still set the calendar; producers run it.
 
 Past ~15, put leads on sub-functions so the Head is not twenty directs. Past ~20, process and handoffs matter more than another specialist; re-org if events, ecosystem, or lifecycle no longer fit the original three boxes. Do not copy a 25-person chart at headcount four.
 
@@ -150,7 +150,7 @@ Do not count org-chart revisions, open reqs, or agency retainers as an operating
 
 ## What to read next
 
-What they will spend is [budget and planning](budget-and-planning.md). Whether the year is possible is [GTM planning](gtm-planning.md). What they will ship is [content strategy](../03-brand-story-and-content/content-strategy.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). Launches they must own are [product launch](../02-product-marketing/product-launch.md). The quarterly calendar is [company cadence](company-cadence.md).
+What they will spend is [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning). Whether the year is possible is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). What they will ship is [content strategy](../03-brand-story-and-content/content-strategy.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). Launches they must own are [product launch](../02-product-marketing/product-launch.md). The quarterly calendar is [company cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/company-cadence).
 
 ## Sources and evidence boundary
 
@@ -160,6 +160,6 @@ This is an owner-maintained operating synthesis. It is not a compensation band, 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

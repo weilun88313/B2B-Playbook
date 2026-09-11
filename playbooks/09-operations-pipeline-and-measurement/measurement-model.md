@@ -20,9 +20,9 @@ Analytics can show a recorded click path, while buyers may tell you a different 
 
 ## Do not use this when
 
-- Lifecycle words are undefined. You will measure noise. Write shared stages first (still planned) or at least the [lead-scoring](lead-scoring.md) actions.
-- You need a test design. That is [experimentation](experimentation.md).
-- You need next year’s capacity math. That is [GTM planning](gtm-planning.md).
+- Lifecycle words are undefined. You will measure noise. Write shared stages first (still planned) or at least the [lead-scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring) actions.
+- You need a test design. That is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation).
+- You need next year’s capacity math. That is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning).
 - The request is to implement a vendor’s multi-touch model as the source of truth.
 
 <a id="words-you-will-use"></a>
@@ -81,7 +81,7 @@ Hybrid means: *software says X, buyers say Y, here is what we will fund anyway.*
 
 ### Step 5: Use experiments for causal questions
 
-“Does this channel work?” on a small, new buy is [experimentation](experimentation.md): hypothesis, kill date, decision. Multi-touch models will not save a campaign that never defined the job. Incrementality tests and holdouts beat another attribution schema when the spend is large enough to justify them.
+“Does this channel work?” on a small, new buy is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation): hypothesis, kill date, decision. Multi-touch models will not save a campaign that never defined the job. Incrementality tests and holdouts beat another attribution schema when the spend is large enough to justify them.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -144,7 +144,7 @@ The model *is* a metric policy. Use this table as the refuse list:
 
 ## What to read next
 
-The form that collects SRA is [demo request](../07-website-and-conversion/demo-request.md). The buys that need two scoreboards are [paid media](../04-channels-and-distribution/paid-media.md) and [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md). Tests that can change the plan are [experimentation](experimentation.md). Whether next year’s number is possible is [GTM planning](gtm-planning.md). Person-level routing stays [lead scoring](lead-scoring.md). Funnel and pipeline *shapes* are still planned; do not fake them with this card.
+The form that collects SRA is [demo request](../07-website-and-conversion/demo-request.md). The buys that need two scoreboards are [paid media](../04-channels-and-distribution/paid-media.md) and [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md). Tests that can change the plan are [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). Whether next year’s number is possible is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Person-level routing stays [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). Funnel and pipeline *shapes* are still planned; do not fake them with this card.
 
 ## Sources and evidence boundary
 
@@ -157,6 +157,6 @@ This is an owner-maintained operating synthesis.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -34,9 +34,9 @@ The goal is not to make every sentence identical. It is to make the experience c
 
 ## Do not use this when
 
-If the team cannot agree on what is currently available or which problem it is trying to solve, return to [positioning](positioning.md). You can draft messages while investigating those questions, but mark the assumptions. Attractive copy will not settle an unresolved product decision.
+If the team cannot agree on what is currently available or which problem it is trying to solve, return to [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning). You can draft messages while investigating those questions, but mark the assumptions. Attractive copy will not settle an unresolved product decision.
 
-If you need a full meeting structure, use [sales enablement](sales-enablement.md). If you need a publishing plan, use [content strategy](../03-brand-story-and-content/content-strategy.md). Both can use the messages developed here.
+If you need a full meeting structure, use [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement). If you need a publishing plan, use [content strategy](../03-brand-story-and-content/content-strategy.md). Both can use the messages developed here.
 
 Brand voice matters too. It helps people recognize how you speak and how you treat them. It should develop alongside an accurate description of the offer, rather than becoming a reason to postpone one.
 
@@ -521,11 +521,11 @@ Feedback from sales and support should be specific. “Buyers hate the messaging
 
 ## What to read next
 
-Apply the brief to the [homepage](../07-website-and-conversion/homepage.md) and the first meeting through [sales enablement](sales-enablement.md). Keep comparisons grounded with [competitive intelligence](competitive-intelligence.md) and the [comparison-page guide](../07-website-and-conversion/comparison-page.md).
+Apply the brief to the [homepage](../07-website-and-conversion/homepage.md) and the first meeting through [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement). Keep comparisons grounded with [competitive intelligence](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/competitive-intelligence) and the [comparison-page guide](../07-website-and-conversion/comparison-page.md).
 
-Use [content strategy](../03-brand-story-and-content/content-strategy.md) to decide which questions deserve ongoing coverage. For a coordinated announcement, continue to [product launch](product-launch.md); for the founder's personal narrative, see [founder story](../03-brand-story-and-content/founder-story.md).
+Use [content strategy](../03-brand-story-and-content/content-strategy.md) to decide which questions deserve ongoing coverage. For a coordinated announcement, continue to [product launch](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/product-launch); for the founder's personal narrative, see [founder story](../03-brand-story-and-content/founder-story.md).
 
-If the same misunderstanding returns across several drafts, revisit [positioning](positioning.md). The message may be exposing an unresolved decision about the offer.
+If the same misunderstanding returns across several drafts, revisit [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning). The message may be exposing an unresolved decision about the offer.
 
 ## Sources and evidence boundary
 
@@ -537,6 +537,6 @@ Mailchimp and Microsoft provide public editorial guidance, linked where discusse
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

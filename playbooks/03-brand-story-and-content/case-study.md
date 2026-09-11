@@ -580,9 +580,9 @@ Retire or update a story when it becomes inaccurate, misleading, or outside its 
 
 ## What to read next
 
-Continue to [White Paper](white-paper.md) when the task is to develop a sourced argument across evidence rather than tell one customer's story.
+Continue to [White Paper](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/white-paper) when the task is to develop a sourced argument across evidence rather than tell one customer's story.
 
-Use [content strategy](content-strategy.md) to decide which questions deserve a case study, [sales enablement](../02-product-marketing/sales-enablement.md) to help teams use it accurately, and [demo](../02-product-marketing/demo.md) when a reader needs to inspect the workflow directly.
+Use [content strategy](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/content-strategy) to decide which questions deserve a case study, [sales enablement](../02-product-marketing/sales-enablement.md) to help teams use it accurately, and [demo](../02-product-marketing/demo.md) when a reader needs to inspect the workflow directly.
 
 For the customer relationship after the sale, read [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md) and [customer success](../08-lifecycle-and-customer-marketing/customer-success.md). A request for publicity should fit that relationship, not replace work still needed to make the customer successful.
 
@@ -598,6 +598,6 @@ Sources were checked on September 8, 2026. Neither the real-company examples nor
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

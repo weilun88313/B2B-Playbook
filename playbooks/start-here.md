@@ -13,9 +13,9 @@ The examples are fictional teaching examples, not customer results or recommende
 
 Use this path when you have a product idea but need to decide which buyers to approach first.
 
-1. Read the [ICP field test](01-strategy-and-buyers/icp.md#10-minute-field-test). Write down the business problem, the person responsible, and what they do today.
+1. Read the [ICP field test](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp#10-minute-field-test). Write down the business problem, the person responsible, and what they do today.
 2. Make a private copy of the [wedge card](../templates/wedge.md). Choose one audience and one use case; name the alternatives and the boundaries of the test.
-3. Use [first ten customers](01-strategy-and-buyers/first-ten-customers.md) to plan conversations that can challenge those assumptions. Record what people actually say separately from your interpretation.
+3. Use [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers) to plan conversations that can challenge those assumptions. Record what people actually say separately from your interpretation.
 
 **Example wedge card:** A fictional software team explores appointment coordination for independent repair shops.
 
@@ -34,9 +34,9 @@ Use this path when you have a product idea but need to decide which buyers to ap
 
 Use this path when you know the intended buyer and need a small, explainable outreach plan.
 
-1. Read [account research](05-outbound-and-prospecting/account-research.md). Record why each account fits and which facts support the proposed message.
+1. Read [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research). Record why each account fits and which facts support the proposed message.
 2. Fill a private copy of the [message-market-fit card](../templates/message-market-fit.md). Define the offer, the reason to respond, and what you need to learn.
-3. Choose [cold email](05-outbound-and-prospecting/cold-email.md) or [LinkedIn outbound](05-outbound-and-prospecting/linkedin-outbound.md). Use one suitable route first; add a [multichannel sequence](05-outbound-and-prospecting/multichannel-sequence.md) only when the extra step has a purpose.
+3. Choose [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) or [LinkedIn outbound](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/linkedin-outbound). Use one suitable route first; add a [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence) only when the extra step has a purpose.
 
 **Example outreach brief:** The same fictional repair-shop team prepares a message after a manager has described coordination problems in a discovery conversation.
 
@@ -54,8 +54,8 @@ Use this path when you know the intended buyer and need a small, explainable out
 
 Use this path when deciding how an event should contribute to specific account conversations.
 
-1. Read [event marketing](06-account-field-and-partner/event-marketing.md). State the audience, account objective, effort, and decision that would justify attending.
-2. Use [trade shows](06-account-field-and-partner/trade-shows.md) to plan qualification questions, roles, and follow-up before the event.
+1. Read [event marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/event-marketing). State the audience, account objective, effort, and decision that would justify attending.
+2. Use [trade shows](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows) to plan qualification questions, roles, and follow-up before the event.
 3. Make a private copy of the [show capture sheet](../templates/show-capture.md). Record the business context and agreed next action for each conversation.
 
 **Example capture record:** A fictional team meets a service-operations manager at an industry event.
@@ -75,6 +75,6 @@ Use this path when deciding how an event should contribute to specific account c
 
 If a step is unclear, [open an issue](https://github.com/weilun88313/B2B-Playbook/issues/new) with the page, task, point where you got stuck, and what you expected. If a template helped, describe the decision or output it supported. Remove customer names, contact details, and confidential working data before sharing.
 
-[Browse all playbooks](README.md) · [Choose another working file](../TEMPLATES.md)
+[Browse all playbooks](https://b2-b-playbook.mintlify.app/playbooks) · [Choose another working file](../TEMPLATES.md)
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).

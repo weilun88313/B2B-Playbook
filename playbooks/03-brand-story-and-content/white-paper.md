@@ -37,7 +37,7 @@ A founder with a small evidence base can write a narrowly scoped technical or an
 
 The reader only needs a short answer, a product specification, or a straightforward implementation instruction. Those are worthwhile documents. They do not become more useful because the cover says “white paper.”
 
-If your only material is one customer's experience, a [case study](case-study.md) may be the clearest format. You can include a customer example within a broader paper, but that example does not by itself establish an industry-wide conclusion.
+If your only material is one customer's experience, a [case study](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/case-study) may be the clearest format. You can include a customer example within a broader paper, but that example does not by itself establish an industry-wide conclusion.
 
 If the central claim has already been chosen and nobody is allowed to question it, the research process is in trouble. You can write a clearly labeled product argument, but do not present predetermined advocacy as independent research.
 
@@ -371,7 +371,7 @@ They can personalize the introduction to a reader's situation. They should not p
 
 If the paper explains evaluation criteria, connect it to a sample workflow, technical documentation, or an appropriate conversation. A demo may be a reasonable next step for someone ready to inspect the product. It is not automatically the right ending for every reader.
 
-Use [content strategy](content-strategy.md) to decide the paper's role alongside shorter explanations, product pages, and [case studies](case-study.md). There is no fixed rule that education must always come after comparison content.
+Use [content strategy](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/content-strategy) to decide the paper's role alongside shorter explanations, product pages, and [case studies](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/case-study). There is no fixed rule that education must always come after comparison content.
 
 #### Plan for the second edition
 
@@ -669,7 +669,7 @@ Do not respond to weak readership by immediately commissioning a larger report. 
 
 ## What to read next
 
-Use [content strategy](content-strategy.md) to decide where the paper belongs, and [case study](case-study.md) when you need to document one customer's experience.
+Use [content strategy](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/content-strategy) to decide where the paper belongs, and [case study](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/case-study) when you need to document one customer's experience.
 
 For distribution, continue with [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md). Use [forms and chat](../07-website-and-conversion/forms-and-chat.md) to design an access or follow-up experience, and [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md) for the communication that follows a genuine expression of interest.
 
@@ -687,6 +687,6 @@ Sources were checked on September 8, 2026. No paid research template, source dat
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

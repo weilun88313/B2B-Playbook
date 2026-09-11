@@ -405,7 +405,7 @@ Before the future action, check whether the account state or restrictions change
 
 A bounced email is a route problem, not proof that LinkedIn is now appropriate. A silent LinkedIn thread does not automatically justify a call.
 
-If another channel is part of an approved account plan, coordinate it through [multichannel sequence](multichannel-sequence.md). Make sure the next person can see prior messages, replies, and stops.
+If another channel is part of an approved account plan, coordinate it through [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence). Make sure the next person can see prior messages, replies, and stops.
 
 Avoid simultaneous versions of the same pitch from several colleagues. The recipient experiences one company, even when your tools report separate channels.
 
@@ -845,11 +845,11 @@ People may enjoy the idea without needing the product. Preserve that distinction
 
 ## What to read next
 
-Use [account research](account-research.md) and [buying signals](buying-signals.md) to build a supported reason for the approach. [Message-market fit](message-market-fit.md) helps diagnose whether the offer is understood and relevant.
+Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) and [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) to build a supported reason for the approach. [Message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit) helps diagnose whether the offer is understood and relevant.
 
-For another channel, read [cold email](cold-email.md) or [cold call](cold-call.md), and coordinate the account through [multichannel sequence](multichannel-sequence.md).
+For another channel, read [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) or [cold call](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-call), and coordinate the account through [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence).
 
-[Contact data](contact-data.md) covers source quality, corrections, and restrictions. [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md) covers the separate work of publishing and participating publicly.
+[Contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data) covers source quality, corrections, and restrictions. [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md) covers the separate work of publishing and participating publicly.
 
 ## Sources and evidence boundary
 
@@ -867,6 +867,6 @@ The earlier edition's general attribution to 30MPC social sequences is not used 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

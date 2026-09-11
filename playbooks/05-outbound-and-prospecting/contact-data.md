@@ -41,9 +41,9 @@ You have recurring problems with duplicate outreach, reappearing opt-outs, or co
 
 ## Do not use this when
 
-You have not decided which accounts are relevant. Start with [account research](account-research.md); collecting names does not establish a reason to approach a business.
+You have not decided which accounts are relevant. Start with [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research); collecting names does not establish a reason to approach a business.
 
-You need to write the first email or conduct the call. Use [cold email](cold-email.md) and [cold call](cold-call.md). A clean record supports those tasks but does not replace preparation.
+You need to write the first email or conduct the call. Use [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) and [cold call](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-call). A clean record supports those tasks but does not replace preparation.
 
 You want to discover private contact details, bypass a person's preferred route, evade a platform restriction, or reach someone through another channel after a broad request to stop. Those are not data-quality improvements.
 
@@ -620,7 +620,7 @@ When someone asks “Is this safe to use?”, clarify the intended action instea
 
 A personal mobile is not a remedy for an irrelevant pitch. More addresses do not create a reason for the person to engage.
 
-Return to the account hypothesis and [message-market fit](message-market-fit.md) when appropriate.
+Return to the account hypothesis and [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit) when appropriate.
 
 ### Re-enriching restrictions away
 
@@ -648,11 +648,11 @@ In a small team, one person can cover several responsibilities. The important po
 
 ## What to read next
 
-Use [account research](account-research.md) to decide which company and work problem justify attention. [Buying signals](buying-signals.md) helps distinguish a useful change from a weak inference.
+Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) to decide which company and work problem justify attention. [Buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) helps distinguish a useful change from a weak inference.
 
-When the account, person, route, and intended use are ready, move to [cold email](cold-email.md) or [cold call](cold-call.md). [Multichannel sequence](multichannel-sequence.md) explains how to coordinate actions and stops across channels.
+When the account, person, route, and intended use are ready, move to [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) or [cold call](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-call). [Multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence) explains how to coordinate actions and stops across channels.
 
-[SDR onboarding](sdr-onboarding.md) helps teach the review and correction habits to a new teammate. Browse [tools](../../TOOLS.md) only after defining the data task and the test a provider must pass.
+[SDR onboarding](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-onboarding) helps teach the review and correction habits to a new teammate. Browse [tools](../../TOOLS.md) only after defining the data task and the test a provider must pass.
 
 ## Sources and evidence boundary
 
@@ -669,6 +669,6 @@ The earlier phone-focused edition cited an Outbound Kitchen mobile-data benchmar
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

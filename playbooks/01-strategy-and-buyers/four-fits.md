@@ -29,11 +29,11 @@ You can use it early. A hypothesis about the whole path can expose a costly assu
 
 ## Do not use this when
 
-If the customer problem itself is unclear, return to [idea discovery](idea-discovery.md) and [idea validation](idea-validation.md). This framework does not prove demand because four sentences sound coherent.
+If the customer problem itself is unclear, return to [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery) and [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation). This framework does not prove demand because four sentences sound coherent.
 
 If you need a channel execution plan or a pricing page, continue to [channel strategy](../04-channels-and-distribution/channel-strategy.md) or [pricing and packaging](../02-product-marketing/pricing-and-packaging.md). This article helps decide which assumptions those plans must address.
 
-You do not need to declare [product-market fit](product-market-fit.md) complete before considering distribution or economics. Investigate them together while distinguishing evidence from guesses.
+You do not need to declare [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) complete before considering distribution or economics. Investigate them together while distinguishing evidence from guesses.
 
 <a id="words-you-will-use"></a>
 
@@ -259,7 +259,7 @@ This continues the **fictional request-preparation scenario** from the earlier c
 
 Account A bought a bounded assisted pilot and used a later batch. The work prepares one supported type of correction request for engineering review. It does not execute production changes.
 
-The [PMF review](product-market-fit.md) revealed an important detail: the customer valued the founder's help gathering missing information, not only the packet software. Another account already had an adequate form, and an enterprise prospect required an unsupported deployment arrangement.
+The [PMF review](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) revealed an important detail: the customer valued the founder's help gathering missing information, not only the packet software. Another account already had an adequate form, and an enterprise prospect required an unsupported deployment arrangement.
 
 The founder is considering three routes:
 
@@ -509,7 +509,7 @@ Separate channel attribution from a causal claim. A customer can encounter sever
 
 ## What to read next
 
-Use [product-market fit](product-market-fit.md) to examine customer-value evidence, [positioning](../02-product-marketing/positioning.md) to make the offer understandable, and [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) to test the commercial structure.
+Use [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) to examine customer-value evidence, [positioning](../02-product-marketing/positioning.md) to make the offer understandable, and [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) to test the commercial structure.
 
 Continue to [channel strategy](../04-channels-and-distribution/channel-strategy.md) when selecting and testing acquisition paths. Use [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) to connect the resulting assumptions with targets, resources, and capacity.
 
@@ -525,6 +525,6 @@ The workflow story, conversations, economic calculations, and review cards are o
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

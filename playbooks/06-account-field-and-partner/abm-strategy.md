@@ -22,7 +22,7 @@ Account-based marketing puts extra effort into a selected group of companies. Ch
 
 - ICP is empty. Stay in [ICP](../01-strategy-and-buyers/icp.md).
 - You do not yet have ~10 matching customers. Handmade rings are [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need the 30/60/90 for one logo. That is [account planning](account-planning.md).
+- You need the 30/60/90 for one logo. That is [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning).
 - The motion is unnamed. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) first.
 - You want papering and procurement. Outside this taxonomy.
 - You want 1:1 creative on the entire GTM TAM. That is not ABM; map and signal the universe, then **cut** to capacity.
@@ -75,7 +75,7 @@ Fit still comes from [ICP](../01-strategy-and-buyers/icp.md). Intent and relatio
 
 | Tier | What it is | Default resources | Stop if |
 |---|---|---|---|
-| **T1 · 1:1** | One account, one [account plan](account-planning.md) | Named AE/CS + marketing hours + optional [dinner](executive-dinners.md) or custom proof | No plan file, or the list exceeds capacity |
+| **T1 · 1:1** | One account, one [account plan](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning) | Named AE/CS + marketing hours + optional [dinner](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners) or custom proof | No plan file, or the list exceeds capacity |
 | **T2 · 1:few** | 5–15 accounts, one shared problem | One asset, one table or [peer](../04-channels-and-distribution/community.md) cut, shared sequence | The cluster is just “same industry” |
 | **T3 · 1:many** | Everyone else who passes ICP | [Outbound](../05-outbound-and-prospecting/) / [content](../03-brand-story-and-content/content-strategy.md) / [paid](../04-channels-and-distribution/paid-media.md) | You relabel this “ABM” to sound strategic |
 
@@ -89,8 +89,8 @@ ABM does not invent channels. It **concentrates** them:
 
 - Outbound sentences still need [message-market fit](../05-outbound-and-prospecting/message-market-fit.md).
 - Proof is a [case study](../03-brand-story-and-content/case-study.md) or comparison URL, not a new brand.
-- Field is a [dinner](executive-dinners.md) or [show](trade-shows.md) aimed at named seats.
-- Partners sit in [ecosystem](ecosystem.md).
+- Field is a [dinner](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners) or [show](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows) aimed at named seats.
+- Partners sit in [ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem).
 
 A “personalized ebook” that no champion would forward is not a play.
 
@@ -141,7 +141,7 @@ Working file: [abm-strategy.md](../../templates/abm-strategy.md).
 - [ ] GTM TAM is in the CRM as accounts (and contacts), not only a TAM slide.
 - [ ] A short signal list exists; inbound is not the only front door.
 - [ ] T1 count ≤ plans we will actually keep alive.
-- [ ] Every T1 has or will get an [account plan](account-planning.md).
+- [ ] Every T1 has or will get an [account plan](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning).
 - [ ] T2 shares a problem, not only a vertical.
 - [ ] T3 is not branded as ABM.
 - [ ] Scoreboard is account progression, not MQLs.
@@ -167,23 +167,23 @@ Do not treat ABM-influenced pipeline, ad engagement on account lists, or “acco
 - Buying orchestration to postpone the plan file.
 - Personalized assets nobody sends.
 - Measuring MQLs from a tier-3 form.
-- Skipping [account planning](account-planning.md) and running “plays” into a void.
+- Skipping [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning) and running “plays” into a void.
 
 ## What to read next
 
-The file for one T1 logo is [account planning](account-planning.md). A small table is [executive dinners](executive-dinners.md). Partners already in the building are [ecosystem](ecosystem.md). Person-level work inside the program is [outbound](../05-outbound-and-prospecting/). After they buy, the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md); expansion is [expansion marketing](../08-lifecycle-and-customer-marketing/expansion-marketing.md). One-to-one and one-to-few execution pages remain planned.
+The file for one T1 logo is [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning). A small table is [executive dinners](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners). Partners already in the building are [ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem). Person-level work inside the program is [outbound](../05-outbound-and-prospecting/). After they buy, the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md); expansion is [expansion marketing](../08-lifecycle-and-customer-marketing/expansion-marketing.md). One-to-one and one-to-few execution pages remain planned.
 
 ## Sources and evidence boundary
 
 This is an owner-maintained operating synthesis.
 
 - **Treat selected accounts as the market; coordinate marketing and sales; measure the account.** Public ITSMA / Bev Burgess account-based marketing definition, stated as a **method**, not as a membership or a book you must buy. Vendor orchestration guides (including Demandbase, already cited on the master index) are **not** this page’s operating system.
-- Capacity-before-list and “T3 is not ABM” are this library’s judgments, paired with [account planning](account-planning.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+- Capacity-before-list and “T3 is not ABM” are this library’s judgments, paired with [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning) and [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 - Account-driven GTM as the **foundation** (TAM and ICP in the CRM, account + contact, signals, inbound as one signal not the only door; not “ABM the whole TAM”; not a substitute for brand) draws on Emily Kramer ([MKT1, 2025-02-12](https://newsletter.mkt1.co/p/account-driven-gtm-part-1?ref=b2b-playbook) and [2025-02-27](https://newsletter.mkt1.co/p/account-driven-gtm-part-2?ref=b2b-playbook)). The paid 50+ tool list and 50+ campaign-idea sheet are not reproduced here. GTM TAM vs pitch TAM is the same split as [wedge](../01-strategy-and-buyers/wedge.md).
 - This page is not a license to scrape account data or to ignore consent.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

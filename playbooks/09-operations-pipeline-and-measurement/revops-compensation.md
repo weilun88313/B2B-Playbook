@@ -20,8 +20,8 @@ Revenue operations roles support many teams, so their incentives should reflect 
 
 ## Do not use this when
 
-- There is no RevOps job yet—only a founder and a spreadsheet. Stay in [CRM data model](crm-data-model.md) and [forecasting](forecasting.md).
-- You need seller clawbacks and draws. That is [incentive timing](incentive-timing.md).
+- There is no RevOps job yet—only a founder and a spreadsheet. Stay in [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model) and [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
+- You need seller clawbacks and draws. That is [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing).
 - People/HR or a works council must set the band. This page will not.
 
 <a id="words-you-will-use"></a>
@@ -56,7 +56,7 @@ Examples that work:
 - Forecast call and CRM match within a defined variance by the weekly deadline.
 - New AEs reach a defined hygiene and activity bar in *n* days (time-to-ramp you can audit).
 - Required fields and stages stay at a published completeness; routing meets the SLA.
-- Incentive calc from [sales compensation](sales-compensation.md) / [incentive timing](incentive-timing.md) pays on time with a dispute cap.
+- Incentive calc from [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation) / [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing) pays on time with a dispute cap.
 
 If you cannot finish the sentence, you are hiring a helper, not designing pay.
 
@@ -68,7 +68,7 @@ Useful families (pick what this year actually needs):
 
 - **Predictability:** forecast accuracy / variance vs the published call—not a secret model.
 - **Ramp:** time-to-first-full-quota-behavior for a defined role, with a denominator (hires in the window).
-- **Adoption:** the team lives in the objects [MarTech governance](martech-governance.md) allowed; shelfware does not count.
+- **Adoption:** the team lives in the objects [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance) allowed; shelfware does not count.
 - **Hygiene / SLA:** stale commit, routing time, credit disputes closed in *n* days.
 - **Enablement of the plan:** paydays correct; clawback windows visible. That is administration quality, not a SPIF.
 
@@ -134,7 +134,7 @@ First RevOps manager, sales-assist, eight AEs. Not a survey band.
 - [ ] Discretion is not the main variable.
 - [ ] Cadence is published; mid-year weight changes need a named reason.
 - [ ] They can see progress before payday.
-- [ ] Seller clawbacks/draws are not this person’s *pay plan*; they may *administer* [incentive timing](incentive-timing.md).
+- [ ] Seller clawbacks/draws are not this person’s *pay plan*; they may *administer* [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing).
 - [ ] Counsel / People has seen the document if required.
 
 ## Metrics
@@ -161,7 +161,7 @@ Do not count “we added variable,” or resemblance to an AE OTE, as a modern o
 
 ## What to read next
 
-Sellers still need [sales compensation](sales-compensation.md) and [incentive timing](incentive-timing.md). The system they run is [forecasting](forecasting.md), [CRM data model](crm-data-model.md), and [sales operating cadence](sales-operating-cadence.md). Tools they may buy sit in [MarTech governance](martech-governance.md).
+Sellers still need [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation) and [incentive timing](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/incentive-timing). The system they run is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting), [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model), and [sales operating cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-operating-cadence). Tools they may buy sit in [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance).
 
 ## Sources and evidence boundary
 
@@ -171,6 +171,6 @@ Paying ops for controllable, documented outcomes (MBOs, predictable cadence, les
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

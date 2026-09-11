@@ -376,7 +376,7 @@ When timing is unclear, record what would make it clearer: a stated evaluation, 
 
 Set a sensible review point if there is something real to revisit. “Check after the announced service launch” is more useful than “follow up forever until they reply.”
 
-The separate [Buying signals](buying-signals.md) guide covers signal-led work. Treat fixed windows or scores as operating hypotheses to validate, not evidence of a specific account's readiness.
+The separate [Buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) guide covers signal-led work. Treat fixed windows or scores as operating hypotheses to validate, not evidence of a specific account's readiness.
 
 ### Step 5: map the likely buying seat
 
@@ -775,9 +775,9 @@ For a small batch, report what happened and what remains uncertain. A few promis
 
 Use [ICP](../01-strategy-and-buyers/icp.md) to improve account-fit criteria and [Buying committee](../01-strategy-and-buyers/buying-committee.md) to map a real decision as it develops.
 
-[Buying signals](buying-signals.md) focuses on changes that may affect timing. [Message-market fit](message-market-fit.md) and [Cold email](cold-email.md) cover the offer and first approach; research supplies evidence, not an automatic reason to send.
+[Buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) focuses on changes that may affect timing. [Message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit) and [Cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) cover the offer and first approach; research supplies evidence, not an automatic reason to send.
 
-[Contact data](contact-data.md) addresses the contact route. [Account planning](../06-account-field-and-partner/account-planning.md) is the deeper shared record for a named account program.
+[Contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data) addresses the contact route. [Account planning](../06-account-field-and-partner/account-planning.md) is the deeper shared record for a named account program.
 
 If you are still learning which companies can benefit, use [First ten customers](../01-strategy-and-buyers/first-ten-customers.md) alongside this guide. It is a learning path, not a prerequisite customer count for doing research.
 
@@ -797,6 +797,6 @@ All account evidence, conversations, messages, costs, and outcomes in the worked
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

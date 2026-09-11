@@ -28,7 +28,7 @@ You do not need a large customer base to begin. With little evidence, call it a 
 
 ## Do not use this when
 
-If you cannot describe a person doing a specific job, begin with [idea discovery](idea-discovery.md). If you have a candidate but do not know whether the offer produces a useful result or earns commitment, use [idea validation](idea-validation.md) alongside this guide.
+If you cannot describe a person doing a specific job, begin with [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery). If you have a candidate but do not know whether the offer produces a useful result or earns commitment, use [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) alongside this guide.
 
 An ICP cannot prove a market exists, estimate demand from a list of company names, or substitute for permission to contact people. It also should not become a reason to abandon existing customers without considering your commitments to them.
 
@@ -122,7 +122,7 @@ Find out how a similar change happened before. Who started it, who evaluated it,
 
 For the correction workflow, a supportive operations lead may still depend on engineering. The engineer may care about review quality rather than the convenience of the interface. A budget owner may prefer updating an existing form to buying another application. These are different questions to resolve.
 
-Map the relevant people in the [buying-committee guide](buying-committee.md). Keep that account-specific map separate from the reusable profile. The ICP might say a participating reviewer is necessary; it should not assume every company calls that person “VP Engineering.”
+Map the relevant people in the [buying-committee guide](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee). Keep that account-specific map separate from the reusable profile. The ICP might say a participating reviewer is necessary; it should not assume every company calls that person “VP Engineering.”
 
 Consider the support you can provide, too. If adoption requires a lengthy migration or ongoing specialist work, include it in your assessment. A company can have a real need and still be a poor match for your current delivery model. Offering a smaller, explicit engagement may be possible; promising the full product before you can support it is a different decision.
 
@@ -166,7 +166,7 @@ He reports a survey score of 33% after segmentation and 58% after three quarters
 
 ## Compare five accounts without inventing a market
 
-This is a **fictional continuation** of the [Idea validation pilot](idea-validation.md#follow-one-hypothesis-through-a-pilot). The accounts, sizes, conversations, and outcomes below are invented. They are not Ivan's customer research or results from the companies above.
+This is a **fictional continuation** of the [Idea validation pilot](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation#follow-one-hypothesis-through-a-pilot). The accounts, sizes, conversations, and outcomes below are invented. They are not Ivan's customer research or results from the companies above.
 
 Suppose further evaluations have taken place. You still offer request preparation for engineering review—not autonomous database changes. You now have five account notes and want to decide which companies deserve the next round of research.
 
@@ -291,7 +291,7 @@ An ICP has not become useful until it changes something a customer encounters.
 
 **In product decisions,** ask whether a request improves the chosen job for similar customers or starts another business. Either choice can be deliberate, but the difference should be explicit.
 
-To define the first audience-and-use-case combination you will emphasize and how it may support later expansion, continue to [wedge](wedge.md). Do not make the homepage list every possible future customer while your current evidence supports one narrow offer.
+To define the first audience-and-use-case combination you will emphasize and how it may support later expansion, continue to [wedge](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/wedge). Do not make the homepage list every possible future customer while your current evidence supports one narrow offer.
 
 ## When should the profile change?
 
@@ -408,9 +408,9 @@ There is no target percentage of accounts you must disqualify. A profile that ex
 
 ## What to read next
 
-Return to [idea validation](idea-validation.md) when demand or the offer is still uncertain. Map the actual decision participants with [buying committee](buying-committee.md), then approach suitable prospects with [first ten customers](first-ten-customers.md).
+Return to [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) when demand or the offer is still uncertain. Map the actual decision participants with [buying committee](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee), then approach suitable prospects with [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers).
 
-Use [wedge](wedge.md) to select the initial audience-and-use-case focus, [positioning](../02-product-marketing/positioning.md) to explain why it matters against alternatives, and [ABM strategy](../06-account-field-and-partner/abm-strategy.md) when qualified accounts need coordinated attention. [Product-market fit](product-market-fit.md) addresses the later question of sustained demand.
+Use [wedge](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/wedge) to select the initial audience-and-use-case focus, [positioning](../02-product-marketing/positioning.md) to explain why it matters against alternatives, and [ABM strategy](../06-account-field-and-partner/abm-strategy.md) when qualified accounts need coordinated attention. [Product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) addresses the later question of sustained demand.
 
 ## Sources and evidence boundary
 
@@ -422,6 +422,6 @@ This page does not prescribe a validated score, mandatory number of exclusions, 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

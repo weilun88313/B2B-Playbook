@@ -21,9 +21,9 @@ A go-to-market plan needs both enough customer demand and enough capacity to ser
 ## Do not use this when
 
 - There is no ICP and no motion. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need a weekly call. That is [forecasting](forecasting.md).
-- You need the marketing P&L, monthly headcount, and efficiency diagnostics. That is [budget and planning](budget-and-planning.md).
-- You need a MAP score. That is [lead scoring](lead-scoring.md).
+- You need a weekly call. That is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting).
+- You need the marketing P&L, monthly headcount, and efficiency diagnostics. That is [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning).
+- You need a MAP score. That is [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring).
 - This is securities guidance or a fundraise model for investors. Get qualified owners.
 
 <a id="words-you-will-use"></a>
@@ -83,7 +83,7 @@ Each **big bet** (1–3, often one or two per quarter) names **fuel + engine + a
 
 ### Step 1: Define the funnel stages
 
-Write the same stage names the CRM and [forecasting](forecasting.md) use. Demand plans often start earlier (visit → lead → MQL → SQL → opportunity). Capacity plans often start at SQL or opportunity. Translate; do not run two dictionaries. Stage **length in months** is an input. Ignoring duration is how January MQLs become January revenue in a cell.
+Write the same stage names the CRM and [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting) use. Demand plans often start earlier (visit → lead → MQL → SQL → opportunity). Capacity plans often start at SQL or opportunity. Translate; do not run two dictionaries. Stage **length in months** is an input. Ignoring duration is how January MQLs become January revenue in a cell.
 
 <a id="step-2-build-the-demand-plan-by-channel"></a>
 
@@ -91,7 +91,7 @@ Write the same stage names the CRM and [forecasting](forecasting.md) use. Demand
 
 Each channel gets: the unit you actually buy or earn (clicks, pageviews, events, outbound accounts), the conversion chain to the stage sales will accept, and cost where it exists. Channels do not share one conversion rate. Organic is not PPC. Events are not SDR outbound. If a channel is zero, leave it zero—do not invent a third-party email program to make the chart pretty.
 
-The output you care about is the object [sales compensation](sales-compensation.md) and [forecasting](forecasting.md) can credit (SQO, opportunity, closed-won)—pick one and stick to it.
+The output you care about is the object [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation) and [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting) can credit (SQO, opportunity, closed-won)—pick one and stick to it.
 
 <a id="step-3-build-capacity-from-people-not-from-a-revenue-wish"></a>
 
@@ -111,9 +111,9 @@ Contract term, logo churn at renewal, upsell on retained, NRR. Starting customer
 
 ### Step 5: Reconcile the plan and record assumptions
 
-Demand SQOs (or wins) versus capacity’s ability to work them: queue time, coverage, waste. If marketing can create 400 SQOs and sales can work 120, you do not need more paid—you need capacity or a tighter score ([lead scoring](lead-scoring.md)). If sales is staffed for 400 and marketing can create 80, hiring is malpractice.
+Demand SQOs (or wins) versus capacity’s ability to work them: queue time, coverage, waste. If marketing can create 400 SQOs and sales can work 120, you do not need more paid—you need capacity or a tighter score ([lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring)). If sales is staffed for 400 and marketing can create 80, hiring is malpractice.
 
-Date the assumption set. The next leader’s [90-day ramp](sales-leadership-ramp.md) should find this file, not a myth.
+Date the assumption set. The next leader’s [90-day ramp](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp) should find this file, not a myth.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -187,7 +187,7 @@ Do not count model tabs, or a 2023 sample that “looks like SaaS,” as a plan.
 
 ## What to read next
 
-When the year is possible but the quarter is chaos, snap the calendars: [company cadence](company-cadence.md). The money that must iterate with this file is [budget and planning](budget-and-planning.md). Who you hire to staff it is [marketing org](marketing-org.md). Calling the quarter is [forecasting](forecasting.md). Paying the people is [sales compensation](sales-compensation.md). Assumptions in the plan that have not been tested belong in [experimentation](experimentation.md). A new sales leader should find this file in [sales-leadership ramp](sales-leadership-ramp.md). Creating the top of the demand sheet is [channel strategy](../04-channels-and-distribution/channel-strategy.md) plus the motion you named. Scoring who is worth a human is [lead scoring](lead-scoring.md). Whether new logo is covering a leak is [revenue churn](../08-lifecycle-and-customer-marketing/revenue-churn.md).
+When the year is possible but the quarter is chaos, snap the calendars: [company cadence](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/company-cadence). The money that must iterate with this file is [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning). Who you hire to staff it is [marketing org](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/marketing-org). Calling the quarter is [forecasting](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/forecasting). Paying the people is [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation). Assumptions in the plan that have not been tested belong in [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). A new sales leader should find this file in [sales-leadership ramp](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp). Creating the top of the demand sheet is [channel strategy](../04-channels-and-distribution/channel-strategy.md) plus the motion you named. Scoring who is worth a human is [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). Whether new logo is covering a leak is [revenue churn](../08-lifecycle-and-customer-marketing/revenue-churn.md).
 
 ## Sources and evidence boundary
 
@@ -195,10 +195,10 @@ This is an owner-maintained operating synthesis. It is not a financial model for
 
 The demand-plan shape (channel → conversion chain → SQO, rates differ by channel, copy-before-edit) is distilled from an operator demand-generation waterfall spreadsheet (sample year of monthly forecasts). The capacity shape (segment quota, ramp, attainment, AE start dates, payroll vs quota-bearing, overlay ratios, stage duration, renewal/NRR, “change inputs only”) is distilled from operator sales-capacity + waterfall + renewals workbooks (blank model and a filled instance). Those files are **method prompts**, not sources to copy. Their calendars, dollar quotas, conversion rates, headcount, and `#REF!` cells are not this library’s facts. The filled instance is treated as one company’s homework, not a default.
 
-Strategy-before-spreadsheet (ranked ICPs, marketing advantages, perceptions, four revenue levers with no ties, 1–3 big bets, then KPO goals) draws on Emily Kramer’s planning series ([MKT1, 2024-09-23](https://newsletter.mkt1.co/p/annual-marketing-planning?ref=b2b-playbook); [2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook); levers template dated [2023-10-24](https://newsletter.mkt1.co/p/template-4-revenue-levers-exercise?ref=b2b-playbook)). KPO as KPI + Project + Ops, the efficiency twin on every volume metric, and “write 10 posts is not a goal” draw on Kramer’s goal-setting essay ([MKT1, 2021-09-07](https://newsletter.mkt1.co/p/goals?ref=b2b-playbook)), including the later KPO rename noted in that piece. Budget that iterates with this forecast, monthly headcount, and efficiency diagnostics as **prompts not SLAs** live on [budget and planning](budget-and-planning.md) ([MKT1, 2024-12-11](https://newsletter.mkt1.co/p/budget?ref=b2b-playbook)). The paid planning docs, OKR sheets, budget calculator, and MCP skills are not reproduced here. DinoCo in the 2024 planning essay is the author’s anonymized teaching case, not a customer of this library.
+Strategy-before-spreadsheet (ranked ICPs, marketing advantages, perceptions, four revenue levers with no ties, 1–3 big bets, then KPO goals) draws on Emily Kramer’s planning series ([MKT1, 2024-09-23](https://newsletter.mkt1.co/p/annual-marketing-planning?ref=b2b-playbook); [2024-10-02](https://newsletter.mkt1.co/p/marketing-strategy-exercises?ref=b2b-playbook); levers template dated [2023-10-24](https://newsletter.mkt1.co/p/template-4-revenue-levers-exercise?ref=b2b-playbook)). KPO as KPI + Project + Ops, the efficiency twin on every volume metric, and “write 10 posts is not a goal” draw on Kramer’s goal-setting essay ([MKT1, 2021-09-07](https://newsletter.mkt1.co/p/goals?ref=b2b-playbook)), including the later KPO rename noted in that piece. Budget that iterates with this forecast, monthly headcount, and efficiency diagnostics as **prompts not SLAs** live on [budget and planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/budget-and-planning) ([MKT1, 2024-12-11](https://newsletter.mkt1.co/p/budget?ref=b2b-playbook)). The paid planning docs, OKR sheets, budget calculator, and MCP skills are not reproduced here. DinoCo in the 2024 planning essay is the author’s anonymized teaching case, not a customer of this library.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

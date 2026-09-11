@@ -710,13 +710,13 @@ Use uncertainty to choose the next action, not to avoid a decision. You can stop
 
 ## What to read next
 
-Use [Product launch](../02-product-marketing/product-launch.md) for the wider release plan, and [Channel strategy](channel-strategy.md) to compare Product Hunt with other ways to reach buyers.
+Use [Product launch](../02-product-marketing/product-launch.md) for the wider release plan, and [Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) to compare Product Hunt with other ways to reach buyers.
 
 If the first-use explanation is weak, read [Messaging](../02-product-marketing/messaging.md) and [Demo](../02-product-marketing/demo.md). Questions that deserve a permanent answer can feed [Content strategy](../03-brand-story-and-content/content-strategy.md).
 
 For early customer work, continue with [First ten customers](../01-strategy-and-buyers/first-ten-customers.md). To judge whether users receive recurring value, read [Product-market fit](../01-strategy-and-buyers/product-market-fit.md).
 
-[Community](community.md) covers ongoing participation beyond a launch. [Creator partnership](creator-partnership.md) covers collaboration with publishers; it is not permission to buy Product Hunt engagement.
+[Community](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/community) covers ongoing participation beyond a launch. [Creator partnership](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/creator-partnership) covers collaboration with publishers; it is not permission to buy Product Hunt engagement.
 
 ## Sources and evidence boundary
 
@@ -732,6 +732,6 @@ The operating plan, templates, conversations, and numerical example are original
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

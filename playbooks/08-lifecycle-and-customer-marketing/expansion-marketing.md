@@ -21,8 +21,8 @@ An existing customer may need another use case, more capacity, or a wider rollou
 ## Do not use this when
 
 - There are no customers. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need who owns the book. That is [customer success](customer-success.md).
-- You need the renewal clock. That is [renewal marketing](renewal-marketing.md).
+- You need who owns the book. That is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success).
+- You need the renewal clock. That is [renewal marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing).
 - Gross churn is the fire. Fix onboarding and ICP before you sell more surface area.
 
 <a id="words-you-will-use"></a>
@@ -40,7 +40,7 @@ An existing customer may need another use case, more capacity, or a wider rollou
 
 ## Keep this in mind
 
-**Do not expand an account that has not realized the first purchase.** If launch is still open, or they cannot name the result, another SKU is how you create contraction. [CS workspace](cs-workspace.md) must show realization before marketing writes a campaign.
+**Do not expand an account that has not realized the first purchase.** If launch is still open, or they cannot name the result, another SKU is how you create contraction. [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace) must show realization before marketing writes a campaign.
 
 <a id="operating-method"></a>
 
@@ -50,7 +50,7 @@ An existing customer may need another use case, more capacity, or a wider rollou
 
 ### Step 1: Agree on who owns the conversation
 
-Write the sentence [customer success](customer-success.md) already demands: *renewals live with ____; expansion lives with ____; they are paid on ____.* If both are paid on the same dollar, say so. If they conflict, stop the campaign until [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) is honest.
+Write the sentence [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success) already demands: *renewals live with ____; expansion lives with ____; they are paid on ____.* If both are paid on the same dollar, say so. If they conflict, stop the campaign until [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) is honest.
 
 <a id="step-2-require-a-trigger-from-their-book-not-from-your-roadmap"></a>
 
@@ -81,7 +81,7 @@ If expansion is the only reason net looks healthy, say that in [GTM planning](..
 
 ### Step 5: Keep the outreach relevant to each account
 
-Do not email the whole customer list a new SKU. Segment on realization + trigger. A base-wide “what’s new” is [lifecycle](README.md) later—and even then it is education, not a close.
+Do not email the whole customer list a new SKU. Segment on realization + trigger. A base-wide “what’s new” is [lifecycle](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing) later—and even then it is education, not a close.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -114,7 +114,7 @@ Working file: [expansion-marketing.md](../../templates/expansion-marketing.md).
 ## Before you start
 
 - [ ] Commercial owner is written and does not secretly fight CS pay.
-- [ ] Realization is visible in [CS workspace](cs-workspace.md).
+- [ ] Realization is visible in [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace).
 - [ ] Triggers are dated and checkable.
 - [ ] One next job, not a catalog.
 - [ ] At-risk and unlaunched accounts are excluded.
@@ -141,14 +141,14 @@ Do not treat “expansion pipeline from a product-launch email” as health.
 
 ## What to read next
 
-The clock that must not be a surprise is [renewal marketing](renewal-marketing.md). The leak expansion must not hide is [revenue churn](revenue-churn.md). Who runs the book is [customer success](customer-success.md). How the second product is positioned is [position the way you sell](../02-product-marketing/positioning.md#step-8-position-the-way-you-sell). Named-account expansion still uses [account planning](../06-account-field-and-partner/account-planning.md).
+The clock that must not be a surprise is [renewal marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing). The leak expansion must not hide is [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn). Who runs the book is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). How the second product is positioned is [position the way you sell](../02-product-marketing/positioning.md#step-8-position-the-way-you-sell). Named-account expansion still uses [account planning](../06-account-field-and-partner/account-planning.md).
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. Realization-before-ask and “do not let expansion hide gross” are this library’s judgments, already implied by [customer success](customer-success.md), [CS workspace](cs-workspace.md), and [revenue churn](revenue-churn.md) (Kellblog-shaped gross vs net). ITSMA/ABM “land and expand” slogans are not a method. This page is not a packaging or revenue-recognition opinion.
+This is an owner-maintained operating synthesis. Realization-before-ask and “do not let expansion hide gross” are this library’s judgments, already implied by [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success), [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace), and [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) (Kellblog-shaped gross vs net). ITSMA/ABM “land and expand” slogans are not a method. This page is not a packaging or revenue-recognition opinion.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

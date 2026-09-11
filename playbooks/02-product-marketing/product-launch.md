@@ -227,7 +227,7 @@ For our example, the first version could consist of a clear offer page, one repr
 
 The walkthrough should show a supported request before and after preparation. Use invented or properly approved redacted material. Identify where a person checks information, what remains unresolved, and where the customer's engineer takes over.
 
-A separate glossy video is optional. A buyer who needs to forward the scope internally may benefit more from a readable page than an impressive animation. Use [messaging](messaging.md) to adapt the explanation to the medium.
+A separate glossy video is optional. A buyer who needs to forward the scope internally may benefit more from a readable page than an impressive animation. Use [messaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/messaging) to adapt the explanation to the medium.
 
 AI can help turn an approved brief into drafts, but inspect every version against the source offer. It is easy for “helps prepare a request for review” to become “automates request resolution” after a few rewrites. Dates, eligibility, pricing, data handling, and unsupported capabilities deserve a deliberate final check.
 
@@ -476,9 +476,9 @@ A checked box should point to something verified or an explicit decision. If nob
 
 ## What to read next
 
-Use [positioning](positioning.md) to clarify the offer and [messaging](messaging.md) to explain it across the page, invitation, and follow-up. Use [pricing and packaging](pricing-and-packaging.md) when the commercial offer is still unresolved.
+Use [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning) to clarify the offer and [messaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/messaging) to explain it across the page, invitation, and follow-up. Use [pricing and packaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging) when the commercial offer is still unresolved.
 
-The next step for a team handling buyer conversations is [sales enablement](sales-enablement.md): make sure the person responding can explain the offer and help a buyer decide. Pair it with a [demo](demo.md) that proves the actual task.
+The next step for a team handling buyer conversations is [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement): make sure the person responding can explain the offer and help a buyer decide. Pair it with a [demo](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/demo) that proves the actual task.
 
 For early assisted launches, keep [first ten customers](../01-strategy-and-buyers/first-ten-customers.md) nearby. For an ongoing marketing calendar, use [company cadence](../09-operations-pipeline-and-measurement/company-cadence.md) to check dependencies and capacity rather than treating every shipping date as a campaign deadline.
 
@@ -494,6 +494,6 @@ Sources checked on September 7, 2026. Readiness, access, and communication advic
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

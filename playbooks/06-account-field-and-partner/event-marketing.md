@@ -75,7 +75,7 @@ Each brief contains:
 
 ### Step 5: operate the chosen format
 
-Define roles, run of show, account or audience experience, capture rules, escalation, and follow-up before launch. For exhibitor and conference execution, use the [trade-show playbook](trade-shows.md).
+Define roles, run of show, account or audience experience, capture rules, escalation, and follow-up before launch. For exhibitor and conference execution, use the [trade-show playbook](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows).
 
 ### Step 6: follow up from the conversation
 
@@ -187,14 +187,14 @@ Badge scans, foot traffic, swag distributed, and raw meetings are activity—not
 
 ## What to read next
 
-If the format is a booth, the spend split and follow-up live in [trade shows](trade-shows.md). If the format is a small, role-locked night, that is [executive dinners](executive-dinners.md). If the buyer already learns from people you do not employ, that is [ecosystem](ecosystem.md) or a [peer room](../04-channels-and-distribution/community.md)—not a bigger sponsorship. A named account this event exists for should already have [account planning](account-planning.md).
+If the format is a booth, the spend split and follow-up live in [trade shows](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows). If the format is a small, role-locked night, that is [executive dinners](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners). If the buyer already learns from people you do not employ, that is [ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem) or a [peer room](../04-channels-and-distribution/community.md)—not a bigger sponsorship. A named account this event exists for should already have [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning).
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. The 40 / 20 / 40 allocation belongs in the specific [trade-show playbook](trade-shows.md), where it is presented as a heuristic rather than a benchmark or promise.
+This is an owner-maintained operating synthesis. The 40 / 20 / 40 allocation belongs in the specific [trade-show playbook](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows), where it is presented as a heuristic rather than a benchmark or promise.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

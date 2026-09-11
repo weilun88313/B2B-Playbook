@@ -19,7 +19,7 @@ A landing page continues a promise made somewhere else, such as an ad, email, or
 
 ## Do not use this when
 
-- The promise is the standing story. That is the [homepage](homepage.md).
+- The promise is the standing story. That is the [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage).
 - You need the comparison or the price. Send them there; do not clone those pages under a UTM.
 - The motion is unnamed and you are making pages to feel busy. [Channel strategy](../04-channels-and-distribution/channel-strategy.md) first.
 - You want to A/B button color before the promise matches the ad.
@@ -63,7 +63,7 @@ Category, seat, alternative, result—same as [positioning](../02-product-market
 
 | Traffic job | Door on this page |
 |---|---|
-| Capture (query, competitor, high-intent) | [Pricing](pricing-page.md), [comparison](comparison-page.md), or [demo request](demo-request.md)—not a newsletter |
+| Capture (query, competitor, high-intent) | [Pricing](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page), [comparison](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/comparison-page), or [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request)—not a newsletter |
 | Creation (memory, video, thought-leadership amplify) | A readable point of view or a decision page; a fat form is usually wrong |
 | Event / webinar | Register, then the asset—not a demo calendar in line one |
 
@@ -73,7 +73,7 @@ Two primary buttons mean two campaigns got taped together.
 
 ### Step 4: Keep the form proportionate to the request
 
-Awareness register: email. Hand-raise: the [demo request](demo-request.md) rules (including HDYHAU if this *is* the hand-raise). Do not put a 12-field gate on a creation click and call the fills pipeline.
+Awareness register: email. Hand-raise: the [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request) rules (including HDYHAU if this *is* the hand-raise). Do not put a 12-field gate on a creation click and call the fills pipeline.
 
 <a id="step-5-retire-the-url"></a>
 
@@ -140,14 +140,14 @@ Bounce rate is a hint that the promise broke. It is not the scoreboard. Button-c
 
 ## What to read next
 
-The standing scan is the [homepage](homepage.md). The durable URLs a campaign should eventually earn are [content strategy](../03-brand-story-and-content/content-strategy.md). Whether you should have paid for the click is [paid media](../04-channels-and-distribution/paid-media.md). How to read the visit without last-click theater is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). A named customer’s proof, when you have approval, is a [case study](../03-brand-story-and-content/case-study.md)—do not fake one on the landing page.
+The standing scan is the [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage). The durable URLs a campaign should eventually earn are [content strategy](../03-brand-story-and-content/content-strategy.md). Whether you should have paid for the click is [paid media](../04-channels-and-distribution/paid-media.md). How to read the visit without last-click theater is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). A named customer’s proof, when you have approval, is a [case study](../03-brand-story-and-content/case-study.md)—do not fake one on the landing page.
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. Message match (ad promise = page hero) is standard paid-capture hygiene, not a Unbounce recipe. One door and kill dates are this library’s judgment, paired with [homepage](homepage.md) and [paid media](../04-channels-and-distribution/paid-media.md). Consumer CRO lists (urgency clocks, fake social proof) are refused.
+This is an owner-maintained operating synthesis. Message match (ad promise = page hero) is standard paid-capture hygiene, not a Unbounce recipe. One door and kill dates are this library’s judgment, paired with [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage) and [paid media](../04-channels-and-distribution/paid-media.md). Consumer CRO lists (urgency clocks, fake social proof) are refused.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

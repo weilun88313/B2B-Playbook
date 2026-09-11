@@ -20,7 +20,7 @@ A customer success workspace should answer the questions your team asks every we
 
 ## Do not use this when
 
-- There is no CS job sentence. Write [customer success](customer-success.md) first.
+- There is no CS job sentence. Write [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success) first.
 - You need the sales opportunity model. That is [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md).
 - You need software names. Start in [TOOLS.md](../../TOOLS.md), then [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md).
 - Legal hold or privacy design is the request. Qualified owners; this is not that advice.
@@ -52,10 +52,10 @@ A customer success workspace should answer the questions your team asks every we
 
 Write, for your stack:
 
-- **Realization:** which object holds outcomes, milestones, TTV (see [customer onboarding](customer-onboarding.md)). Usage may feed it; usage is not it.
+- **Realization:** which object holds outcomes, milestones, TTV (see [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding)). Usage may feed it; usage is not it.
 - **Relationship:** last strategic touch, next QBR, tier, owner. Cadence is a date, not a vibe.
 - **Renewal:** opportunity or equivalent, amount, date, stage language that matches [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Upsell: same object or a rule you can explain.
-- **Risk:** the weekly at-risk list’s fields—why red, owner, next action. Champion-left, gone-dark, unpaid, expected vs surprise churn are **plays** on [customer success](customer-success.md), not mystery scores.
+- **Risk:** the weekly at-risk list’s fields—why red, owner, next action. Champion-left, gone-dark, unpaid, expected vs surprise churn are **plays** on [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success), not mystery scores.
 
 If two systems both claim “health,” pick a source of truth or you will argue in the QBR.
 
@@ -147,11 +147,11 @@ Do not count objects created, or resemblance to a paid HubSpot CS manual, as a w
 - Syncing everything “in case.”
 - Migrating unused Gainsight fields.
 - Treating vendor ARR claims as evidence your schema will work.
-- Building the workspace before [customer success](customer-success.md) names who owns renewals.
+- Building the workspace before [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success) names who owns renewals.
 
 ## What to read next
 
-The jobs this record serves are [customer success](customer-success.md). Implementation clocks are [customer onboarding](customer-onboarding.md). Additional value on evidence is [expansion marketing](expansion-marketing.md). The clock before the commercial path is [renewal marketing](renewal-marketing.md). The commercial spine is [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md). Tools still need [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md). A new CS leader’s audit of this workspace is [CS-leadership ramp](cs-leadership-ramp.md).
+The jobs this record serves are [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). Implementation clocks are [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding). Additional value on evidence is [expansion marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing). The clock before the commercial path is [renewal marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing). The commercial spine is [CRM data model](../09-operations-pipeline-and-measurement/crm-data-model.md). Tools still need [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md). A new CS leader’s audit of this workspace is [CS-leadership ramp](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp).
 
 ## Sources and evidence boundary
 
@@ -161,6 +161,6 @@ The four-job test (realization, relationship, renewal, risk) and the instruction
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

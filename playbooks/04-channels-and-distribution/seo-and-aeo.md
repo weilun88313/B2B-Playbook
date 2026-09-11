@@ -653,9 +653,9 @@ Keep a short decision note with each review. “Updated the unsupported-capabili
 
 ## What to read next
 
-Use [content strategy](../03-brand-story-and-content/content-strategy.md) to decide how this work fits the rest of your publishing. [Channel strategy](channel-strategy.md) helps you decide how much to rely on discovery alongside other routes to customers.
+Use [content strategy](../03-brand-story-and-content/content-strategy.md) to decide how this work fits the rest of your publishing. [Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) helps you decide how much to rely on discovery alongside other routes to customers.
 
-For evaluation content, continue with [case studies](../03-brand-story-and-content/case-study.md) and [white papers](../03-brand-story-and-content/white-paper.md). For public product descriptions and customer feedback, read [review sites](review-sites.md).
+For evaluation content, continue with [case studies](../03-brand-story-and-content/case-study.md) and [white papers](../03-brand-story-and-content/white-paper.md). For public product descriptions and customer feedback, read [review sites](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/review-sites).
 
 When you want to claim that a change produced an outcome, revisit [experimentation](../09-operations-pipeline-and-measurement/experimentation.md). When buying another reporting product, use [MarTech governance](../09-operations-pipeline-and-measurement/martech-governance.md) to consider ownership, access, and ongoing cost.
 
@@ -673,6 +673,6 @@ No claim is made that improving this article, using a template, or adding a file
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

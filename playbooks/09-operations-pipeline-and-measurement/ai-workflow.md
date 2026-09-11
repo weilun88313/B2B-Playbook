@@ -19,7 +19,7 @@ An AI workflow needs clear inputs, a useful output, and a way to catch mistakes.
 
 ## Do not use this when
 
-- The problem is still a shopping list. Return to [AI use-case selection](ai-use-case-selection.md).
+- The problem is still a shopping list. Return to [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection).
 - You only need a one-off chat. Do not industrialize it.
 - You need the company to show up in answers. That is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md) and [content strategy](../03-brand-story-and-content/content-strategy.md).
 - Legal, privacy, or employment review is the request. Qualified owners; this is not that advice.
@@ -87,7 +87,7 @@ Kill stages that exist for elegance. If the job is lighter than the architecture
 3. **Escalation** — existing customer, legal words, weak fit, missing inputs.
 4. **Output format** — fields, not a vibe paragraph.
 
-Human-in-the-loop on anything that leaves the company. The first ten live runs are a review, not a celebration. Candidate jobs that usually deserve this discipline: a pre-call brief, an inbound classification plus draft, a derivative-content pack—**one** of them, chosen because it is frequent, low-judgment, and has a defined output. That selection still sits on [AI use-case selection](ai-use-case-selection.md).
+Human-in-the-loop on anything that leaves the company. The first ten live runs are a review, not a celebration. Candidate jobs that usually deserve this discipline: a pre-call brief, an inbound classification plus draft, a derivative-content pack—**one** of them, chosen because it is frequent, low-judgment, and has a defined output. That selection still sits on [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection).
 
 Parseable owned facts (positioning, packaging, proof, FAQ) still belong on durable URLs. Markdown mirrors can help agents; they are not a substitute for [content strategy](../03-brand-story-and-content/content-strategy.md). Do not copy another firm’s `/resources/` tree or their sprint price list.
 
@@ -152,11 +152,11 @@ Do not count workflows drawn, or resemblance to a paid architect worksheet, as r
 - A second browser for the team to live in.
 - Agent commerce / protocol theater before one HITL workflow works.
 - Copying a fractional-consultant 90-day price ladder as your plan.
-- Building the workflow before [AI use-case selection](ai-use-case-selection.md) names the problem.
+- Building the workflow before [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection) names the problem.
 
 ## What to read next
 
-The bet this workflow serves is [AI use-case selection](ai-use-case-selection.md). The ladder the company is on is [GTM AI maturity](gtm-ai-maturity.md). The test row is [experimentation](experimentation.md). The record it may write is [CRM data model](crm-data-model.md). Findability of the facts it reads is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md). Then write the teammate: [ai-teammate-brief.md](../../templates/ai-teammate-brief.md).
+The bet this workflow serves is [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection). The ladder the company is on is [GTM AI maturity](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity). The test row is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). The record it may write is [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model). Findability of the facts it reads is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md). Then write the teammate: [ai-teammate-brief.md](../../templates/ai-teammate-brief.md).
 
 ## Sources and evidence boundary
 
@@ -166,6 +166,6 @@ Artifact-first stages (gates, collapse, recovery, attack-the-design) are distill
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

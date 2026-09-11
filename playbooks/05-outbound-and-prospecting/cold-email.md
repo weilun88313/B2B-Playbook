@@ -49,7 +49,7 @@ Your plan depends on misleading subjects, invented referrals, concealed identity
 
 You cannot deliver what the message offers. Do not promise a personalized audit if nobody will produce it, or a result that the product cannot support.
 
-If the larger uncertainty is whether the audience understands and values the offer, start with [message-market fit](message-market-fit.md). This guide helps you execute and review an email approach; it does not replace that learning.
+If the larger uncertainty is whether the audience understands and values the offer, start with [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit). This guide helps you execute and review an email approach; it does not replace that learning.
 
 <a id="operating-method"></a>
 
@@ -107,7 +107,7 @@ If the hypothesis is important enough to mention, phrase it as something to chec
 
 You do not need exactly two independent facts. One reliable, relevant observation may be sufficient for a bounded question; a complex account approach may need more. Additional facts should resolve uncertainty, not make the opening feel heavily researched.
 
-Use [account research](account-research.md) for the brief and [buying signals](buying-signals.md) for timing. Do not make the recipient read the brief through your email.
+Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) for the brief and [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals) for timing. Do not make the recipient read the brief through your email.
 
 ### Confirm the address without confusing accuracy with permission
 
@@ -269,7 +269,7 @@ Treat an out-of-office response separately from interest. It may explain a tempo
 
 Email may be sufficient if the topic can be understood and resolved in writing.
 
-Another channel can be useful when it has a distinct, appropriate role: an agreed call, an introduction at an event, or a partner conversation that actually exists. Use [multichannel sequence](multichannel-sequence.md) for that planning.
+Another channel can be useful when it has a distinct, appropriate role: an agreed call, an introduction at an event, or a partner conversation that actually exists. Use [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence) for that planning.
 
 Do not interpret “no email reply” as permission to message the same person everywhere. Channel choice has its own legal, platform, and relationship considerations.
 
@@ -412,7 +412,7 @@ Before rewriting, ask which explanation the evidence supports. If every response
 
 When the inbox is quiet, the cause is still uncertain. A small batch with no replies is not proof of no demand, and it is not a reason to keep sending indefinitely.
 
-Use [message-market fit](message-market-fit.md) to examine comprehension and relevance through a suitable learning method. Keep the observations separate from guesses about non-responders.
+Use [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit) to examine comprehension and relevance through a suitable learning method. Keep the observations separate from guesses about non-responders.
 
 If you change the audience, offer, and request together, record that the next round is a different approach. You may learn something useful without being able to attribute the change to a specific sentence.
 
@@ -825,13 +825,13 @@ Once the bounded approach ends, stop. A later material reason to revisit needs i
 
 ## What to read next
 
-For the account and role behind the message, use [account research](account-research.md). For timing, read [buying signals](buying-signals.md).
+For the account and role behind the message, use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research). For timing, read [buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals).
 
-If buyers do not understand or value the offer, return to [message-market fit](message-market-fit.md). A channel-specific copy edit may not resolve that question.
+If buyers do not understand or value the offer, return to [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit). A channel-specific copy edit may not resolve that question.
 
-For coordinated follow-up, continue with [multichannel sequence](multichannel-sequence.md). For a live conversation, use [cold call](cold-call.md). If a meeting is agreed, the [sales-enablement guide](../02-product-marketing/sales-enablement.md) helps connect it to a useful decision rather than an unrelated feature tour.
+For coordinated follow-up, continue with [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence). For a live conversation, use [cold call](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-call). If a meeting is agreed, the [sales-enablement guide](../02-product-marketing/sales-enablement.md) helps connect it to a useful decision rather than an unrelated feature tour.
 
-If you are still finding the first customers, use [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). When someone else takes over the work, [SDR onboarding](sdr-onboarding.md) should include the real replies, corrections, and stop process—not only the best first email.
+If you are still finding the first customers, use [first ten customers](../01-strategy-and-buyers/first-ten-customers.md). When someone else takes over the work, [SDR onboarding](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-onboarding) should include the real replies, corrections, and stop process—not only the best first email.
 
 ## Sources and evidence boundary
 
@@ -848,6 +848,6 @@ Provider rules and legal requirements can change. Review the actual workflow wit
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

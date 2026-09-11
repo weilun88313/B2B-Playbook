@@ -91,7 +91,7 @@ Above the fold: one specific result or one named constraint you will not hide. B
 
 ### Step 4: Link to deeper evaluation pages
 
-The homepage introduces. It does not replace the [comparison page](comparison-page.md), the [pricing page](pricing-page.md), or the [demo request](demo-request.md). Navigation should make those three findable in one click. A homepage that tries to be the comparison, the price book, and the blog is how buyers bounce to a competitor’s clearer URL.
+The homepage introduces. It does not replace the [comparison page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/comparison-page), the [pricing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page), or the [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Navigation should make those three findable in one click. A homepage that tries to be the comparison, the price book, and the blog is how buyers bounce to a competitor’s clearer URL.
 
 <a id="step-5-refuse-the-campaign-takeover"></a>
 
@@ -167,7 +167,7 @@ Do not treat bounce rate, time-on-page, or “brand lift” as a homepage score.
 
 ## What to read next
 
-A campaign click that must not land on `/` is a [landing page](landing-page.md). The commercial number on the site is the [pricing page](pricing-page.md). The page a champion forwards when a named tool is already in the deal is the [comparison page](comparison-page.md). The form behind the sales-assist door is [demo request](demo-request.md). If the scan still fails, go back to [positioning](../02-product-marketing/positioning.md). Which URLs to write after `/` is [content strategy](../03-brand-story-and-content/content-strategy.md).
+A campaign click that must not land on `/` is a [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). The commercial number on the site is the [pricing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page). The page a champion forwards when a named tool is already in the deal is the [comparison page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/comparison-page). The form behind the sales-assist door is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). If the scan still fails, go back to [positioning](../02-product-marketing/positioning.md). Which URLs to write after `/` is [content strategy](../03-brand-story-and-content/content-strategy.md).
 
 ## Sources and evidence boundary
 
@@ -179,6 +179,6 @@ The second pass (who it is for, what it is, why it is better, product type on th
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

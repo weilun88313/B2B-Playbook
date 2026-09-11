@@ -22,7 +22,7 @@ Signing the contract is the start of another piece of work. Help the customer ge
 
 - There is no signed customer. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
 - The product is truly self-serve and the only job is an email series. That is lifecycle communication (still planned in this domain)—do not invent a professional-services factory.
-- You need the ongoing CS operating system. That is [customer success](customer-success.md).
+- You need the ongoing CS operating system. That is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success).
 
 <a id="one-rule"></a>
 
@@ -179,7 +179,7 @@ Do not count LMS enrollments, kickoff decks, or a named methodology with no docu
 
 ## What to read next
 
-The ongoing book is [customer success](customer-success.md). What they receive in writing is [onboarding communication](onboarding-communication.md). The promise they bought is [positioning](../02-product-marketing/positioning.md) and [pricing](../02-product-marketing/pricing-and-packaging.md). Whether implementation revenue is in the number is [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account context is [account planning](../06-account-field-and-partner/account-planning.md).
+The ongoing book is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). What they receive in writing is [onboarding communication](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/onboarding-communication). The promise they bought is [positioning](../02-product-marketing/positioning.md) and [pricing](../02-product-marketing/pricing-and-packaging.md). Whether implementation revenue is in the number is [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account context is [account planning](../06-account-field-and-partner/account-planning.md).
 
 ## Sources and evidence boundary
 
@@ -189,6 +189,6 @@ The education-versus-implementation split, journey-map breakpoints, handoff conv
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

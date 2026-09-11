@@ -21,7 +21,7 @@ Revenue can grow while existing customers are quietly leaving or spending less. 
 ## Do not use this when
 
 - There are no customers. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- You need the weekly CS operating system. That is [customer success](customer-success.md).
+- You need the weekly CS operating system. That is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success).
 - You need the year-capacity model. That is [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md).
 - Legal revenue recognition is the request. Qualified owners.
 
@@ -73,7 +73,7 @@ Median-by-ARR-band tables on a metrics vendor’s site are **their** sample, **t
 
 ### Step 4: Assign an owner to each problem
 
-Gross up → product, onboarding, packaging, or ICP. See [customer onboarding](customer-onboarding.md) and [customer success](customer-success.md). Net rescued only by expansion → you are growing the survivors; you have not fixed who leaves. Put that sentence in [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) so new-logo quota is not a cover story.
+Gross up → product, onboarding, packaging, or ICP. See [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding) and [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). Net rescued only by expansion → you are growing the survivors; you have not fixed who leaves. Put that sentence in [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md) so new-logo quota is not a cover story.
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -138,7 +138,7 @@ Do not count resemblance to a SaaS glossary, or a vendor’s top-decile cell, as
 
 ## What to read next
 
-Who runs the book is [customer success](customer-success.md). First value is [customer onboarding](customer-onboarding.md). Additional value that must not hide this leak is [expansion marketing](expansion-marketing.md). The clock before the commercial path is [renewal marketing](renewal-marketing.md). Whether next year can close is [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md). Pay still cares when the dollar is safe: [incentive timing](../09-operations-pipeline-and-measurement/incentive-timing.md).
+Who runs the book is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). First value is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding). Additional value that must not hide this leak is [expansion marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing). The clock before the commercial path is [renewal marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing). Whether next year can close is [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md). Pay still cares when the dollar is safe: [incentive timing](../09-operations-pipeline-and-measurement/incentive-timing.md).
 
 ## Sources and evidence boundary
 
@@ -148,6 +148,6 @@ Gross vs net revenue churn, the five MRR movements, the warning that net can hid
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

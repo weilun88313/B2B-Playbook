@@ -21,9 +21,9 @@ A renewal is easier to discuss when the customer can see what they have achieved
 ## Do not use this when
 
 - There are no customers or no terms. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md) or write the contract fields first.
-- Launch never happened. That is [customer onboarding](customer-onboarding.md).
-- You need expansion of a second job. That is [expansion marketing](expansion-marketing.md).
-- You need the churn math. That is [revenue churn](revenue-churn.md).
+- Launch never happened. That is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding).
+- You need expansion of a second job. That is [expansion marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing).
+- You need the churn math. That is [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn).
 
 <a id="words-you-will-use"></a>
 
@@ -50,7 +50,7 @@ A renewal is easier to discuss when the customer can see what they have achieved
 
 ### Step 1: Share the renewal timeline
 
-[CS workspace](cs-workspace.md) creates the renewal record N days out. Write N. Write who is notified. Write what “on track / at risk / save” means in one line each. If marketing cannot see the date, they will invent a newsletter.
+[CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace) creates the renewal record N days out. Write N. Write who is notified. Write what “on track / at risk / save” means in one line each. If marketing cannot see the date, they will invent a newsletter.
 
 <a id="step-2-send-value-then-the-commercial-path"></a>
 
@@ -81,7 +81,7 @@ If the renewal includes a price move, it was decided on [pricing and packaging](
 
 ### Step 5: Record and learn from a lost renewal
 
-Cancel goes into [revenue churn](revenue-churn.md) as gross. Win-back is still planned; it is not this page. Do not relabel a lost renewal as “nurture.”
+Cancel goes into [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) as gross. Win-back is still planned; it is not this page. Do not relabel a lost renewal as “nurture.”
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -103,7 +103,7 @@ Annual term. CSM owns renewal. AM owns expansion only.
 - Packet fields (their units, dates):
 - Price-change rule (early / none / exception):
 - What marketing is *not* allowed to send:
-- Where a no is recorded ([revenue churn](revenue-churn.md)):
+- Where a no is recorded ([revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn)):
 
 Working file: [renewal-marketing.md](../../templates/renewal-marketing.md).
 
@@ -111,8 +111,8 @@ Working file: [renewal-marketing.md](../../templates/renewal-marketing.md).
 
 ## Before you start
 
-- [ ] Renewal owner and pay are written on [customer success](customer-success.md).
-- [ ] Date and risk are visible in [CS workspace](cs-workspace.md).
+- [ ] Renewal owner and pay are written on [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success).
+- [ ] Date and risk are visible in [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace).
 - [ ] Packet uses their metric, not our changelog.
 - [ ] At-risk is a human path.
 - [ ] Discount/hike is not the first artifact.
@@ -139,14 +139,14 @@ Do not treat “renewal email open rate” or last-week save rate as the motion.
 
 ## What to read next
 
-The book is [customer success](customer-success.md). The record is [CS workspace](cs-workspace.md). The leak is [revenue churn](revenue-churn.md). A second job is [expansion marketing](expansion-marketing.md). First value still missing is [customer onboarding](customer-onboarding.md). Named large renewals may need [account planning](../06-account-field-and-partner/account-planning.md).
+The book is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success). The record is [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace). The leak is [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn). A second job is [expansion marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing). First value still missing is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding). Named large renewals may need [account planning](../06-account-field-and-partner/account-planning.md).
 
 ## Sources and evidence boundary
 
-This is an owner-maintained operating synthesis. Horizon, value-before-commercial, and risk-as-human-path follow the four jobs already on [CS workspace](cs-workspace.md) (realization, relationship, renewal, risk). Kellblog-shaped honesty about the book sits on [revenue churn](revenue-churn.md). Vendor “renewal playbooks” and auto-renew legal tactics are not this method. This page is not contract counsel.
+This is an owner-maintained operating synthesis. Horizon, value-before-commercial, and risk-as-human-path follow the four jobs already on [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace) (realization, relationship, renewal, risk). Kellblog-shaped honesty about the book sits on [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn). Vendor “renewal playbooks” and auto-renew legal tactics are not this method. This page is not contract counsel.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

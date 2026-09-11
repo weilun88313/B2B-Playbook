@@ -36,7 +36,7 @@ A demo also cannot establish production reliability, security suitability, imple
 
 You do not need a separate discovery meeting before every demonstration. A short example can help someone understand the category well enough to ask better questions. State the assumptions when you have not yet learned their context.
 
-For a pricing negotiation, work from the actual [offer](pricing-and-packaging.md). For first-use guidance after purchase, use [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md). A sales demo and a training session have different jobs.
+For a pricing negotiation, work from the actual [offer](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging). For first-use guidance after purchase, use [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md). A sales demo and a training session have different jobs.
 
 <a id="one-rule"></a>
 
@@ -528,9 +528,9 @@ Material or environment that needs updating:
 
 ## What to read next
 
-Use [sales enablement](sales-enablement.md) for the broader conversation and reusable supporting material. Keep [pricing and packaging](pricing-and-packaging.md) consistent with the scope and assistance shown.
+Use [sales enablement](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/sales-enablement) for the broader conversation and reusable supporting material. Keep [pricing and packaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging) consistent with the scope and assistance shown.
 
-Next, continue with [change friction](change-friction.md): a buyer can understand the product and still hesitate because adopting it means changing a working process.
+Next, continue with [change friction](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/change-friction): a buyer can understand the product and still hesitate because adopting it means changing a working process.
 
 For a multi-person decision, use [buying committee](../01-strategy-and-buyers/buying-committee.md). If the buyer proceeds, connect the handoff to [customer onboarding](../08-lifecycle-and-customer-marketing/customer-onboarding.md).
 
@@ -548,6 +548,6 @@ No internal company systems, demo-generation tools, or customer data were access
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

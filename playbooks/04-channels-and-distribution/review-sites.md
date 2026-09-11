@@ -151,7 +151,7 @@ Look for stale screenshots, broken links, discontinued plans, and descriptions o
 
 A workable rhythm is event-driven maintenance after significant product changes, plus a periodic check at a frequency the team can sustain. Weekly is not inherently better than monthly if nothing has changed.
 
-Reviews and profiles may appear in search or answer-engine research. That is a reason for accuracy, not evidence that a listing or badge guarantees rankings, citations, or discovery in an AI assistant. Use [SEO and AEO](seo-and-aeo.md) for the broader findability work.
+Reviews and profiles may appear in search or answer-engine research. That is a reason for accuracy, not evidence that a listing or badge guarantees rankings, citations, or discovery in an AI assistant. Use [SEO and AEO](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/seo-and-aeo) for the broader findability work.
 
 <a id="step-2-ask-from-realization-one-at-a-time"></a>
 <a id="step-2-ask-customers-after-they-have-received-value"></a>
@@ -521,7 +521,7 @@ Referral sessions, requests, suitable conversations, opportunities, and customer
 
 A buyer who says a review helped them feel comfortable is reporting useful influence. Preserve that statement without assigning the entire contract to the review platform.
 
-For a paid test, use [Paid media](paid-media.md) to define costs, attribution limits, and the outcome window. Separate a directory's organic referrals from its paid placements where the reporting allows it. State the gap when it does not.
+For a paid test, use [Paid media](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-media) to define costs, attribution limits, and the outcome window. Separate a directory's organic referrals from its paid placements where the reporting allows it. State the gap when it does not.
 
 If you cannot measure a small maintenance program's revenue impact precisely, do not invent a number. You can still justify correcting public facts and answering substantive feedback as useful work.
 
@@ -778,7 +778,7 @@ A useful program review can end with “this remains an inexpensive way to keep 
 
 ## What to read next
 
-[Channel strategy](channel-strategy.md) helps decide whether a review platform deserves attention alongside other routes. [Paid media](paid-media.md) covers the budget and outcome review for sponsored distribution.
+[Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) helps decide whether a review platform deserves attention alongside other routes. [Paid media](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-media) covers the budget and outcome review for sponsored distribution.
 
 Use [Case study](../03-brand-story-and-content/case-study.md) when a reviewer has a fuller story worth developing with the right approvals. [Comparison page](../07-website-and-conversion/comparison-page.md) helps turn evaluation questions into an owned explanation rather than relying only on a third-party profile.
 
@@ -800,6 +800,6 @@ The workflow, conversations, invitation, decision cards, and campaign calculatio
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

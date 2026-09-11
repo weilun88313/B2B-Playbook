@@ -33,7 +33,7 @@ An early-stage founder can write down an honest account while the business is st
 
 A buyer is asking for a specific answer about implementation, security, pricing, or results. Answer that question first. A warm personal introduction cannot substitute for a missing approval process or a product limitation.
 
-If you need evidence of a customer's outcome, work on a [case study](case-study.md). If you need a clear product explanation, work on [messaging](../02-product-marketing/messaging.md). If the story is ready and you need to reach people, work on [channel strategy](../04-channels-and-distribution/channel-strategy.md).
+If you need evidence of a customer's outcome, work on a [case study](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/case-study). If you need a clear product explanation, work on [messaging](../02-product-marketing/messaging.md). If the story is ready and you need to reach people, work on [channel strategy](../04-channels-and-distribution/channel-strategy.md).
 
 Do not turn this exercise into a requirement that the founder become a public personality. Some founders prefer private conversations. Some cannot discuss former work. Some simply have more useful work to do than maintain a feed. A short, approved company account may be enough.
 
@@ -84,7 +84,7 @@ That boundary is interesting story material. Why would a founder deliberately st
 
 By contrast, “I want readers to think I am visionary” gives the writer almost nothing useful to investigate. It encourages impressive language instead of an explanation.
 
-You may already have audience perceptions in your [content strategy](content-strategy.md). Use them as questions, not instructions to manufacture supporting memories. If the experience does not support the desired impression, change the impression or choose different material.
+You may already have audience perceptions in your [content strategy](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/content-strategy). Use them as questions, not instructions to manufacture supporting memories. If the experience does not support the desired impression, change the impression or choose different material.
 
 #### Choose the reader before choosing the opening
 
@@ -506,9 +506,9 @@ For a small company, a simple note after relevant conversations may be enough: w
 
 ## What to read next
 
-Continue to [Case Study](case-study.md) when you need to move from the founder's explanation to evidence of a customer's experience and outcome.
+Continue to [Case Study](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/case-study) when you need to move from the founder's explanation to evidence of a customer's experience and outcome.
 
-Use [content strategy](content-strategy.md) to decide where the story belongs alongside other material, [messaging](../02-product-marketing/messaging.md) to clarify the offer, and [homepage](../07-website-and-conversion/homepage.md) to make the first visit understandable without requiring the full backstory.
+Use [content strategy](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/content-strategy) to decide where the story belongs alongside other material, [messaging](../02-product-marketing/messaging.md) to clarify the offer, and [homepage](../07-website-and-conversion/homepage.md) to make the first visit understandable without requiring the full backstory.
 
 For recurring distribution, read [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md) and [channel strategy](../04-channels-and-distribution/channel-strategy.md). Choose that work because you have something useful to share and a workable way to share it—not because every founder is supposed to become a creator.
 
@@ -525,6 +525,6 @@ The two company accounts illustrate ways to explain decisions. They do not estab
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

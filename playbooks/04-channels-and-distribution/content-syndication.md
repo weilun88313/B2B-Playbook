@@ -43,7 +43,7 @@ The provider will not explain where records come from, what people see, or what 
 
 You cannot agree internally on what makes a delivered record acceptable. If finance expects a cheap contact, marketing expects an interested reader, and sales expects a scheduled meeting, the campaign will be judged against three different contracts.
 
-You may simply need to improve the distribution of your own work: a useful email to existing subscribers, a contribution to a community where you participate, or a clear explanation on LinkedIn. Syndication is an option within [Channel strategy](channel-strategy.md), not a prerequisite for having one.
+You may simply need to improve the distribution of your own work: a useful email to existing subscribers, a contribution to a community where you participate, or a clear explanation on LinkedIn. Syndication is an option within [Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy), not a prerequisite for having one.
 
 <a id="words-you-will-use"></a>
 
@@ -622,13 +622,13 @@ For a larger program, a properly designed comparison may help test incremental i
 
 ## What to read next
 
-Use [Content strategy](../03-brand-story-and-content/content-strategy.md) to choose material worth distributing and [Channel strategy](channel-strategy.md) to decide where it belongs.
+Use [Content strategy](../03-brand-story-and-content/content-strategy.md) to choose material worth distributing and [Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) to decide where it belongs.
 
-[Creator partnership](creator-partnership.md) covers collaborations that involve a creator's judgment and original treatment. [Community](community.md) covers participation and relationships that cannot be reduced to a purchased contact file.
+[Creator partnership](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/creator-partnership) covers collaborations that involve a creator's judgment and original treatment. [Community](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/community) covers participation and relationships that cannot be reduced to a purchased contact file.
 
-For related search decisions, read [SEO & AEO](seo-and-aeo.md). For routing and evaluation, continue with [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md).
+For related search decisions, read [SEO & AEO](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/seo-and-aeo). For routing and evaluation, continue with [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md).
 
-The [Buffer syndication case](../../use-cases/buffer-syndication.md) is an editorial example, not a paid-lead benchmark. Broader content distribution is still a planned topic in the [chapter guide](README.md).
+The [Buffer syndication case](../../use-cases/buffer-syndication.md) is an editorial example, not a paid-lead benchmark. Broader content distribution is still a planned topic in the [chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution).
 
 ## Sources and evidence boundary
 
@@ -644,6 +644,6 @@ The campaign design, acceptance method, templates, conversations, and numerical 
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

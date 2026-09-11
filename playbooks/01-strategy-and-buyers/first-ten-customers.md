@@ -22,7 +22,7 @@ Read in order for the full path, or jump to [outreach examples](#step-3-make-an-
 
 ## Use this when
 
-Use this when you have a specific offer to test with a provisional [ICP](icp.md), but acquiring and serving a customer is still unfamiliar work.
+Use this when you have a specific offer to test with a provisional [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp), but acquiring and serving a customer is still unfamiliar work.
 
 You may have no paying customers, a handful of assisted pilots, or an audience that has not turned into purchases. The same method can help an established company introduce a genuinely new offer, although its existing reputation changes the starting conditions.
 
@@ -30,7 +30,7 @@ Expect to be involved personally, or to have someone on the founding team closel
 
 ## Do not use this when
 
-If you cannot describe the person, task, and proposed result, return to [idea discovery](idea-discovery.md). If the offer cannot yet be evaluated, use [idea validation](idea-validation.md) to design a smaller test.
+If you cannot describe the person, task, and proposed result, return to [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery). If the offer cannot yet be evaluated, use [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) to design a smaller test.
 
 You do not need a perfectly proven ICP before approaching anyone. Research and selling can develop together. Be explicit about whether you are asking for advice, offering an experiment, or selling something you can already deliver.
 
@@ -73,7 +73,7 @@ For a subscription product, continued use and renewal matter. For a one-off serv
 
 ### Step 1: choose a first result you can deliver
 
-Start from your [wedge](wedge.md). Describe one job for one plausible type of customer, including what they need to provide and what you will not do.
+Start from your [wedge](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/wedge). Describe one job for one plausible type of customer, including what they need to provide and what you will not do.
 
 “An AI platform for operations” leaves the buyer to invent the use case. “Prepare one supported type of correction request so an engineer can review it with fewer avoidable clarification questions” gives both sides something to inspect.
 
@@ -191,7 +191,7 @@ End with one of a few clear outcomes:
 - The offer is plausible and can be evaluated: agree the smallest useful evaluation.
 - The buyer is ready for a clear, deliverable purchase: discuss the offer without inventing an unnecessary pilot.
 
-Before arranging an evaluation, confirm who needs to approve it. The [buying committee](buying-committee.md) guide explains why interest, data-use permission, spending authority, and signing authority are different things.
+Before arranging an evaluation, confirm who needs to approve it. The [buying committee](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee) guide explains why interest, data-use permission, spending authority, and signing authority are different things.
 
 ### Step 5: make the first commercial offer understandable
 
@@ -231,7 +231,7 @@ Share it where the topic is welcome, or send it in response to an interested pro
 
 Measure what happens after reading. A relevant reply or a customer using the example is different from impressions. Keep the piece useful even for readers who do not buy.
 
-Content that helps an internal decision is useful early, too. You do not have to wait for a mature marketing team to create the [decision brief](buying-committee.md#help-your-contact-explain-the-decision) your first buyer needs.
+Content that helps an internal decision is useful early, too. You do not have to wait for a mature marketing team to create the [decision brief](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee#help-your-contact-explain-the-decision) your first buyer needs.
 
 <a id="step-6-treat-press-as-a-lottery-ticket-not-a-plan"></a>
 <a id="step-7-sometimes-you-just-ship"></a>
@@ -290,7 +290,7 @@ The founder does not need five different products for five conversations. The co
 
 That distinction prevents a misleading promise. The founder investigates the part they can change instead of claiming responsibility for the entire delay.
 
-After the bounded evaluation and approvals described in [Buying Committee](buying-committee.md), suppose Account A purchases a limited pilot and uses a later batch. This is the same illustrative paid-pilot situation used in the ICP chapter, not a claim that an annual subscription has been secured.
+After the bounded evaluation and approvals described in [Buying Committee](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee), suppose Account A purchases a limited pilot and uses a later batch. This is the same illustrative paid-pilot situation used in the ICP chapter, not a claim that an annual subscription has been secured.
 
 ### A polite no can save a week of work
 
@@ -478,9 +478,9 @@ For a small early sample, short account explanations are often more informative 
 
 ## What to read next
 
-Use [buying committee](buying-committee.md) when interest is stuck inside an account, [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) when the offer is hard to buy, and [sales enablement](../02-product-marketing/sales-enablement.md) when the explanation or materials need work.
+Use [buying committee](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee) when interest is stuck inside an account, [pricing and packaging](../02-product-marketing/pricing-and-packaging.md) when the offer is hard to buy, and [sales enablement](../02-product-marketing/sales-enablement.md) when the explanation or materials need work.
 
-For a targeted outbound approach, continue with [account research](../05-outbound-and-prospecting/account-research.md) and [cold email](../05-outbound-and-prospecting/cold-email.md). For evidence beyond early sales, read [product-market fit](product-market-fit.md). [Four Fits](four-fits.md) helps examine whether the product, market, channel, and business model work together.
+For a targeted outbound approach, continue with [account research](../05-outbound-and-prospecting/account-research.md) and [cold email](../05-outbound-and-prospecting/cold-email.md). For evidence beyond early sales, read [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit). [Four Fits](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/four-fits) helps examine whether the product, market, channel, and business model work together.
 
 ## Sources and evidence boundary
 
@@ -492,6 +492,6 @@ For further reading, Lenny Rachitsky's [September 5, 2023 founder-interview coll
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -738,11 +738,11 @@ Use the [measurement model](../09-operations-pipeline-and-measurement/measuremen
 
 [Content strategy](../03-brand-story-and-content/content-strategy.md) covers the broader editorial system. [Founder story](../03-brand-story-and-content/founder-story.md) helps you use real experience without inventing a personal narrative.
 
-Use [Messaging](../02-product-marketing/messaging.md) when people understand the post but cannot explain what the company does. [Community](community.md) covers ongoing participation beyond a feed.
+Use [Messaging](../02-product-marketing/messaging.md) when people understand the post but cannot explain what the company does. [Community](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/community) covers ongoing participation beyond a feed.
 
-For direct, person-specific outreach, read [LinkedIn outbound](../05-outbound-and-prospecting/linkedin-outbound.md). For purchased distribution, read [Paid media](paid-media.md); separate those costs and results from an organic review.
+For direct, person-specific outreach, read [LinkedIn outbound](../05-outbound-and-prospecting/linkedin-outbound.md). For purchased distribution, read [Paid media](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-media); separate those costs and results from an organic review.
 
-[Creator partnership](creator-partnership.md) covers collaborating with another person's audience and judgment. [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) explains how to combine platform, website, and buyer-reported evidence.
+[Creator partnership](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/creator-partnership) covers collaborating with another person's audience and judgment. [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) explains how to combine platform, website, and buyer-reported evidence.
 
 ## Sources and evidence boundary
 
@@ -758,6 +758,6 @@ The editorial methods, drafts, conversations, templates, and numerical example a
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

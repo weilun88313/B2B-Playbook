@@ -16,12 +16,12 @@ Decide when commission is earned and paid before announcing a compensation plan.
 - Commission pays at booking and finance is surprised by early churn, refunds, or never-collect.
 - New hires cannot live on base during a long cycle, so someone invented a “temporary extra” with no end date.
 - Reps call commission monopoly money because reversals can appear for a year.
-- Draws are how you hide a quota or a territory that cannot work—see [GTM planning](gtm-planning.md).
+- Draws are how you hide a quota or a territory that cannot work—see [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning).
 
 ## Do not use this when
 
-- There is no written plan and no credit event. Write [sales compensation](sales-compensation.md) first.
-- You need RevOps *leaders* paid for systems they own. That is [RevOps compensation](revops-compensation.md), not a clawback clause.
+- There is no written plan and no credit event. Write [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation) first.
+- You need RevOps *leaders* paid for systems they own. That is [RevOps compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/revops-compensation), not a clawback clause.
 - Legal, works council, or payroll must set recovery. This page will not override that.
 
 <a id="words-you-will-use"></a>
@@ -76,7 +76,7 @@ Cash and the balance sheet change posture. A company that cannot fund commission
 
 ### Step 3: Define any temporary draw carefully
 
-Ask: is there a **timing** gap (effort now, earnings later) that the person does not control? New-hire ramp on a long cycle, a territory reset *you* caused, a plan migration, delayed lead flow you own. If the answer is “they are missing quota,” that is not a draw. That is [sales compensation](sales-compensation.md) and territory math.
+Ask: is there a **timing** gap (effort now, earnings later) that the person does not control? New-hire ramp on a long cycle, a territory reset *you* caused, a plan migration, delayed lead flow you own. If the answer is “they are missing quota,” that is not a draw. That is [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation) and territory math.
 
 **Recoverable** when the risk is their ramp and future production. **Non-recoverable** when the company created the disruption and you want a clean window (plan change, delayed product, book timing you broke, leave coverage). The type matters less than whether you should offer one at all.
 
@@ -177,7 +177,7 @@ Do not count “we have a clawback clause” or resemblance to a vendor PDF tabl
 
 ## What to read next
 
-The rest of the plan is [sales compensation](sales-compensation.md). Ops leaders are [RevOps compensation](revops-compensation.md). Whether the book can hit quota is [GTM planning](gtm-planning.md). The record that billing and CRM must share is [CRM data model](crm-data-model.md). New sellers still need a curriculum: [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
+The rest of the plan is [sales compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/sales-compensation). Ops leaders are [RevOps compensation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/revops-compensation). Whether the book can hit quota is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). The record that billing and CRM must share is [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model). New sellers still need a curriculum: [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md).
 
 ## Sources and evidence boundary
 
@@ -187,6 +187,6 @@ Clawback as a designed mechanism (triggers, window, recovery from future pay, vi
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

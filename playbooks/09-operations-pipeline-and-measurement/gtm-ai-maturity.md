@@ -21,8 +21,8 @@ Using AI in a few tasks is different from connecting it to a reliable team workf
 ## Do not use this when
 
 - There is no primary motion. Stay in [channel strategy](../04-channels-and-distribution/channel-strategy.md).
-- You still need to pick *which problem* AI should touch. That is [AI use-case selection](ai-use-case-selection.md).
-- You need the architecture of one workflow. That is [AI workflow](ai-workflow.md).
+- You still need to pick *which problem* AI should touch. That is [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection).
+- You need the architecture of one workflow. That is [AI workflow](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-workflow).
 - You need product names. Start in [TOOLS.md](../../TOOLS.md). A community spreadsheet of logos is not this page.
 
 <a id="words-you-will-use"></a>
@@ -82,7 +82,7 @@ Rung 4 is “enough of the stack is connected that the system can learn.” It i
 
 ### Step 5: Treat future capabilities as uncertain
 
-A system that senses Slack, Discord, and the roadmap and reallocates every channel without a human steer is a research story. You may watch it. You may not staff or budget as if you are already there. The human still reviews external messages—see [AI workflow](ai-workflow.md).
+A system that senses Slack, Discord, and the roadmap and reallocates every channel without a human steer is a research story. You may watch it. You may not staff or budget as if you are already there. The human still reviews external messages—see [AI workflow](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-workflow).
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 
@@ -144,7 +144,7 @@ Do not count AI seats, or resemblance to a six-step YouTube ladder, as maturity.
 
 ## What to read next
 
-Which problem deserves a bet is [AI use-case selection](ai-use-case-selection.md). How one workflow is staged and gated is [AI workflow](ai-workflow.md). How a test dies or scales is [experimentation](experimentation.md). Which tool may write into the record is [MarTech governance](martech-governance.md). How answers get found is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md).
+Which problem deserves a bet is [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection). How one workflow is staged and gated is [AI workflow](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-workflow). How a test dies or scales is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). Which tool may write into the record is [MarTech governance](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/martech-governance). How answers get found is [SEO and AEO](../04-channels-and-distribution/seo-and-aeo.md).
 
 ## Sources and evidence boundary
 
@@ -158,6 +158,6 @@ A global survey that more companies “use AI” while attributed EBIT stays fla
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

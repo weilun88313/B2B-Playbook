@@ -79,7 +79,7 @@ Close is not the handoff. The handoff is:
 
 1. Agreement signed; the facts CS needs are in the system of record (not only in the AE’s head).
 2. Sales introduces the people who will live through onboarding, invoicing, and day-to-day.
-3. CS (or implementation—see [customer onboarding](customer-onboarding.md)) owns kickoff, the project tool, and the success metric the customer already heard.
+3. CS (or implementation—see [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding)) owns kickoff, the project tool, and the success metric the customer already heard.
 4. The commercial owner (CSM or AM) stays in the relationship instead of vanishing until renewal.
 
 Standardize the briefing: pain, promised solution, goals, dependencies, advocate vs detractor, how we will know they want to renew. Async video is allowed. A two-line CRM note is not.
@@ -184,7 +184,7 @@ Do not count town halls held, values posters, or resemblance to a sample 2021 CS
 
 ## What to read next
 
-First value is [customer onboarding](customer-onboarding.md); what they receive in writing is [onboarding communication](onboarding-communication.md). The record CSMs open on Monday is [CS workspace](cs-workspace.md). A new CS executive’s first 90 days are [CS-leadership ramp](cs-leadership-ramp.md). Gross vs net on the book is [revenue churn](revenue-churn.md). Additional value on evidence is [expansion marketing](expansion-marketing.md); the clock before the commercial path is [renewal marketing](renewal-marketing.md). The commercial number is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account thinking stays in [account planning](../06-account-field-and-partner/account-planning.md). If they have not bought yet, this page is premature.
+First value is [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding); what they receive in writing is [onboarding communication](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/onboarding-communication). The record CSMs open on Monday is [CS workspace](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-workspace). A new CS executive’s first 90 days are [CS-leadership ramp](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp). Gross vs net on the book is [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn). Additional value on evidence is [expansion marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing); the clock before the commercial path is [renewal marketing](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing). The commercial number is [sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) and [forecasting](../09-operations-pipeline-and-measurement/forecasting.md). Named-account thinking stays in [account planning](../06-account-field-and-partner/account-planning.md). If they have not bought yet, this page is premature.
 
 ## Sources and evidence boundary
 
@@ -194,6 +194,6 @@ The people / process / performance frame, the insistence on writing structure, r
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

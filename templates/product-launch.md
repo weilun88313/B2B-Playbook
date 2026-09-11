@@ -43,7 +43,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 - Channels (and what we took **off** the checklist):
 - Stakeholders:
 
-Link to [campaign brief](campaign-brief.md) if that file is the source of truth.
+Link to [campaign brief](https://b2-b-playbook.mintlify.app/templates/campaign-brief) if that file is the source of truth.
 
 ## After day one
 

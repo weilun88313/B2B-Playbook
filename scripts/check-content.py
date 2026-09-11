@@ -79,6 +79,11 @@ for name, text in DOCS.items():
             owned = (u.hostname == "github.com" and
                      (u.path == "/weilun88313/B2B-Playbook" or u.path.startswith("/weilun88313/B2B-Playbook/")))
             owned |= u.hostname in {"b2-b-playbook.mintlify.app", "b2-b-playbook.mintlify.site"}
+            if u.hostname in {"b2-b-playbook.mintlify.app", "b2-b-playbook.mintlify.site"}:
+                target = resolve(name, u.path or "/index")
+                check(target is not None, f"{name}: missing reading-site target {url}")
+                if target and u.fragment and target.suffix in {".md", ".mdx"}:
+                    check(unquote(u.fragment) in anchors(target.read_text()), f"{name}: missing reading-site anchor {url}")
             if not owned:
                 check(parse_qs(u.query).get("ref") == ["b2b-playbook"], f"{name}: missing/duplicate ref: {url}")
                 external.add(url)

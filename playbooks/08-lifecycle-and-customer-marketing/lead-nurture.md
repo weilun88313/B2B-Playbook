@@ -21,7 +21,7 @@ Some people are interested but not ready to buy. Help them answer the next quest
 ## Do not use this when
 
 - They already raised a hand. That is [demo request](../07-website-and-conversion/demo-request.md) speed-to-lead, not a drip.
-- They are a customer. That is [onboarding communication](onboarding-communication.md) or later lifecycle pages.
+- They are a customer. That is [onboarding communication](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/onboarding-communication) or later lifecycle pages.
 - You have no decision pages to send. Write [content strategy](../03-brand-story-and-content/content-strategy.md) first; a drip cannot invent the comparison.
 - Volume is small enough that a founder can write one useful note. Do that.
 
@@ -151,7 +151,7 @@ Do not treat email open rate, drip completion, or “nurtured MQLs” as success
 
 ## What to read next
 
-The pages you are allowed to send are [content strategy](../03-brand-story-and-content/content-strategy.md). The form that must not enter this stream is [demo request](../07-website-and-conversion/demo-request.md); how much a quieter surface may collect is [forms and chat](../07-website-and-conversion/forms-and-chat.md). When a score may notify a human is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). Paying to stay visible to the 95 is [paid media](../04-channels-and-distribution/paid-media.md) or [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md)—not a longer drip. After they buy, leave this page: [customer onboarding](customer-onboarding.md).
+The pages you are allowed to send are [content strategy](../03-brand-story-and-content/content-strategy.md). The form that must not enter this stream is [demo request](../07-website-and-conversion/demo-request.md); how much a quieter surface may collect is [forms and chat](../07-website-and-conversion/forms-and-chat.md). When a score may notify a human is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). Paying to stay visible to the 95 is [paid media](../04-channels-and-distribution/paid-media.md) or [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md)—not a longer drip. After they buy, leave this page: [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding).
 
 ## Sources and evidence boundary
 
@@ -164,6 +164,6 @@ This is an owner-maintained operating synthesis.
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -49,7 +49,7 @@ A learning role can be legitimate. If that is the role, say so, provide support,
 
 You need to decide whether outbound belongs in your growth strategy. Start with [channel strategy](../04-channels-and-distribution/channel-strategy.md) and the evidence from your current selling work.
 
-You need the mechanics of a particular message or sequence. Use [cold email](cold-email.md) and [multichannel sequence](multichannel-sequence.md); onboarding should teach people to apply those methods rather than invent a competing set of instructions.
+You need the mechanics of a particular message or sequence. Use [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) and [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence); onboarding should teach people to apply those methods rather than invent a competing set of instructions.
 
 You need employment terms, compensation-plan drafting, disciplinary procedures, or legal advice. This article helps explain and operationalize approved rules. It does not create those rules or determine an individual's employment outcome.
 
@@ -319,7 +319,7 @@ Response-time expectations should specify coverage hours, assignment, and backup
 
 #### Outbound: connect evidence to a reasonable question
 
-Use [account research](account-research.md) to distinguish known account facts from hypotheses. A current job listing may suggest a relevant workflow; it does not prove a budget or a painful problem.
+Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) to distinguish known account facts from hypotheses. A current job listing may suggest a relevant workflow; it does not prove a budget or a painful problem.
 
 Ask the learner to explain why the account belongs in the batch and why the proposed role is a reasonable starting point. Then review whether the contact route and planned use are appropriate.
 
@@ -327,7 +327,7 @@ Have them write a clear message that describes the work and offer without fabric
 
 Teach the cancellation and reply-handling paths before increasing volume. The same person who can personalize an opening should be able to stop an approach when the premise is corrected or the recipient declines.
 
-Use the current [multichannel sequence](multichannel-sequence.md) as the operating reference. A new channel needs a job and its own review; it is not a reward for finishing a training module.
+Use the current [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence) as the operating reference. A new channel needs a job and its own review; it is not a reward for finishing a training module.
 
 #### Teach tools after the purpose is clear
 
@@ -903,11 +903,11 @@ Independence means handling the approved scope with sound judgment—including k
 
 ## What to read next
 
-Use [account research](account-research.md) to teach how an account hypothesis is built, [cold email](cold-email.md) for the first written approach, and [multichannel sequence](multichannel-sequence.md) for coordinating actions and replies.
+Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) to teach how an account hypothesis is built, [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) for the first written approach, and [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence) for coordinating actions and replies.
 
 [Sales enablement](../02-product-marketing/sales-enablement.md) goes deeper on the material, explanations, and practice that support buyer conversations. [Sales compensation](../09-operations-pipeline-and-measurement/sales-compensation.md) addresses the separate task of defining and explaining credit and pay.
 
-Next in this chapter is [contact data](contact-data.md): how to check whether a contact record and route are accurate, appropriate, and usable before anyone acts on them.
+Next in this chapter is [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data): how to check whether a contact record and route are accurate, appropriate, and usable before anyone acts on them.
 
 A dedicated SDR-handoff article remains planned. Until then, use the meeting and briefing method on this page rather than assuming that converting a record completes the transfer.
 
@@ -926,6 +926,6 @@ Use the company's approved policies and qualified owners for employment, compens
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

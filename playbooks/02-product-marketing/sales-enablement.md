@@ -35,7 +35,7 @@ Start with a moment that is going badly. “We need enablement” is too broad t
 
 Enablement cannot make an unsupported capability real. If a deal requires a deployment option you do not offer, a better objection response is not a substitute for a product or commercial decision.
 
-You do not need to finish all positioning work before improving a conversation. Use the best current explanation, mark what remains uncertain, and feed what you learn back into [positioning](positioning.md).
+You do not need to finish all positioning work before improving a conversation. Use the best current explanation, mark what remains uncertain, and feed what you learn back into [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning).
 
 A self-serve product may need comparison pages, helpful answers, and optional human assistance without making every buyer attend a sales meeting. Match the help to the decision.
 
@@ -513,11 +513,11 @@ A missing item gives you a concrete improvement to make. It does not necessarily
 
 ## What to read next
 
-Use [messaging](messaging.md) for the core explanation and [competitive intelligence](competitive-intelligence.md) for checked comparisons. Use [buying committee](../01-strategy-and-buyers/buying-committee.md) when several people must evaluate or approve the decision.
+Use [messaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/messaging) for the core explanation and [competitive intelligence](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/competitive-intelligence) for checked comparisons. Use [buying committee](../01-strategy-and-buyers/buying-committee.md) when several people must evaluate or approve the decision.
 
-Next, work through [pricing and packaging](pricing-and-packaging.md) to make sure the commercial offer matches the value, scope, and delivery commitments being discussed. Use [demo](demo.md) when the product demonstration needs a more deliberate structure.
+Next, work through [pricing and packaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/pricing-and-packaging) to make sure the commercial offer matches the value, scope, and delivery commitments being discussed. Use [demo](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/demo) when the product demonstration needs a more deliberate structure.
 
-If the barrier is the work or risk of changing, continue with [change friction](change-friction.md). For new offers, keep [product launch](product-launch.md) aligned with what the people handling inquiries can actually explain and deliver.
+If the barrier is the work or risk of changing, continue with [change friction](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/change-friction). For new offers, keep [product launch](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/product-launch) aligned with what the people handling inquiries can actually explain and deliver.
 
 ## Sources and evidence boundary
 
@@ -531,6 +531,6 @@ Sources checked on September 7, 2026. Technical, security, contractual, and data
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -19,17 +19,17 @@ Read in order for the reasoning, or jump to [the worked example](#worked-example
 
 ## Use this when
 
-You have a provisional [ICP](icp.md) and more possible workflows than you can pursue. Your website may describe an entire platform while prospects keep asking what they can actually do with it today.
+You have a provisional [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp) and more possible workflows than you can pursue. Your website may describe an entire platform while prospects keep asking what they can actually do with it today.
 
-You can also use this before your first customers. A proposed wedge helps you focus [validation](idea-validation.md) and early outreach. Call it a hypothesis until customers provide evidence; you do not need ten paying logos before making a starting choice.
+You can also use this before your first customers. A proposed wedge helps you focus [validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) and early outreach. Call it a hypothesis until customers provide evidence; you do not need ten paying logos before making a starting choice.
 
 For an established product, the same exercise helps evaluate a new market or a new use case. The question becomes what you can carry forward from the existing business and what you must learn again.
 
 ## Do not use this when
 
-If the customer and problem remain vague, return to [idea discovery](idea-discovery.md). Narrowing a sentence does not establish demand.
+If the customer and problem remain vague, return to [idea discovery](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-discovery). Narrowing a sentence does not establish demand.
 
-Do not use a wedge to justify a major expansion from one enthusiastic inquiry. And do not mistake selecting a focus for proving [product-market fit](product-market-fit.md). You can make a careful choice and still discover that the offer is not valuable enough.
+Do not use a wedge to justify a major expansion from one enthusiastic inquiry. And do not mistake selecting a focus for proving [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit). You can make a careful choice and still discover that the offer is not valuable enough.
 
 <a id="words-you-will-use"></a>
 
@@ -105,7 +105,7 @@ Name what you need to learn before committing more effort. You might compare the
 
 Write down what would make you choose another starting point. “Stop if the improved form works equally well” is more useful than “keep going if people like the demo.” Preserve inconvenient outcomes instead of narrowing the definition of success afterward.
 
-You can test a proposed wedge before deciding whether to build the full workflow. Return to [idea validation](idea-validation.md) for the test design. Wedge selection decides where to concentrate that learning; it does not replace it.
+You can test a proposed wedge before deciding whether to build the full workflow. Return to [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) for the test design. Wedge selection decides where to concentrate that learning; it does not replace it.
 
 <a id="step-2-put-the-wedges-gtm-tam-in-the-crm"></a>
 
@@ -143,7 +143,7 @@ Choose a bounded next step. You may improve the current result, change the start
 
 ## Worked example (illustrative)
 
-This is a **fictional continuation** of the account comparison in [ICP](icp.md#compare-five-accounts-without-inventing-a-market). All requests, conversations, and decisions in this walkthrough are invented for teaching. They are not Ivan's customer research.
+This is a **fictional continuation** of the account comparison in [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp#compare-five-accounts-without-inventing-a-market). All requests, conversations, and decisions in this walkthrough are invented for teaching. They are not Ivan's customer research.
 
 Your provisional audience is software operations teams with recurring correction requests, a preparation gap, and an available engineering reviewer. The ICP exercise included one paid pilot with repeat use and ongoing assistance. That is a reason to investigate further, not proof of a scalable market.
 
@@ -277,7 +277,7 @@ Before redirecting people, identify what the current customers still need: maint
 
 You do not need to wait until every problem is solved. You do need a realistic plan for continuing to deliver the existing promise. A small test with a named owner and effort limit can coexist with the current focus; an unbounded second roadmap may not.
 
-If the original segment still depends on repeated custom fixes, distinguish deliberate exploration from scaling. Use the profile maturity categories in [ICP](icp.md#if-you-have-several-profiles-give-each-an-explicit-role) to keep that difference visible.
+If the original segment still depends on repeated custom fixes, distinguish deliberate exploration from scaling. Use the profile maturity categories in [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp#if-you-have-several-profiles-give-each-an-explicit-role) to keep that difference visible.
 
 ## How to recognize useful expansion signals
 
@@ -385,9 +385,9 @@ Keep denominators, dates, and offer versions visible. Otherwise, a revised produ
 
 ## What to read next
 
-Use [ICP](icp.md) to refine the customer context and [idea validation](idea-validation.md) to test the offer. [Buying committee](buying-committee.md) helps identify who must participate in the decision, and [first ten customers](first-ten-customers.md) helps you find early accounts.
+Use [ICP](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/icp) to refine the customer context and [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) to test the offer. [Buying committee](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/buying-committee) helps identify who must participate in the decision, and [first ten customers](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/first-ten-customers) helps you find early accounts.
 
-For the message and customer experience, continue to [positioning](../02-product-marketing/positioning.md), [homepage](../07-website-and-conversion/homepage.md), and [channel strategy](../04-channels-and-distribution/channel-strategy.md). Use [product-market fit](product-market-fit.md) to examine sustained demand before committing to a much larger growth effort.
+For the message and customer experience, continue to [positioning](../02-product-marketing/positioning.md), [homepage](../07-website-and-conversion/homepage.md), and [channel strategy](../04-channels-and-distribution/channel-strategy.md). Use [product-market fit](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/product-market-fit) to examine sustained demand before committing to a much larger growth effort.
 
 ## Sources and evidence boundary
 
@@ -399,6 +399,6 @@ The request-preparation example, dialogue, comparisons, test suggestions, and de
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

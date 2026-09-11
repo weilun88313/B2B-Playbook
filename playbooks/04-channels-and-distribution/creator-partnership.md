@@ -713,13 +713,13 @@ Do not assign an arbitrary value to that asset merely to make a negative campaig
 
 ## What to read next
 
-Use [Channel strategy](channel-strategy.md) to decide whether creator work deserves attention alongside other channels.
+Use [Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) to decide whether creator work deserves attention alongside other channels.
 
 Read [Content strategy](../03-brand-story-and-content/content-strategy.md) when the brief needs a stronger topic or editorial purpose, and [Demo](../02-product-marketing/demo.md) when a creator will show the product.
 
-Use [Community](community.md) for ongoing member relationships rather than publication-led distribution. [Ecosystem](../06-account-field-and-partner/ecosystem.md) covers broader company-to-company relationships.
+Use [Community](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/community) for ongoing member relationships rather than publication-led distribution. [Ecosystem](../06-account-field-and-partner/ecosystem.md) covers broader company-to-company relationships.
 
-For paid amplification, continue with [Paid media](paid-media.md). For an upcoming launch on that platform, read [Product Hunt](product-hunt.md); creator partnerships and launch voting are not the same activity.
+For paid amplification, continue with [Paid media](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-media). For an upcoming launch on that platform, read [Product Hunt](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/product-hunt); creator partnerships and launch voting are not the same activity.
 
 [RESOURCES.md](../../RESOURCES.md) is a reading collection, not a vetted roster of available sponsorship partners.
 
@@ -738,6 +738,6 @@ The publication examples establish that different commercial formats and respons
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

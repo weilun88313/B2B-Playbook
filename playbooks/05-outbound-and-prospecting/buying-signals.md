@@ -45,7 +45,7 @@ The objective is to identify a private individual behind an anonymous visit or c
 
 You are trying to overcome a known product mismatch with an exciting headline. Funding does not remove a deployment requirement you cannot meet.
 
-You need the underlying account brief, the contact route, or the email itself. Use [account research](account-research.md), [contact data](contact-data.md), and [cold email](cold-email.md) for those tasks.
+You need the underlying account brief, the contact route, or the email itself. Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research), [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data), and [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) for those tasks.
 
 Signals are also not a prerequisite for all prospecting. A relevant offer to a suitable company can be worth testing without a recent announcement. Do not manufacture a trigger just to satisfy a field in the CRM.
 
@@ -803,11 +803,11 @@ A mature workflow can explain both why an account was prioritized and why the te
 
 ## What to read next
 
-If the signal is interesting but the business connection remains unclear, return to [account research](account-research.md). If the change genuinely alters who the offer serves, revisit [ICP](../01-strategy-and-buyers/icp.md).
+If the signal is interesting but the business connection remains unclear, return to [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research). If the change genuinely alters who the offer serves, revisit [ICP](../01-strategy-and-buyers/icp.md).
 
-Once you have a plausible account and question, use [message-market fit](message-market-fit.md) to test whether the offer and language connect with the market. Then use [cold email](cold-email.md) or [cold call](cold-call.md) for the channel-specific execution.
+Once you have a plausible account and question, use [message-market fit](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/message-market-fit) to test whether the offer and language connect with the market. Then use [cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email) or [cold call](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-call) for the channel-specific execution.
 
-For coordinated follow-up, read [multichannel sequence](multichannel-sequence.md). For the actual contact route, use [contact data](contact-data.md).
+For coordinated follow-up, read [multichannel sequence](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/multichannel-sequence). For the actual contact route, use [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data).
 
 If the question is how to prioritize and route records after their context is understood, continue with [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). For the role of external comparison activity, see [review sites](../04-channels-and-distribution/review-sites.md).
 
@@ -829,6 +829,6 @@ The fictional example intentionally reports no sale. The cost allocation is a te
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://github.com/weilun88313/B2B-Playbook/blob/main/LICENSE).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)
