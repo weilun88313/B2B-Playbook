@@ -316,6 +316,9 @@ def build_lead_scoring():
     wb.save(OUT / "lead-scoring-ledger.xlsx")
 
 
+from planning_workbooks import apply_planning_updates
+
+
 def build_demand():
     wb = Workbook()
     s = wb.active
@@ -428,6 +431,7 @@ def build_demand():
         t.cell(r, 2).alignment = wrap
         t.row_dimensions[r].height = 40
     col_widths(t, [28, 90])
+    apply_planning_updates(wb, "demand")
     wb.save(OUT / "gtm-demand-plan.xlsx")
 
 
@@ -592,6 +596,7 @@ def build_capacity():
         t.cell(r, 2).alignment = wrap
         t.row_dimensions[r].height = 40
     col_widths(t, [14, 100])
+    apply_planning_updates(wb, "capacity")
     wb.save(OUT / "gtm-sales-capacity.xlsx")
 
 

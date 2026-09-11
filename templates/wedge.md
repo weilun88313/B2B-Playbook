@@ -18,7 +18,8 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 - Audience (seat + company type):
 - Use case:
 - Named alternative:
-- Why we are 10× (would fail if we swapped logos):
+- Advantage over the named alternative (evidence / untested hypothesis):
+- How we will test that advantage:
 
 ## Boundaries
 

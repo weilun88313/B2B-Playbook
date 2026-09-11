@@ -26,8 +26,9 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ## Sentence
 
-- Two independent facts (source / date):
-- First two lines:
+- Evidence supporting the message (source / date; distinguish facts from assumptions):
+- Context: first contact / requested follow-up / existing conversation:
+- Opening tied to that evidence:
 - One ask:
 
 ## Handmade batch
@@ -39,6 +40,7 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ## Scale gate
 
-- Allowed to automate this sentence? (yes / no):
+- Ready to repeat this approach? Evidence / remaining questions:
+- If automation is proposed: permission, review, and stop conditions:
 - What a sequence or agent may not change:
 - Next test if this batch failed (change only one):
