@@ -3,6 +3,8 @@ title: "Founder-story card"
 sidebarTitle: "Founder Story"
 ---
 
+![Perception; Scene; Advantage check](../assets/illustrations/worksheet-founder-story.webp)
+
 B2B Playbook working file. Read [founder story](../playbooks/03-brand-story-and-content/founder-story.md) first.
 
 One person. One perception. Delete teaching notes. Do not ghostwrite a voice they will not say on a call.

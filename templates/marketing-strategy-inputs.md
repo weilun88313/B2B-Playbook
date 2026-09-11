@@ -3,6 +3,8 @@ title: "Marketing strategy inputs"
 sidebarTitle: "Strategy Inputs"
 ---
 
+![Ranked ICPs; Marketing advantages (1–3, real); Perceptions (3–4 storylines)](../assets/illustrations/worksheet-marketing-strategy-inputs.webp)
+
 B2B Playbook working file. Read [GTM planning](../playbooks/09-operations-pipeline-and-measurement/gtm-planning.md) and [channel strategy](../playbooks/04-channels-and-distribution/channel-strategy.md) first.
 
 Strategy before the demand spreadsheet. Delete teaching notes. Rank with no ties. Do not invent advantages you do not have.

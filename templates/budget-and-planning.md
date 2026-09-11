@@ -3,6 +3,8 @@ title: "Budget card"
 sidebarTitle: "Budget & Planning"
 ---
 
+![Two numbers; Definitions (ours, dated); Headcount (monthly)](../assets/illustrations/worksheet-budget-and-planning.webp)
+
 B2B Playbook working file. Read [budget and planning](../playbooks/09-operations-pipeline-and-measurement/budget-and-planning.md) first.
 
 Iterate with the demand and capacity files. Headcount by month. Do not paste public CAC bands as your SLA. Delete teaching notes.

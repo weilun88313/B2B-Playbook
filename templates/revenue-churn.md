@@ -3,6 +3,8 @@ title: "Revenue churn card"
 sidebarTitle: "Revenue Churn"
 ---
 
+![Period; Movements (this period); Rates](../assets/illustrations/worksheet-revenue-churn.webp)
+
 B2B Playbook working file. Read [revenue churn](../playbooks/08-lifecycle-and-customer-marketing/revenue-churn.md) first.
 
 One period. Same unit throughout. Delete teaching notes.

@@ -3,6 +3,8 @@ title: "AI teammate brief"
 sidebarTitle: "AI Teammate Brief"
 ---
 
+![Job sentence (fill before you generate instructions); Guardrails (keep at the top of the teammate instructions); Body of the instructions (fill)](../assets/illustrations/worksheet-ai-teammate-brief.webp)
+
 **Last reviewed:** 2026-08-30
 
 Use this after [AI workflow](../playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) (and the playbook that named the job) has the artifact and gates. Paste into your own GPT / Gem / Copilot / Claude Project / internal agent. Yellow thinking happens in the playbook; this file is the **instruction skeleton**.

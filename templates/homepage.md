@@ -3,6 +3,8 @@ title: "Homepage brief"
 sidebarTitle: "Homepage"
 ---
 
+![Scan (write before design); Door; Proof](../assets/illustrations/worksheet-homepage.webp)
+
 B2B Playbook working file. Read [homepage](../playbooks/07-website-and-conversion/homepage.md) first.
 
 One scan. One door. Delete teaching notes. Do not paste a campaign hero onto `/`.

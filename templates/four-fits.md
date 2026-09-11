@@ -3,6 +3,8 @@ title: "Four-fits card"
 sidebarTitle: "Four Fits"
 ---
 
+![Market–product; Product–channel; Channel–model](../assets/illustrations/worksheet-four-fits.webp)
+
 B2B Playbook working file. Read [four fits](../playbooks/01-strategy-and-buyers/four-fits.md) first.
 
 One company. Four sentences. Delete teaching notes. Do not paste a &#36;100M case study as the live card.

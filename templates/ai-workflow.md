@@ -3,6 +3,8 @@ title: "AI workflow card"
 sidebarTitle: "AI Workflow"
 ---
 
+![Artifact; Bind; Constraints and runtime](../assets/illustrations/worksheet-ai-workflow.webp)
+
 B2B Playbook working file. Read [AI workflow](../playbooks/09-operations-pipeline-and-measurement/ai-workflow.md) first.
 
 Fill before you build. Delete teaching notes. Do not paste a third-party architect worksheet as the live SOP.

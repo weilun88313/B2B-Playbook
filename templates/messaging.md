@@ -3,6 +3,8 @@ title: "Messaging hierarchy"
 sidebarTitle: "Messaging"
 ---
 
+![Core (one primary ICP); Value lines (three, distinct); Variants this quarter](../assets/illustrations/worksheet-messaging.webp)
+
 B2B Playbook working file. Read [messaging](../playbooks/02-product-marketing/messaging.md) first.
 
 Positioning is locked. This file applies it. Delete teaching notes. Do not write copy until the core four lines exist.

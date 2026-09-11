@@ -3,6 +3,8 @@ title: "Landing-page brief"
 sidebarTitle: "Landing Page"
 ---
 
+![Promise; Door; Retire](../assets/illustrations/worksheet-landing-page.webp)
+
 B2B Playbook working file. Read [landing page](../playbooks/07-website-and-conversion/landing-page.md) first.
 
 One promise. One door. A kill date. Delete teaching notes.

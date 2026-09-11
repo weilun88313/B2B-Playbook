@@ -3,6 +3,8 @@ title: "Pricing-page brief"
 sidebarTitle: "Pricing Page"
 ---
 
+![Unit; Plans (≤5); Hygiene](../assets/illustrations/worksheet-pricing-page.webp)
+
 B2B Playbook working file. Read [pricing page](../playbooks/07-website-and-conversion/pricing-page.md) first.
 
 The unit is already decided on pricing and packaging. This file is the public scan.

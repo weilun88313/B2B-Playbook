@@ -3,6 +3,8 @@ title: "Company-cadence card"
 sidebarTitle: "Company Cadence"
 ---
 
+![Fiscal; Product–marketing; Offset check](../assets/illustrations/worksheet-company-cadence.webp)
+
 B2B Playbook working file. Read [company cadence](../playbooks/09-operations-pipeline-and-measurement/company-cadence.md) first.
 
 One quarter. Two calendars. Delete teaching notes. Do not paste another company’s conference as the strike.

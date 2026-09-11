@@ -3,6 +3,8 @@ title: "CS-leadership 90 days"
 sidebarTitle: "CS Leadership 90"
 ---
 
+![Slide 1 — Title; Slide 2 — The three windows; Slide 3 — Days 1–30](../assets/illustrations/worksheet-cs-leadership-90.webp)
+
 B2B Playbook working file. Read [CS-leadership ramp](../playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp.md) first.
 
 Paste each block into a Google Slides slide or a Google Doc heading. Rewrite every line in your facts. Delete this instruction slide.

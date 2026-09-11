@@ -3,6 +3,8 @@ title: "Product launch card"
 sidebarTitle: "Product Launch"
 ---
 
+![Worth doing?; Tier and alignment; Story](../assets/illustrations/worksheet-product-launch.webp)
+
 B2B Playbook working file. Read [product launch](../playbooks/02-product-marketing/product-launch.md) first.
 
 Tier first. GACCS before assets. Day one is not the end. Delete teaching notes.

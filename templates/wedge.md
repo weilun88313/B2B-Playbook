@@ -3,6 +3,8 @@ title: "Wedge card"
 sidebarTitle: "Wedge"
 ---
 
+![The pair; Boundaries; Fuel and engine](../assets/illustrations/worksheet-wedge.webp)
+
 B2B Playbook working file. Read [wedge](../playbooks/01-strategy-and-buyers/wedge.md) first.
 
 One audience plus one use case. Do not paste the pitch TAM. Delete teaching notes.

@@ -3,6 +3,8 @@ title: "Cold-call card"
 sidebarTitle: "Cold Call"
 ---
 
+![Gates; Talk track (adapt, do not recite); Refuse](../assets/illustrations/worksheet-cold-call.webp)
+
 B2B Playbook working file. Read [cold call](../playbooks/05-outbound-and-prospecting/cold-call.md) first.
 
 Context → problem scene → interest. Handle the reaction before the objection.

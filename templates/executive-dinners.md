@@ -3,6 +3,8 @@ title: "Executive-dinner table card"
 sidebarTitle: "Executive Dinners"
 ---
 
+![Night; Guests (8–12); Rules](../assets/illustrations/worksheet-executive-dinners.webp)
+
 B2B Playbook working file. Read [executive dinners](../playbooks/06-account-field-and-partner/executive-dinners.md) first.
 
 One table. One seat. One question. Delete teaching notes.

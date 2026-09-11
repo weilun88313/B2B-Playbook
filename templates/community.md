@@ -3,6 +3,8 @@ title: "Peer-community room card"
 sidebarTitle: "Community"
 ---
 
+![Room; Contribution (one); Endorsement](../assets/illustrations/worksheet-community.webp)
+
 B2B Playbook working file. Read [peer community](../playbooks/04-channels-and-distribution/community.md) first.
 
 One room. One contribution. Delete teaching notes. Do not paste a member directory into outbound.

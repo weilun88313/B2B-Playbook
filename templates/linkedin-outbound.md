@@ -3,6 +3,8 @@ title: "LinkedIn outbound card"
 sidebarTitle: "Linkedin Outbound"
 ---
 
+![Why this route; Touches; Caps](../assets/illustrations/worksheet-linkedin-outbound.webp)
+
 B2B Playbook working file. Read [LinkedIn outbound](../playbooks/05-outbound-and-prospecting/linkedin-outbound.md) first.
 
 Artifact first. No pitch in the connection request.

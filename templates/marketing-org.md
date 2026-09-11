@@ -3,6 +3,8 @@ title: "Marketing org card"
 sidebarTitle: "Marketing Org"
 ---
 
+![Context; Next hire; Coverage](../assets/illustrations/worksheet-marketing-org.webp)
+
 B2B Playbook working file. Read [marketing org](../playbooks/09-operations-pipeline-and-measurement/marketing-org.md) first.
 
 π-shape, then gaps. Do not hire only engine. Delete teaching notes.

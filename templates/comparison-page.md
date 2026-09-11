@@ -3,6 +3,8 @@ title: "Comparison-page brief"
 sidebarTitle: "Comparison Page"
 ---
 
+![Decision; Criteria (five to seven jobs); Switching path](../assets/illustrations/worksheet-comparison-page.webp)
+
 B2B Playbook working file. Read [comparison page](../playbooks/07-website-and-conversion/comparison-page.md) first.
 
 One alternative from live deals. Name where they win. Delete teaching notes.

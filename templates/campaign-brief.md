@@ -3,6 +3,8 @@ title: "Campaign brief (GACCS)"
 sidebarTitle: "Campaign Brief"
 ---
 
+![Goal; Audience; Creative / unique take](../assets/illustrations/worksheet-campaign-brief.webp)
+
 B2B Playbook working file. Read [content strategy](../playbooks/03-brand-story-and-content/content-strategy.md) first.
 
 One asset or campaign. Delete teaching notes. Do not start production before the five lines exist.

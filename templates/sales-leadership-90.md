@@ -3,6 +3,8 @@ title: "Sales-leadership 90 days"
 sidebarTitle: "Sales Leadership 90"
 ---
 
+![Slide 1 — Title; Slide 2 — The three windows; Slide 3 — Days 1–30](../assets/illustrations/worksheet-sales-leadership-90.webp)
+
 B2B Playbook working file. Read [sales-leadership ramp](../playbooks/09-operations-pipeline-and-measurement/sales-leadership-ramp.md) first.
 
 Paste each block into a Google Slides slide or a Google Doc heading. Rewrite every line in your facts. Delete this instruction slide.

@@ -3,6 +3,8 @@ title: "Alternative card"
 sidebarTitle: "Competitive Intel"
 ---
 
+![Alternative; Sources; Card](../assets/illustrations/worksheet-competitive-intelligence.webp)
+
 B2B Playbook working file. Read [competitive intelligence](../playbooks/02-product-marketing/competitive-intelligence.md) first.
 
 One alternative. Live short list only. Blank over guess. Delete teaching notes.

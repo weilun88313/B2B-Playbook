@@ -25,6 +25,10 @@ The default branch is the reader's current edition. Ivan confirmed on 2026-09-11
 
 ## Reader cleanup policy — 2026-09-11
 
-Ivan requested a cleanup after reviewing the public repository. Illustrations are optional: retain useful article artwork, brand assets, and attribution; omit decorative hero images from short working files. Validate retained assets and links rather than requiring an image count or an image on every article. Keep generation instructions, draft assets, traffic exports, and editorial process notes outside reader pages. Preserve source attribution and evidence limits. Prioritize the three task paths and reader feedback before expanding coverage.
+Ivan requested a cleanup after reviewing the public repository. Illustrations are optional: retain useful article artwork, brand assets, and attribution; preserve the approved cover illustrations on working files as well as articles. Validate retained assets and links rather than requiring an image count or an image on every article. Keep generation instructions, draft assets, traffic exports, and editorial process notes outside reader pages. Preserve source attribution and evidence limits. Prioritize the three task paths and reader feedback before expanding coverage.
 
 - Workbook source maintenance: rebuild the distributed `.xlsx` files with `python3 scripts/build-working-files.py` (openpyxl) after changing the generator. Keep this command out of reader instructions and never overwrite filled user files.
+
+## Approved artwork preservation — 2026-09-11
+
+Ivan clarified that the generated worksheet covers are approved artwork, not production clutter, and requested restoration of all 38 images removed in the cleanup. Preserve existing artwork and its page references. Do not delete or remove approved images from pages without Ivan explicitly requesting that removal. Optional illustrations apply to new pages; they do not authorize removing existing artwork.

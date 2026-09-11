@@ -3,6 +3,8 @@ title: "Demo-request brief"
 sidebarTitle: "Demo Request"
 ---
 
+![Promise; Fields; After submit](../assets/illustrations/worksheet-demo-request.webp)
+
 B2B Playbook working file. Read [demo request](../playbooks/07-website-and-conversion/demo-request.md) first.
 
 High-intent path only. Hand-raisers skip the score ladder. Delete teaching notes.

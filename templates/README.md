@@ -1,5 +1,7 @@
 # Working files
 
+![Download a file; Fill it privately; Use it to make a decision](../assets/illustrations/using-templates.webp)
+
 **Last reviewed:** 2026-08-30
 
 **Reading edited:** 2026-09-11

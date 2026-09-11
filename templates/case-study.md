@@ -3,6 +3,8 @@ title: "Case-study brief"
 sidebarTitle: "Case Study"
 ---
 
+![Permission; Story; After](../assets/illustrations/worksheet-case-study.webp)
+
 B2B Playbook working file. Read [case study](../playbooks/03-brand-story-and-content/case-study.md) first.
 
 Named customer. Dated result. Friction on the page. Delete teaching notes.

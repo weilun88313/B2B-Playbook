@@ -3,6 +3,8 @@ title: "LinkedIn organic card"
 sidebarTitle: "Linkedin Organic"
 ---
 
+![Voice; Path; Proof it worked](../assets/illustrations/worksheet-linkedin-organic.webp)
+
 B2B Playbook working file. Read [LinkedIn organic](../playbooks/04-channels-and-distribution/linkedin-organic.md) first.
 
 One named speaker. Memory for the 95. Delete teaching notes. Do not paste a demo calendar in line one.

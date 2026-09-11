@@ -3,6 +3,8 @@ title: "ABM system card"
 sidebarTitle: "ABM Strategy"
 ---
 
+![Foundation (account-driven, not “ABM everyone”); Capacity; Rules](../assets/illustrations/worksheet-abm-strategy.webp)
+
 B2B Playbook working file. Read [ABM strategy](../playbooks/06-account-field-and-partner/abm-strategy.md) first.
 
 Account-driven foundation, then capacity. T3 is not ABM. Delete teaching notes.
