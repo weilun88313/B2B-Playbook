@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Promise; Fields; After submit](../assets/illustrations/worksheet-demo-request.webp)
-
 ## Promise
 
 - URL:

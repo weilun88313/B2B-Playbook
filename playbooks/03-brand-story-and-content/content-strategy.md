@@ -5,6 +5,8 @@ sidebarTitle: "Content Strategy"
 
 **Last reviewed:** 2026-09-07 · **Reading edit:** 2026-09-07
 
+**Reading edited:** 2026-09-11
+
 The team published three articles last week. The founder posted every day. There is a new template, a newsletter draft, and a spreadsheet full of keywords.
 
 Then a prospective customer asks, “If we keep our existing queue, what exactly does your service do?”
@@ -303,7 +305,7 @@ Give examples enough room to work. If a conversation matters, separate the speak
 
 Illustrations should explain or orient. Use a consistent visual language, meaningful alternative text, and legible English labels. A diagram of responsibility or a before-and-after packet can help; a decorative robot beside every AI paragraph usually does not.
 
-For this library, preserve the 16:9 illustration system and the native reading controls. The image should support the article, not become a reason to repeat the same point in three formats.
+Use an illustration when it explains a decision, relationship, or workflow more clearly than the text alone. Omit it when it merely repeats the heading.
 
 ### Make the next step fit the reader
 

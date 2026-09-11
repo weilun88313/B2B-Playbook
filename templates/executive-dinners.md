@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Night; Guests (8–12); Rules](../assets/illustrations/worksheet-executive-dinners.webp)
-
 ## Night
 
 - Date / city / host:

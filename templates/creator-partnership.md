@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Creator; Artifact; Wins](../assets/illustrations/worksheet-creator-partnership.webp)
-
 ## Creator
 
 - Name / format (newsletter, podcast, essay):

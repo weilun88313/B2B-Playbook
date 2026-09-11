@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Two numbers; Definitions (ours, dated); Headcount (monthly)](../assets/illustrations/worksheet-budget-and-planning.webp)
-
 ## Two numbers
 
 - Top-down (owner, period, new ARR or bookings):

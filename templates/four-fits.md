@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Market–product; Product–channel; Channel–model](../assets/illustrations/worksheet-four-fits.webp)
-
 ## Market–product
 
 - Segment and job:

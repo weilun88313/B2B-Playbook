@@ -12,6 +12,8 @@ Practical guides for finding customers, explaining your product, and building a 
 
 ## Start with the work in front of you
 
+For a guided task with a filled example and completion criteria, choose one of [three practical starting paths](playbooks/start-here.md): first customers, outreach, or trade-show follow-up.
+
 | Your question | Start here |
 |---|---|
 | Who should we sell to first? | [ICP: a 10-minute field test](playbooks/01-strategy-and-buyers/icp.md#10-minute-field-test) |

@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Goal; Audience; Creative / unique take](../assets/illustrations/worksheet-campaign-brief.webp)
-
 ## Goal
 
 - Perception we are trying to move, or OKR this ladders to:

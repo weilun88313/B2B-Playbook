@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Job; Audience; Buy](../assets/illustrations/worksheet-paid-media.webp)
-
 ## Job
 
 - Creation / capture / follow (one):

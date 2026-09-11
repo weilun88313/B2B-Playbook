@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Permission; Story; After](../assets/illustrations/worksheet-case-study.webp)
-
 ## Permission
 
 - Public name:

@@ -17,6 +17,8 @@ jobs:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           persist-credentials: false
+      - name: Check generated entrypoints
+        run: python3 scripts/sync-entrypoints.py --check
       - name: Check content, links, mirrors, and navigation
         run: python3 scripts/check-content.py
       - name: Test reading safeguards

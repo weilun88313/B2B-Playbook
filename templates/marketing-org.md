@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Context; Next hire; Coverage](../assets/illustrations/worksheet-marketing-org.webp)
-
 ## Context
 
 - Primary motion:

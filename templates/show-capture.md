@@ -11,8 +11,6 @@ Copyright © 2026 Ivan Xu. Private operating copy permitted. See LICENSE.
 
 ---
 
-![Show; Capture (one conversation); Post-show rank](../assets/illustrations/worksheet-show-capture.webp)
-
 ## Show
 
 - Event / dates:
