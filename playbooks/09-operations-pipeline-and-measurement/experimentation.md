@@ -2,7 +2,7 @@
 title: "Experimentation"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 A useful experiment helps you decide what to do next. Write down the assumption, the smallest reasonable test, and how you will interpret the result before you start. Record what happened so the next person does not have to repeat the same guess.
 
@@ -174,7 +174,7 @@ This is an owner-maintained operating synthesis. It is not a causal-inference te
 
 Hypothesis → small informative test → classify the learning → feed ICP, message, channel, and scoring is distilled from a public GTM testing essay ([Heinz Marketing, Win Dean-Salyards, undated 2026 planning post](https://www.heinzmarketing.com/blog/planning-your-gtm-testing-strategy-for-2026-from-hypothesis-to-scalable-growth/?ref=b2b-playbook)). That essay is a **method prompt**, not a source to copy. Vertical examples, suggested quarterly test counts, and vendor scoring tools named there are not this library’s calendar or a requirement to buy a platform.
 
-The weekly review as the growth-mindset ritual, the warning not to A/B-test strategy questions, and the engine / lubricant / turbo split (Racecar) draw on Elena Verna’s public framework essays ([9 favorite growth frameworks, 2024-10-25](https://www.elenaverna.com/p/my-9-favorite-growth-frameworks?ref=b2b-playbook); [weekly experiment review](https://elenaverna.substack.com/p/improve-growth-mindset-in-your-company?ref=b2b-playbook)). Racecar as originally written by Lenny Rachitsky and Dan Hockenmaier stays with those authors. None of those pieces are a command to hire a growth squad or to copy Dropbox’s loop.
+The weekly review as the growth-mindset ritual, the warning not to A/B-test strategy questions, and the engine / lubricant / turbo split (Racecar) draw on Elena Verna’s framework essays ([9 favorite growth frameworks, 2024-10-25](https://www.elenaverna.com/p/my-9-favorite-growth-frameworks?ref=b2b-playbook); [weekly experiment review (subscription may be required)](https://www.elenaverna.com/p/improve-growth-mindset-in-your-company?ref=b2b-playbook)). Racecar as originally written by Lenny Rachitsky and Dan Hockenmaier stays with those authors. None of those pieces are a command to hire a growth squad or to copy Dropbox’s loop.
 
 ---
 
