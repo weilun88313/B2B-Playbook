@@ -98,14 +98,15 @@ def build_demo():
     score["E3"] = "Date"
     score["F3"] = ""
     input_cell(score["F3"])
-    score["A4"] = "Discovery complete?"
-    score["B4"] = "yes / no / unknown"
+    score["A4"] = "Coach"
+    score["B4"] = ""
     input_cell(score["B4"])
-    score["C4"] = "Coach"
-    score["D4"] = ""
+    score["C4"] = "Discovery complete?"
+    score["D4"] = "yes / no / unknown"
     input_cell(score["D4"])
 
     header_row(score, 6, ["#", "Section", "Question", "Score 1–5 (blank = incomplete)", "Notes", "Section average"])
+    score.row_dimensions[6].height = 34
 
     rows = [
         (1, "People", "Were the required buying seats actually in the demo?"),
