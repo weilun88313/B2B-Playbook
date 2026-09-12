@@ -909,7 +909,7 @@ Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-
 
 Next in this chapter is [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data): how to check whether a contact record and route are accurate, appropriate, and usable before anyone acts on them.
 
-Use [SDR handoff](sdr-handoff.md) for the acceptance contract, context transfer, and feedback loop. Converting a record alone does not complete the transfer.
+Use [SDR handoff](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-handoff) for the acceptance contract, context transfer, and feedback loop. Converting a record alone does not complete the transfer.
 
 ## Sources and evidence boundary
 

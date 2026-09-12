@@ -20,7 +20,7 @@ A new visitor should be able to understand what you sell, who it helps, and wher
 ## Do not use this when
 
 - Positioning is empty. Finish [positioning](../02-product-marketing/positioning.md) first. A prettier hero will not invent a category.
-- The work is one paid campaign’s promise. Use a dedicated [landing page](landing-page.md). Do not hijack `/` for a quarter’s ad.
+- The work is one paid campaign’s promise. Use a dedicated [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). Do not hijack `/` for a quarter’s ad.
 - You need the comparison, pricing, or demo path itself. Those are sibling pages in this domain.
 - The request is a visual-identity refresh with no message change.
 

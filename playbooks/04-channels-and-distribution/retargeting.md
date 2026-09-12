@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Paid social](paid-social.md) · [Privacy and compliance operations](../09-operations-pipeline-and-measurement/privacy-and-compliance-operations.md)
+[Paid social](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-social) · [Privacy and compliance operations](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/privacy-and-compliance-operations)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

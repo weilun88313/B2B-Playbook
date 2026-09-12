@@ -51,12 +51,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-Use [thought leadership](thought-leadership.md) to sharpen the argument and [creator partnership](../04-channels-and-distribution/creator-partnership.md) for paid or jointly produced collaborations.
+Use [thought leadership](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/thought-leadership) to sharpen the argument and [creator partnership](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/creator-partnership) for paid or jointly produced collaborations.
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -20,7 +20,7 @@ Analytics can show a recorded click path, while buyers may tell you a different 
 
 ## Do not use this when
 
-- Lifecycle words are undefined. You will measure noise. Define [shared lifecycle stages](lifecycle-stages.md) first or at least the [lead-scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring) actions.
+- Lifecycle words are undefined. You will measure noise. Define [shared lifecycle stages](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lifecycle-stages) first or at least the [lead-scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring) actions.
 - You need a test design. That is [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation).
 - You need next year’s capacity math. That is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning).
 - The request is to implement a vendor’s multi-touch model as the source of truth.
@@ -144,7 +144,7 @@ The model *is* a metric policy. Use this table as the refuse list:
 
 ## What to read next
 
-The form that collects SRA is [demo request](../07-website-and-conversion/demo-request.md). The buys that need two scoreboards are [paid media](../04-channels-and-distribution/paid-media.md) and [LinkedIn organic](../04-channels-and-distribution/linkedin-organic.md). Tests that can change the plan are [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). Whether next year’s number is possible is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Person-level routing stays [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). Use [funnel model](funnel-model.md) and [pipeline model](pipeline-model.md) for progression, cohorts, and commercial planning.
+The form that collects SRA is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). The buys that need two scoreboards are [paid media](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-media) and [LinkedIn organic](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/linkedin-organic). Tests that can change the plan are [experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation). Whether next year’s number is possible is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Person-level routing stays [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). Use [funnel model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/funnel-model) and [pipeline model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/pipeline-model) for progression, cohorts, and commercial planning.
 
 ## Sources and evidence boundary
 
@@ -153,7 +153,7 @@ This is an owner-maintained operating synthesis.
 - **Two clocks: capture the 5, create among the 95; creative and media as inputs.** LinkedIn B2B Institute [95-5](https://www.linkedin.com/business/marketing/blog/research-and-insights/why-you-should-follow-the-95-5-rule?ref=b2b-playbook) and [CMO Scorecard](https://business.linkedin.com/advertise/resources/b2b-institute/cmo-scorecard?ref=b2b-playbook).
 - **Open-text HDYHAU on declared-intent forms; software = capture, SRA = creation; read both.** Refine Labs [Attribution Mirage](https://www.refinelabs.com/blog/attribution-mirage?ref=b2b-playbook) and [Hybrid Attribution Framework](https://www.refinelabs.com/blog/hybrid-attribution-framework?ref=b2b-playbook). Sample sizes, &#36;21.5MM, and the 90% figure are **their** study. Method only.
 - Board-level SaaS metrics: Kellblog as a **company** scoreboard voice—not as channel attribution.
-- Multi-touch SaaS products are tools. They are not this method. [Attribution](attribution.md) explains model math while retaining the distinction between tracked paths, buyer reports, and causal evidence.
+- Multi-touch SaaS products are tools. They are not this method. [Attribution](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/attribution) explains model math while retaining the distinction between tracked paths, buyer reports, and causal evidence.
 
 ---
 

@@ -50,12 +50,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-For existing communities use [community participation](../04-channels-and-distribution/community.md); for product users use [customer community](../08-lifecycle-and-customer-marketing/customer-community.md).
+For existing communities use [community participation](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/community); for product users use [customer community](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-community).
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

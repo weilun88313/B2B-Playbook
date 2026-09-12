@@ -44,12 +44,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Content distribution](content-distribution.md) · [Video](../03-brand-story-and-content/video.md)
+[Content distribution](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-distribution) · [Video](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/video)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

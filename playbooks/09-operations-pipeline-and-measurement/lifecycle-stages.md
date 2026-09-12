@@ -45,12 +45,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[CRM data model](crm-data-model.md) · [Routing and SLA](routing-and-sla.md) · [Lifecycle email](../08-lifecycle-and-customer-marketing/lifecycle-email.md)
+[CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model) · [Routing and SLA](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/routing-and-sla) · [Lifecycle email](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/lifecycle-email)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

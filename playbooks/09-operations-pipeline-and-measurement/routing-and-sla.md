@@ -45,12 +45,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[SDR handoff](../05-outbound-and-prospecting/sdr-handoff.md) · [CRM data model](crm-data-model.md) · [Dashboards](dashboards.md)
+[SDR handoff](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-handoff) · [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model) · [Dashboards](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/dashboards)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

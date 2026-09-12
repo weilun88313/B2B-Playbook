@@ -81,7 +81,7 @@ If the renewal includes a price move, it was decided on [pricing and packaging](
 
 ### Step 5: Record and learn from a lost renewal
 
-Cancel goes into [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) as gross. Use [win-back](win-back.md) when a relevant change justifies re-engagement. Do not relabel a lost renewal as “nurture.”
+Cancel goes into [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) as gross. Use [win-back](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/win-back) when a relevant change justifies re-engagement. Do not relabel a lost renewal as “nurture.”
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 

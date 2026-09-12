@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Account research](account-research.md) · [Contact data](contact-data.md) · [Cold email](cold-email.md)
+[Account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/account-research) · [Contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data) · [Cold email](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/cold-email)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

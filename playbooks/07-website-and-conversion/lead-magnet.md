@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Forms and chat](forms-and-chat.md) · [Content distribution](../04-channels-and-distribution/content-distribution.md) · [Lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md)
+[Forms and chat](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/forms-and-chat) · [Content distribution](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-distribution) · [Lead nurture](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/lead-nurture)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Customer advocacy](customer-advocacy.md) · [Affiliate program](../06-account-field-and-partner/affiliate-program.md) · [SDR handoff](../05-outbound-and-prospecting/sdr-handoff.md)
+[Customer advocacy](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-advocacy) · [Affiliate program](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/affiliate-program) · [SDR handoff](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/sdr-handoff)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

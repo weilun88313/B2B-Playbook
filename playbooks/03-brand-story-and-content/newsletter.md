@@ -50,12 +50,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-Protect the sending route with [email deliverability](../05-outbound-and-prospecting/email-deliverability.md); distinguish publication from [lifecycle email](../08-lifecycle-and-customer-marketing/lifecycle-email.md).
+Protect the sending route with [email deliverability](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/email-deliverability); distinguish publication from [lifecycle email](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/lifecycle-email).
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

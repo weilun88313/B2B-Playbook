@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Review sites](../04-channels-and-distribution/review-sites.md) · [Customer advocacy](customer-advocacy.md) · [Proof and claims](../02-product-marketing/proof-and-claims.md)
+[Review sites](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/review-sites) · [Customer advocacy](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-advocacy) · [Proof and claims](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/proof-and-claims)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

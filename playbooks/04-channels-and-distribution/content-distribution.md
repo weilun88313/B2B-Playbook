@@ -44,12 +44,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Channel strategy](channel-strategy.md) · [Content syndication](content-syndication.md) · [Content repurposing](content-repurposing.md)
+[Channel strategy](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/channel-strategy) · [Content syndication](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-syndication) · [Content repurposing](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-repurposing)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

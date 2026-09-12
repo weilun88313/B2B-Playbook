@@ -628,7 +628,7 @@ Use [Content strategy](../03-brand-story-and-content/content-strategy.md) to cho
 
 For related search decisions, read [SEO & AEO](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/seo-and-aeo). For routing and evaluation, continue with [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md).
 
-The [Buffer syndication case](../../use-cases/buffer-syndication.md) is an editorial example, not a paid-lead benchmark. Use [content distribution](content-distribution.md) to plan owned, partner, and other relevant routes to an asset.
+The [Buffer syndication case](https://b2-b-playbook.mintlify.app/use-cases/buffer-syndication) is an editorial example, not a paid-lead benchmark. Use [content distribution](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-distribution) to plan owned, partner, and other relevant routes to an asset.
 
 ## Sources and evidence boundary
 

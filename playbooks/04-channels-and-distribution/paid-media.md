@@ -796,7 +796,7 @@ For the destination, read [Homepage](../07-website-and-conversion/homepage.md), 
 
 [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md) provide the deeper measurement and comparison methods.
 
-Continue with [paid search](paid-search.md), [paid social](paid-social.md), or [retargeting](retargeting.md) for channel-specific execution. This article supplies the shared decision process.
+Continue with [paid search](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-search), [paid social](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/paid-social), or [retargeting](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/retargeting) for channel-specific execution. This article supplies the shared decision process.
 
 ## Sources and evidence boundary
 

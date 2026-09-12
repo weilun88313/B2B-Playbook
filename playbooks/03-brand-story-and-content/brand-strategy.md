@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-Choose [category entry points](../01-strategy-and-buyers/category-entry-points.md), then develop a [brand narrative](brand-narrative.md) and [content distribution](../04-channels-and-distribution/content-distribution.md) plan.
+Choose [category entry points](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/category-entry-points), then develop a [brand narrative](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content/brand-narrative) and [content distribution](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-distribution) plan.
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

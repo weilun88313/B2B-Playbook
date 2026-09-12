@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Experimentation](../09-operations-pipeline-and-measurement/experimentation.md) · [Demo request](demo-request.md) · [Dashboards](../09-operations-pipeline-and-measurement/dashboards.md)
+[Experimentation](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/experimentation) · [Demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request) · [Dashboards](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/dashboards)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

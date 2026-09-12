@@ -46,12 +46,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-Use [demo](../02-product-marketing/demo.md) for live buying conversations and [content repurposing](../04-channels-and-distribution/content-repurposing.md) for adaptations.
+Use [demo](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/demo) for live buying conversations and [content repurposing](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/content-repurposing) for adaptations.
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/03-brand-story-and-content) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

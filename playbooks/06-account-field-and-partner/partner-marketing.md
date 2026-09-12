@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Ecosystem](ecosystem.md) · [Co-marketing](co-marketing.md) · [Channel marketing](channel-marketing.md)
+[Ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem) · [Co-marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/co-marketing) · [Channel marketing](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/channel-marketing)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

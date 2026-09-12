@@ -50,12 +50,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-Use [segmentation](segmentation.md) to choose groups that require different actions, then [idea validation](idea-validation.md) to test the proposed offer.
+Use [segmentation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/segmentation) to choose groups that require different actions, then [idea validation](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers/idea-validation) to test the proposed offer.
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/01-strategy-and-buyers) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

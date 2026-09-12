@@ -44,12 +44,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Homepage](homepage.md) · [Product page](product-page.md) · [Documentation](documentation.md)
+[Homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage) · [Product page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/product-page) · [Documentation](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/documentation)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

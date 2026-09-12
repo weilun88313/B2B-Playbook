@@ -46,12 +46,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Lead scoring](lead-scoring.md) · [ABM strategy](../06-account-field-and-partner/abm-strategy.md) · [Buying signals](../05-outbound-and-prospecting/buying-signals.md)
+[Lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring) · [ABM strategy](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/abm-strategy) · [Buying signals](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/buying-signals)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

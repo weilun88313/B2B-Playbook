@@ -48,12 +48,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-[Documentation](../07-website-and-conversion/documentation.md) · [Customer onboarding](customer-onboarding.md) · [Customer community](customer-community.md)
+[Documentation](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/documentation) · [Customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding) · [Customer community](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-community)
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

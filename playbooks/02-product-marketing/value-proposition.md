@@ -51,12 +51,12 @@ The workflow and worked example are original operating guidance. Example numbers
 
 ## What to read next
 
-Establish the competitive frame with [positioning](positioning.md), substantiate promises through [proof and claims](proof-and-claims.md), then build [messaging](messaging.md).
+Establish the competitive frame with [positioning](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/positioning), substantiate promises through [proof and claims](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/proof-and-claims), then build [messaging](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing/messaging).
 
-[Chapter guide](README.md) · [All playbooks](../README.md)
+[Chapter guide](https://b2-b-playbook.mintlify.app/playbooks/02-product-marketing) · [All playbooks](https://b2-b-playbook.mintlify.app/playbooks)
 
 ---
 
-Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](https://b2-b-playbook.mintlify.app/copyright).
 
 Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

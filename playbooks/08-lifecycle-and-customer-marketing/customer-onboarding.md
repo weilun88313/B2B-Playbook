@@ -21,7 +21,7 @@ Signing the contract is the start of another piece of work. Help the customer ge
 ## Do not use this when
 
 - There is no signed customer. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
-- The product is truly self-serve and the only job is an email series. Use [lifecycle email](lifecycle-email.md) for that communication—do not invent a professional-services factory.
+- The product is truly self-serve and the only job is an email series. Use [lifecycle email](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/lifecycle-email) for that communication—do not invent a professional-services factory.
 - You need the ongoing CS operating system. That is [customer success](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-success).
 
 <a id="one-rule"></a>
