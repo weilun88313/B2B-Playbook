@@ -2,9 +2,9 @@
 title: "Attribution"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Attribution allocates credit among recorded interactions under a defined model. It answers how a system distributes observed credit. It does not, by itself, prove how much revenue would disappear if a channel were removed.
+The ad platform credits a sale to an advertisement. The buyer says a colleague recommended you. Both can describe part of what happened. Attribution assigns credit to recorded interactions under a chosen rule; understanding that rule helps you use the report without asking it to explain the entire buying decision.
 
 ## State the measurement boundary
 
@@ -12,11 +12,11 @@ Define the outcome, entity, eligible touchpoints, lookback window, and identity 
 
 ## Build and compare models
 
-1. **Clean the outcome ledger.** Deduplicate conversions or opportunities and use a consistent value basis. Separate created pipeline, won revenue, and collected cash.
-2. **Specify touch eligibility.** Decide which interactions count and how repeated events are collapsed. A thousand page events should not automatically earn a thousand times the credit of a meaningful conversation.
+1. **Check the records you are counting.** Deduplicate conversions or opportunities and use a consistent value basis. Separate created pipeline, won revenue, and collected cash.
+2. **Decide which interactions count.** Decide which interactions count and how repeated events are collapsed. A thousand page events should not automatically earn a thousand times the credit of a meaningful conversation.
 3. **Apply transparent rules first.** First-touch assigns eligible credit to the earliest recorded touch; last-touch to the latest; a custom linear model divides it across eligible touches. These are analytical examples, not a claim that every platform currently offers each model.
 4. **Reconcile totals.** Within one model and outcome ledger, allocated value plus explicitly unallocated value should equal the included outcome value. Do not add platform totals when several systems claim the same conversion.
-5. **Compare sensitivity.** Change the model or lookback window and inspect which conclusions move. Keep data-driven platform models labeled with their scope and limitations.
+5. **See whether changing the rule changes your conclusion.** Change the model or lookback window and inspect which conclusions move. Keep data-driven platform models labeled with their scope and limitations.
 6. **Use other evidence for budget decisions.** Combine recorded paths with buyer-reported discovery, qualitative context, and well-designed incrementality experiments where feasible.
 
 ## Worked example
@@ -40,11 +40,15 @@ The three reports describe the same deal. Adding them would falsely create &#36;
 
 Large differences between models can be useful evidence about the recorded journey and its gaps. Investigate them before choosing the model that flatters a preferred channel. Keep an explicit distinction between attributed, influenced, and experimentally estimated incremental outcomes.
 
+## Try it with your own work
+
+Take one won deal and compare its recorded touchpoints with the buyer’s account of how they found you. Note the gaps before deciding what the channel report means for your budget.
+
 ## Sources and scope
 
 - [Google Analytics: attribution](https://support.google.com/analytics/answer/10596866?ref=b2b-playbook) defines model-based credit allocation and current platform options; the three-touch arithmetic is a custom illustrative example.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

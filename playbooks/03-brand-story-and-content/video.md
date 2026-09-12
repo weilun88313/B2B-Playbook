@@ -2,9 +2,9 @@
 title: "Video"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Use video when motion, sequence, demonstration or a person's explanation makes the idea easier to understand. A video should have a specific communication job before it has a production budget.
+A paragraph explains where to click, but a short recording would make the sequence obvious. Video is useful when seeing or hearing the work helps someone understand it. Choose that job first, then make the simplest clear recording that does it.
 
 ## Pick the job and viewing context
 
@@ -38,11 +38,15 @@ The final screen links to the setup guide. The team tests whether viewers can de
 
 Ask someone unfamiliar with the script to explain the idea after watching. Fix comprehension before optimizing reach. Review abandonment points with the viewing context in mind, and separate autoplay impressions from deliberate viewing. Keep the source project and an update plan so an inaccurate clip can be corrected wherever it was distributed.
 
+## Try it with your own work
+
+Pick one task people often misunderstand. Sketch three shots: the starting situation, the important action, and the result. Include what a viewer needs to hear or read to follow along.
+
 ## Sources and scope
 
 - [W3C Web Accessibility Initiative: audio and video media](https://www.w3.org/WAI/media/av/?ref=b2b-playbook) provides accessibility planning guidance. The production process and evaluation example here are original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

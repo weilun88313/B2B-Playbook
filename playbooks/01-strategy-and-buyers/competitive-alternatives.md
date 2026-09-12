@@ -2,9 +2,9 @@
 title: "Competitive alternatives"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-The most important competitor may be the approach a buyer already uses. An internal analyst, an agency, a spreadsheet or postponing the project can be a rational choice. Positioning starts to improve when these alternatives become concrete.
+You prepared a comparison with another vendor. The buyer says they may simply keep using their spreadsheet. That answer is worth exploring. To explain why someone should choose your product, first understand what they would do without it—including continuing with a workable process.
 
 ## Investigate the actual choice
 
@@ -43,11 +43,15 @@ Next question or evaluation task:
 
 Keep pricing units and package scopes comparable. Do not present an outdated screenshot as a current limitation or treat absence from a feature list as proof of absence. Obtain approval for customer-specific examples before publishing them. Internally, track no-decision reasons separately from named-competitor losses: they call for different responses.
 
+## Try it with your own work
+
+Ask a recent buyer, “If you had not chosen us, what would you have done?” Add their answer to your comparison, including what makes that alternative attractive.
+
 ## Sources and scope
 
 - [US Small Business Administration: competitive analysis](https://www.sba.gov/counseling/plan-your-business/?ref=b2b-playbook) includes indirect competition and market context. The buyer-level decision map here is an original workflow.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

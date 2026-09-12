@@ -3,7 +3,7 @@ title: "Account planning"
 sidebarTitle: "Account Planning"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 An account plan helps everyone working with a customer see the same picture. Keep the business context, key people, open questions, and next actions in one place. Review it often enough that it stays useful for actual conversations.
 
@@ -176,7 +176,7 @@ Mid-market analytics buyer. One live opportunity. AE owns the file. Marketing ha
 | Stage-mapped actions vs slogans | Whether the attack plan is real |
 | Unknown required seats | Committee work still open |
 | Last-90 completion | Whether the team does what it writes |
-| Reference/advocacy asks on healthy accounts | Health check is not theater |
+| Reference/advocacy asks on healthy accounts | Whether the customer is doing well enough to welcome an advocacy request |
 
 Do not count pages in a template, SWOT workshops completed, or “strategic” tags in the CRM as success.
 

@@ -2,9 +2,9 @@
 title: "SDR handoff"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-An SDR handoff transfers a live buyer conversation into discovery or another appropriate next step. It should preserve what the buyer said, what the company promised, and what remains unknown. A calendar invitation alone does not accomplish that.
+The meeting starts, and the buyer has to repeat everything they already told your colleague. A better handoff brings that context into the room: why the buyer agreed to talk, what you promised, and what you still need to learn. This is the work behind transferring a prospecting conversation to sales.
 
 ## Agree the acceptance standard
 
@@ -40,11 +40,15 @@ The account executive accepts and starts by confirming the migration goal, rathe
 
 Track acceptance, time to ownership, attendance, and progression with consistent denominators. A rejected handoff can be appropriate if the wrong team received it. Investigate patterns: repeated missing context needs coaching; repeated territory rejection needs a routing fix. Never inflate opportunity creation simply to reward meeting volume.
 
+## Try it with your own work
+
+Review the last meeting passed from prospecting to sales. Could the receiver find the buyer’s question and your promises before the call? Add whichever piece was missing.
+
 ## Sources and scope
 
 - [Salesforce: sales pipeline](https://www.salesforce.com/sales/pipeline/?ref=b2b-playbook) provides a general progression reference. The acceptance contract and example here are original operating guidance.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

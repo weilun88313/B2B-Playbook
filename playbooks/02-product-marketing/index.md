@@ -3,9 +3,7 @@ title: "02 · Product marketing"
 sidebarTitle: "Overview"
 ---
 
-Turn what you know about customers into a clear offer. Work through positioning, messaging, pricing, and the material people need to make a buying decision.
-
-**Status:** Domain guide published · 10 tactic playbooks published
+A buyer understands the features but still cannot explain why they should choose you. This chapter helps you make the offer easier to understand, show how it works, and answer the questions that come before a purchase.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -13,35 +11,38 @@ Turn what you know about customers into a clear offer. Work through positioning,
 
 ## Start here
 
-- [Positioning](/playbooks/02-product-marketing/positioning) — current alternative.
-- [Messaging](/playbooks/02-product-marketing/messaging) — one main promise.
-- [Sales enablement](/playbooks/02-product-marketing/sales-enablement) — explain the problem.
+1. [Explain why someone would choose you](/playbooks/02-product-marketing/positioning) — Start with the alternatives the buyer is actually considering.
+2. [Put the offer into clear words](/playbooks/02-product-marketing/messaging) — Give your contact an explanation they can share with a colleague.
+3. [Show the useful part](/playbooks/02-product-marketing/demo) — Build a demonstration around the buyer’s task.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Positioning](/playbooks/02-product-marketing/positioning) | How should the product be framed against the buyer's alternatives, and what is actually being positioned? |
-| [Messaging](/playbooks/02-product-marketing/messaging) | How should positioning become a hierarchy of audience-specific messages? |
-| [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence) | What should teams know and do when alternatives enter the decision? |
-| [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging) | How should the offer convert differentiated value into a number the champion can defend? |
-| [Product launch](/playbooks/02-product-marketing/product-launch) | How should a product change become a coordinated market event—and when should it not? |
-| [Sales enablement](/playbooks/02-product-marketing/sales-enablement) | How should positioning become a first meeting that helps the buyer choose? |
-| [Demo](/playbooks/02-product-marketing/demo) | What must the product walk prove after the pitch, and how do we score it? |
-| [Change friction](/playbooks/02-product-marketing/change-friction) | When value is prevention or a crowded stack, how do we qualify the fix? |
+| [Positioning](/playbooks/02-product-marketing/positioning) | Why would a suitable buyer choose us over the alternatives? |
+| [Messaging](/playbooks/02-product-marketing/messaging) | How can we explain the offer in words the buyer can share? |
+| [Competitive intelligence](/playbooks/02-product-marketing/competitive-intelligence) | What do we actually know about the alternatives, and what has changed? |
+| [Pricing and packaging](/playbooks/02-product-marketing/pricing-and-packaging) | What should each package include, and how should we charge? |
+| [Product launch](/playbooks/02-product-marketing/product-launch) | What needs to work before inviting people to try the product? |
+| [Sales enablement](/playbooks/02-product-marketing/sales-enablement) | What would help a salesperson answer the next buyer question? |
+| [Demo](/playbooks/02-product-marketing/demo) | How do we show the product solving a task the buyer recognizes? |
+| [Change friction](/playbooks/02-product-marketing/change-friction) | What makes switching difficult, even when the buyer likes the product? |
+| [Value proposition](/playbooks/02-product-marketing/value-proposition) | What useful change can this customer expect from our offer? |
+| [Proof and claims](/playbooks/02-product-marketing/proof-and-claims) | What can we confidently say, and what evidence supports it? |
 
-| [Value proposition](/playbooks/02-product-marketing/value-proposition) | What valuable outcome is promised, for whom, and why is it credible? |
-| [Proof and claims](/playbooks/02-product-marketing/proof-and-claims) | Which evidence is strong enough to support each commercial claim? |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Choose one sentence from your website. Explain it aloud as if a customer had just asked, “What would that help my team do?” Revise the sentence with that answer.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Brand, story & content](/playbooks/03-brand-story-and-content) for a related part of the work.
 
 [Back to the playbook index](/playbooks)
+
+**Status:** Domain guide published · 10 tactic playbooks published
 
 ---
 

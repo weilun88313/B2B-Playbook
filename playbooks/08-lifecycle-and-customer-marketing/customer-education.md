@@ -2,9 +2,9 @@
 title: "Customer education"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Customer education helps people perform a task successfully with the product. The curriculum should follow the user's work and role, not simply the order of features in the interface.
+A user watches the training but still needs help completing the task. The lesson may explain the features without giving them a chance to practice. Customer education starts with something the learner needs to do and works backward to the explanation, exercise, and feedback that will help.
 
 ## Choose an observable learning outcome
 
@@ -40,11 +40,15 @@ This reveals whether they understand the operating model, not just whether they 
 
 Compare successful task performance, time to independent use, and relevant support patterns. Account for differences in customer complexity before attributing adoption improvements to training. Course enrollment is a reach measure; learning and customer outcomes need their own evidence.
 
+## Try it with your own work
+
+Choose one common task. Give a learner test data, a clear goal, and a way to check the result. Watch where they need help before adding another lesson.
+
 ## Sources and scope
 
 - [Diátaxis](https://diataxis.fr/?ref=b2b-playbook) distinguishes learning-oriented tutorials from other documentation needs; lesson design and assessment here are original guidance.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

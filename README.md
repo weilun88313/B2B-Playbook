@@ -1,18 +1,28 @@
 # B2B Playbook
 
-Practical guides for finding customers, explaining your product, and building a B2B marketing team that learns.
+A practical field guide for founders and small B2B teams finding customers, explaining their product, and helping people succeed with it.
 
 ![Understand your buyers, help them choose, and learn from what happens.](assets/illustrations/library.webp)
 
 **[Read the library on Mintlify](https://b2-b-playbook.mintlify.app)** · [中文简介](README.zh.md) · [Browse the playbooks](playbooks/)
 
-**Current coverage:** 131 published playbooks · 56 working files · 43 curated tools · 20 reading sources · 9 domain guides
-
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
+
+You might be writing a first outreach email, preparing for a customer call, or trying to understand why a campaign did not work. Pick the guide for that job. Work through an example, copy a useful worksheet, and adapt it to your situation. You can come back for the rest.
+
+**Free to read.** Working files can be copied for your team’s private use under the [reuse terms](LICENSE).
 
 ## Start with the work in front of you
 
-For a guided task with a filled example and completion criteria, choose one of [three practical starting paths](playbooks/start-here.md): first customers, outreach, or trade-show follow-up.
+If you would like a guided start, these three paths pair the reading with something you can use:
+
+| Work on this | Leave with |
+|---|---|
+| [Choose your first customers](https://b2-b-playbook.mintlify.app/playbooks/start-here#find-your-first-customers) | One audience to explore and a question to ask them |
+| [Prepare an outreach test](https://b2-b-playbook.mintlify.app/playbooks/start-here#prepare-and-review-an-outreach-test) | A relevant message and a simple way to learn from replies |
+| [Plan event follow-up](https://b2-b-playbook.mintlify.app/playbooks/start-here#plan-a-trade-show-follow-up-workflow) | A conversation record with an owner and an agreed next step |
+
+Already know what you need? Jump straight to a guide:
 
 | Your question | Start here |
 |---|---|
@@ -74,15 +84,18 @@ The Skill provides guidance. It does not send messages or change your CRM. [Read
 
 ## About this library
 
-I am Ivan Xu. Lensmor is my product. I maintain this library for founders and B2B marketing teams who want practical help with their work.
+I’m Ivan Xu, the founder of Lensmor. I maintain B2B Playbook to make the everyday work of building and marketing a B2B product easier to think through. The aim is useful explanations you can bring to a real task, whether you are doing the work yourself or alongside a team.
 
 - English is the main language. [README.zh.md](README.zh.md) is a separate Chinese introduction, updated alongside this page.
 - Read comfortably on [Mintlify](https://b2-b-playbook.mintlify.app). GitHub holds the source and revision history.
 - Illustrative examples are labelled. Company cases link to dated primary sources; reported results have not been independently audited.
 - Tools are not paid placements. Lensmor is my product, and its entry says so.
 - Third-party links use `ref=b2b-playbook` to identify the referral source. It is not an affiliate code.
-- All 131 topics in the original nine-chapter outline are published. Guides will continue to evolve with reader feedback and new evidence.
+- This is a living reference. A guide can be a useful starting point while still leaving room for your judgment and a better example.
+- The repository is public to read; its content is not released under an open-source license. The reuse terms explain what you can copy or republish.
+
+**Current coverage:** 131 published playbooks · 56 working files · 43 curated tools · 20 reading sources · 9 domain guides
 
 You can make a private working copy of the templates. Republishing the content requires permission; see the [copyright and reuse terms](LICENSE).
 
-If a page helps, **star the repository** to save it, or share that specific page with someone facing the same problem.
+If a page helps, share it with someone working on the same problem, or **star the repository** to keep it handy. If something is confusing, [tell me which step lost you](https://github.com/weilun88313/B2B-Playbook/issues/new?template=reader-feedback.yml). A question from real use is a useful starting point for the next edit.

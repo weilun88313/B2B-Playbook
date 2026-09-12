@@ -2,9 +2,9 @@
 title: "Documentation and resource center"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Documentation helps readers implement, operate, and evaluate the product accurately. A resource center may also contain educational or commercial material. Make the distinction visible so a user can find an authoritative answer without guessing which article is current.
+A user follows the setup guide and gets a permission error the page never mentioned. Good documentation helps them complete the task, understand the result, and recover when something goes wrong. Begin with the questions people actually bring to support or evaluation calls.
 
 ## Organize by the reader's need
 
@@ -40,11 +40,15 @@ The reference page retains detailed field definitions; the tutorial uses a small
 
 Review task success, failed searches, repeated support questions, and feedback quality. A highly visited troubleshooting page may reveal a product defect rather than documentation success. Use those signals to improve both the instructions and the underlying experience.
 
+## Try it with your own work
+
+Follow one important guide in the supported environment using test data. Write down the first missing prerequisite, unclear step, or unexplained result and fix it in the page.
+
 ## Sources and scope
 
 - [Diátaxis](https://diataxis.fr/?ref=b2b-playbook) is the primary source for the four documentation needs; implementation and review steps here are original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

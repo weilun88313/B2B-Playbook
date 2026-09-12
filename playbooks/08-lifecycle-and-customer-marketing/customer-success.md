@@ -3,7 +3,7 @@ title: "Customer success"
 sidebarTitle: "Customer Success"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 Customer success helps customers achieve the outcome they bought the product for. Make the handoff from sales clear, agree on responsibilities across support and account management, and keep customer progress visible. Retention and expansion should follow from real value.
 
@@ -166,7 +166,7 @@ Forty customers. One CSM, one associate. AE still closes. Renewals sit in CS; up
 |---|---|
 | Renewal win rate and logo vs revenue churn | Whether the book is healthy |
 | Time-to-handoff after close | Wall-throwing |
-| First-response and reopen rate | Support path vs theater |
+| First-response and reopen rate | Whether customers get useful help and problems stay resolved |
 | AE-accept of CS expansion intros | Whether commercial ownership is shared |
 | At-risk list age | Whether red accounts are worked |
 

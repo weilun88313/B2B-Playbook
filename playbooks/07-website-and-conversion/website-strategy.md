@@ -2,9 +2,9 @@
 title: "Website strategy"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Website strategy defines the decisions and tasks the site should support. It turns a collection of pages into a usable path for evaluators, buyers, customers, and other important visitors without forcing all of them into the same conversion.
+A buyer arrives on a product page looking for a supported integration. Another wants to understand the price. A customer just needs help. Website strategy starts by making those visits easier, then deciding which pages and links each person needs.
 
 ## Map the real visits
 
@@ -36,11 +36,15 @@ Success is easier access to accurate compatibility information and fewer avoidab
 
 Prioritize broken paths, unclear claims, inaccessible interactions, and missing decision information before decorative additions. A first release can cover a defined set of journeys well and expand with evidence. Record what is intentionally outside scope so an unfinished path is not presented as available.
 
+## Try it with your own work
+
+Ask someone unfamiliar with the site to find one important buying answer. Watch without guiding them. Use their first point of confusion to choose a specific improvement.
+
 ## Sources and scope
 
 - [Nielsen Norman Group: journey mapping](https://www.nngroup.com/articles/journey-mapping-101/?ref=b2b-playbook) supports thinking in user goals and stages; this website planning workflow is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

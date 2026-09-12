@@ -1,8 +1,6 @@
 # 08 · Lifecycle & customer marketing
 
-The work continues after a signup or a sale. Help people get started, answer their next question, recognise risks, and discuss renewals or expansion when there is a real reason.
-
-**Status:** Domain guide published · 16 tactic playbooks published
+The customer has signed up. Now they need to get something useful done, learn enough to work independently, and know where to turn when they get stuck. Start with that experience; renewals, expansion, and recommendations become more understandable when you know how the customer is doing.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -10,41 +8,44 @@ The work continues after a signup or a sale. Help people get started, answer the
 
 ## Start here
 
-- [Customer onboarding](customer-onboarding.md) — handoff and kickoff.
-- [Lead nurture](lead-nurture.md) — understand the current question.
-- [Renewal marketing](renewal-marketing.md) — review delivered value.
+1. [Help a new customer reach the first useful result](customer-onboarding.md) — Agree on the task, preparation, and responsibilities.
+2. [Teach a task people can practice](customer-education.md) — Check what the learner can do afterward.
+3. [Prepare a useful renewal conversation](renewal-marketing.md) — Bring the customer’s results and unresolved issues together.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Customer success](customer-success.md) | How should people, process, and performance run the book after the sale? |
-| [Customer onboarding](customer-onboarding.md) | How should first value be educated and implemented without mixing the two jobs? |
-| [Onboarding communication](onboarding-communication.md) | What must a new customer know and do to reach first value in *messages*? |
-| [CS-leadership ramp](cs-leadership-ramp.md) | What should a new CS executive actually do in 90 days? |
-| [CS workspace](cs-workspace.md) | Which post-sale fields must exist so CS can see value, cadence, renewal, and risk? |
-| [Revenue churn](revenue-churn.md) | How do we measure revenue leaving the book without letting net hide the leak? |
-| [Lead nurture](lead-nurture.md) | How should a known person learn by state—before they are in-market? |
-| [Expansion marketing](expansion-marketing.md) | When may additional value be introduced—on evidence, not on a launch calendar? |
-| [Renewal marketing](renewal-marketing.md) | How should value be recognized and risk reduced before the commercial path? |
+| [Customer success](customer-success.md) | How do we help customers achieve what they bought the product for? |
+| [Customer onboarding](customer-onboarding.md) | What helps a new customer reach the first useful result? |
+| [Onboarding communication](onboarding-communication.md) | What should a new customer know, prepare, and expect next? |
+| [CS-leadership ramp](cs-leadership-ramp.md) | What should a new customer success leader learn and improve first? |
+| [CS workspace](cs-workspace.md) | Which customer records help the team decide what needs attention? |
+| [Revenue churn](revenue-churn.md) | What are we losing through cancellations and reduced spending? |
+| [Lead nurture](lead-nurture.md) | What would help someone who is interested but not ready to buy? |
+| [Expansion marketing](expansion-marketing.md) | Does this customer have a new need we can usefully serve? |
+| [Renewal marketing](renewal-marketing.md) | What would make the renewal conversation clear and well prepared? |
+| [Lifecycle email](lifecycle-email.md) | Which message would help at this point, and when should it stop? |
+| [Customer education](customer-education.md) | What should the learner be able to do independently afterward? |
+| [Customer community](customer-community.md) | Where can customers usefully learn from one another? |
+| [Customer advocacy](customer-advocacy.md) | How can willing customers share their experience without being overused? |
+| [Referral program](referral-program.md) | How do we make a relevant introduction easy and trustworthy? |
+| [Review program](review-program.md) | How do we invite honest reviews and learn from the responses? |
+| [Win-back](win-back.md) | Has something changed that makes a return worth considering? |
 
-| [Lifecycle email](lifecycle-email.md) | Which event, state, or behavior should trigger which communication? |
-| [Customer education](customer-education.md) | Which knowledge helps users adopt the product and achieve outcomes? |
-| [Customer community](customer-community.md) | When can customers help one another learn, connect, and succeed? |
-| [Customer advocacy](customer-advocacy.md) | How should willing customers participate without being overused? |
-| [Referral program](referral-program.md) | What value exchange can make trusted introductions repeatable? |
-| [Review program](review-program.md) | How should authentic reviews be requested, governed, and activated? Buyer-visible listings live in [review sites](../04-channels-and-distribution/review-sites.md). |
-| [Win-back](win-back.md) | When and how should an inactive or former customer be re-engaged? |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Choose one new customer and find the last point where they needed help. Decide whether the next improvement belongs in the product, the instructions, or a conversation.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Operations, pipeline & measurement](../09-operations-pipeline-and-measurement/) for a related part of the work.
 
 [Back to the playbook index](../README.md)
+
+**Status:** Domain guide published · 16 tactic playbooks published
 
 ---
 

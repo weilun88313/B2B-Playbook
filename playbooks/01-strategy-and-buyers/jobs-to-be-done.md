@@ -2,9 +2,9 @@
 title: "Jobs to be done"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Jobs to be done asks what progress someone is trying to make in a particular situation. It helps explain why a buyer changes behavior. A feature request tells you what someone asked for; a job investigation asks what made that request matter.
+A customer asks for another dashboard. Before adding it to the roadmap, ask what they were trying to do when they needed it. Perhaps they wanted to explain a surprising number before a finance meeting. “Jobs to be done” is a way to investigate that underlying task and the circumstances that make it matter.
 
 ## Choose a concrete investigation
 
@@ -42,11 +42,15 @@ Next observed task and success condition:
 
 Do not turn every emotion into a new market category. Preserve the interview's context and distinguish exact quotations from your synthesis. Validate proposed language with the people doing the work, then test behavior. A job statement earns its place when it changes product scope, positioning or research; it is not a slogan to put above unchanged feature copy.
 
+## Try it with your own work
+
+Take one recent feature request. Ask the person to walk you through the last time the need came up: what happened, what they tried, and what a useful result would have looked like.
+
 ## Sources and scope
 
 - [Christensen Institute: Jobs to Be Done theory](https://www.christenseninstitute.org/theory/jobs-to-be-done/?ref=b2b-playbook) defines jobs through desired progress and circumstances. The interview sequence and fictional finance example here are original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

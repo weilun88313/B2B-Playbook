@@ -3,9 +3,9 @@ title: "Three practical starting paths"
 sidebarTitle: "Choose a task"
 ---
 
-Choose one task and finish its working file before opening another chapter. Each path below combines a guide, a private copy of a template, and a concrete review point.
+Choose the task closest to what you are doing today. Each path brings together a guide, a working file you can copy, and a filled example to help you get started. Skip what you already know and return when another question comes up.
 
-**Reading edited:** 2026-09-11
+**Reading edited:** 2026-09-12
 
 The examples are fictional teaching examples, not customer results or recommended performance targets. Replace the sample assumptions with evidence from your own work.
 

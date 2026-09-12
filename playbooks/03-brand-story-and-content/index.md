@@ -3,9 +3,7 @@ title: "03 · Brand, story & content"
 sidebarTitle: "Overview"
 ---
 
-Choose the questions worth answering and the stories you can genuinely tell. This chapter covers content planning, founder stories, customer case studies, and longer, sourced arguments.
-
-**Status:** Domain guide published · 12 tactic playbooks published
+You have useful things to share, but deciding what to write or record can take longer than making it. Start with a question your audience already asks. These guides help you turn an answer into an article, story, newsletter, conversation, or other format worth spending time with.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -13,37 +11,40 @@ Choose the questions worth answering and the stories you can genuinely tell. Thi
 
 ## Start here
 
-- [Content strategy](/playbooks/03-brand-story-and-content/content-strategy) — collect buyer questions.
-- [Founder story](/playbooks/03-brand-story-and-content/founder-story) — what you experienced.
-- [Case study](/playbooks/03-brand-story-and-content/case-study) — before the change.
+1. [Choose a question worth answering](/playbooks/03-brand-story-and-content/content-strategy) — Connect the next piece to a real reader need.
+2. [Tell the story behind your work](/playbooks/03-brand-story-and-content/founder-story) — Use a specific experience rather than a polished origin myth.
+3. [Help a customer explain what changed](/playbooks/03-brand-story-and-content/case-study) — Build a useful account of the work, with their permission.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Founder story](/playbooks/03-brand-story-and-content/founder-story) | Which lived experience makes the founder's point of view relevant and credible? |
-| [Content strategy](/playbooks/03-brand-story-and-content/content-strategy) | Which audience questions deserve a durable page, and in what order? |
-| [Case study](/playbooks/03-brand-story-and-content/case-study) | How should a named customer's context, action, and result become forwardable proof? |
-| [White paper](/playbooks/03-brand-story-and-content/white-paper) | When does a sourced long argument deserve a URL—and when must it stay ungated? |
+| [Founder story](/playbooks/03-brand-story-and-content/founder-story) | How can the founder share a specific experience worth learning from? |
+| [Content strategy](/playbooks/03-brand-story-and-content/content-strategy) | Which reader questions deserve our limited writing time? |
+| [Case study](/playbooks/03-brand-story-and-content/case-study) | How do we explain what changed for a customer, with their approval? |
+| [White paper](/playbooks/03-brand-story-and-content/white-paper) | When does a buyer need a longer, well-supported explanation? |
+| [Brand strategy](/playbooks/03-brand-story-and-content/brand-strategy) | What do we want people to remember, and how do we make it credible? |
+| [Brand narrative](/playbooks/03-brand-story-and-content/brand-narrative) | How do we tell a coherent story about why the company exists? |
+| [Thought leadership](/playbooks/03-brand-story-and-content/thought-leadership) | Which useful observation could help a reader reconsider a decision? |
+| [Newsletter](/playbooks/03-brand-story-and-content/newsletter) | What can we send regularly that people will be glad to receive? |
+| [Webinar](/playbooks/03-brand-story-and-content/webinar) | What would be easier to learn through a live explanation and questions? |
+| [Podcast](/playbooks/03-brand-story-and-content/podcast) | What would make someone return for the next conversation? |
+| [Video](/playbooks/03-brand-story-and-content/video) | Where would showing the work make it easier to understand? |
+| [Community-led growth](/playbooks/03-brand-story-and-content/community-led-growth) | What recurring problem could practitioners help each other solve? |
 
-| [Brand strategy](/playbooks/03-brand-story-and-content/brand-strategy) | Which associations and memories should the company build over time? |
-| [Brand narrative](/playbooks/03-brand-story-and-content/brand-narrative) | What durable story connects the market change, buyer problem, and company point of view? |
-| [Thought leadership](/playbooks/03-brand-story-and-content/thought-leadership) | What original, defensible idea can help the market think differently? |
-| [Newsletter](/playbooks/03-brand-story-and-content/newsletter) | What recurring editorial promise will make an audience choose to return? |
-| [Webinar](/playbooks/03-brand-story-and-content/webinar) | How can a live educational session create useful participation and reusable content? |
-| [Podcast](/playbooks/03-brand-story-and-content/podcast) | When can a recurring conversation format deepen authority and relationships? |
-| [Video](/playbooks/03-brand-story-and-content/video) | Which ideas become clearer or more memorable through visual explanation? |
-| [Community-led growth](/playbooks/03-brand-story-and-content/community-led-growth) | When can an *owned* practitioner community create learning, trust, and market insight? Entering a room that already exists is [peer community](/playbooks/04-channels-and-distribution/community). |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Write down one question someone asked about your work this week. Sketch an answer with a concrete example before choosing where to publish it.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Channels & distribution](/playbooks/04-channels-and-distribution) for a related part of the work.
 
 [Back to the playbook index](/playbooks)
+
+**Status:** Domain guide published · 12 tactic playbooks published
 
 ---
 

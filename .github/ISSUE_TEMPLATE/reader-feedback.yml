@@ -1,0 +1,28 @@
+name: A question from reading or trying a guide
+description: Tell us what you were working on and where the guide could help more.
+title: "[Reader feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for taking the time. A short description is enough. Please leave out customer names, contact details, and confidential working data."
+  - type: input
+    id: page
+    attributes:
+      label: Which guide or working file?
+      placeholder: Page title or link
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: What were you trying to do?
+      placeholder: A sentence or two about the task is helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What helped, or where did you get stuck?
+      description: A confusing sentence, a missing example, or a step you could not apply are all useful feedback.
+    validations:
+      required: true

@@ -2,9 +2,9 @@
 title: "Buyer journey"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A buyer journey describes the work people do to recognize a need, evaluate choices, secure agreement and adopt a solution. It is not a diagram of your campaign calendar. Several participants may be doing different parts of that work at the same time.
+Your contact likes the product, but the purchase is stuck. They may still need to persuade a manager, check an integration, or work out who will run it. Mapping the buyer journey helps you see that work from their side and offer the right help at the right moment.
 
 ## Map a real buying situation
 
@@ -43,11 +43,15 @@ Post-purchase dependency:
 
 A good map explains why a buyer is stuck and what could help. Review time spent unresolved, missing participants and repeated questions. Avoid treating a content download as agreement, or an internal CRM stage as the buyer's actual state. Keep the previous version when the map changes so teams can distinguish learning from a renamed process.
 
+## Try it with your own work
+
+Pick one live conversation. Ask your contact, “What needs to happen inside your team before you can decide?” Draw the steps they describe and mark the one that needs help.
+
 ## Sources and scope
 
 - [Nielsen Norman Group: Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/?ref=b2b-playbook) describes journey maps around an actor, scenario, phases, actions and opportunities. This guide adapts that approach to multi-participant B2B decisions.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

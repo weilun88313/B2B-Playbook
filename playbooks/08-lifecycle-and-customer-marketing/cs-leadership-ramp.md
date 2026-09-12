@@ -3,7 +3,7 @@ title: "CS-leadership ramp"
 sidebarTitle: "CS Leadership Ramp"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 Your first months leading customer success are a chance to learn how customers actually experience the company. Listen to customers and the team, check where accounts get stuck, then make a few practical improvements before setting a broader plan.
 
@@ -109,7 +109,7 @@ Working file: [cs-leadership-90.md](../../templates/cs-leadership-90.md).
 
 | Metric | Diagnostic use |
 |---|---|
-| Accounts with a dated strategic touch in 90 days | Whether “success” was theater |
+| Accounts with a dated strategic touch in 90 days | Whether the team has stayed in touch about the customer’s goals |
 | Health/NPS vs actual churn | Score vs book |
 | Time-to-handoff and onboarding TTL/TTV | System vs firefighting |
 | NRR definition changes mid-quarter | Number as costume |

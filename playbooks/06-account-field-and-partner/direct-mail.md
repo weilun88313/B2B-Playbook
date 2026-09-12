@@ -2,9 +2,9 @@
 title: "Direct mail"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Direct mail uses a physical item to support a relevant business conversation. Its value comes from usefulness and context, not the recipient's sense of obligation. Begin with a reason the item belongs in the workflow.
+A printed workbook might make an upcoming workshop easier to follow. A surprise gift might simply leave the recipient wondering what to do with it. Use direct mail when the physical item helps with a real task, and make delivery easy to accept or decline.
 
 ## Decide whether a physical item helps
 
@@ -40,11 +40,15 @@ Two packages are returned. The operator corrects the delivery process instead of
 
 Pause if addresses are unreliable, recipients question the relevance, or the item creates policy friction. A smaller welcomed send is more defensible than a large shipment whose primary outcome is waste. Retain fulfillment data only under the approved retention policy.
 
+## Try it with your own work
+
+Describe what the item helps the recipient do. Check their delivery preferences and relevant gift rules before spending on production, and offer a digital version where useful.
+
 ## Sources and scope
 
 - [ICO direct marketing guidance](https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/?ref=b2b-playbook) is a UK reference for assessing marketing data use. Gift and recipient rules need their own applicable review.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

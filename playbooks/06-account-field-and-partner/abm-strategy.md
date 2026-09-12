@@ -36,7 +36,7 @@ Account-based marketing puts extra effort into a selected group of companies. Ch
 | **Tier** | A resource class—not a feeling. T1 / T2 / T3 means different people-hours |
 | **1:1** | Bespoke program for one account. Rare. Needs a living plan |
 | **1:few** | A cluster that shares one problem, one asset, one table |
-| **1:many** | ICP-wide motion (outbound, content, paid). Not ABM theater with a filter |
+| **1:many** | Reach a broader group of suitable accounts through outreach, content, or ads; keep this distinct from a tailored account program |
 | **Progression** | A dated change in the account (new seat, scoped meeting, mutual plan)—not a click |
 | **Account-driven** | TAM + ICP in the CRM, account **and** contact, signals. Broader than ABM. Not a reason to kill inbound |
 | **Signal** | A dated fact that changes this week’s action (fit, intent, engagement)—not a mood |
@@ -45,7 +45,7 @@ Account-based marketing puts extra effort into a selected group of companies. Ch
 
 ## Keep this in mind
 
-**Tier first, then tactics.** If you cannot say how many T1 accounts you can actually staff this quarter, you do not have ABM. You have a logo mood board. Use [one-to-one ABM](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/one-to-one-abm) and [one-to-few ABM](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/one-to-few-abm) for the corresponding execution plans.
+**Tier first, then tactics.** Start by deciding how many priority accounts your team can realistically support this quarter. That gives you a practical limit for the program. Use [one-to-one ABM](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/one-to-one-abm) and [one-to-few ABM](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/one-to-few-abm) for the corresponding execution plans.
 
 <a id="operating-method"></a>
 
@@ -98,7 +98,7 @@ A “personalized ebook” that no champion would forward is not a play.
 
 ### Step 4: Review progress at account level
 
-Scoreboard: T1/T2 accounts that **progressed** (new relevant seat, scoped meeting, stage move you would defend in [forecasting](../09-operations-pipeline-and-measurement/forecasting.md)). [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) still forbids one UTM to own the account. MQLs from an ABM landing page are capture theater unless the account was already on the list.
+Scoreboard: T1/T2 accounts that **progressed** (new relevant seat, scoped meeting, stage move you would defend in [forecasting](../09-operations-pipeline-and-measurement/forecasting.md)). [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) still forbids one UTM to own the account. Report form submissions separately from progress in the selected accounts. Record whether each account was part of the program before interpreting its activity.
 
 <a id="step-5-review-the-list-on-a-clock"></a>
 

@@ -3,7 +3,7 @@ title: "Executive dinners"
 sidebarTitle: "Executive Dinners"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 A small dinner can give senior buyers time to compare notes with peers. Invite people who share a meaningful problem, choose a focused discussion, and make the evening worth attending without a sales presentation. Follow up on what each person actually discussed.
 
@@ -21,7 +21,7 @@ A small dinner can give senior buyers time to compare notes with peers. Invite p
 ## Do not use this when
 
 - The ICP cannot name who should sit down. Stay in [ICP](../01-strategy-and-buyers/icp.md).
-- You cannot staff follow-up the next morning. That is how dinners become theater.
+- Nobody is available to handle the promised follow-up. Arrange ownership before inviting people.
 - You need a booth. That is [trade shows](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/trade-shows).
 - The goal is “brand” with no dated next action.
 

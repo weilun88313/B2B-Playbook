@@ -2,9 +2,9 @@
 title: "Partner marketing"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Partner marketing creates demand around a customer problem that two companies can address better together. The agreement needs more than reciprocal logo placement: both parties should understand the offer, contribution, customer handoff, and economic benefit.
+Customers already use your product alongside another company’s service. Could you make that combined experience easier to understand and buy? Partner marketing starts with the shared customer problem, then agrees who contributes, who follows up, and how both teams benefit.
 
 ## Find the joint customer value
 
@@ -27,24 +27,30 @@ After a small pilot, several inquiries turn out to need only consulting. Those a
 
 ## Partner operating brief
 
+The fictional assessment offer can fit into a short working agreement like this:
+
 | Agreement | Details |
 |---|---|
-| Joint customer problem and offer | |
-| Contributions and commercial benefit | |
-| Qualification and handoff rules | |
-| Data use, approvals, and support | |
-| First activity, owners, and deadline | |
-| Shared review and exit conditions | |
+| Joint customer problem and offer | Help a customer assess whether a reporting migration is feasible |
+| Contributions | Consultancy maps process/data gaps; software team checks compatibility |
+| Commercial explanation | Show consulting fees separately from software fees |
+| Who handles the inquiry? | Route consulting-only work to the consultancy; agree ownership for joint work |
+| Before the pilot | Agree what customer information may be shared and who answers support questions |
+| Review | Compare useful assessments, successful handoffs, customer feedback, and each team’s effort |
 
 ## Avoid a dormant partnership
 
 Assign a next activity and review date before announcing the relationship. If neither team has time to support the offer, delay promotion. Keep the joint material current when integrations, packaging, or partner staffing change.
 
+## Try it with your own work
+
+Choose one complementary company. Sketch a customer task that needs both of you, then name one small joint activity that would help the customer complete it.
+
 ## Sources and scope
 
 - [Microsoft: co-sell overview](https://learn.microsoft.com/en-us/partner-center/referrals/co-sell-overview?ref=b2b-playbook) illustrates collaborative selling in one ecosystem. Its program rules are not universal partner requirements.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

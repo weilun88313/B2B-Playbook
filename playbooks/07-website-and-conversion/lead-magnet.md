@@ -2,9 +2,9 @@
 title: "Lead magnet"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A lead magnet offers a useful resource in exchange for information or a requested follow-up. The exchange should be proportionate and understandable. A form is justified by the experience it enables, not by the desire to count another lead.
+You have a worksheet people could use. Should they have to fill out a form to get it? Start with what the exchange does for the reader: delivery, customization, participation, or a requested follow-up. The resource should be useful even if they never buy from you.
 
 ## Decide whether to gate
 
@@ -40,11 +40,15 @@ The team finds that many users want the worksheet but few want a consultation. I
 
 Submit the form as a new user, trigger validation errors, and confirm that the promised asset arrives. Remove any mismatch between the page promise and the actual file. The resource should be worth using even if the reader never becomes a customer.
 
+## Try it with your own work
+
+Open the resource as a new reader. Check that it delivers the page’s promise, then ask why each required form field is needed. Remove the gate if it serves no useful purpose.
+
 ## Sources and scope
 
 - [W3C: accessible forms](https://www.w3.org/WAI/tutorials/forms/?ref=b2b-playbook) supports form usability and accessibility; gating strategy is original operating guidance.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

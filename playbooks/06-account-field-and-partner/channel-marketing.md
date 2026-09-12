@@ -2,9 +2,9 @@
 title: "Channel marketing"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Channel marketing helps resellers, distributors, or service partners sell and deliver an appropriate offer. The partner is an operating business with its own priorities. Enablement must make the offer understandable, viable, and supportable in that business.
+You have signed a reseller, but their team is not yet comfortable selling or supporting the product. Channel marketing helps a partner learn the customer problem, explain the offer, and deliver what was promised. Start with the full customer experience rather than another general pitch deck.
 
 ## Choose the channel role
 
@@ -38,11 +38,15 @@ The intervention reduces the risk of underpriced delivery. Recruiting more partn
 
 Separate a partner's lack of activity from lack of capability or poor market fit. Ask what blocked the last real opportunity. Change training when knowledge is missing, economics when effort is unrewarded, and selection when the audience is wrong. Funding another campaign cannot solve every channel problem.
 
+## Try it with your own work
+
+Ask one partner to walk through their last opportunity. Find the step where they needed help—qualification, demonstration, scope, or support—and make that step easier.
+
 ## Sources and scope
 
 - [Microsoft: co-sell overview](https://learn.microsoft.com/en-us/partner-center/referrals/co-sell-overview?ref=b2b-playbook) illustrates collaborative selling in one ecosystem. Its program rules are not universal partner requirements.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

@@ -2,9 +2,9 @@
 title: "PR and media"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Earned media starts with a story that matters to a publication's audience. A company milestone is an input; the editorial question is what changed, why it matters now, and what can be independently checked.
+Your company has news. A reporter’s reader needs a reason to care. Preparing a useful pitch means finding the change that matters beyond your company, showing what can be checked, and helping a journalist explore it independently.
 
 ## Find a defensible story
 
@@ -40,11 +40,15 @@ The spokesperson says the relationship is observational and may not represent th
 
 Track relevant coverage, factual accuracy, qualified referral traffic, and useful conversations. Keep paid placements separate from earned editorial coverage. Do not multiply article views by an advertising rate and present that as revenue. If the story is declined, ask whether evidence, timing, or audience fit needs improvement before sending more pitches.
 
+## Try it with your own work
+
+Write the news without the company’s name in the first sentence. Explain who is affected and what changed. Then identify the evidence a reporter could inspect.
+
 ## Sources and scope
 
 - [Reuters journalistic standards](https://reutersagency.com/about/standards-values/?ref=b2b-playbook) provides one newsroom’s standards for independence and accuracy; the pitch workflow is original guidance.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

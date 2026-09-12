@@ -21,7 +21,7 @@ The default branch is the reader's current edition. Ivan confirmed on 2026-09-11
 - Export article illustrations as 1600x900 WebP in assets/illustrations, keep meaningful English alternative text, and preserve white artwork in both site themes. Retain source PNGs and generation prompts outside the public repository. Favicons and brand marks are exempt from the 16:9 rule. Preserve third-party attribution in assets/illustrations/ATTRIBUTION.txt. Do not add filler images to every section.
 - Retain old heading anchors when renaming sections. Keep last source-review dates honest; use a separate reading-edit date for copy-only revisions.
 - Preserve Mintlify's native navigation, image zoom, table scrolling, keyboard focus, and light/dark controls. Check a phone-width page as well as desktop before publishing style changes.
-- A chapter guide needs a plain introduction, a few starting links, a published-article map, a separate planned list, and related reading. Keep contributor-facing rules in this file, not in the reader's navigation.
+- A chapter guide needs a plain introduction, a few starting links, a published-article map, a planned list only when topics remain unwritten, and related reading. Keep contributor-facing rules in this file, not in the reader's navigation.
 
 ## Reader cleanup policy — 2026-09-11
 
@@ -32,3 +32,9 @@ Ivan requested a cleanup after reviewing the public repository. Illustrations ar
 ## Approved artwork preservation — 2026-09-11
 
 Ivan clarified that the generated worksheet covers are approved artwork, not production clutter, and requested restoration of all 38 images removed in the cleanup. Preserve existing artwork and its page references. Do not delete or remove approved images from pages without Ivan explicitly requesting that removal. Optional illustrations apply to new pages; they do not authorize removing existing artwork.
+
+## Reader-first editing — 2026-09-12
+
+Ivan prioritizes natural, welcoming, practical reading over SEO volume. Lead with a recognizable situation and a useful outcome. Explain specialist terms where they become necessary; do not replace precise metric definitions with vague language. Use concrete examples and proportionate next steps. Avoid scolding metaphors, invented first-person experience, keyword repetition, identical article structures imposed on every subject, and repeated generic disclaimers. Keep material source limits and legal/platform qualifications beside the claims they qualify. Preserve saved anchors and approved artwork.
+
+Package the library as a public, free-to-read field guide under its existing content license; do not claim an open-source or Creative Commons license. Keep editorial research and benchmarking reports outside the public repo. Favor task-based reading paths and descriptive links over article-count promotion.

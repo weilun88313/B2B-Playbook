@@ -2,9 +2,9 @@
 title: "Contact research"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Contact research identifies an appropriate person and a permitted route for a business conversation. Finding an address is only one part of the work. You also need a reason that this person owns or understands the problem.
+You know why a company might need help. The next question is who understands the problem and how to approach them appropriately. Contact research helps you find that person, check the role, and prepare a relevant opening without collecting unnecessary personal details.
 
 ## Start from the account question
 
@@ -23,28 +23,34 @@ Use this workflow after account research has established a plausible business ne
 
 A hypothetical analytics vendor wants to discuss how a retailer reconciles weekly figures. A public job description suggests finance operations owns the process; a profile says someone manages reporting, but does not confirm procurement authority.
 
-The brief marks that person as a possible workflow owner, not an economic buyer. The message asks whether reconciliation sits with their team and offers a relevant example. If they redirect the sender, the new contact is assessed on its own merits; an introduction does not erase channel or suppression requirements.
+The brief marks that person as a possible workflow owner, without assuming they control the budget. The message asks whether reconciliation sits with their team and offers a relevant example. If they redirect the sender, the new contact is assessed on its own merits; check the appropriate contact route and any recorded contact restrictions again.
 
 ## Contact brief
 
+Here is a starting brief for the fictional retailer above. The uncertain fields tell the researcher what to check next.
+
 | Field | Entry |
 |---|---|
-| Business task and role hypothesis | |
-| Professional evidence and date | |
-| Confirmed fact versus inference | |
-| Contact route and provenance | |
-| Eligibility/suppression check | |
-| Opening question and review date | |
+| Business task and likely role | Weekly reporting reconciliation; finance operations may own it |
+| Evidence to record | The relevant job description and professional profile, with the date checked |
+| What remains uncertain | Whether this person owns reconciliation or approves a purchase |
+| Contact route | Check an appropriate professional route and record where the details came from |
+| Before contacting | Check applicable contact rules and any recorded request to stop messages |
+| Opening question | “Does reconciling the weekly figures sit with your team?” |
 
 ## Quality check
 
-A second person should be able to explain why this contact is relevant without reading a flattering personalized sentence. Sample briefs for stale roles, unsupported authority claims, and missing provenance. Measure useful routing and conversations, not merely the number of records enriched.
+A second person should be able to explain why this contact is relevant without reading a flattering personalized sentence. Sample briefs for stale roles, unsupported authority claims, and missing records of where contact details came from. Measure useful routing and conversations, not merely the number of records enriched.
+
+## Try it with your own work
+
+For one account, name the responsibility you need to discuss before searching for a title. Find current professional evidence of who owns it and record what is still uncertain.
 
 ## Sources and scope
 
 - [ICO direct marketing guidance](https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/?ref=b2b-playbook) is a UK-specific reference. Applicable requirements depend on jurisdiction, recipient, channel, and purpose; validate the intended operation before sending.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

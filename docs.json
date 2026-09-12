@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "luma",
   "name": "B2B Playbook",
-  "description": "Practical guides for finding customers, explaining your product, and building a B2B marketing team that learns.",
+  "description": "A practical field guide for founders and small B2B teams finding customers, explaining their product, and helping people succeed with it.",
   "logo": {
     "light": "/assets/brand/logo-light.svg",
     "dark": "/assets/brand/logo-dark.svg"

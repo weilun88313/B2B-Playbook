@@ -2,9 +2,9 @@
 title: "One-to-few ABM"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-One-to-few ABM serves a small group of accounts with a shared buying problem. The program reuses the parts of the message and experience that are truly common while preserving account-specific context and ownership.
+Several accounts are facing a similar change. You may be able to help them with one workshop or guide, while still following up on their individual needs. One-to-few account-based marketing starts by checking that the shared problem is real enough to support that approach.
 
 ## Define a meaningful cluster
 
@@ -40,11 +40,15 @@ One participant needs regulatory data residency guidance, while others need basi
 
 Include research, content, delivery, and follow-up time in the program cost. Compare useful progression per eligible account and review cases individually when samples are small. A single large opportunity can dominate totals; report that concentration rather than presenting an average as a repeatable result.
 
+## Try it with your own work
+
+Compare three candidate accounts. Write the problem they share and one important difference. If the differences require entirely different offers, reconsider the group.
+
 ## Sources and scope
 
 - [Salesforce Trailhead: account-based marketing](https://trailhead.salesforce.com/content/learn/modules/einstein-account-based-marketing/get-started-with-einstein-account-based-marketing?ref=b2b-playbook) provides the account-focused strategy reference; the resource-allocation method below is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

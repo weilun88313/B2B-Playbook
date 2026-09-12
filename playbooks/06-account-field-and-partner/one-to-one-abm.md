@@ -2,9 +2,9 @@
 title: "One-to-one ABM"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-One-to-one account-based marketing is a coordinated program built around one account's business situation. Bespoke work earns its cost when the opportunity, access, and ability to help justify sustained attention from marketing and sales.
+One account could be a particularly good fit, but winning it will take coordinated work. One-to-one account-based marketing means planning that work around the account’s actual situation. Begin with a business reason to invest, a question worth resolving, and a limit on the time you can commit.
 
 ## Decide whether to invest
 
@@ -12,7 +12,7 @@ Use it when an account has a consequential problem you can plausibly solve and a
 
 ## Build the account program
 
-1. **Write an investment thesis.** State the possible customer outcome, commercial potential, evidence of fit, key uncertainty, and spending limit. Include staff time and specialist availability.
+1. **Explain why this account merits the effort.** State the possible customer outcome, commercial potential, evidence of fit, key uncertainty, and spending limit. Include staff time and specialist availability.
 2. **Map the decision work.** Identify operational, technical, financial, and procurement questions. Mark relationships as known, inferred, or missing. Do not confuse multiple contacts with coverage of the buying process.
 3. **Choose one useful next outcome.** Examples include validating a migration constraint, aligning stakeholders on a problem, or agreeing an evaluation plan. Avoid a list of unrelated touches.
 4. **Create only the necessary bespoke material.** Use public or permissioned information and label assumptions. A tailored workshop or architecture discussion can be more useful than a microsite that merely inserts the account's logo.
@@ -40,11 +40,15 @@ If the session confirms a supported integration and an accountable sponsor, the 
 
 Review relationship coverage, resolved buying questions, and mutually agreed steps alongside commercial outcomes. Engagement counts are diagnostic, not proof of purchase intent. Keep the account's pre-existing pipeline visible so program influence is not confused with originating the opportunity.
 
+## Try it with your own work
+
+Choose one account and write why a tailored effort is justified. Identify the most important unanswered question and the smallest useful step toward answering it.
+
 ## Sources and scope
 
 - [Salesforce Trailhead: account-based marketing](https://trailhead.salesforce.com/content/learn/modules/einstein-account-based-marketing/get-started-with-einstein-account-based-marketing?ref=b2b-playbook) provides the account-focused strategy reference; the resource-allocation method below is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

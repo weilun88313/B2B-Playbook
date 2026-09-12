@@ -2,9 +2,9 @@
 title: "Referral program"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A customer referral program makes relevant introductions easier and recognizes participation under clear terms. It should preserve the trust between the customer and the person they introduce. A contact list upload is not the same as a willing introduction.
+A customer knows someone who might benefit from your product. Make it easy for them to share a useful explanation and let the other person decide whether to talk. If there is a reward, explain the terms clearly so the introduction preserves the trust that made it valuable.
 
 ## Choose the referral motion
 
@@ -40,11 +40,15 @@ The program recognizes an eligible purchase after the stated validation period. 
 
 Run a small number of referrals manually to find confusing terms and handoff gaps. Calculate contribution after rewards and servicing cost. A low-volume program with trusted introductions may be more useful than a heavily promoted incentive that attracts people outside the product's fit.
 
+## Try it with your own work
+
+Draft a short explanation a customer could share with a peer. Check that the recipient chooses the next step and that any reward or relationship is clear.
+
 ## Sources and scope
 
 - [FTC: endorsement questions and answers](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking?ref=b2b-playbook) is a US reference for disclosing material connections where recommendations are endorsements; other rules may apply.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

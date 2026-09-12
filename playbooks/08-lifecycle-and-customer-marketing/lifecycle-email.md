@@ -2,9 +2,9 @@
 title: "Lifecycle email"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Lifecycle email connects a customer's current state with a useful next action. The trigger should reflect a real event or unmet need, and the message should stop being eligible when that need disappears.
+A new customer finishes setup and then receives an email asking them to begin. The message was reasonable when scheduled, but their situation changed. Lifecycle email works from the customer’s current progress, with a useful next action and rules for stopping messages that no longer apply.
 
 ## Define the state before the message
 
@@ -13,7 +13,7 @@ Start with one transition, such as completing setup or recovering from an incomp
 ## Specify the automation
 
 1. **Write entry conditions.** Define the event, required account/user state, eligibility, and observation delay. Account-level progress and individual user progress may differ.
-2. **Define exit and suppression first.** Stop when the task is complete, the account changes state, permission is withdrawn where relevant, or a support situation makes the message inappropriate.
+2. **Decide when the message should stop.** Stop when the task is complete, the account changes state, permission is withdrawn where relevant, or a support situation makes the message inappropriate.
 3. **Choose the useful action.** Give one clear instruction, explain why it matters now, and link directly to the relevant task. Avoid a generic product tour when only one setup step is missing.
 4. **Coordinate frequency and priority.** Check overlapping onboarding, renewal, promotional, and service streams. A global contact policy should resolve collisions and respect essential notices.
 5. **Test timing and re-entry.** Simulate late events, duplicate events, completed tasks, replies, and multiple users in one account. Confirm that a delayed message is rechecked before sending.
@@ -40,11 +40,15 @@ If a teammate completes the account's report before delivery, the message is sup
 
 Read the complete set of messages received by a test account over time. Individually reasonable emails can form an unreasonable sequence. Use support feedback and actual task progression to remove unnecessary sends, especially after the product experience itself improves.
 
+## Try it with your own work
+
+Choose one automated email. Write what must be true when it is sent and what should cancel it. Test the case where the customer completes the task just before delivery.
+
 ## Sources and scope
 
 - [Intercom: Series FAQs](https://www.intercom.com/help/en/articles/8780861-series-faqs?ref=b2b-playbook) illustrates platform-specific entry, exit, and re-entry behavior. Verify equivalent semantics in your own tool.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

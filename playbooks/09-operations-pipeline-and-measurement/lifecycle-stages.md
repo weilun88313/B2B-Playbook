@@ -2,9 +2,9 @@
 title: "Lifecycle stages"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Lifecycle stages are shared states that help systems and teams agree what has happened and what should happen next. They need explicit transition rules, not just familiar labels such as lead, qualified, or customer.
+Marketing calls someone qualified, sales calls them a new inquiry, and the CRM sends a customer email. Shared lifecycle stages help the teams and tools agree on what has happened. Start by defining the evidence behind each state and who is allowed to change it.
 
 ## Separate the objects
 
@@ -13,9 +13,9 @@ A person, account, and opportunity can be in different states at the same time. 
 ## Define and implement the state model
 
 1. **Write each state's meaning.** Specify the object, entry evidence, owner, and allowed next actions. Use the fewest states that support distinct operational decisions.
-2. **Define transitions.** Record the event, prerequisite, responsible system, timestamp, and behavior for missing evidence. Decide whether regression is allowed and how reactivation is represented.
+2. **Explain what moves a record to the next stage.** Record the event, prerequisite, responsible system, timestamp, and behavior for missing evidence. Decide whether regression is allowed and how reactivation is represented.
 3. **Preserve history.** Keep stage-change events or equivalent auditable history for cohort analysis. A current-stage field cannot reconstruct time spent in prior states by itself.
-4. **Resolve competing writers.** Document which workflows, integrations, imports, and users may change each field. Set precedence so a stale import cannot silently undo a valid customer transition.
+4. **Agree which tool or person can change the record.** Document which workflows, integrations, imports, and users may change each field. Set precedence so a stale import cannot silently undo a valid customer transition.
 5. **Test exceptional paths.** Include skipped stages, duplicate merges, lost opportunities, existing customers, reopened evaluations, and deleted or suppressed contacts. Platform defaults may constrain backward movement or automation.
 6. **Migrate with reconciliation.** Map old states to new definitions, keep a recoverable export, preview affected records, and review exceptions. Do not force ambiguous historical data into a confident new label.
 
@@ -37,11 +37,15 @@ The new opportunity tracks the expansion process. Contact communication eligibil
 
 Sample records from every transition and compare them with actual conversation or transaction evidence. Monitor unexpected reversals, missing timestamps, and competing updates. If teams disagree on what a state means, resolve the definition before adding more automation or dashboards.
 
+## Try it with your own work
+
+Choose one stage that causes disagreement. Ask both teams what must have happened before a record enters it, then compare their answers with a few actual records.
+
 ## Sources and scope
 
 - [HubSpot: lifecycle stages](https://knowledge.hubspot.com/records/use-lifecycle-stages?region=canada&ref=b2b-playbook) illustrates contact/company stage behavior in one CRM; design and test your own transition rules rather than assuming identical platform behavior.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

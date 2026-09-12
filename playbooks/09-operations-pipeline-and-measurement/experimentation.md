@@ -147,7 +147,7 @@ Working file: [gtm-experiment-ledger.xlsx](../../templates/gtm-experiment-ledger
 | Metric | Diagnostic use |
 |---|---|
 | Tests closed with a written decision | Whether the loop exists |
-| Assumptions killed vs campaigns scaled | Learning vs theater |
+| Assumptions killed vs campaigns scaled | Whether the tests changed a decision |
 | Time from idea to stop date | Speed |
 | Re-run of the same guess next quarter | Log failure |
 

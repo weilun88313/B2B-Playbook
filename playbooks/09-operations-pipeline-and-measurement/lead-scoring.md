@@ -20,7 +20,7 @@ Lead scoring should help the team choose a next action. Keep account fit separat
 
 ## Do not use this when
 
-- You do not yet have an ICP or a disqualifier. You will score the wrong market precisely.
+- You do not yet have an ICP or a disqualifier. Agree on who fits before assigning scores.
 - Volume is a handful of inbound names a week. A human queue beats a model.
 - You need account-level orchestration. Person scores are not an account program. Use [account scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/account-scoring) to combine account-level evidence and define the next action.
 - Legal or consent rules forbid the events you want to count. This page is not privacy advice.
@@ -72,7 +72,7 @@ Do not copy another company’s industry dropdown or “50 employees or we disqu
 
 ### Step 4: Include negative signals and exceptions
 
-Employees, job seekers, known customers, agencies you do not sell, competitors: either large negatives or a persona that routes elsewhere (HR, CS, partnerships). Customers often need a **different** motion, not a fake MQL. Decide whether customers get a high score for identification or a block from the hunter queue.
+Employees, job seekers, known customers, agencies you do not sell, competitors: either large negatives or a persona that routes elsewhere (HR, CS, partnerships). Existing customers usually need help from their account or customer success team. Define a separate route so their activity does not put them into new-customer prospecting by mistake.
 
 <a id="step-5-review-with-closed-won-then-freeze"></a>
 
@@ -91,7 +91,7 @@ B2B workflow product. Sales-assist inbound. HubSpot is the MAP; SQL is accepted 
 | Action | Score ≥ 40 + fit = ICP → SDR task, 4 business hours. Demo form → same task immediately, ignore the leisurely threshold. |
 | Fit | Target industries, 50–2,000 employees, role in ops or IT. Below 50 employees: nurture, not SDR. |
 | Intent | Demo / pricing highest. Decision content next. Blog in intervals (every 3 posts). No points per email open; clicks in intervals. |
-| Negative | Careers, student emails, own employees. Customers: blocked from hunter queue; CS owns them. |
+| Negative | Careers, student emails, own employees. Customers: blocked from new-customer prospecting queue; CS owns them. |
 | SQL | Human accept in CRM. Not a second point gate. |
 | Change control | Point changes logged; no silent rewrite after week two. |
 
@@ -126,7 +126,7 @@ Working file: [lead-scoring-ledger.xlsx](../../templates/lead-scoring-ledger.xls
 | Metric | Diagnostic use |
 |---|---|
 | SDR accept rate of scored MQLs | Whether the threshold is a hypothesis or a leak |
-| Time-to-first-touch on hand-raisers | Whether the skip-ahead workflow is real |
+| Time to respond to explicit inquiries | Whether the skip-ahead workflow is real |
 | % of MQLs that are employees/jobs | Negative scoring failure |
 | Score distribution vs closed-won | Whether points predict anything |
 
@@ -138,7 +138,7 @@ Do not count “model turned on” or resemblance to a HubSpot sample guide as s
 - MQL = SQL = more points.
 - Radical rescoring with no note, then wondering where the pipeline went.
 - Copying another company’s form fields and employee-count floor.
-- Scoring customers into the hunter queue.
+- Scoring customers into the new-customer prospecting queue.
 - Launching without an SLA.
 
 ## What to read next

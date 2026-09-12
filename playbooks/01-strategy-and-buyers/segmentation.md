@@ -2,9 +2,9 @@
 title: "Segmentation"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A useful segment changes a business decision. If two groups receive the same offer, proof, route to market and service model, separate labels may add complexity without helping customers.
+Two customers look similar in your spreadsheet, yet one buys after a short trial and the other needs months of approvals. It may help to treat them as different groups. Segmentation is simply the work of finding differences that should change your offer, your explanation, or the way you sell.
 
 ## Choose what segmentation must support
 
@@ -42,11 +42,15 @@ That distinction changes evaluation materials and implementation ownership. Empl
 
 Do not create dozens of cells that each contain one customer. Do not mix user personas, company segments and buying situations in a single mutually exclusive field. Keep overlapping analytical tags separate from a primary operating segment. Revisit a segment when the offer or delivery model changes, not merely because a new campaign needs a name.
 
+## Try it with your own work
+
+Compare two recent customers. Note what each needed before buying. If the same offer and process served both well, you may not need another segment yet.
+
 ## Sources and scope
 
 - [Strategyzer: common Value Proposition Canvas mistakes](https://www.strategyzer.com/library/5-common-mistakes-to-avoid-when-using-the-value-proposition-canvas?ref=b2b-playbook) cautions against combining different customer roles in one profile. The assignment and testing process here is an original application.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

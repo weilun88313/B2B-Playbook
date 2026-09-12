@@ -2,9 +2,9 @@
 title: "Brand narrative"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A brand narrative connects a meaningful change in the buyer's world with the problem the company exists to address and its point of view about a better response. It should remain useful across launches. It should also leave room for the buyer to disagree.
+The founder, salesperson, and homepage all explain the company differently. A shared story can help them connect the same pieces: what is changing for customers, why it creates a problem, and how your company responds. The aim is a story people can understand and retell in their own words.
 
 ## Establish the argument before the story
 
@@ -42,11 +42,15 @@ Claims that require review before publication:
 
 Keep a source record and an owner for the narrative. Revisit it when the market assumption or product promise changes, not whenever a campaign needs a fresh headline. If the only way to make the story exciting is to remove its qualifications, the underlying argument needs more work.
 
+## Try it with your own work
+
+Explain why the company exists to someone unfamiliar with it. Ask what they would tell a colleague afterward. Notice which part they remembered and which part needed more explanation.
+
 ## Sources and scope
 
 - [April Dunford: Sales-First Storytelling](https://aprildunford.substack.com/p/sales-first-storytelling?ref=b2b-playbook) distinguishes the requirements of marketing narratives and sales conversations. This page develops a separate, original brand-narrative workflow.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

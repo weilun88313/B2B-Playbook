@@ -3,7 +3,7 @@ title: "Revenue churn"
 sidebarTitle: "Revenue Churn"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 Revenue can grow while existing customers are quietly leaving or spending less. Separate lost revenue, downgrades, and expansion so you can see what is happening. Use gross and net retention together, with the same starting customer group and period.
 
@@ -123,7 +123,7 @@ Working file: [revenue-churn.md](../../templates/revenue-churn.md).
 |---|---|
 | Gross vs net gap | Expansion makeup vs real leak |
 | Logo vs revenue churn | Whale vs crowd |
-| Expansion that does not touch at-risk | Growth theater |
+| Expansion that does not touch at-risk | Whether expansion is masking unresolved retention problems |
 | Re-forecast after a cancel cohort | Whether the plan heard the leak |
 
 Do not count resemblance to a SaaS glossary, or a vendor’s top-decile cell, as retention.

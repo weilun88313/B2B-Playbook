@@ -1,8 +1,6 @@
 # 01 · Strategy & buyers
 
-Before choosing channels or writing copy, get clear on the customer. These guides help you investigate a problem, choose the first buyers, and test whether the product is worth paying for.
-
-**Status:** Domain guide published · 14 tactic playbooks published
+You have an idea, a few encouraging conversations, and more possible customers than you can serve. Start by understanding the problem and choosing whom to learn from. The guides here help you make that choice with real conversations and a small, manageable test.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -10,39 +8,42 @@ Before choosing channels or writing copy, get clear on the customer. These guide
 
 ## Start here
 
-- [Idea discovery](idea-discovery.md) — notice a problem.
-- [Ideal customer profile (ICP)](icp.md) — check the fit.
-- [First ten customers](first-ten-customers.md) — existing trust.
+1. [Explore a problem](idea-discovery.md) — Turn a recurring frustration into a question you can investigate.
+2. [Choose whom to approach](icp.md) — Compare a few companies and explain why each might fit.
+3. [Start the conversations](first-ten-customers.md) — Find a sensible route to the people you want to learn from.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Idea discovery](idea-discovery.md) | Where did this idea come from, and is it even a candidate? |
-| [Idea validation](idea-validation.md) | Does this idea have pain and pull, or is it still polite interest? |
-| [Ideal customer profile](icp.md) | Which accounts deserve attention, and which should be excluded? |
-| [Wedge](wedge.md) | Which audience and use case do we win first—and how do we expand without a cold start? |
-| [Buying committee](buying-committee.md) | Who participates in the decision, and what does each role need? |
-| [First ten customers](first-ten-customers.md) | How do you find and win the first ~10 companies that match the ICP? |
-| [Product-market fit](product-market-fit.md) | Has a real company loved it, paid, and started to pull—before you scale a channel? |
-| [Four Fits](four-fits.md) | Do market, product, channel, and model still describe the same company? |
+| [Idea discovery](idea-discovery.md) | Is this recurring problem worth exploring as a business? |
+| [Idea validation](idea-validation.md) | What would show that people want to try or buy the proposed solution? |
+| [Ideal customer profile](icp.md) | Which customers are likely to benefit from what we can deliver? |
+| [Wedge](wedge.md) | Which customer and task should we focus on first? |
+| [Buying committee](buying-committee.md) | Who is involved in the purchase, and what does each person need? |
+| [First ten customers](first-ten-customers.md) | How do we start useful conversations with our first potential customers? |
+| [Product-market fit](product-market-fit.md) | Are customers getting enough value to keep using and paying for the product? |
+| [Four Fits](four-fits.md) | Do the product, customers, selling approach, and economics work together? |
+| [Market research](market-research.md) | What do we need to learn before choosing a market to pursue? |
+| [Segmentation](segmentation.md) | Which customer differences should change our offer or approach? |
+| [Buyer journey](buyer-journey.md) | What does the buyer need to do before deciding and getting started? |
+| [Jobs to be done](jobs-to-be-done.md) | What is the person trying to accomplish behind a feature request? |
+| [Category entry points](category-entry-points.md) | Which situations should remind people that our product could help? |
+| [Competitive alternatives](competitive-alternatives.md) | What would the buyer do if they did not choose us? |
 
-| [Market research](market-research.md) | What is true about the market beyond internal opinion? |
-| [Segmentation](segmentation.md) | Which groups differ enough to require a distinct strategy? |
-| [Buyer journey](buyer-journey.md) | How does a buying situation move from trigger to decision and adoption? |
-| [Jobs to be done](jobs-to-be-done.md) | What progress is the buyer hiring a solution to make? |
-| [Category entry points](category-entry-points.md) | Which situations should make the company come to mind? |
-| [Competitive alternatives](competitive-alternatives.md) | What will buyers do if they do not choose this product? |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Choose one possible customer. Write the task they struggle with, how they handle it today, and the question you would ask them next.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Product marketing](../02-product-marketing/) for a related part of the work.
 
 [Back to the playbook index](../README.md)
+
+**Status:** Domain guide published · 14 tactic playbooks published
 
 ---
 

@@ -2,9 +2,9 @@
 title: "Customer advocacy"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Customer advocacy helps willing customers share an honest experience in a format they choose. It should protect their time, approval requirements, and relationship with your company. A satisfied account is not automatically an available reference.
+A customer says they would be happy to help. They might mean a private reference call, not a public case study or a stream of requests from sales. An advocacy program makes participation specific, voluntary, and easy to manage for the customer as well as your team.
 
 ## Match the request to the person
 
@@ -40,11 +40,15 @@ The customer declines publicity but remains willing to take an occasional releva
 
 Track fulfilled relevant requests, customer feedback, and contribution to buyer understanding. Do not rank advocates only by revenue influenced. Inspect concentration: if a few customers carry most requests, expand the pool carefully or reduce demand.
 
+## Try it with your own work
+
+Ask one willing customer which topics and formats they are comfortable with. Record their preference and approval requirements before sending the next request.
+
 ## Sources and scope
 
 - [FTC: endorsements, influencers, and reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews?ref=b2b-playbook) provides US guidance on honest endorsements and material connections; the participation workflow is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

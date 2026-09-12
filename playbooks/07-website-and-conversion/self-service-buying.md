@@ -2,9 +2,9 @@
 title: "Self-service buying"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Self-service buying lets a suitable customer evaluate and purchase without waiting for a scheduled meeting. It still requires clear information, reliable provisioning, and access to help. Removing the salesperson does not remove the customer's buying questions.
+A buyer is ready to try or purchase, but the only option is to book a meeting next week. Self-service buying can remove that wait when the product and package are suitable. The buyer still needs clear terms, reliable access, and a person to help when something goes wrong.
 
 ## Choose the eligible purchase
 
@@ -40,11 +40,15 @@ The system processes the authoritative event once, activates the correct plan, a
 
 Track evaluation, checkout starts, payment outcomes, activation, support problems, and early retention. A high checkout completion rate can coexist with poor fit or failed onboarding. Use those downstream signals before widening eligibility or increasing acquisition spend.
 
+## Try it with your own work
+
+Walk through evaluation and checkout with a test account. Verify the price and limits, confirmation, product access, and support route. Try an interrupted purchase as well as the successful path.
+
 ## Sources and scope
 
 - [Stripe Checkout documentation](https://docs.stripe.com/payments/checkout?ref=b2b-playbook) is one provider-specific starting point. Follow its linked fulfillment guidance for implementation; the business workflow here is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

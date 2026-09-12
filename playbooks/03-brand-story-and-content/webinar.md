@@ -2,9 +2,9 @@
 title: "Webinar"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A webinar earns its place when live explanation or participation helps the audience do something they could not get as easily from a short article. Registration is an expression of interest in the session, not automatic permission for every subsequent sales action.
+A customer asks a question that would be easier to answer by showing the work and taking questions along the way. That may be a good webinar. Plan around what participants will be able to do afterward, then make registration, delivery, and follow-up support that promise.
 
 ## Design around a useful outcome
 
@@ -40,11 +40,15 @@ The host shares the worksheet and recording afterward. Two attendees request pro
 
 Separate registrations, attendance, meaningful participation and requested next steps. Compare production effort with the value of the resulting learning and reusable material. Investigate where people leave, but do not assume every departure means poor content. Avoid repeating a webinar solely because the registration count looked large.
 
+## Try it with your own work
+
+Choose one question your audience regularly asks. Sketch a short demonstration and leave room for their questions. Check whether a simple written guide would serve them just as well.
+
 ## Sources and scope
 
 - [Wistia: webinar and live-event guide](https://wistia.com/blog/webinar-marketing-guide?ref=b2b-playbook) covers planning, execution and follow-through. Its vendor perspective is supplementary; the workshop workflow here is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

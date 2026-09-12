@@ -2,9 +2,9 @@
 title: "Community-led growth"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-An owned practitioner community creates value through members learning from and helping one another. Growth may follow that value, but a chat room with a company logo is not a growth mechanism by itself.
+You bring practitioners together, and the best moment happens when one member answers another member’s question. That exchange is the reason to build an ongoing community. Start with a recurring need people can help each other meet, then see whether a useful group develops.
 
 ## Start with a member need
 
@@ -42,11 +42,15 @@ Continue / redesign / close decision date:
 
 Invite more people when the existing exchange works and moderation can support them. Avoid measuring success only by member count, posting volume or leads exported. A quiet room with valuable recurring exchanges may serve its purpose; a busy room full of promotions may not. If closing, communicate clearly and handle member content and data according to the commitments you made.
 
+## Try it with your own work
+
+Invite a small group of willing practitioners to discuss one shared problem. Ask what would make another session worthwhile before choosing a platform or planning a larger launch.
+
 ## Sources and scope
 
 - [Mozilla: Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/?ref=b2b-playbook) is a primary example of explicit behavior standards and reporting responsibilities. It is not a commercial growth benchmark or a policy to copy without adaptation.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

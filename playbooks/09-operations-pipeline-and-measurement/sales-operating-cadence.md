@@ -3,7 +3,7 @@ title: "Sales operating cadence"
 sidebarTitle: "Sales Operating Cadence"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 **Reading edited:** 2026-09-11
 
@@ -17,7 +17,7 @@ Forecasting, pipeline creation, and coaching ask different questions. Give each 
 
 - One recurring meeting tries to call the number, create pipeline, and coach deals, and all three feel thin.
 - The quarter is a surprise in week 12 because nobody owned next-quarter coverage until then.
-- Managers spend the 1:1 on forecast theater and never watch a deal.
+- Managers spend the one-to-one reviewing predictions, with little time to understand a deal or coach a specific skill.
 - You inherited a calendar of “alignment” meetings with no written purpose.
 
 ## Do not use this when
@@ -57,7 +57,7 @@ Before you touch calendars, write:
 2. How much will close in *this* period, and why?
 3. Which few deals need a manager in the work, not in the spreadsheet?
 
-If your team cannot tell which question yesterday’s meeting answered, you do not have a cadence. You have a standing invite.
+After the next meeting, ask the team which question it helped answer. If that is unclear, narrow its purpose or reconsider whether the meeting is needed.
 
 <a id="step-2-put-them-on-different-clocks"></a>
 
@@ -145,7 +145,7 @@ Working file: [sales-cadence.xlsx](../../templates/sales-cadence.xlsx).
 | Meetings that answer more than one of the three questions | Lumpy calendar |
 | Next-quarter coverage first inspected in week *n* | Whether the 13-week clock is real |
 | Coaching slots held vs skipped when the call is light | Whether the number ate the factory |
-| Open actions older than the promised date | Facilitation theater |
+| Open actions older than the promised date | Whether agreed actions are being completed |
 | Duplicate forecast forums still on the calendar | Cadence as costume |
 
 Do not count meetings held, or a decorated 13-week poster, as an operating system.

@@ -2,9 +2,9 @@
 title: "Affiliate program"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-An affiliate program compensates approved third parties for an agreed, traceable commercial outcome. It works when the product is understandable, the audience fit is credible, and the economics can support both the commission and the cost of operating the program.
+A relevant publisher wants to recommend your product and earn a commission. Before agreeing a percentage, work out which purchase qualifies, what happens after a refund, and how the reader will understand the relationship. Clear terms make a small affiliate program easier to run fairly.
 
 ## Define what earns payment
 
@@ -12,7 +12,7 @@ Choose a clear event such as an eligible paid purchase after a validation period
 
 ## Build the controls
 
-1. **Model contribution economics.** Include revenue actually collected, variable service cost, commission, refunds, payment fees, and program support. Subscription revenue should not be treated as lifetime cash already received.
+1. **Work out what each sale leaves after direct costs.** Include revenue actually collected, variable service cost, commission, refunds, payment fees, and program support. Subscription revenue should not be treated as lifetime cash already received.
 2. **Specify eligibility and attribution.** Define approved affiliates, qualifying customers, attribution window, conflict resolution, and payout timing. Explain where tracking can fail and how disputes are reviewed.
 3. **Set promotion rules.** Cover truthful claims, brand use, paid search restrictions if any, disclosure, privacy, and prohibited spam or impersonation. Make examples understandable to a publisher.
 4. **Provide usable materials.** Offer accurate product explanations, current pricing links, disclosure guidance, and supported use cases. Affiliates need limitations as well as benefits.
@@ -40,11 +40,15 @@ If the purchase is refunded within the agreed validation period, the payout foll
 
 Start with a few relevant publishers and manually inspect their content and transactions. Clear material-connection disclosure is important in US endorsement guidance; local requirements and platform policies also apply. A tracking link alone does not explain the commercial relationship to a reader.
 
+## Try it with your own work
+
+Calculate the money left from one eligible purchase after delivery cost and the proposed commission. Write the payout event and refund rule beside the calculation.
+
 ## Sources and scope
 
 - [FTC: endorsement questions and answers](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking?ref=b2b-playbook) covers US endorsement and affiliate-disclosure guidance; the economics are illustrative.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

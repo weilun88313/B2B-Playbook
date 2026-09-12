@@ -2,9 +2,9 @@
 title: "Content distribution"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-An asset needs a route to the people it was created to help. Distribution planning specifies where a reader will encounter it, why it belongs there, and who will maintain that route after publication.
+The guide is published, but the people who need it have not seen it. Think about where they encounter the problem: a kickoff call, a customer email, a partner workshop, or a search. A distribution plan connects the guide to those moments and gives someone responsibility for each route.
 
 ## Start with the reader's task
 
@@ -36,11 +36,15 @@ The newsletter produces most visits, while kickoff use produces fewer repeated s
 
 Read replies and ask the people delivering the asset whether it answered the actual question. Improve the destination if visitors arrive but cannot use it. Improve the placement if the right readers never encounter it. More channels are not automatically more effective: remove routes that require repeated effort without a credible audience or outcome.
 
+## Try it with your own work
+
+Take one useful article and name three places where its intended reader already asks that question. Choose one placement and write the short introduction that would make the link useful there.
+
 ## Sources and scope
 
 - [Google Search Central: helpful content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?ref=b2b-playbook) offers a reader-first quality reference; it does not establish the distribution plan or its outcomes.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

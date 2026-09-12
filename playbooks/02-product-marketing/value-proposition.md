@@ -2,9 +2,9 @@
 title: "Value proposition"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A value proposition connects a particular customer's important task with a result your offer can credibly help deliver. It is more specific than a mission and more useful than a feature inventory. It should help the buyer decide whether an evaluation is worthwhile.
+You can list every feature, but the buyer still asks, “What would this change for my team?” A useful value proposition answers that question plainly. It connects a task they care about with something your product can actually help them do, and gives them a reason to believe it.
 
 ## Define whose value matters
 
@@ -43,11 +43,15 @@ Comprehension test and evaluation task:
 
 Keep a record of misunderstandings, not just preferred wording. If readers infer a capability you do not provide, revise the language even when the sentence is technically defensible. If the claimed benefit is attractive but nobody will attempt the evaluation, investigate urgency, trust and switching effort. Do not solve every objection by making the promise larger.
 
+## Try it with your own work
+
+Finish this sentence for one customer: “When your team needs to ___, this helps you ___ by ___.” Read it aloud and replace any phrase you would struggle to explain in a conversation.
+
 ## Sources and scope
 
 - [Strategyzer: Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas?ref=b2b-playbook) relates customer jobs, pains and gains to the offer. This page provides an original briefing workflow rather than reproducing its canvas.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

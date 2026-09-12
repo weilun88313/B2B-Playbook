@@ -3,7 +3,7 @@ title: "Company cadence"
 sidebarTitle: "Company Cadence"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 Product launches, marketing campaigns, and quarter-end sales work can compete for the same people. Put the important dates on one calendar and agree on when decisions will be made. Leave enough room for each team to do its part well.
 
@@ -118,7 +118,7 @@ The [company-cadence card](../../templates/company-cadence.md) is the artifact. 
 |---|---|
 | Rocks shipped vs promised this quarter | Whether the product calendar is real |
 | Strike-to-close gap (weeks) | Whether the offset exists |
-| Mid-quarter quota or territory edits | Whether the sales calendar is theater |
+| Mid-quarter quota or territory edits | Whether the team can rely on the agreed sales calendar |
 
 Do not count all-hands held, or a keynote that shipped nothing, as cadence.
 

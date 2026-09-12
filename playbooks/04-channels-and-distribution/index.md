@@ -3,9 +3,7 @@ title: "04 · Channels & distribution"
 sidebarTitle: "Overview"
 ---
 
-Pick channels based on how your buyers learn and buy, and on what your team can run well. These guides cover search, LinkedIn, communities, creators, paid media, and launches.
-
-**Status:** Domain guide published · 15 tactic playbooks published
+A useful offer still needs to reach the people it can help. You do not need to run every channel at once. Start with where your buyers already spend attention, then choose a route your team can maintain and learn from.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -13,40 +11,43 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 
 ## Start here
 
-- [Channel strategy](/playbooks/04-channels-and-distribution/channel-strategy) — where customers come from.
-- [LinkedIn organic](/playbooks/04-channels-and-distribution/linkedin-organic) — share a real observation.
-- [SEO and AEO](/playbooks/04-channels-and-distribution/seo-and-aeo) — find real buyer questions.
+1. [Choose where to focus](/playbooks/04-channels-and-distribution/channel-strategy) — Match the channel to how your customers find and buy products.
+2. [Give a useful piece a route to readers](/playbooks/04-channels-and-distribution/content-distribution) — Plan where it belongs and who will share it.
+3. [Decide whether advertising is the next step](/playbooks/04-channels-and-distribution/paid-media) — Set a purpose, budget, and review before launching.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Channel strategy](/playbooks/04-channels-and-distribution/channel-strategy) | Which growth motion is primary, and which one channel is worth adding next? |
-| [SEO and AEO](/playbooks/04-channels-and-distribution/seo-and-aeo) | How should useful content become discoverable through search and answer engines? |
-| [Community](/playbooks/04-channels-and-distribution/community) | How do we participate in existing groups or host a useful, sustainable community? |
-| [Creator partnership](/playbooks/04-channels-and-distribution/creator-partnership) | How do we choose, scope, publish, and evaluate a useful creator collaboration? |
-| [Product Hunt](/playbooks/04-channels-and-distribution/product-hunt) | How do we prepare, run, and evaluate a launch beyond the leaderboard? |
-| [Content syndication](/playbooks/04-channels-and-distribution/content-syndication) | How do we arrange useful republication or a paid content program, then evaluate what follows? |
-| [LinkedIn organic](/playbooks/04-channels-and-distribution/linkedin-organic) | How do we turn real work into useful posts, relevant conversations, and measurable learning? |
-| [Paid media](/playbooks/04-channels-and-distribution/paid-media) | How do we choose, launch, and evaluate a paid test without confusing cheap actions with valuable customers? |
-| [Review sites](/playbooks/04-channels-and-distribution/review-sites) | How do we invite honest reviews, respond usefully, and evaluate evidence rights and paid services? |
+| [Channel strategy](/playbooks/04-channels-and-distribution/channel-strategy) | Where should we focus our effort to reach suitable buyers? |
+| [SEO and AEO](/playbooks/04-channels-and-distribution/seo-and-aeo) | How can useful answers become easier to find in search and AI tools? |
+| [Community](/playbooks/04-channels-and-distribution/community) | How do we participate in or host a group in a way members value? |
+| [Creator partnership](/playbooks/04-channels-and-distribution/creator-partnership) | Which creator and collaboration would genuinely help the intended audience? |
+| [Product Hunt](/playbooks/04-channels-and-distribution/product-hunt) | How do we prepare for launch-day attention and useful follow-up? |
+| [Content syndication](/playbooks/04-channels-and-distribution/content-syndication) | When is distributing content through another publisher worth the cost? |
+| [LinkedIn organic](/playbooks/04-channels-and-distribution/linkedin-organic) | What can we share on LinkedIn that is useful to the people we want to reach? |
+| [Paid media](/playbooks/04-channels-and-distribution/paid-media) | What should an advertising test achieve, and how will we review it? |
+| [Review sites](/playbooks/04-channels-and-distribution/review-sites) | What do buyers need to find on our public product listing? |
+| [Paid search](/playbooks/04-channels-and-distribution/paid-search) | Which search questions fit our offer, and where should the ads take readers? |
+| [Paid social](/playbooks/04-channels-and-distribution/paid-social) | What deserves the attention of someone browsing their feed? |
+| [Retargeting](/playbooks/04-channels-and-distribution/retargeting) | What useful information should a previous visitor see next? |
+| [PR and media](/playbooks/04-channels-and-distribution/pr-and-media) | What makes our news relevant and verifiable for a reporter’s readers? |
+| [Content distribution](/playbooks/04-channels-and-distribution/content-distribution) | How will a useful piece reach the people it was written for? |
+| [Content repurposing](/playbooks/04-channels-and-distribution/content-repurposing) | How can one strong idea help someone in another format? |
 
-| [Paid search](/playbooks/04-channels-and-distribution/paid-search) | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
-| [Paid social](/playbooks/04-channels-and-distribution/paid-social) | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
-| [Retargeting](/playbooks/04-channels-and-distribution/retargeting) | Follow-on frequency and exclusions. The job decision lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
-| [PR and media](/playbooks/04-channels-and-distribution/pr-and-media) | Which genuinely newsworthy story can earn credible third-party attention? |
-| [Content distribution](/playbooks/04-channels-and-distribution/content-distribution) | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](/playbooks/04-channels-and-distribution/content-syndication). |
-| [Content repurposing](/playbooks/04-channels-and-distribution/content-repurposing) | How should one strong idea become channel-native formats without losing meaning? |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Pick one audience and one useful piece of content. Name a place where that audience already asks the question it answers, then plan a relevant introduction.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Outbound & prospecting](/playbooks/05-outbound-and-prospecting) for a related part of the work.
 
 [Back to the playbook index](/playbooks)
+
+**Status:** Domain guide published · 15 tactic playbooks published
 
 ---
 

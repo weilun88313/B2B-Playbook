@@ -3,7 +3,7 @@ title: "AI workflow"
 sidebarTitle: "AI Workflow"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 An AI workflow needs clear inputs, a useful output, and a way to catch mistakes. Break the work into steps people can inspect, record sources where facts matter, and require approval before customer-facing actions. Start with a real task you already understand.
 
@@ -150,7 +150,7 @@ Do not count workflows drawn, or resemblance to a paid architect worksheet, as r
 - Stages with no artifact.
 - Automating judgment.
 - A second browser for the team to live in.
-- Agent commerce / protocol theater before one HITL workflow works.
+- Building complex agent-to-agent arrangements before one workflow works reliably with human review.
 - Copying a fractional-consultant 90-day price ladder as your plan.
 - Building the workflow before [AI use-case selection](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection) names the problem.
 

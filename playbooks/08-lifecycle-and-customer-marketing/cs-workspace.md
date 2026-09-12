@@ -3,7 +3,7 @@ title: "CS workspace"
 sidebarTitle: "CS Workspace"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 A customer success workspace should answer the questions your team asks every week. Where is each account in its journey? Who owns the next action? What value has the customer received, and what needs attention? Design fields and views around those questions.
 
@@ -135,7 +135,7 @@ Working file: [cs-workspace.xlsx](../../templates/cs-workspace.xlsx).
 | Fields mapped to one of four jobs vs live org | Swamp vs record |
 | CSM time in CRM vs shadow sheet | Whether the workspace is real |
 | Workflows opened vs completed | Noise |
-| At-risk list age | Risk view vs theater |
+| At-risk list age | Whether the risk list reflects current customer situations |
 
 Do not count objects created, or resemblance to a paid HubSpot CS manual, as a workspace.
 

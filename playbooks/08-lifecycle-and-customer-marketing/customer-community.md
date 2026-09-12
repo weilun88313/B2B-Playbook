@@ -2,9 +2,9 @@
 title: "Customer community"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A customer community gives users a place to exchange practical knowledge and relationships around shared work. It needs an activity worth returning for and clear boundaries between peer discussion, official support, and confidential account matters.
+One customer has solved a problem another is facing. A community can make that exchange easier, provided people know what belongs in the group and where to get official support. Start with a useful recurring activity and customers who would like to take part.
 
 ## Start with a recurring member need
 
@@ -40,11 +40,15 @@ A participant posts an account screenshot containing customer data. The moderato
 
 Add formats only when members request them or current activity demonstrates a need. A quiet, useful room can be healthier than a large inactive directory. If staff must manufacture every conversation indefinitely, revisit the purpose before increasing recruitment.
 
+## Try it with your own work
+
+Ask a few willing customers which practical question they would like to discuss with peers. Host one focused exchange and ask whether they would return for another.
+
 ## Sources and scope
 
 - [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/?ref=b2b-playbook) is a public governance example, not a customer-community performance benchmark.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

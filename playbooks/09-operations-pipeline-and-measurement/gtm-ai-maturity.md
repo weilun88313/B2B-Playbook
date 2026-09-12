@@ -3,7 +3,7 @@ title: "GTM AI maturity"
 sidebarTitle: "GTM AI Maturity"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 Using AI in a few tasks is different from connecting it to a reliable team workflow. Assess each sales or marketing process separately: what context it has, what it can do, and how people check it. Improve one useful workflow before trying to automate the whole department.
 
@@ -74,7 +74,7 @@ Rung 2 hits a wall when every tool starts from zero. The fix is not a new SKU na
 
 ### Step 4: Connect one reviewed workflow
 
-A loop is one output that becomes another motion’s input—transcript objections into the next page, closed-won traits into the next list—with a human still allowed to stop a send. Sheets and a CRM can be the first command center. A custom cockpit that nobody updates is theater.
+A loop is one output that becomes another motion’s input—transcript objections into the next page, closed-won traits into the next list—with a human still allowed to stop a send. Sheets and a CRM can be the first command center. Choose a shared view someone will keep current before building a custom dashboard.
 
 Rung 4 is “enough of the stack is connected that the system can learn.” It is not “we posted that we run on autopilot.”
 

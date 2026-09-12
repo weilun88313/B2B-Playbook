@@ -3,7 +3,7 @@ title: "Sales compensation"
 sidebarTitle: "Sales Compensation"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 A sales compensation plan tells the team what the company values. Define the role, the revenue it gets credit for, and the relationship between quota and pay. Model several realistic outcomes and explain the rules before the plan takes effect.
 
@@ -276,7 +276,7 @@ Do not count a finished kickoff deck, the number of SPIFs, or resemblance to a f
 
 ## Common mistakes
 
-- Paying for activity (dials, meetings, pipeline theater) instead of credited outcomes.
+- Paying for activity (dials, meetings, unverified opportunity creation) instead of credited outcomes.
 - Eight components and a curve nobody can draw from memory.
 - Setting quota from a company wish divided by heads.
 - Ignoring territory luck, then calling the plan “meritocratic.”

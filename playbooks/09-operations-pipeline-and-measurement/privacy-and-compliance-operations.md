@@ -2,9 +2,9 @@
 title: "Privacy and compliance operations"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Privacy operations turns applicable data-use requirements into repeatable work: knowing what data exists, why it is used, who can access it, and how requests or restrictions propagate. This guide is an operating design, not a determination that a particular campaign is lawful.
+Someone asks to stop receiving marketing. The email tool updates, but the next import adds them back. Privacy operations is the practical work of making a decision like that hold across your systems. Start with the data flow, an accountable owner, and the requirements that apply to the actual use.
 
 ## Establish jurisdiction and responsibility
 
@@ -35,11 +35,15 @@ A minimal suppression record is handled under the approved policy so the person 
 
 Check whether the audience source, destination, purpose, or jurisdiction has changed. Escalate unresolved legal questions to the appropriate adviser; do not hide uncertainty behind a checked box. The operational evidence should show which decision was made, by whom, and how it is enforced.
 
+## Try it with your own work
+
+Use a synthetic contact to trace one preference change through your tools and imports. Record where the update stops. Resolve legal uncertainty with the responsible adviser before changing the real process.
+
 ## Sources and scope
 
 - [ICO: data protection principles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/?ref=b2b-playbook) is a UK-specific primary reference. Apply current requirements for the actual jurisdiction and activity with appropriate advice.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

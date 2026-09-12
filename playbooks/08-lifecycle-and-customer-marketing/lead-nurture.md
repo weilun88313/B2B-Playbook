@@ -3,7 +3,7 @@ title: "Lead nurture"
 sidebarTitle: "Lead Nurture"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 Some people are interested but not ready to buy. Help them answer the next question instead of sending the same sales request on a timer. Use what they have asked or done to choose useful content, and hand over to a person when fit and intent are clear.
 
@@ -34,7 +34,7 @@ Some people are interested but not ready to buy. Help them answer the next quest
 | **State** | What is true of them now (known, evaluating, blocked, not-now)—not a persona name |
 | **Signal** | A behavior or date that changes the state (pricing visit, job change, they asked to pause) |
 | **Useful send** | A URL or artifact they can use without buying you |
-| **MQL theater** | Points for opens and a meeting ask that ignores state |
+| **Qualification based on weak signals** | Points for opens and a meeting ask that ignores state |
 
 <a id="one-rule"></a>
 
@@ -136,7 +136,7 @@ Working file: [lead-nurture.md](../../templates/lead-nurture.md).
 | Decision-page use | Known people who hit comparison/pricing *after* a send, then a conversation |
 | Human-handoff SLA | Escalations that were actually taken |
 | Mute / unsub | Streams we correctly killed |
-| MQL-from-nurture | Names sales accepted—if this is high and close rate is junk, you are back in theater |
+| MQL-from-nurture | Inquiries sales accepted; compare later outcomes to check whether acceptance reflects a useful buying conversation |
 
 Do not treat email open rate, drip completion, or “nurtured MQLs” as success.
 
@@ -157,9 +157,9 @@ The pages you are allowed to send are [content strategy](../03-brand-story-and-c
 
 This is an owner-maintained operating synthesis.
 
-- **Ungated useful assets; stop MQL theater; dark social and self-report over form volume.** Refine Labs public demand essays and tactics notes. Agency point of view; not a command to delete every gate.
+- **Make useful resources accessible; compare form activity with buyer conversations and referrals tracking may miss.** Refine Labs public demand essays and tactics notes. Agency point of view; not a command to delete every gate.
 - **State, entry, owner, next action.** Heinz Marketing’s public alignment / operating-template language—applied here as ops hygiene, not as a purchased worksheet.
-- **95-5: do not treat out-of-market people as late-funnel leads.** LinkedIn B2B Institute. Nurture that weekly-asks the 95 for a demo is capture theater.
+- **95-5: do not treat out-of-market people as late-funnel leads.** LinkedIn B2B Institute. For readers who are not considering a purchase, useful education may be more appropriate than repeated demo invitations.
 - Seven-email drip folklore (HubSpot gallery, “value-value-ask”) is the **anti-pattern** this page refuses. It is not cited as method.
 
 ---

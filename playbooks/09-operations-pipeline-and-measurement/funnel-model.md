@@ -2,9 +2,9 @@
 title: "Funnel model"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A funnel model represents observable progression toward a defined outcome. It is useful for locating operational gaps, but it should not imply that every buyer follows one linear path or that anonymous audience reach can be joined perfectly to CRM records.
+The team reports more inquiries this month, but fewer opportunities. Is conversion worse, or have the new inquiries simply not had time to progress? A funnel model helps you follow the same people or accounts through defined steps so you can investigate the difference.
 
 ## Define the unit and boundary
 
@@ -37,11 +37,15 @@ If October's opportunity count includes older inquiries, dividing it by Septembe
 
 Reconcile a sample of records to the source system. Investigate impossible dates, duplicate entities, and changes in stage definitions. Keep reach and brand research in companion views when they cannot be reliably joined to individual buying records. The model's visibility limit is part of the report.
 
+## Try it with your own work
+
+Choose one group of inquiries from the same period. Count how many reached the next step, keep unresolved cases visible, and write the observation window beside the result.
+
 ## Sources and scope
 
 - [HubSpot: lifecycle stages](https://knowledge.hubspot.com/records/use-lifecycle-stages?region=canada&ref=b2b-playbook) illustrates contact/company stage behavior in one CRM; design and test your own transition rules rather than assuming identical platform behavior.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

@@ -3,7 +3,7 @@ title: "Channel strategy"
 sidebarTitle: "Channel Strategy"
 ---
 
-**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-12
 
 You cannot give every channel the same attention, especially with a small team. Start by looking at how your best customers already find and buy from you. Put most of your effort there, then test one additional channel with a clear budget and review date.
 
@@ -107,7 +107,7 @@ A useful rule: you are probably already living in one of the three primaries. As
 ### Step 5: Match the website to the buying process
 
 - Self-serve: signup, activation, and a credit-card or equivalent path. The scan still starts on the [homepage](../07-website-and-conversion/homepage.md).
-- Sales-assist: a decision-specific demo or conversation request, not a fake self-serve that dumps every visitor into a form.
+- Sales-assist: a decision-specific demo or conversation request, with the assisted process explained clearly to the visitor.
 - Outbound: the site still has to pass the [homepage 10-second test](../02-product-marketing/positioning.md); it is not the acquisition engine.
 
 <a id="step-6-treat-time-to-revenue-as-a-pace-check-not-a-scoreboard"></a>

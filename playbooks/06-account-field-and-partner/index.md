@@ -3,9 +3,7 @@ title: "06 · Account, field & partner marketing"
 sidebarTitle: "Overview"
 ---
 
-Some opportunities need coordination across sales, marketing, events, and partners. Plan whom to reach, why the interaction is useful to them, and who owns the next step.
-
-**Status:** Domain guide published · 13 tactic playbooks published
+Some customer relationships grow through a focused account plan, an event, or a trusted partner. This chapter helps you choose a worthwhile interaction, prepare it with the people involved, and follow through afterward.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -13,38 +11,41 @@ Some opportunities need coordination across sales, marketing, events, and partne
 
 ## Start here
 
-- [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) — choose the accounts.
-- [Event marketing](/playbooks/06-account-field-and-partner/event-marketing) — choose the right event.
-- [Ecosystem](/playbooks/06-account-field-and-partner/ecosystem) — value for the customer.
+1. [Plan the next step with one account](/playbooks/06-account-field-and-partner/account-planning) — Connect what you know to a useful action and an owner.
+2. [Decide whether an event is worth the effort](/playbooks/06-account-field-and-partner/event-marketing) — Start with the people and conversations you hope to serve.
+3. [Build a useful joint offer](/playbooks/06-account-field-and-partner/partner-marketing) — Explain the customer benefit and each partner’s contribution.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Event marketing](/playbooks/06-account-field-and-partner/event-marketing) | How should an event support a defined account, relationship, and pipeline objective? |
-| [Trade shows](/playbooks/06-account-field-and-partner/trade-shows) | How should a team select, prepare for, execute, and follow up on a trade show? |
-| [Executive dinners](/playbooks/06-account-field-and-partner/executive-dinners) | How can a small, role-locked table create a relationship and a next step? |
-| [Ecosystem](/playbooks/06-account-field-and-partner/ecosystem) | How should the company grow through partners who already have access and trust? |
-| [Account planning](/playbooks/06-account-field-and-partner/account-planning) | What is going on in this named account, and what will we do in 30/60/90 days? |
-| [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) | Which accounts, tiers, and resources define the system—what is not ABM, and how account-driven GTM loads the TAM first? |
+| [Event marketing](/playbooks/06-account-field-and-partner/event-marketing) | Is this event worth attending, and what would make participation useful? |
+| [Trade shows](/playbooks/06-account-field-and-partner/trade-shows) | How do we prepare for relevant conversations and follow up well? |
+| [Executive dinners](/playbooks/06-account-field-and-partner/executive-dinners) | What would make a small hosted conversation worth attending? |
+| [Ecosystem](/playbooks/06-account-field-and-partner/ecosystem) | Which complementary companies already help the customers we want to serve? |
+| [Account planning](/playbooks/06-account-field-and-partner/account-planning) | What is the next useful step with this account, and who owns it? |
+| [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) | Which accounts justify a coordinated, tailored effort? |
+| [One-to-one ABM](/playbooks/06-account-field-and-partner/one-to-one-abm) | How do we plan and bound the work for one important account? |
+| [One-to-few ABM](/playbooks/06-account-field-and-partner/one-to-few-abm) | Which accounts share enough of a problem for a common program? |
+| [Direct mail](/playbooks/06-account-field-and-partner/direct-mail) | When would a physical item help the recipient do something useful? |
+| [Partner marketing](/playbooks/06-account-field-and-partner/partner-marketing) | What customer problem can we solve better with a partner? |
+| [Affiliate program](/playbooks/06-account-field-and-partner/affiliate-program) | What terms and economics make a paid recommendation program workable? |
+| [Channel marketing](/playbooks/06-account-field-and-partner/channel-marketing) | What do resellers or delivery partners need to serve customers well? |
+| [Co-marketing](/playbooks/06-account-field-and-partner/co-marketing) | How do two partners share the work of one useful campaign? |
 
-| [One-to-one ABM](/playbooks/06-account-field-and-partner/one-to-one-abm) | What justifies a bespoke program for one account? |
-| [One-to-few ABM](/playbooks/06-account-field-and-partner/one-to-few-abm) | Which shared problem can support a small account-cluster program? |
-| [Direct mail](/playbooks/06-account-field-and-partner/direct-mail) | When can a physical touch create useful attention rather than waste? |
-| [Partner marketing](/playbooks/06-account-field-and-partner/partner-marketing) | How should two companies create and capture shared demand inside the [ecosystem](/playbooks/06-account-field-and-partner/ecosystem) flywheel? |
-| [Affiliate program](/playbooks/06-account-field-and-partner/affiliate-program) | What economics, controls, and enablement make referrals repeatable? |
-| [Channel marketing](/playbooks/06-account-field-and-partner/channel-marketing) | How should resellers or channel partners be activated and measured? |
-| [Co-marketing](/playbooks/06-account-field-and-partner/co-marketing) | How should partners combine audience, proof, and execution fairly? |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Choose one planned event or partner activity. Write who it helps, what they should get from it, and who will handle the next step.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Website & conversion](/playbooks/07-website-and-conversion) for a related part of the work.
 
 [Back to the playbook index](/playbooks)
+
+**Status:** Domain guide published · 13 tactic playbooks published
 
 ---
 

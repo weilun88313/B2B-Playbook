@@ -2,9 +2,9 @@
 title: "Market research"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Market research should change a decision: which market to enter, which problem to investigate, or which assumption makes the plan too risky. A collection of impressive industry statistics is not yet an answer.
+Someone asks how big the market is. You find three reports with three different answers, but none tells you whether the companies you can reach would actually buy. Start with the decision in front of you. This guide helps you gather enough useful evidence to choose where to test, without turning research into an endless slide deck.
 
 ## Start with a decision
 
@@ -12,18 +12,28 @@ Use this guide before committing a quarter of product or marketing work to a new
 
 ## Build an evidence trail
 
-1. **Bound the market.** Specify geography, operating model, company size, buyer role and the task being purchased. Count buying organizations rather than every employee who might use the product. Distinguish subsidiaries from independent purchasing units.
+1. **Choose which companies you are researching.** Specify geography, operating model, company size, buyer role and the task being purchased. Count buying organizations rather than every employee who might use the product. Distinguish subsidiaries from independent purchasing units.
 2. **Describe the current workflow.** Identify tools, services, manual work, approval paths and existing spending. Read procurement documents and actual job descriptions alongside vendor material. Vendor category definitions may exaggerate the audience relevant to your offer.
 3. **Separate facts from estimates.** For each number record its source, publication date, population and definition. A global software forecast cannot establish demand in your reachable segment. Show the assumptions connecting a broad count to a serviceable market.
 4. **Investigate recent behavior.** Speak with people who recently bought, delayed, rejected or worked around a solution. Ask what happened and what they tried. Do not turn a favorable response to your pitch into a completed purchase decision.
 5. **Look for contradictions.** Compare the strongest buying case with a company that appears similar but did not buy. Record whether the difference is urgency, authority, integration, economics or simply missing evidence.
-6. **Choose the next investment.** Produce a short decision memo with the strongest finding, biggest unresolved dependency, downside scenario and next test owner.
+6. **Decide what to try next.** Produce a short decision memo with the strongest finding, most important unanswered question, what could go wrong, and who will run the next test.
 
 ## Worked example
 
 A fictional team identifies 900 distributors in a region. Only 180 appear to run multiple warehouses; 70 have the supported accounting system. Neither filter proves a budget exists. Six interviews reveal that month-end reconciliation matters, but four firms outsource it cheaply. The team tests the two in-house workflows before estimating demand from all 70 organizations.
 
-The deliverable is a narrower hypothesis and a disconfirming observation. It is not a claim that one-third of the market will buy: the interviews were deliberately selected and are too few to estimate prevalence.
+The useful finding is that some otherwise suitable companies already solve the problem cheaply. That changes whom the team should speak to next. Six selected interviews cannot tell them what proportion of the whole market will buy.
+
+Their short decision note could look like this:
+
+| Question | What the fictional team writes |
+|---|---|
+| What are we deciding? | Whether to test a reconciliation workflow with regional distributors |
+| What did we learn? | Four of the six interviewed firms outsource the task cheaply |
+| What is still unclear? | How often the two in-house teams struggle and what the problem costs them |
+| What happens next? | Ask those teams to walk through a recent month-end reconciliation |
+| What would make us pause? | The existing process works well enough that changing it has little value |
 
 ## Copyable research brief
 
@@ -40,13 +50,17 @@ Proceed / narrow / defer, with reason:
 
 ## Review the result
 
-Ask a colleague to trace your three most important conclusions back to evidence. If a number loses its meaning without a slide presenter, repair the definition. Refresh material assumptions before spending, especially where regulations, budgets or technology requirements may have changed. Stop adding sources when the next decision is clear; investigate the remaining uncertainty through a test.
+Ask a colleague to trace your three most important conclusions back to evidence. A colleague should be able to understand a number’s population and date without needing you to explain the slide. Refresh material assumptions before spending, especially where regulations, budgets or technology requirements may have changed. Stop adding sources when the next decision is clear; investigate the remaining uncertainty through a test.
+
+## Try it with your own work
+
+Choose one market you are considering. Write the decision you need to make, then list three facts that could change your mind. Find evidence for the most consequential one first.
 
 ## Sources and scope
 
 - [US Small Business Administration: market research and competitive analysis](https://www.sba.gov/counseling/plan-your-business/?ref=b2b-playbook) distinguishes direct research from existing data and includes indirect competitors. Its business-planning guidance is a starting point, not a B2B market-size estimate.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

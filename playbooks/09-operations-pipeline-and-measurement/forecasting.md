@@ -2,7 +2,7 @@
 title: "Forecasting"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 A forecast combines what is in the pipeline with evidence about whether and when deals will close. Use a method that fits your sales process, keep the underlying records current, and make changes in confidence explainable. The review should reveal risks while there is time to act.
 
@@ -195,7 +195,7 @@ Four AEs. ~45-day cycle. Hybrid: bottoms-up on deals > &#36;40k, rates on the re
 
 | Metric | Diagnostic use |
 |---|---|
-| Forecast accuracy / variance | Whether calls are beliefs or theater |
+| Forecast accuracy / variance | How predictions compare with the outcomes that followed |
 | Coverage to target and gap | Whether the quarter is a math problem |
 | Stage conversion vs plan | Process vs heroics |
 | Hygiene (stale commit) | Trust in the CRM |

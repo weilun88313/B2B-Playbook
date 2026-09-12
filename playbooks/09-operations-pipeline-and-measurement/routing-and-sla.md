@@ -2,9 +2,9 @@
 title: "Routing and SLA"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Routing assigns a signal to an accountable owner. A service-level agreement specifies the expected action and timing. Together they should prevent valuable requests from becoming unowned records or being passed repeatedly between teams.
+A demo request arrives, but each team assumes someone else is handling it. Routing decides who owns the request; a service-level agreement, or SLA, says what they should do and by when. A useful setup also covers missing information, absences, and requests that do not fit the usual rules.
 
 ## Define what the clock measures
 
@@ -37,11 +37,15 @@ The operator establishes the correct region and transfers ownership with context
 
 Use synthetic records covering each branch and at least one overlap, missing value, unavailable owner, and duplicate. Check the receiving person's actual view, not just the workflow's success log. A record can be technically assigned yet practically invisible.
 
+## Try it with your own work
+
+Send a synthetic request with one important field missing. Check who sees it, who owns it, and when they are expected to act. Fix any point where it becomes unowned.
+
 ## Sources and scope
 
 - [HubSpot: assign and rotate owners](https://knowledge.hubspot.com/workflows/assign-and-rotate-record-owners-using-workflows?ref=b2b-playbook) illustrates implementation options in one CRM. The ownership contract, clock, and exception policy must be defined for your operation.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

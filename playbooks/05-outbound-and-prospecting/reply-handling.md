@@ -2,9 +2,9 @@
 title: "Reply handling"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A reply changes the state of a conversation. The system should stop treating the recipient as an untouched sequence record and let a responsible person interpret what was actually said.
+A prospect replies, “Could you send the requirements? We may look at this in November.” The next automated reminder should not ignore that answer. Good reply handling means reading what the person asked for, pausing conflicting messages, and agreeing a useful next step.
 
 ## Define the response states
 
@@ -39,11 +39,15 @@ The contact is not marked as a booked opportunity. If they agree to a date, the 
 
 Measure response time, accurate suppression, fulfilled commitments, and accepted next steps. Sample classifications instead of optimizing a single “positive reply rate.” A fast but wrong reply can be worse than a slower, informed answer.
 
+## Try it with your own work
+
+Read five recent replies alongside what your system did next. Check whether each person received an answer to their question and whether automation stopped when it should.
+
 ## Sources and scope
 
 - [ICO direct marketing guidance](https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/?ref=b2b-playbook) is a UK-specific reference. Applicable requirements depend on jurisdiction, recipient, channel, and purpose; validate the intended operation before sending.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

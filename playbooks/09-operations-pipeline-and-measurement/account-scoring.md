@@ -2,9 +2,9 @@
 title: "Account scoring"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Account scoring prioritizes accounts for a defined action. It combines evidence about fit and readiness without pretending that a numerical score is a measured probability of purchase. The useful output is an explainable decision and its supporting signals.
+One company has opened many emails. Another has asked a specific implementation question. Which deserves attention first? Account scoring helps organize that decision, but the reasons should remain visible: fit, relevant activity, relationships, and timing. Begin with the action the score is supposed to help you choose.
 
 ## Choose the action first
 
@@ -14,9 +14,9 @@ Decide whether the score selects research, sales review, an account program, or 
 
 1. **Separate dimensions.** Keep structural fit, observed engagement, relationship coverage, and timing signals visible. A poor-fit account should not become ideal merely by generating many clicks.
 2. **Define the evidence.** Record source, freshness, confidence, and entity matching. A signal attached to the wrong subsidiary can mislead the whole account view.
-3. **Control aggregation.** Deduplicate events, cap repeated activity, and distinguish multiple relevant roles from repeated behavior by one person. Exclude known bots and irrelevant activity where identifiable.
-4. **Handle unknowns explicitly.** Missing revenue or system data is not automatically poor fit. Use an unknown state and a research action where the uncertainty matters.
-5. **Map bands to actions.** Specify who reviews each band and what they should do. Start with transparent rules and manual review before introducing more complex prediction.
+3. **Check how activity adds up.** Deduplicate events, cap repeated activity, and distinguish multiple relevant roles from repeated behavior by one person. Exclude known bots and irrelevant activity where identifiable.
+4. **Leave room for “we do not know yet.”** Missing revenue or system data is not automatically poor fit. Use an unknown state and a research action where the uncertainty matters.
+5. **Give each score range a next action.** Specify who reviews each band and what they should do. Start with transparent rules and manual review before introducing more complex prediction.
 6. **Validate against outcomes and capacity.** Backtest on time-appropriate data without using future information. Inspect false positives, missed accounts, segment bias, and workload. Recalibrate when the market, product, or data source changes.
 
 ## Worked example
@@ -38,11 +38,15 @@ A third account has activity from operations and security plus a verified evalua
 
 Sample both selected and unselected accounts. If the system overwhelms the team, adjust the action threshold or capacity rather than quietly ignoring records. Keep a versioned rule set so changes in outcomes can be distinguished from changes in scoring.
 
+## Try it with your own work
+
+Review five accounts at the top of the queue. Explain why each is there in ordinary language. If the score cannot tell the owner what to do next, revise the rule or the action.
+
 ## Sources and scope
 
 - [HubSpot: lead scoring tool](https://knowledge.hubspot.com/scoring/understand-the-lead-scoring-tool?ref=b2b-playbook) illustrates scoring records from actions and properties. The prioritization model here is original, not a required vendor formula.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

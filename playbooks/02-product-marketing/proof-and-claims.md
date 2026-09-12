@@ -2,9 +2,9 @@
 title: "Proof and claims"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Commercial claims need evidence that supports what a reasonable buyer will understand, including implications created by headlines, charts and images. A claim register helps the team distinguish what it can demonstrate, what it has measured and what remains a hypothesis.
+The draft says your product saves teams 40% of their time. The evidence is one task that took less time in a small test. Before that sentence goes on the website, decide what the result really supports. This guide helps you make useful claims with enough context for a buyer to judge them.
 
 ## Create the claim register
 
@@ -50,11 +50,15 @@ Correction or withdrawal procedure:
 
 Approve, narrow, investigate or remove. If evidence does not exist, change the promise before publishing. Track unsupported-claim corrections and expired evidence as maintenance work. Do not turn “a human reviewed it” into proof that a numerical or legal assertion is sound.
 
+## Try it with your own work
+
+Choose one headline on your website. Find the evidence behind it and write down exactly who, what, and which period it covers. Revise the headline if it promises more than that evidence shows.
+
 ## Sources and scope
 
 - [US Federal Trade Commission: advertising and marketing basics](https://www.ftc.gov/business-guidance/advertising-marketing/advertising-marketing-basics?ref=b2b-playbook) explains the US expectation that advertising be truthful, non-deceptive and supported. Consult applicable local requirements for your audience and claim.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

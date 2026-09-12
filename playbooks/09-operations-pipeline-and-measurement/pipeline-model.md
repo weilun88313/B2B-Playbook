@@ -2,9 +2,9 @@
 title: "Pipeline model"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A pipeline model connects qualified opportunities to commercial progression and planning. It separates the value currently open, the movement during a period, and the outcomes of a cohort. Those are related views, not interchangeable numbers.
+The sales dashboard shows a large amount of open business. You still need to know what changed this month, which deals might close, and whether the team can support them. A pipeline model keeps those questions separate and makes the assumptions behind a plan visible.
 
 ## Establish the opportunity contract
 
@@ -40,11 +40,15 @@ For a separate planning exercise, a &#36;300,000 target at an assumed 25% value-
 
 Use the model to identify questions, then inspect the relevant opportunities. A weighted pipeline total is not a forecast guarantee. Report uncertainty and concentration rather than hiding them behind precise-looking expected values.
 
+## Try it with your own work
+
+Reconcile one month: start with opening pipeline, add new opportunities and amount changes, then remove wins and losses. Investigate any difference from the closing balance.
+
 ## Sources and scope
 
 - [Salesforce: sales pipeline](https://www.salesforce.com/sales/pipeline/?ref=b2b-playbook) provides a general pipeline reference; definitions, formulas, and examples below are explicit operating choices.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

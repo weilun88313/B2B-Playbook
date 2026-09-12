@@ -2,9 +2,9 @@
 title: "Co-marketing"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Co-marketing is a shared campaign or asset with a defined audience benefit and a finite delivery plan. It can be one activity within a broader partnership. Make the value, workload, and follow-up agreement concrete before production begins.
+Two companies agree to run a webinar together. Who writes the invitation, brings the example, answers questions, and follows up? A short shared brief turns that enthusiasm into an activity that is useful for the audience and manageable for both teams.
 
 ## Find an activity worth combining
 
@@ -40,11 +40,15 @@ Participants receive the promised checklist. Only those requesting a consultatio
 
 If one partner cannot deliver an agreed promotion, change the plan before launch rather than hiding the shortfall. If the campaign attracts the wrong audience, inspect the promise and placement. A campaign can be well executed yet poorly selected; the review should distinguish those failures.
 
+## Try it with your own work
+
+Before producing anything, agree on the audience’s question and each partner’s contribution. Assign one owner and date to every promised deliverable.
+
 ## Sources and scope
 
 - [Microsoft: co-sell overview](https://learn.microsoft.com/en-us/partner-center/referrals/co-sell-overview?ref=b2b-playbook) illustrates collaborative selling in one ecosystem. Its program rules are not universal partner requirements.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

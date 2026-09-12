@@ -3,7 +3,7 @@ title: "MarTech governance"
 sidebarTitle: "Martech Governance"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 Software decisions are easier when you start with the job, the users, and the constraints. Test a product on real work, talk to relevant customers, and include the cost of setup and maintenance. Give every tool an owner and a date to review whether it is still useful.
 
@@ -121,7 +121,7 @@ Working file: [vendor-evaluation.xlsx](../../templates/vendor-evaluation.xlsx). 
 | Metric | Diagnostic use |
 |---|---|
 | Sync errors / stale CRM fields | Whether the record stays true |
-| Time from purchase to team living in the tool | Implementation theater |
+| Time from purchase to team living in the tool | Whether the team has adopted the tool in its everyday work |
 | Seats provisioned vs seats in the weekly job | Shelfware |
 | Bake-off jobs covered vs SKUs bought | Suite sprawl |
 

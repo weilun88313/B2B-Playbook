@@ -3,7 +3,7 @@ title: "Expansion marketing"
 sidebarTitle: "Expansion Marketing"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 An existing customer may need another use case, more capacity, or a wider rollout. Start with evidence of value and a new need, then work with the account owner on a relevant offer. Do not treat the customer base as a list for every product announcement.
 
@@ -75,7 +75,7 @@ One additional job, one owner in their committee, one next step (scoped conversa
 
 ### Step 4: Review losses as well as expansion
 
-If expansion is the only reason net looks healthy, say that in [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md). Marketing that celebrates upgrade revenue while logos cancel is survivor theater.
+If expansion is the only reason net looks healthy, say that in [GTM planning](../09-operations-pipeline-and-measurement/gtm-planning.md). Review upgrade revenue alongside departing customers so growth in healthy accounts does not hide problems elsewhere.
 
 <a id="step-5-refuse-the-base-blast"></a>
 

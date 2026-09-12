@@ -2,9 +2,9 @@
 title: "Thought leadership"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-Thought leadership gives a reader a useful way to reconsider a decision. It earns attention through an original observation, a defensible argument or an unusually clear explanation. Having a senior author and a confident tone is insufficient.
+You have noticed something in your work that the usual advice does not explain. That is a useful place to begin an article. Thought leadership is most helpful when it gives a reader a better way to think through a decision, with examples and evidence they can question.
 
 ## Choose a question you can advance
 
@@ -40,11 +40,15 @@ The evidence comes from the team's own funnel and interviews with its sales staf
 
 Look for substantive replies, use in internal discussions and specific invitations to continue the conversation. Track distribution separately from intellectual contribution: a controversial headline may attract views without improving understanding. Retire ideas that no longer survive the evidence. Do not manufacture disagreement simply to maintain a publishing cadence.
 
+## Try it with your own work
+
+Write one observation from your work and the decision it might change. Add the strongest reasonable objection before outlining the article.
+
 ## Sources and scope
 
 - [Edelman–LinkedIn 2025 thought leadership report](https://www.edelman.com/expertise/Business-Marketing/2025-b2b-thought-leadership-report?ref=b2b-playbook) provides survey context on thought leadership and buying audiences. Survey responses do not establish that a particular article will cause pipeline or revenue; the editorial method here is original.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

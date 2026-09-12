@@ -1,8 +1,6 @@
 # 04 · Channels & distribution
 
-Pick channels based on how your buyers learn and buy, and on what your team can run well. These guides cover search, LinkedIn, communities, creators, paid media, and launches.
-
-**Status:** Domain guide published · 15 tactic playbooks published
+A useful offer still needs to reach the people it can help. You do not need to run every channel at once. Start with where your buyers already spend attention, then choose a route your team can maintain and learn from.
 
 **Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
@@ -10,40 +8,43 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 
 ## Start here
 
-- [Channel strategy](channel-strategy.md) — where customers come from.
-- [LinkedIn organic](linkedin-organic.md) — share a real observation.
-- [SEO and AEO](seo-and-aeo.md) — find real buyer questions.
+1. [Choose where to focus](channel-strategy.md) — Match the channel to how your customers find and buy products.
+2. [Give a useful piece a route to readers](content-distribution.md) — Plan where it belongs and who will share it.
+3. [Decide whether advertising is the next step](paid-media.md) — Set a purpose, budget, and review before launching.
 
 ## Playbook map
 
 | Guide | What it helps you do |
 |---|---|
-| [Channel strategy](channel-strategy.md) | Which growth motion is primary, and which one channel is worth adding next? |
-| [SEO and AEO](seo-and-aeo.md) | How should useful content become discoverable through search and answer engines? |
-| [Community](community.md) | How do we participate in existing groups or host a useful, sustainable community? |
-| [Creator partnership](creator-partnership.md) | How do we choose, scope, publish, and evaluate a useful creator collaboration? |
-| [Product Hunt](product-hunt.md) | How do we prepare, run, and evaluate a launch beyond the leaderboard? |
-| [Content syndication](content-syndication.md) | How do we arrange useful republication or a paid content program, then evaluate what follows? |
-| [LinkedIn organic](linkedin-organic.md) | How do we turn real work into useful posts, relevant conversations, and measurable learning? |
-| [Paid media](paid-media.md) | How do we choose, launch, and evaluate a paid test without confusing cheap actions with valuable customers? |
-| [Review sites](review-sites.md) | How do we invite honest reviews, respond usefully, and evaluate evidence rights and paid services? |
+| [Channel strategy](channel-strategy.md) | Where should we focus our effort to reach suitable buyers? |
+| [SEO and AEO](seo-and-aeo.md) | How can useful answers become easier to find in search and AI tools? |
+| [Community](community.md) | How do we participate in or host a group in a way members value? |
+| [Creator partnership](creator-partnership.md) | Which creator and collaboration would genuinely help the intended audience? |
+| [Product Hunt](product-hunt.md) | How do we prepare for launch-day attention and useful follow-up? |
+| [Content syndication](content-syndication.md) | When is distributing content through another publisher worth the cost? |
+| [LinkedIn organic](linkedin-organic.md) | What can we share on LinkedIn that is useful to the people we want to reach? |
+| [Paid media](paid-media.md) | What should an advertising test achieve, and how will we review it? |
+| [Review sites](review-sites.md) | What do buyers need to find on our public product listing? |
+| [Paid search](paid-search.md) | Which search questions fit our offer, and where should the ads take readers? |
+| [Paid social](paid-social.md) | What deserves the attention of someone browsing their feed? |
+| [Retargeting](retargeting.md) | What useful information should a previous visitor see next? |
+| [PR and media](pr-and-media.md) | What makes our news relevant and verifiable for a reporter’s readers? |
+| [Content distribution](content-distribution.md) | How will a useful piece reach the people it was written for? |
+| [Content repurposing](content-repurposing.md) | How can one strong idea help someone in another format? |
 
-| [Paid search](paid-search.md) | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](paid-media.md). |
-| [Paid social](paid-social.md) | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](paid-media.md). |
-| [Retargeting](retargeting.md) | Follow-on frequency and exclusions. The job decision lives in [paid media](paid-media.md). |
-| [PR and media](pr-and-media.md) | Which genuinely newsworthy story can earn credible third-party attention? |
-| [Content distribution](content-distribution.md) | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](content-syndication.md). |
-| [Content repurposing](content-repurposing.md) | How should one strong idea become channel-native formats without losing meaning? |
+<a id="coming-later"></a>
 
-## Coming later
+## Try one thing
 
-All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
+Pick one audience and one useful piece of content. Name a place where that audience already asks the question it answers, then plan a relevant introduction.
 
 ## Where to go next
 
 Pick a guide above for the task you are working on, or browse [Outbound & prospecting](../05-outbound-and-prospecting/) for a related part of the work.
 
 [Back to the playbook index](../README.md)
+
+**Status:** Domain guide published · 15 tactic playbooks published
 
 ---
 

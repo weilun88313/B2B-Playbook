@@ -2,9 +2,9 @@
 title: "Review program"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A review program invites genuine users to describe their actual experience. Its operating goal is a reliable, representative feedback process, not a guaranteed rating. Keep review collection separate from manipulating what prospective buyers can see.
+You want more people to hear from customers who have used the product. A review program gives those users a straightforward invitation to describe their experience, including the parts that could be better. Plan the invitation and response process before setting a target for review volume.
 
 ## Define the eligible invitation
 
@@ -40,11 +40,15 @@ It does not remove those customers from future invitations because they were cri
 
 Show review volume, recency, distribution, and themes with context. An increase in average rating after changing who receives invitations may reflect selection rather than a better product. Avoid presenting a curated quote set as the complete distribution of customer opinion.
 
+## Try it with your own work
+
+Read your current invitation. Would someone with a mixed experience feel equally welcome to respond? Check the destination platform’s rules before changing incentives or the recipient list.
+
 ## Sources and scope
 
 - [FTC: soliciting and paying for online reviews](https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers?ref=b2b-playbook) provides US guidance; check the relevant platform and current applicable requirements as well.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

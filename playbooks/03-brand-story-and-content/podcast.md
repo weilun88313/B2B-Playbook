@@ -2,9 +2,9 @@
 title: "Podcast"
 ---
 
-**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12 · **Reading edit:** 2026-09-12
 
-A podcast is a repeatable listening experience, not a series of sales calls with recording enabled. It works when a defined audience values the conversations enough to return and the team can sustain research, hosting and editing.
+You have a guest in mind and a topic you could discuss for an hour. Now consider the listener: what would they learn that makes the conversation worth returning for? A small first season gives you room to find a useful format and discover whether you can sustain the work.
 
 ## Decide whether a series is justified
 
@@ -43,11 +43,15 @@ What this episode teaches us about the series:
 
 Review relevant repeat listening, substantive feedback, production cost and guest experience. Platform metrics have different definitions, so avoid adding incompatible counts into one “audience” number. Ask whether the team has enough original questions for another season. A respectful pause is better than filling the feed with conversations that no longer fulfill the promise.
 
+## Try it with your own work
+
+Outline one episode around a specific incident or decision. Write three questions that would help the guest explain what happened, what they tried, and what they learned.
+
 ## Sources and scope
 
 - [Spotify for Creators: starting a podcast](https://creators.spotify.com/resources/how-to/start-a-podcast?ref=b2b-playbook) covers formats, production and distribution. Check current platform capabilities before implementation; no platform growth claim is adopted here.
 
-The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+The example is fictional; any numbers illustrate the method rather than a benchmark. Adapt the worksheet to your own situation.
 
 ## What to read next
 

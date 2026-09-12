@@ -138,7 +138,7 @@ Do not treat form-fill volume or chat engagement as conversion.
 
 ## What to read next
 
-The high-intent special case is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Campaign URLs are [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). Routing for non-hand-raisers is [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). State after a light fill is [lead nurture](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/lead-nurture). Use [conversion-rate optimization](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/conversion-rate-optimization) for evidence-based changes and experiment design.
+The high-intent special case is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Campaign URLs are [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). Routing for people who have not asked to speak to sales is [lead scoring](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/lead-scoring). State after a light fill is [lead nurture](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/lead-nurture). Use [conversion-rate optimization](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/conversion-rate-optimization) for evidence-based changes and experiment design.
 
 ## Sources and evidence boundary
 

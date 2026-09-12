@@ -3,7 +3,7 @@ title: "Landing page"
 sidebarTitle: "Landing Page"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 A landing page continues a promise made somewhere else, such as an ad, email, or event invitation. Keep that promise clear and give the visitor one relevant next step. Match the page to the campaign without inventing a different product story.
 
@@ -140,7 +140,7 @@ Bounce rate is a hint that the promise broke. It is not the scoreboard. Button-c
 
 ## What to read next
 
-The standing scan is the [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage). The durable URLs a campaign should eventually earn are [content strategy](../03-brand-story-and-content/content-strategy.md). Whether you should have paid for the click is [paid media](../04-channels-and-distribution/paid-media.md). How to read the visit without last-click theater is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). A named customer’s proof, when you have approval, is a [case study](../03-brand-story-and-content/case-study.md)—do not fake one on the landing page.
+The standing scan is the [homepage](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/homepage). The durable URLs a campaign should eventually earn are [content strategy](../03-brand-story-and-content/content-strategy.md). Whether you should have paid for the click is [paid media](../04-channels-and-distribution/paid-media.md). How to interpret the visit alongside evidence beyond its last recorded click is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). A named customer’s proof, when you have approval, is a [case study](../03-brand-story-and-content/case-study.md); use only approved, accurate customer material on the landing page.
 
 ## Sources and evidence boundary
 

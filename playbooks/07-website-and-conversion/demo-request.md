@@ -3,7 +3,7 @@ title: "Demo request"
 sidebarTitle: "Demo Request"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 When someone requests a demo, tell them what will happen next. Ask only for information you will use, explain who will respond and when, and help the sales team prepare. The experience after submitting the form matters as much as the button.
 
@@ -64,7 +64,7 @@ Add a **mandatory open-text** “How did you hear about us?” with no suggested
 
 ### Step 3: Set a response standard
 
-Complete: *on submit, ____ is notified, must ____, within ____.* Hand-raisers skip scoring theater. Fit-but-wrong-seat gets a redirect (resource, signup, or “not for you”), not a polite tour. Students, competitors, and existing customers need a negative path.
+Complete: *on submission, ____ is notified and will ____ within ____.* Someone explicitly requesting a demo needs an appropriate response without waiting to accumulate engagement points. If a visitor needs a different kind of help, explain the suitable route: a resource, signup, support, or another contact. Make those alternatives useful, too.
 
 If nobody owns the first hour, you built a form, not a door.
 
@@ -145,7 +145,7 @@ Do not treat form-fill volume or “MQL from demo page” as the score. A smalle
 
 ## What to read next
 
-The walk itself is [demo](../02-product-marketing/demo.md). How short this form is allowed to be—and whether chat is a second queue—is [forms and chat](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/forms-and-chat). Routing math for *non*-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). How HDYHAU sits next to software attribution is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). People who raised a hand too early, or who are not ready for a walk, are [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). The number they may want before they submit is the [pricing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page).
+The walk itself is [demo](../02-product-marketing/demo.md). How short this form is allowed to be—and whether chat is a second queue—is [forms and chat](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/forms-and-chat). Routing math for *people who have not asked to speak to sales* is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). How HDYHAU sits next to software attribution is [measurement model](../09-operations-pipeline-and-measurement/measurement-model.md). People who raised a hand too early, or who are not ready for a walk, are [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). The number they may want before they submit is the [pricing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/pricing-page).
 
 ## Sources and evidence boundary
 
