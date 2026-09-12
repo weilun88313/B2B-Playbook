@@ -1,0 +1,55 @@
+---
+title: "Website strategy"
+---
+
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+
+Website strategy defines the decisions and tasks the site should support. It turns a collection of pages into a usable path for evaluators, buyers, customers, and other important visitors without forcing all of them into the same conversion.
+
+## Map the real visits
+
+Begin with customer questions, sales conversations, support patterns, search queries, and observed usability problems. Distinguish evidence from internal preferences. A navigation structure that mirrors the company organization may not match the reader's vocabulary.
+
+## Plan the experience
+
+1. **Prioritize audiences and tasks.** Name a few important journeys: understand the product, check fit, evaluate implementation, compare cost, purchase, or get help. State what a successful visit means for each.
+2. **Inventory existing pages.** Identify authoritative answers, duplicated claims, obsolete pages, and gaps. Preserve useful destinations and plan redirects before moving content.
+3. **Design information paths.** Connect broad explanations to specific use cases, proof, technical detail, and next actions. Use labels readers understand. Let people enter through deep pages rather than assuming every visit begins at the homepage.
+4. **Assign page responsibilities.** Each page needs a primary question, supporting evidence, owner, and next step. Avoid repeating the same generic introduction across the entire site.
+5. **Define measurement and maintenance.** Specify events, privacy requirements, data quality checks, review dates, and ownership. Measure task completion and qualified progression alongside traffic.
+6. **Test representative tasks.** Ask someone unfamiliar with the site to find an integration limitation, understand pricing, or locate support. Observe where they hesitate without explaining the navigation for them.
+
+## Worked example
+
+A fictional B2B platform receives repeated sales questions about supported accounting systems. The information exists in a buried PDF. The team creates a maintained integration page, links it from relevant product pages, and keeps the old PDF destination pointing readers to the current answer.
+
+Success is easier access to accurate compatibility information and fewer avoidable clarification loops. An increase in demo requests is welcome but is not the only valid outcome of this change.
+
+## Website task map
+
+| Audience/task | Entry point | Answer page | Evidence | Next action | Owner |
+|---|---|---|---|---|---|
+| Evaluator checks compatibility | Product page/search | Integration guide | Current supported versions | Continue evaluation or ask a specific question | |
+| | | | | | |
+
+## Set a release boundary
+
+Prioritize broken paths, unclear claims, inaccessible interactions, and missing decision information before decorative additions. A first release can cover a defined set of journeys well and expand with evidence. Record what is intentionally outside scope so an unfinished path is not presented as available.
+
+## Sources and scope
+
+- [Nielsen Norman Group: journey mapping](https://www.nngroup.com/articles/journey-mapping-101/?ref=b2b-playbook) supports thinking in user goals and stages; this website planning workflow is original.
+
+The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+
+## What to read next
+
+[Homepage](homepage.md) · [Product page](product-page.md) · [Documentation](documentation.md)
+
+[Chapter guide](README.md) · [All playbooks](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

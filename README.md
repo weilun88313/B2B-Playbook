@@ -6,9 +6,9 @@ Practical guides for finding customers, explaining your product, and building a 
 
 **[Read the library on Mintlify](https://b2-b-playbook.mintlify.app)** · [中文简介](README.zh.md) · [Browse the playbooks](playbooks/)
 
-**Current coverage:** 77 published playbooks · 56 working files · 43 curated tools · 20 reading sources · 9 domain guides
+**Current coverage:** 131 published playbooks · 56 working files · 43 curated tools · 20 reading sources · 9 domain guides
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ## Start with the work in front of you
 
@@ -81,7 +81,7 @@ I am Ivan Xu. Lensmor is my product. I maintain this library for founders and B2
 - Illustrative examples are labelled. Company cases link to dated primary sources; reported results have not been independently audited.
 - Tools are not paid placements. Lensmor is my product, and its entry says so.
 - Third-party links use `ref=b2b-playbook` to identify the referral source. It is not an affiliate code.
-- New articles are added as they are ready. Planned topics are not empty pages.
+- All 131 topics in the original nine-chapter outline are published. Guides will continue to evolve with reader feedback and new evidence.
 
 You can make a private working copy of the templates. Republishing the content requires permission; see the [copyright and reuse terms](LICENSE).
 

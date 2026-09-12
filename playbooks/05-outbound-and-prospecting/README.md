@@ -2,9 +2,9 @@
 
 Choose companies worth contacting, find the right people, and give them a credible reason to respond. Work from account research to a small test before adding channels or automation.
 
-**Status:** Domain guide published · 9 tactic playbooks published
+**Status:** Domain guide published · 13 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Research the account; Write a relevant approach; Learn from the response](../../assets/illustrations/05-outbound-and-prospecting.webp)
 
@@ -28,16 +28,14 @@ Choose companies worth contacting, find the right people, and give them a credib
 | [Cold call](cold-call.md) | How do we open clearly, listen to the response, respect boundaries, and agree on an accurate next step? |
 | [LinkedIn outbound](linkedin-outbound.md) | How do we choose a suitable LinkedIn route, write a relevant message, and coordinate replies and next steps? |
 
+| [Contact research](contact-research.md) | Which person and contact route are appropriate and permitted? |
+| [Email deliverability](email-deliverability.md) | How should sending infrastructure and reputation be protected? |
+| [Reply handling](reply-handling.md) | How should different response types be interpreted and routed? |
+| [SDR handoff](sdr-handoff.md) | What context must move from prospecting into discovery or sales? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Contact research | Which person and contact route are appropriate and permitted? |
-| Email deliverability | How should sending infrastructure and reputation be protected? |
-| Reply handling | How should different response types be interpreted and routed? |
-| SDR handoff | What context must move from prospecting into discovery or sales? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

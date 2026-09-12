@@ -2,9 +2,9 @@
 
 Before choosing channels or writing copy, get clear on the customer. These guides help you investigate a problem, choose the first buyers, and test whether the product is worth paying for.
 
-**Status:** Domain guide published · 8 tactic playbooks published
+**Status:** Domain guide published · 14 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Understand the problem; Choose the first customers; Test demand and fit](../../assets/illustrations/01-strategy-and-buyers.webp)
 
@@ -27,18 +27,16 @@ Before choosing channels or writing copy, get clear on the customer. These guide
 | [Product-market fit](product-market-fit.md) | Has a real company loved it, paid, and started to pull—before you scale a channel? |
 | [Four Fits](four-fits.md) | Do market, product, channel, and model still describe the same company? |
 
+| [Market research](market-research.md) | What is true about the market beyond internal opinion? |
+| [Segmentation](segmentation.md) | Which groups differ enough to require a distinct strategy? |
+| [Buyer journey](buyer-journey.md) | How does a buying situation move from trigger to decision and adoption? |
+| [Jobs to be done](jobs-to-be-done.md) | What progress is the buyer hiring a solution to make? |
+| [Category entry points](category-entry-points.md) | Which situations should make the company come to mind? |
+| [Competitive alternatives](competitive-alternatives.md) | What will buyers do if they do not choose this product? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Market research | What is true about the market beyond internal opinion? |
-| Segmentation | Which groups differ enough to require a distinct strategy? |
-| Buyer journey | How does a buying situation move from trigger to decision and adoption? |
-| Jobs to be done | What progress is the buyer hiring a solution to make? |
-| Category entry points | Which situations should make the company come to mind? |
-| Competitive alternatives | What will buyers do if they do not choose this product? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

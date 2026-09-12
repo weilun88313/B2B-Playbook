@@ -3,7 +3,7 @@ title: "SDR onboarding"
 sidebarTitle: "SDR Onboarding"
 ---
 
-**Last reviewed:** 2026-09-10 · **Reading edit:** 2026-09-10
+**Last reviewed:** 2026-09-10 · **Reading edit:** 2026-09-12
 
 The new SDR has finished the product training, passed the quiz, and booked a first meeting.
 
@@ -909,7 +909,7 @@ Use [account research](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-
 
 Next in this chapter is [contact data](https://b2-b-playbook.mintlify.app/playbooks/05-outbound-and-prospecting/contact-data): how to check whether a contact record and route are accurate, appropriate, and usable before anyone acts on them.
 
-A dedicated SDR-handoff article remains planned. Until then, use the meeting and briefing method on this page rather than assuming that converting a record completes the transfer.
+Use [SDR handoff](sdr-handoff.md) for the acceptance contract, context transfer, and feedback loop. Converting a record alone does not complete the transfer.
 
 ## Sources and evidence boundary
 

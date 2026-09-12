@@ -86,7 +86,13 @@
                   "playbooks/01-strategy-and-buyers/buying-committee",
                   "playbooks/01-strategy-and-buyers/first-ten-customers",
                   "playbooks/01-strategy-and-buyers/product-market-fit",
-                  "playbooks/01-strategy-and-buyers/four-fits"
+                  "playbooks/01-strategy-and-buyers/four-fits",
+                  "playbooks/01-strategy-and-buyers/market-research",
+                  "playbooks/01-strategy-and-buyers/segmentation",
+                  "playbooks/01-strategy-and-buyers/buyer-journey",
+                  "playbooks/01-strategy-and-buyers/jobs-to-be-done",
+                  "playbooks/01-strategy-and-buyers/category-entry-points",
+                  "playbooks/01-strategy-and-buyers/competitive-alternatives"
                 ],
                 "expanded": false
               },
@@ -102,7 +108,9 @@
                   "playbooks/02-product-marketing/product-launch",
                   "playbooks/02-product-marketing/sales-enablement",
                   "playbooks/02-product-marketing/demo",
-                  "playbooks/02-product-marketing/change-friction"
+                  "playbooks/02-product-marketing/change-friction",
+                  "playbooks/02-product-marketing/value-proposition",
+                  "playbooks/02-product-marketing/proof-and-claims"
                 ],
                 "expanded": false
               },
@@ -114,7 +122,15 @@
                   "playbooks/03-brand-story-and-content/founder-story",
                   "playbooks/03-brand-story-and-content/content-strategy",
                   "playbooks/03-brand-story-and-content/case-study",
-                  "playbooks/03-brand-story-and-content/white-paper"
+                  "playbooks/03-brand-story-and-content/white-paper",
+                  "playbooks/03-brand-story-and-content/brand-strategy",
+                  "playbooks/03-brand-story-and-content/brand-narrative",
+                  "playbooks/03-brand-story-and-content/thought-leadership",
+                  "playbooks/03-brand-story-and-content/newsletter",
+                  "playbooks/03-brand-story-and-content/webinar",
+                  "playbooks/03-brand-story-and-content/podcast",
+                  "playbooks/03-brand-story-and-content/video",
+                  "playbooks/03-brand-story-and-content/community-led-growth"
                 ],
                 "expanded": false
               },
@@ -131,7 +147,13 @@
                   "playbooks/04-channels-and-distribution/content-syndication",
                   "playbooks/04-channels-and-distribution/linkedin-organic",
                   "playbooks/04-channels-and-distribution/paid-media",
-                  "playbooks/04-channels-and-distribution/review-sites"
+                  "playbooks/04-channels-and-distribution/review-sites",
+                  "playbooks/04-channels-and-distribution/paid-search",
+                  "playbooks/04-channels-and-distribution/paid-social",
+                  "playbooks/04-channels-and-distribution/retargeting",
+                  "playbooks/04-channels-and-distribution/pr-and-media",
+                  "playbooks/04-channels-and-distribution/content-distribution",
+                  "playbooks/04-channels-and-distribution/content-repurposing"
                 ],
                 "expanded": false
               },
@@ -148,7 +170,11 @@
                   "playbooks/05-outbound-and-prospecting/sdr-onboarding",
                   "playbooks/05-outbound-and-prospecting/contact-data",
                   "playbooks/05-outbound-and-prospecting/cold-call",
-                  "playbooks/05-outbound-and-prospecting/linkedin-outbound"
+                  "playbooks/05-outbound-and-prospecting/linkedin-outbound",
+                  "playbooks/05-outbound-and-prospecting/contact-research",
+                  "playbooks/05-outbound-and-prospecting/email-deliverability",
+                  "playbooks/05-outbound-and-prospecting/reply-handling",
+                  "playbooks/05-outbound-and-prospecting/sdr-handoff"
                 ],
                 "expanded": false
               },
@@ -162,7 +188,14 @@
                   "playbooks/06-account-field-and-partner/executive-dinners",
                   "playbooks/06-account-field-and-partner/ecosystem",
                   "playbooks/06-account-field-and-partner/account-planning",
-                  "playbooks/06-account-field-and-partner/abm-strategy"
+                  "playbooks/06-account-field-and-partner/abm-strategy",
+                  "playbooks/06-account-field-and-partner/one-to-one-abm",
+                  "playbooks/06-account-field-and-partner/one-to-few-abm",
+                  "playbooks/06-account-field-and-partner/direct-mail",
+                  "playbooks/06-account-field-and-partner/partner-marketing",
+                  "playbooks/06-account-field-and-partner/affiliate-program",
+                  "playbooks/06-account-field-and-partner/channel-marketing",
+                  "playbooks/06-account-field-and-partner/co-marketing"
                 ],
                 "expanded": false
               },
@@ -176,7 +209,13 @@
                   "playbooks/07-website-and-conversion/pricing-page",
                   "playbooks/07-website-and-conversion/demo-request",
                   "playbooks/07-website-and-conversion/landing-page",
-                  "playbooks/07-website-and-conversion/forms-and-chat"
+                  "playbooks/07-website-and-conversion/forms-and-chat",
+                  "playbooks/07-website-and-conversion/website-strategy",
+                  "playbooks/07-website-and-conversion/product-page",
+                  "playbooks/07-website-and-conversion/documentation",
+                  "playbooks/07-website-and-conversion/lead-magnet",
+                  "playbooks/07-website-and-conversion/conversion-rate-optimization",
+                  "playbooks/07-website-and-conversion/self-service-buying"
                 ],
                 "expanded": false
               },
@@ -193,7 +232,14 @@
                   "playbooks/08-lifecycle-and-customer-marketing/revenue-churn",
                   "playbooks/08-lifecycle-and-customer-marketing/lead-nurture",
                   "playbooks/08-lifecycle-and-customer-marketing/expansion-marketing",
-                  "playbooks/08-lifecycle-and-customer-marketing/renewal-marketing"
+                  "playbooks/08-lifecycle-and-customer-marketing/renewal-marketing",
+                  "playbooks/08-lifecycle-and-customer-marketing/lifecycle-email",
+                  "playbooks/08-lifecycle-and-customer-marketing/customer-education",
+                  "playbooks/08-lifecycle-and-customer-marketing/customer-community",
+                  "playbooks/08-lifecycle-and-customer-marketing/customer-advocacy",
+                  "playbooks/08-lifecycle-and-customer-marketing/referral-program",
+                  "playbooks/08-lifecycle-and-customer-marketing/review-program",
+                  "playbooks/08-lifecycle-and-customer-marketing/win-back"
                 ],
                 "expanded": false
               },
@@ -219,7 +265,15 @@
                   "playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity",
                   "playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection",
                   "playbooks/09-operations-pipeline-and-measurement/ai-workflow",
-                  "playbooks/09-operations-pipeline-and-measurement/measurement-model"
+                  "playbooks/09-operations-pipeline-and-measurement/measurement-model",
+                  "playbooks/09-operations-pipeline-and-measurement/funnel-model",
+                  "playbooks/09-operations-pipeline-and-measurement/pipeline-model",
+                  "playbooks/09-operations-pipeline-and-measurement/lifecycle-stages",
+                  "playbooks/09-operations-pipeline-and-measurement/account-scoring",
+                  "playbooks/09-operations-pipeline-and-measurement/routing-and-sla",
+                  "playbooks/09-operations-pipeline-and-measurement/attribution",
+                  "playbooks/09-operations-pipeline-and-measurement/dashboards",
+                  "playbooks/09-operations-pipeline-and-measurement/privacy-and-compliance-operations"
                 ],
                 "expanded": false
               }

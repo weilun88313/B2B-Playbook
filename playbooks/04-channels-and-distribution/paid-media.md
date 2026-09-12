@@ -3,7 +3,7 @@ title: "Paid media"
 sidebarTitle: "Paid Media"
 ---
 
-**Last reviewed:** 2026-09-08 · **Reading edit:** 2026-09-09
+**Last reviewed:** 2026-09-08 · **Reading edit:** 2026-09-12
 
 The campaign report looks good. Clicks are cheaper than last month, the form is converting, and the platform says the ads generated a healthy return.
 
@@ -796,7 +796,7 @@ For the destination, read [Homepage](../07-website-and-conversion/homepage.md), 
 
 [Measurement model](../09-operations-pipeline-and-measurement/measurement-model.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md) provide the deeper measurement and comparison methods.
 
-Paid search, paid social, and retargeting remain planned as dedicated execution pages in the [chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution). This article supplies the shared decision process without claiming those deeper pages are already written.
+Continue with [paid search](paid-search.md), [paid social](paid-social.md), or [retargeting](retargeting.md) for channel-specific execution. This article supplies the shared decision process.
 
 ## Sources and evidence boundary
 

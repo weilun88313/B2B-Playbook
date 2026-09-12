@@ -3,7 +3,7 @@ title: "Renewal marketing"
 sidebarTitle: "Renewal Marketing"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 A renewal is easier to discuss when the customer can see what they have achieved. Start before the contract deadline, gather a short record of value and unresolved issues, and make the commercial steps clear. Work with the account owner rather than sending a generic reminder.
 
@@ -81,7 +81,7 @@ If the renewal includes a price move, it was decided on [pricing and packaging](
 
 ### Step 5: Record and learn from a lost renewal
 
-Cancel goes into [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) as gross. Win-back is still planned; it is not this page. Do not relabel a lost renewal as “nurture.”
+Cancel goes into [revenue churn](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) as gross. Use [win-back](win-back.md) when a relevant change justifies re-engagement. Do not relabel a lost renewal as “nurture.”
 
 <a id="teaching-fill-inventednot-a-customer"></a>
 

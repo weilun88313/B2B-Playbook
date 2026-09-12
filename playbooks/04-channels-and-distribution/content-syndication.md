@@ -3,7 +3,7 @@ title: "Content syndication"
 sidebarTitle: "Content Syndication"
 ---
 
-**Last reviewed:** 2026-09-08 · **Reading edit:** 2026-09-08
+**Last reviewed:** 2026-09-08 · **Reading edit:** 2026-09-12
 
 The report arrives on Friday: 250 leads delivered, every one within the agreed cost per lead. The campaign is marked complete.
 
@@ -628,7 +628,7 @@ Use [Content strategy](../03-brand-story-and-content/content-strategy.md) to cho
 
 For related search decisions, read [SEO & AEO](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution/seo-and-aeo). For routing and evaluation, continue with [Lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md) and [Experimentation](../09-operations-pipeline-and-measurement/experimentation.md).
 
-The [Buffer syndication case](../../use-cases/buffer-syndication.md) is an editorial example, not a paid-lead benchmark. Broader content distribution is still a planned topic in the [chapter guide](https://b2-b-playbook.mintlify.app/playbooks/04-channels-and-distribution).
+The [Buffer syndication case](../../use-cases/buffer-syndication.md) is an editorial example, not a paid-lead benchmark. Use [content distribution](content-distribution.md) to plan owned, partner, and other relevant routes to an asset.
 
 ## Sources and evidence boundary
 

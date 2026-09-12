@@ -1,8 +1,8 @@
 # B2B marketing playbook index
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-12
 
-Find the guide for the task you are working on. Use the quick lookup below, or browse one of the nine chapters. Each chapter separates published articles from topics still on the writing list.
+Find the guide for the task you are working on. Use the quick lookup below, or browse one of the nine chapters. All 131 topics in the original nine-chapter outline now have published guides.
 
 ![Understand your buyers, help them choose, and learn from what happens.](../assets/illustrations/library.webp)
 
@@ -34,7 +34,7 @@ Start with [a practical task path](start-here.md) if you want a guide, a templat
 | Case study / customer proof | [Brand, story & content](03-brand-story-and-content/) | [Case study](03-brand-story-and-content/case-study.md) |
 | Founder story | [Brand, story & content](03-brand-story-and-content/) | [Founder story](03-brand-story-and-content/founder-story.md) |
 | White paper | [Brand, story & content](03-brand-story-and-content/) | [White paper](03-brand-story-and-content/white-paper.md) |
-| Community (owned) | [Brand, story & content](03-brand-story-and-content/) | Planned: `community-led-growth.md` |
+| Community (owned) | [Brand, story & content](03-brand-story-and-content/) | [Community-led growth](03-brand-story-and-content/community-led-growth.md) |
 | Community participation / hosting | [Channels & distribution](04-channels-and-distribution/) | [Community](04-channels-and-distribution/community.md) |
 | Channel strategy / PLG vs sales | [Channels & distribution](04-channels-and-distribution/) | [Channel strategy](04-channels-and-distribution/channel-strategy.md) |
 | SEO / AEO / AI search visibility | [Channels & distribution](04-channels-and-distribution/) | [SEO and AEO](04-channels-and-distribution/seo-and-aeo.md) |
@@ -59,7 +59,7 @@ Start with [a practical task path](start-here.md) if you want a guide, a templat
 | Ecosystem / partners | [Account, field & partner](06-account-field-and-partner/) | [Ecosystem](06-account-field-and-partner/ecosystem.md) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](06-account-field-and-partner/) | [Account planning](06-account-field-and-partner/account-planning.md) |
 | ABM / account-driven / account tiers | [Account, field & partner](06-account-field-and-partner/) | [ABM strategy](06-account-field-and-partner/abm-strategy.md) |
-| Affiliate | [Account, field & partner](06-account-field-and-partner/) | Planned: `affiliate-program.md` |
+| Affiliate | [Account, field & partner](06-account-field-and-partner/) | [Affiliate program](06-account-field-and-partner/affiliate-program.md) |
 | Homepage | [Website & conversion](07-website-and-conversion/) | [Homepage](07-website-and-conversion/homepage.md) |
 | Comparison page | [Website & conversion](07-website-and-conversion/) | [Comparison page](07-website-and-conversion/comparison-page.md) |
 | Pricing page | [Website & conversion](07-website-and-conversion/) | [Pricing page](07-website-and-conversion/pricing-page.md) |
@@ -76,7 +76,7 @@ Start with [a practical task path](start-here.md) if you want a guide, a templat
 | CCO / VP CS first 90 days | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [CS-leadership ramp](08-lifecycle-and-customer-marketing/cs-leadership-ramp.md) |
 | CS CRM fields / health / 4Rs | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [CS workspace](08-lifecycle-and-customer-marketing/cs-workspace.md) |
 | Gross vs net revenue churn / NRR leak | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Revenue churn](08-lifecycle-and-customer-marketing/revenue-churn.md) |
-| Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | Planned: `customer-community.md` |
+| Customer community | [Lifecycle & customer](08-lifecycle-and-customer-marketing/) | [Customer community](08-lifecycle-and-customer-marketing/customer-community.md) |
 | Sales compensation / quota pay | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Sales compensation](09-operations-pipeline-and-measurement/sales-compensation.md) |
 | Forecast / pipeline hygiene | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Forecasting](09-operations-pipeline-and-measurement/forecasting.md) |
 | Lead scoring / MQL | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Lead scoring](09-operations-pipeline-and-measurement/lead-scoring.md) |
@@ -94,7 +94,58 @@ Start with [a practical task path](start-here.md) if you want a guide, a templat
 | GTM AI ladder / “we are AI-native” | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [GTM AI maturity](09-operations-pipeline-and-measurement/gtm-ai-maturity.md) |
 | Which AI use case / not which tool | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [AI use-case selection](09-operations-pipeline-and-measurement/ai-use-case-selection.md) |
 | AI workflow / agent gates | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [AI workflow](09-operations-pipeline-and-measurement/ai-workflow.md) |
-| Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | Planned: `pipeline-model.md` |
+| Pipeline | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Pipeline model](09-operations-pipeline-and-measurement/pipeline-model.md) |
+
+| Market research | [Strategy & buyers](01-strategy-and-buyers/) | [Market research](01-strategy-and-buyers/market-research.md) |
+| Segmentation | [Strategy & buyers](01-strategy-and-buyers/) | [Segmentation](01-strategy-and-buyers/segmentation.md) |
+| Buyer journey | [Strategy & buyers](01-strategy-and-buyers/) | [Buyer journey](01-strategy-and-buyers/buyer-journey.md) |
+| Jobs to be done | [Strategy & buyers](01-strategy-and-buyers/) | [Jobs to be done](01-strategy-and-buyers/jobs-to-be-done.md) |
+| Category entry points | [Strategy & buyers](01-strategy-and-buyers/) | [Category entry points](01-strategy-and-buyers/category-entry-points.md) |
+| Competitive alternatives | [Strategy & buyers](01-strategy-and-buyers/) | [Competitive alternatives](01-strategy-and-buyers/competitive-alternatives.md) |
+| Value proposition | [Product marketing](02-product-marketing/) | [Value proposition](02-product-marketing/value-proposition.md) |
+| Proof and claims | [Product marketing](02-product-marketing/) | [Proof and claims](02-product-marketing/proof-and-claims.md) |
+| Brand strategy | [Brand, story & content](03-brand-story-and-content/) | [Brand strategy](03-brand-story-and-content/brand-strategy.md) |
+| Brand narrative | [Brand, story & content](03-brand-story-and-content/) | [Brand narrative](03-brand-story-and-content/brand-narrative.md) |
+| Thought leadership | [Brand, story & content](03-brand-story-and-content/) | [Thought leadership](03-brand-story-and-content/thought-leadership.md) |
+| Newsletter | [Brand, story & content](03-brand-story-and-content/) | [Newsletter](03-brand-story-and-content/newsletter.md) |
+| Webinar | [Brand, story & content](03-brand-story-and-content/) | [Webinar](03-brand-story-and-content/webinar.md) |
+| Podcast | [Brand, story & content](03-brand-story-and-content/) | [Podcast](03-brand-story-and-content/podcast.md) |
+| Video | [Brand, story & content](03-brand-story-and-content/) | [Video](03-brand-story-and-content/video.md) |
+| Paid search | [Channels & distribution](04-channels-and-distribution/) | [Paid search](04-channels-and-distribution/paid-search.md) |
+| Paid social | [Channels & distribution](04-channels-and-distribution/) | [Paid social](04-channels-and-distribution/paid-social.md) |
+| Retargeting | [Channels & distribution](04-channels-and-distribution/) | [Retargeting](04-channels-and-distribution/retargeting.md) |
+| PR and media | [Channels & distribution](04-channels-and-distribution/) | [PR and media](04-channels-and-distribution/pr-and-media.md) |
+| Content distribution | [Channels & distribution](04-channels-and-distribution/) | [Content distribution](04-channels-and-distribution/content-distribution.md) |
+| Content repurposing | [Channels & distribution](04-channels-and-distribution/) | [Content repurposing](04-channels-and-distribution/content-repurposing.md) |
+| Contact research | [Outbound & prospecting](05-outbound-and-prospecting/) | [Contact research](05-outbound-and-prospecting/contact-research.md) |
+| Email deliverability | [Outbound & prospecting](05-outbound-and-prospecting/) | [Email deliverability](05-outbound-and-prospecting/email-deliverability.md) |
+| Reply handling | [Outbound & prospecting](05-outbound-and-prospecting/) | [Reply handling](05-outbound-and-prospecting/reply-handling.md) |
+| SDR handoff | [Outbound & prospecting](05-outbound-and-prospecting/) | [SDR handoff](05-outbound-and-prospecting/sdr-handoff.md) |
+| One-to-one ABM | [Account, field & partner marketing](06-account-field-and-partner/) | [One-to-one ABM](06-account-field-and-partner/one-to-one-abm.md) |
+| One-to-few ABM | [Account, field & partner marketing](06-account-field-and-partner/) | [One-to-few ABM](06-account-field-and-partner/one-to-few-abm.md) |
+| Direct mail | [Account, field & partner marketing](06-account-field-and-partner/) | [Direct mail](06-account-field-and-partner/direct-mail.md) |
+| Partner marketing | [Account, field & partner marketing](06-account-field-and-partner/) | [Partner marketing](06-account-field-and-partner/partner-marketing.md) |
+| Channel marketing | [Account, field & partner marketing](06-account-field-and-partner/) | [Channel marketing](06-account-field-and-partner/channel-marketing.md) |
+| Co-marketing | [Account, field & partner marketing](06-account-field-and-partner/) | [Co-marketing](06-account-field-and-partner/co-marketing.md) |
+| Website strategy | [Website & conversion](07-website-and-conversion/) | [Website strategy](07-website-and-conversion/website-strategy.md) |
+| Product page | [Website & conversion](07-website-and-conversion/) | [Product page](07-website-and-conversion/product-page.md) |
+| Documentation and resource center | [Website & conversion](07-website-and-conversion/) | [Documentation and resource center](07-website-and-conversion/documentation.md) |
+| Lead magnet | [Website & conversion](07-website-and-conversion/) | [Lead magnet](07-website-and-conversion/lead-magnet.md) |
+| Conversion-rate optimization | [Website & conversion](07-website-and-conversion/) | [Conversion-rate optimization](07-website-and-conversion/conversion-rate-optimization.md) |
+| Self-service buying | [Website & conversion](07-website-and-conversion/) | [Self-service buying](07-website-and-conversion/self-service-buying.md) |
+| Lifecycle email | [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/) | [Lifecycle email](08-lifecycle-and-customer-marketing/lifecycle-email.md) |
+| Customer education | [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/) | [Customer education](08-lifecycle-and-customer-marketing/customer-education.md) |
+| Customer advocacy | [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/) | [Customer advocacy](08-lifecycle-and-customer-marketing/customer-advocacy.md) |
+| Referral program | [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/) | [Referral program](08-lifecycle-and-customer-marketing/referral-program.md) |
+| Review program | [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/) | [Review program](08-lifecycle-and-customer-marketing/review-program.md) |
+| Win-back | [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/) | [Win-back](08-lifecycle-and-customer-marketing/win-back.md) |
+| Funnel model | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Funnel model](09-operations-pipeline-and-measurement/funnel-model.md) |
+| Lifecycle stages | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Lifecycle stages](09-operations-pipeline-and-measurement/lifecycle-stages.md) |
+| Account scoring | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Account scoring](09-operations-pipeline-and-measurement/account-scoring.md) |
+| Routing and SLA | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Routing and SLA](09-operations-pipeline-and-measurement/routing-and-sla.md) |
+| Attribution | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Attribution](09-operations-pipeline-and-measurement/attribution.md) |
+| Dashboards | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Dashboards](09-operations-pipeline-and-measurement/dashboards.md) |
+| Privacy and compliance operations | [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/) | [Privacy and compliance operations](09-operations-pipeline-and-measurement/privacy-and-compliance-operations.md) |
 
 ## 01 · [Strategy & buyers](01-strategy-and-buyers/)
 
@@ -111,7 +162,12 @@ Published:
 - [Product-market fit](01-strategy-and-buyers/product-market-fit.md)
 - [Four Fits](01-strategy-and-buyers/four-fits.md)
 
-Planned: market research, segmentation, buyer journey, jobs to be done, category entry points, competitive alternatives.
+- [Market research](01-strategy-and-buyers/market-research.md)
+- [Segmentation](01-strategy-and-buyers/segmentation.md)
+- [Buyer journey](01-strategy-and-buyers/buyer-journey.md)
+- [Jobs to be done](01-strategy-and-buyers/jobs-to-be-done.md)
+- [Category entry points](01-strategy-and-buyers/category-entry-points.md)
+- [Competitive alternatives](01-strategy-and-buyers/competitive-alternatives.md)
 
 ## 02 · [Product marketing](02-product-marketing/)
 
@@ -128,7 +184,8 @@ Published:
 - [Demo](02-product-marketing/demo.md)
 - [Change friction](02-product-marketing/change-friction.md)
 
-Planned: value proposition, proof and claims.
+- [Value proposition](02-product-marketing/value-proposition.md)
+- [Proof and claims](02-product-marketing/proof-and-claims.md)
 
 ## 03 · [Brand, story & content](03-brand-story-and-content/)
 
@@ -141,7 +198,14 @@ Published:
 - [Case study](03-brand-story-and-content/case-study.md)
 - [White paper](03-brand-story-and-content/white-paper.md)
 
-Planned: brand strategy, brand narrative, thought leadership, newsletter, webinar, podcast, video, community-led growth.
+- [Brand strategy](03-brand-story-and-content/brand-strategy.md)
+- [Brand narrative](03-brand-story-and-content/brand-narrative.md)
+- [Thought leadership](03-brand-story-and-content/thought-leadership.md)
+- [Newsletter](03-brand-story-and-content/newsletter.md)
+- [Webinar](03-brand-story-and-content/webinar.md)
+- [Podcast](03-brand-story-and-content/podcast.md)
+- [Video](03-brand-story-and-content/video.md)
+- [Community-led growth](03-brand-story-and-content/community-led-growth.md)
 
 ## 04 · [Channels & distribution](04-channels-and-distribution/)
 
@@ -159,7 +223,12 @@ Published:
 - [Paid media](04-channels-and-distribution/paid-media.md)
 - [Review sites](04-channels-and-distribution/review-sites.md)
 
-Planned: paid search, paid social, retargeting (execution under [paid media](04-channels-and-distribution/paid-media.md)), PR and media, content distribution, content repurposing.
+- [Paid search](04-channels-and-distribution/paid-search.md)
+- [Paid social](04-channels-and-distribution/paid-social.md)
+- [Retargeting](04-channels-and-distribution/retargeting.md)
+- [PR and media](04-channels-and-distribution/pr-and-media.md)
+- [Content distribution](04-channels-and-distribution/content-distribution.md)
+- [Content repurposing](04-channels-and-distribution/content-repurposing.md)
 
 ## 05 · [Outbound & prospecting](05-outbound-and-prospecting/)
 
@@ -177,7 +246,10 @@ Published:
 - [Cold call](05-outbound-and-prospecting/cold-call.md)
 - [LinkedIn outbound](05-outbound-and-prospecting/linkedin-outbound.md)
 
-Planned: contact research, email deliverability, reply handling, SDR handoff.
+- [Contact research](05-outbound-and-prospecting/contact-research.md)
+- [Email deliverability](05-outbound-and-prospecting/email-deliverability.md)
+- [Reply handling](05-outbound-and-prospecting/reply-handling.md)
+- [SDR handoff](05-outbound-and-prospecting/sdr-handoff.md)
 
 ## 06 · [Account, field & partner marketing](06-account-field-and-partner/)
 
@@ -192,7 +264,13 @@ Published:
 - [Account planning](06-account-field-and-partner/account-planning.md)
 - [ABM strategy](06-account-field-and-partner/abm-strategy.md)
 
-Planned: one-to-one ABM, one-to-few ABM, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
+- [One-to-one ABM](06-account-field-and-partner/one-to-one-abm.md)
+- [One-to-few ABM](06-account-field-and-partner/one-to-few-abm.md)
+- [Direct mail](06-account-field-and-partner/direct-mail.md)
+- [Partner marketing](06-account-field-and-partner/partner-marketing.md)
+- [Affiliate program](06-account-field-and-partner/affiliate-program.md)
+- [Channel marketing](06-account-field-and-partner/channel-marketing.md)
+- [Co-marketing](06-account-field-and-partner/co-marketing.md)
 
 ## 07 · [Website & conversion](07-website-and-conversion/)
 
@@ -207,7 +285,12 @@ Published:
 - [Landing page](07-website-and-conversion/landing-page.md)
 - [Forms and chat](07-website-and-conversion/forms-and-chat.md)
 
-Planned: website strategy, product page, lead magnet, conversion-rate optimization, self-service buying, documentation.
+- [Website strategy](07-website-and-conversion/website-strategy.md)
+- [Product page](07-website-and-conversion/product-page.md)
+- [Documentation and resource center](07-website-and-conversion/documentation.md)
+- [Lead magnet](07-website-and-conversion/lead-magnet.md)
+- [Conversion-rate optimization](07-website-and-conversion/conversion-rate-optimization.md)
+- [Self-service buying](07-website-and-conversion/self-service-buying.md)
 
 ## 08 · [Lifecycle & customer marketing](08-lifecycle-and-customer-marketing/)
 
@@ -225,7 +308,13 @@ Published:
 - [Expansion marketing](08-lifecycle-and-customer-marketing/expansion-marketing.md)
 - [Renewal marketing](08-lifecycle-and-customer-marketing/renewal-marketing.md)
 
-Planned: lifecycle email, customer education, customer community, advocacy, referrals, reviews, win-back.
+- [Lifecycle email](08-lifecycle-and-customer-marketing/lifecycle-email.md)
+- [Customer education](08-lifecycle-and-customer-marketing/customer-education.md)
+- [Customer community](08-lifecycle-and-customer-marketing/customer-community.md)
+- [Customer advocacy](08-lifecycle-and-customer-marketing/customer-advocacy.md)
+- [Referral program](08-lifecycle-and-customer-marketing/referral-program.md)
+- [Review program](08-lifecycle-and-customer-marketing/review-program.md)
+- [Win-back](08-lifecycle-and-customer-marketing/win-back.md)
 
 ## 09 · [Operations, pipeline & measurement](09-operations-pipeline-and-measurement/)
 
@@ -252,7 +341,14 @@ Published:
 - [AI workflow](09-operations-pipeline-and-measurement/ai-workflow.md)
 - [Measurement model](09-operations-pipeline-and-measurement/measurement-model.md)
 
-Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](09-operations-pipeline-and-measurement/measurement-model.md)), dashboards, privacy and compliance operations.
+- [Funnel model](09-operations-pipeline-and-measurement/funnel-model.md)
+- [Pipeline model](09-operations-pipeline-and-measurement/pipeline-model.md)
+- [Lifecycle stages](09-operations-pipeline-and-measurement/lifecycle-stages.md)
+- [Account scoring](09-operations-pipeline-and-measurement/account-scoring.md)
+- [Routing and SLA](09-operations-pipeline-and-measurement/routing-and-sla.md)
+- [Attribution](09-operations-pipeline-and-measurement/attribution.md)
+- [Dashboards](09-operations-pipeline-and-measurement/dashboards.md)
+- [Privacy and compliance operations](09-operations-pipeline-and-measurement/privacy-and-compliance-operations.md)
 
 <a id="domain-guide-contract"></a>
 <a id="page-contract"></a>

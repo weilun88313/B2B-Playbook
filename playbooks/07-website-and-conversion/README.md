@@ -2,9 +2,9 @@
 
 Your website should help a visitor understand the offer and decide what to do. Improve the homepage, comparisons, pricing, campaign pages, and the experience after someone asks for a demo.
 
-**Status:** Domain guide published · 6 tactic playbooks published
+**Status:** Domain guide published · 12 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Explain the offer; Answer evaluation questions; Make the next step clear](../../assets/illustrations/07-website-and-conversion.webp)
 
@@ -25,18 +25,16 @@ Your website should help a visitor understand the offer and decide what to do. I
 | [Landing page](landing-page.md) | How should one campaign promise lead to one relevant next step? |
 | [Forms and chat](forms-and-chat.md) | Which interaction collects enough context without creating avoidable friction? |
 
+| [Website strategy](website-strategy.md) | Which audiences, questions, journeys, and conversions should the site support? |
+| [Product page](product-page.md) | How should capabilities connect to outcomes, use cases, and proof? |
+| [Documentation and resource center](documentation.md) | How should evaluators and users find authoritative implementation knowledge? |
+| [Lead magnet](lead-magnet.md) | When is an exchange of information valuable enough to justify a form? |
+| [Conversion-rate optimization](conversion-rate-optimization.md) | Which evidence-based change can improve a defined buyer progression? |
+| [Self-service buying](self-service-buying.md) | Which parts of evaluation and purchase can happen without a scheduled meeting? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Website strategy | Which audiences, questions, journeys, and conversions should the site support? |
-| Product page | How should capabilities connect to outcomes, use cases, and proof? |
-| Documentation and resource center | How should evaluators and users find authoritative implementation knowledge? |
-| Lead magnet | When is an exchange of information valuable enough to justify a form? |
-| Conversion-rate optimization | Which evidence-based change can improve a defined buyer progression? |
-| Self-service buying | Which parts of evaluation and purchase can happen without a scheduled meeting? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

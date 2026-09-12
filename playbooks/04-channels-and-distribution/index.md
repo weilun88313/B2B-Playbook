@@ -5,9 +5,9 @@ sidebarTitle: "Overview"
 
 Pick channels based on how your buyers learn and buy, and on what your team can run well. These guides cover search, LinkedIn, communities, creators, paid media, and launches.
 
-**Status:** Domain guide published · 9 tactic playbooks published
+**Status:** Domain guide published · 15 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Choose a main channel; Publish or participate; Learn what brings buyers](/assets/illustrations/04-channels-and-distribution.webp)
 
@@ -31,18 +31,16 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Paid media](/playbooks/04-channels-and-distribution/paid-media) | How do we choose, launch, and evaluate a paid test without confusing cheap actions with valuable customers? |
 | [Review sites](/playbooks/04-channels-and-distribution/review-sites) | How do we invite honest reviews, respond usefully, and evaluate evidence rights and paid services? |
 
+| [Paid search](/playbooks/04-channels-and-distribution/paid-search) | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
+| [Paid social](/playbooks/04-channels-and-distribution/paid-social) | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
+| [Retargeting](/playbooks/04-channels-and-distribution/retargeting) | Follow-on frequency and exclusions. The job decision lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
+| [PR and media](/playbooks/04-channels-and-distribution/pr-and-media) | Which genuinely newsworthy story can earn credible third-party attention? |
+| [Content distribution](/playbooks/04-channels-and-distribution/content-distribution) | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](/playbooks/04-channels-and-distribution/content-syndication). |
+| [Content repurposing](/playbooks/04-channels-and-distribution/content-repurposing) | How should one strong idea become channel-native formats without losing meaning? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Paid search | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
-| Paid social | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
-| Retargeting | Follow-on frequency and exclusions. The job decision lives in [paid media](/playbooks/04-channels-and-distribution/paid-media). |
-| PR and media | Which genuinely newsworthy story can earn credible third-party attention? |
-| Content distribution | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](/playbooks/04-channels-and-distribution/content-syndication). |
-| Content repurposing | How should one strong idea become channel-native formats without losing meaning? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

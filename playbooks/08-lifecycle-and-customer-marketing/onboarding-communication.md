@@ -3,7 +3,7 @@ title: "Onboarding communication"
 sidebarTitle: "Onboarding Communication"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 New customers should know who to contact, what happens next, and what they need to prepare. Put the essentials in one welcome packet, then adapt the follow-up to their project. Keep routine messages separate from account-specific decisions.
 
@@ -22,7 +22,7 @@ New customers should know who to contact, what happens next, and what they need 
 
 - There is no signed customer. Stay in [first ten](../01-strategy-and-buyers/first-ten-customers.md).
 - You still mix education and implementation in one job. Split that in [customer onboarding](https://b2-b-playbook.mintlify.app/playbooks/08-lifecycle-and-customer-marketing/customer-onboarding) first.
-- The product is truly self-serve and the only job is in-app empty states. Do not invent a professional-services packet. Lifecycle email (still planned) can wait until the states exist.
+- The product is truly self-serve and the only job is in-app empty states. Do not invent a professional-services packet. Define the relevant states before configuring [lifecycle email](lifecycle-email.md).
 
 <a id="one-rule"></a>
 

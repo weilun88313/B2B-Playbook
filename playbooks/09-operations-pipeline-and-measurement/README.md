@@ -2,9 +2,9 @@
 
 This chapter covers the practical systems behind marketing and revenue work: plans, budgets, CRM records, measurement, team routines, and AI workflows. Choose the part you need; you do not have to build all of it at once.
 
-**Status:** Domain guide published · 18 tactic playbooks published
+**Status:** Domain guide published · 26 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Agree on the plan; Keep useful records; Review and improve](../../assets/illustrations/09-operations-pipeline-and-measurement.webp)
 
@@ -37,20 +37,18 @@ This chapter covers the practical systems behind marketing and revenue work: pla
 | [AI workflow](ai-workflow.md) | What artifact, gate, and collapse must exist before we build? |
 | [Measurement model](measurement-model.md) | Which decisions should each metric support—and what requires a human or a test? |
 
+| [Funnel model](funnel-model.md) | How should audience and buyer progression be represented before pipeline? |
+| [Pipeline model](pipeline-model.md) | How should marketing contribution connect to qualified revenue progression? |
+| [Lifecycle stages](lifecycle-stages.md) | Which shared states and transition rules should systems enforce? |
+| [Account scoring](account-scoring.md) | How should account fit, engagement, relationships, and timing be combined? |
+| [Routing and SLA](routing-and-sla.md) | Who should act on each signal, by when, and with what context? |
+| [Attribution](attribution.md) | Deeper model math. Two scoreboards and HDYHAU already live in [measurement model](measurement-model.md). |
+| [Dashboards](dashboards.md) | Which views help an operator make a recurring decision? |
+| [Privacy and compliance operations](privacy-and-compliance-operations.md) | How should consent, lawful use, retention, access, and deletion be operationalized? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Funnel model | How should audience and buyer progression be represented before pipeline? |
-| Pipeline model | How should marketing contribution connect to qualified revenue progression? |
-| Lifecycle stages | Which shared states and transition rules should systems enforce? |
-| Account scoring | How should account fit, engagement, relationships, and timing be combined? |
-| Routing and SLA | Who should act on each signal, by when, and with what context? |
-| Attribution | Deeper model math. Two scoreboards and HDYHAU already live in [measurement model](measurement-model.md). |
-| Dashboards | Which views help an operator make a recurring decision? |
-| Privacy and compliance operations | How should consent, lawful use, retention, access, and deletion be operationalized? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

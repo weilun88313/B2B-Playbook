@@ -2,7 +2,7 @@
 title: "Homepage"
 ---
 
-**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-09-02 · **Reading edit:** 2026-09-12
 
 A new visitor should be able to understand what you sell, who it helps, and where to go next. Write those answers before designing the page. Add proof near the claims it supports and link to the detail buyers need for a closer look.
 
@@ -20,7 +20,7 @@ A new visitor should be able to understand what you sell, who it helps, and wher
 ## Do not use this when
 
 - Positioning is empty. Finish [positioning](../02-product-marketing/positioning.md) first. A prettier hero will not invent a category.
-- The work is one paid campaign’s promise. That is a landing page (still planned). Do not hijack `/` for a quarter’s ad.
+- The work is one paid campaign’s promise. Use a dedicated [landing page](landing-page.md). Do not hijack `/` for a quarter’s ad.
 - You need the comparison, pricing, or demo path itself. Those are sibling pages in this domain.
 - The request is a visual-identity refresh with no message change.
 

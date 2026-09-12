@@ -2,9 +2,9 @@
 
 Turn what you know about customers into a clear offer. Work through positioning, messaging, pricing, and the material people need to make a buying decision.
 
-**Status:** Domain guide published · 8 tactic playbooks published
+**Status:** Domain guide published · 10 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Explain the difference; Support it with evidence; Help buyers choose](../../assets/illustrations/02-product-marketing.webp)
 
@@ -27,14 +27,12 @@ Turn what you know about customers into a clear offer. Work through positioning,
 | [Demo](demo.md) | What must the product walk prove after the pitch, and how do we score it? |
 | [Change friction](change-friction.md) | When value is prevention or a crowded stack, how do we qualify the fix? |
 
+| [Value proposition](value-proposition.md) | What valuable outcome is promised, for whom, and why is it credible? |
+| [Proof and claims](proof-and-claims.md) | Which evidence is strong enough to support each commercial claim? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Value proposition | What valuable outcome is promised, for whom, and why is it credible? |
-| Proof and claims | Which evidence is strong enough to support each commercial claim? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

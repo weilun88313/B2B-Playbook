@@ -1,0 +1,57 @@
+---
+title: "Video"
+---
+
+**Published:** 2026-09-12 · **Last reviewed:** 2026-09-12
+
+Use video when motion, sequence, demonstration or a person's explanation makes the idea easier to understand. A video should have a specific communication job before it has a production budget.
+
+## Pick the job and viewing context
+
+Use a short product demonstration for a visible workflow, an explainer for a difficult concept, or a practitioner interview for experience that needs context. Specify where people will watch, whether sound is likely to be on, and what they should do or understand afterward. Do not force every subject into the same duration.
+
+## Build from the viewer's question
+
+1. Write one outcome and the minimum information needed to reach it. Remove secondary arguments or make them separate pieces. Begin with the problem the viewer recognizes.
+2. Storyboard the explanation before polishing visuals. For each scene, specify what the viewer sees, hears and learns. A slide containing an entire paragraph rarely becomes clearer because it moves.
+3. Match demonstration to the actual product. Use an identifiable version and realistic inputs. Label mockups, accelerated sequences and hypothetical outputs. Never let an edited demo imply a capability that is absent.
+4. Secure rights and permissions for footage, music, people, customer data and screenshots. Record the scope for reuse and avoid exposing private information in background windows.
+5. Plan accessibility during production. Provide accurate captions and a useful transcript; include descriptions of visual information needed to understand the task. Check contrast, reading time and small-screen legibility.
+6. Publish with a clear title, description and next step. Keep a version owner so changes to the product or claim trigger a review of the video and its clips.
+
+## Worked example
+
+A fictional routing tool needs to explain what happens when an account owner is absent. The video follows one request from submission to fallback assignment and the audit record. It shows the exception, not just a perfect happy path.
+
+The final screen links to the setup guide. The team tests whether viewers can describe who receives the request and where to verify the action. Completion rate alone would not reveal a misunderstanding of that responsibility.
+
+## Scene planning sheet
+
+| Scene | Visible action | Explanation | Evidence or permission |
+|---|---|---|---|
+| Problem | Current task or failure | Why it matters | Realistic, cleared example |
+| Mechanism | The relevant change | What creates the result | Current product behavior |
+| Exception | Failure or boundary | What the viewer must know | Verified limitation |
+| Next step | Resource or task | What to do now | Working destination |
+
+## Review before scaling production
+
+Ask someone unfamiliar with the script to explain the idea after watching. Fix comprehension before optimizing reach. Review abandonment points with the viewing context in mind, and separate autoplay impressions from deliberate viewing. Keep the source project and an update plan so an inaccurate clip can be corrected wherever it was distributed.
+
+## Sources and scope
+
+- [W3C Web Accessibility Initiative: audio and video media](https://www.w3.org/WAI/media/av/?ref=b2b-playbook) provides accessibility planning guidance. The production process and evaluation example here are original.
+
+The workflow and worked example are original operating guidance. Example numbers are illustrative, not benchmarks or reported customer results. Apply the method to your own evidence and constraints.
+
+## What to read next
+
+Use [demo](../02-product-marketing/demo.md) for live buying conversations and [content repurposing](../04-channels-and-distribution/content-repurposing.md) for adaptations.
+
+[Chapter guide](README.md) · [All playbooks](../README.md)
+
+---
+
+Copyright © 2026 Ivan Xu. All rights reserved. See the [copyright and reuse terms](../../LICENSE).
+
+Canonical source: [github.com/weilun88313/B2B-Playbook](https://github.com/weilun88313/B2B-Playbook)

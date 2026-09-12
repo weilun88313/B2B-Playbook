@@ -3,7 +3,7 @@ title: "ABM strategy"
 sidebarTitle: "ABM Strategy"
 ---
 
-**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-12
 
 Account-based marketing puts extra effort into a selected group of companies. Choose that group based on fit and the time your team can realistically spend, then agree with sales on what each account will receive and what progress looks like.
 
@@ -45,7 +45,7 @@ Account-based marketing puts extra effort into a selected group of companies. Ch
 
 ## Keep this in mind
 
-**Tier first, then tactics.** If you cannot say how many T1 accounts you can actually staff this quarter, you do not have ABM. You have a logo mood board. One-to-one and one-to-few stay planned as deeper execution; they must not contradict this page.
+**Tier first, then tactics.** If you cannot say how many T1 accounts you can actually staff this quarter, you do not have ABM. You have a logo mood board. Use [one-to-one ABM](one-to-one-abm.md) and [one-to-few ABM](one-to-few-abm.md) for the corresponding execution plans.
 
 <a id="operating-method"></a>
 
@@ -171,7 +171,7 @@ Do not treat ABM-influenced pipeline, ad engagement on account lists, or “acco
 
 ## What to read next
 
-The file for one T1 logo is [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning). A small table is [executive dinners](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners). Partners already in the building are [ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem). Person-level work inside the program is [outbound](../05-outbound-and-prospecting/). After they buy, the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md); expansion is [expansion marketing](../08-lifecycle-and-customer-marketing/expansion-marketing.md). One-to-one and one-to-few execution pages remain planned.
+The file for one T1 logo is [account planning](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/account-planning). A small table is [executive dinners](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/executive-dinners). Partners already in the building are [ecosystem](https://b2-b-playbook.mintlify.app/playbooks/06-account-field-and-partner/ecosystem). Person-level work inside the program is [outbound](../05-outbound-and-prospecting/). After they buy, the book is [customer success](../08-lifecycle-and-customer-marketing/customer-success.md); expansion is [expansion marketing](../08-lifecycle-and-customer-marketing/expansion-marketing.md). Continue with [one-to-one](one-to-one-abm.md) or [one-to-few execution](one-to-few-abm.md) according to the account tier and available capacity.
 
 ## Sources and evidence boundary
 

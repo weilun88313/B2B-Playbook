@@ -2,9 +2,9 @@
 
 Some opportunities need coordination across sales, marketing, events, and partners. Plan whom to reach, why the interaction is useful to them, and who owns the next step.
 
-**Status:** Domain guide published · 6 tactic playbooks published
+**Status:** Domain guide published · 13 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Select relevant accounts; Create useful interactions; Follow up together](../../assets/illustrations/06-account-field-and-partner.webp)
 
@@ -25,19 +25,17 @@ Some opportunities need coordination across sales, marketing, events, and partne
 | [Account planning](account-planning.md) | What is going on in this named account, and what will we do in 30/60/90 days? |
 | [ABM strategy](abm-strategy.md) | Which accounts, tiers, and resources define the system—what is not ABM, and how account-driven GTM loads the TAM first? |
 
+| [One-to-one ABM](one-to-one-abm.md) | What justifies a bespoke program for one account? |
+| [One-to-few ABM](one-to-few-abm.md) | Which shared problem can support a small account-cluster program? |
+| [Direct mail](direct-mail.md) | When can a physical touch create useful attention rather than waste? |
+| [Partner marketing](partner-marketing.md) | How should two companies create and capture shared demand inside the [ecosystem](ecosystem.md) flywheel? |
+| [Affiliate program](affiliate-program.md) | What economics, controls, and enablement make referrals repeatable? |
+| [Channel marketing](channel-marketing.md) | How should resellers or channel partners be activated and measured? |
+| [Co-marketing](co-marketing.md) | How should partners combine audience, proof, and execution fairly? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| One-to-one ABM | What justifies a bespoke program for one account? |
-| One-to-few ABM | Which shared problem can support a small account-cluster program? |
-| Direct mail | When can a physical touch create useful attention rather than waste? |
-| Partner marketing | How should two companies create and capture shared demand inside the [ecosystem](ecosystem.md) flywheel? |
-| Affiliate program | What economics, controls, and enablement make referrals repeatable? |
-| Channel marketing | How should resellers or channel partners be activated and measured? |
-| Co-marketing | How should partners combine audience, proof, and execution fairly? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

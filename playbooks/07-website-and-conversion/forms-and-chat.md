@@ -3,7 +3,7 @@ title: "Forms and chat"
 sidebarTitle: "Forms and Chat"
 ---
 
-**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-30 · **Reading edit:** 2026-09-12
 
 Every form field asks the reader to do a little more work. Keep the fields you genuinely need and make the next step clear. For chat, decide who answers, when they are available, and what happens if nobody can respond.
 
@@ -138,7 +138,7 @@ Do not treat form-fill volume or chat engagement as conversion.
 
 ## What to read next
 
-The high-intent special case is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Campaign URLs are [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). Routing for non-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). State after a light fill is [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). CRO as button theater is still planned; do not use this page as a lab.
+The high-intent special case is [demo request](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/demo-request). Campaign URLs are [landing page](https://b2-b-playbook.mintlify.app/playbooks/07-website-and-conversion/landing-page). Routing for non-hand-raisers is [lead scoring](../09-operations-pipeline-and-measurement/lead-scoring.md). State after a light fill is [lead nurture](../08-lifecycle-and-customer-marketing/lead-nurture.md). Use [conversion-rate optimization](conversion-rate-optimization.md) for evidence-based changes and experiment design.
 
 ## Sources and evidence boundary
 

@@ -5,9 +5,9 @@ sidebarTitle: "Overview"
 
 The work continues after a signup or a sale. Help people get started, answer their next question, recognise risks, and discuss renewals or expansion when there is a real reason.
 
-**Status:** Domain guide published · 9 tactic playbooks published
+**Status:** Domain guide published · 16 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Help people get started; Track value and risks; Discuss the next need](/assets/illustrations/08-lifecycle-and-customer-marketing.webp)
 
@@ -31,19 +31,17 @@ The work continues after a signup or a sale. Help people get started, answer the
 | [Expansion marketing](/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing) | When may additional value be introduced—on evidence, not on a launch calendar? |
 | [Renewal marketing](/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing) | How should value be recognized and risk reduced before the commercial path? |
 
+| [Lifecycle email](/playbooks/08-lifecycle-and-customer-marketing/lifecycle-email) | Which event, state, or behavior should trigger which communication? |
+| [Customer education](/playbooks/08-lifecycle-and-customer-marketing/customer-education) | Which knowledge helps users adopt the product and achieve outcomes? |
+| [Customer community](/playbooks/08-lifecycle-and-customer-marketing/customer-community) | When can customers help one another learn, connect, and succeed? |
+| [Customer advocacy](/playbooks/08-lifecycle-and-customer-marketing/customer-advocacy) | How should willing customers participate without being overused? |
+| [Referral program](/playbooks/08-lifecycle-and-customer-marketing/referral-program) | What value exchange can make trusted introductions repeatable? |
+| [Review program](/playbooks/08-lifecycle-and-customer-marketing/review-program) | How should authentic reviews be requested, governed, and activated? Buyer-visible listings live in [review sites](/playbooks/04-channels-and-distribution/review-sites). |
+| [Win-back](/playbooks/08-lifecycle-and-customer-marketing/win-back) | When and how should an inactive or former customer be re-engaged? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Lifecycle email | Which event, state, or behavior should trigger which communication? |
-| Customer education | Which knowledge helps users adopt the product and achieve outcomes? |
-| Customer community | When can customers help one another learn, connect, and succeed? |
-| Customer advocacy | How should willing customers participate without being overused? |
-| Referral program | What value exchange can make trusted introductions repeatable? |
-| Review program | How should authentic reviews be requested, governed, and activated? Buyer-visible listings live in [review sites](/playbooks/04-channels-and-distribution/review-sites). |
-| Win-back | When and how should an inactive or former customer be re-engaged? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

@@ -3,7 +3,7 @@ title: "Lead scoring"
 sidebarTitle: "Lead Scoring"
 ---
 
-**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-06
+**Last reviewed:** 2026-08-29 · **Reading edit:** 2026-09-12
 
 Lead scoring should help the team choose a next action. Keep account fit separate from buying intent, decide what each score triggers, and test the rules against real outcomes. A high score is not a substitute for knowing why someone needs help.
 
@@ -22,7 +22,7 @@ Lead scoring should help the team choose a next action. Keep account fit separat
 
 - You do not yet have an ICP or a disqualifier. You will score the wrong market precisely.
 - Volume is a handful of inbound names a week. A human queue beats a model.
-- You need account-level orchestration. Person scores are not an account program. Account scoring is still planned in this domain—do not fake it with a contact integer.
+- You need account-level orchestration. Person scores are not an account program. Use [account scoring](account-scoring.md) to combine account-level evidence and define the next action.
 - Legal or consent rules forbid the events you want to count. This page is not privacy advice.
 
 <a id="words-you-will-use"></a>
@@ -143,7 +143,7 @@ Do not count “model turned on” or resemblance to a HubSpot sample guide as s
 
 ## What to read next
 
-Who may be touched at all is [ICP](../01-strategy-and-buyers/icp.md). A dated change that is not yet a form fill is [buying signals](../05-outbound-and-prospecting/buying-signals.md). What the first meeting must teach is the [pitch](../02-product-marketing/sales-enablement.md). If humans work the queue, they need [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether marketing can **create** the volume behind the scores is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Routing SLAs (still planned in this domain) are the sister of this page—until that file exists, write the SLA in the ledger. The fields the score writes into are [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model).
+Who may be touched at all is [ICP](../01-strategy-and-buyers/icp.md). A dated change that is not yet a form fill is [buying signals](../05-outbound-and-prospecting/buying-signals.md). What the first meeting must teach is the [pitch](../02-product-marketing/sales-enablement.md). If humans work the queue, they need [SDR onboarding](../05-outbound-and-prospecting/sdr-onboarding.md). Whether marketing can **create** the volume behind the scores is [GTM planning](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/gtm-planning). Use [routing and SLA](routing-and-sla.md) to define ownership, response clocks, and exceptions. The fields the score writes into are [CRM data model](https://b2-b-playbook.mintlify.app/playbooks/09-operations-pipeline-and-measurement/crm-data-model).
 
 ## Sources and evidence boundary
 

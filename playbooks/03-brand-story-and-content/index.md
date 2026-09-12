@@ -5,9 +5,9 @@ sidebarTitle: "Overview"
 
 Choose the questions worth answering and the stories you can genuinely tell. This chapter covers content planning, founder stories, customer case studies, and longer, sourced arguments.
 
-**Status:** Domain guide published · 4 tactic playbooks published
+**Status:** Domain guide published · 12 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Listen to buyer questions; Write from real experience; Build useful evidence](/assets/illustrations/03-brand-story-and-content.webp)
 
@@ -26,20 +26,18 @@ Choose the questions worth answering and the stories you can genuinely tell. Thi
 | [Case study](/playbooks/03-brand-story-and-content/case-study) | How should a named customer's context, action, and result become forwardable proof? |
 | [White paper](/playbooks/03-brand-story-and-content/white-paper) | When does a sourced long argument deserve a URL—and when must it stay ungated? |
 
+| [Brand strategy](/playbooks/03-brand-story-and-content/brand-strategy) | Which associations and memories should the company build over time? |
+| [Brand narrative](/playbooks/03-brand-story-and-content/brand-narrative) | What durable story connects the market change, buyer problem, and company point of view? |
+| [Thought leadership](/playbooks/03-brand-story-and-content/thought-leadership) | What original, defensible idea can help the market think differently? |
+| [Newsletter](/playbooks/03-brand-story-and-content/newsletter) | What recurring editorial promise will make an audience choose to return? |
+| [Webinar](/playbooks/03-brand-story-and-content/webinar) | How can a live educational session create useful participation and reusable content? |
+| [Podcast](/playbooks/03-brand-story-and-content/podcast) | When can a recurring conversation format deepen authority and relationships? |
+| [Video](/playbooks/03-brand-story-and-content/video) | Which ideas become clearer or more memorable through visual explanation? |
+| [Community-led growth](/playbooks/03-brand-story-and-content/community-led-growth) | When can an *owned* practitioner community create learning, trust, and market insight? Entering a room that already exists is [peer community](/playbooks/04-channels-and-distribution/community). |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Brand strategy | Which associations and memories should the company build over time? |
-| Brand narrative | What durable story connects the market change, buyer problem, and company point of view? |
-| Thought leadership | What original, defensible idea can help the market think differently? |
-| Newsletter | What recurring editorial promise will make an audience choose to return? |
-| Webinar | How can a live educational session create useful participation and reusable content? |
-| Podcast | When can a recurring conversation format deepen authority and relationships? |
-| Video | Which ideas become clearer or more memorable through visual explanation? |
-| Community-led growth | When can an *owned* practitioner community create learning, trust, and market insight? Entering a room that already exists is [peer community](/playbooks/04-channels-and-distribution/community). |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 

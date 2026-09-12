@@ -3,9 +3,9 @@ title: "Playbook index"
 sidebarTitle: "Index"
 ---
 
-**Last reviewed:** 2026-09-03
+**Last reviewed:** 2026-09-03 · **Reading edit:** 2026-09-12
 
-Find the guide for the task you are working on. Use the quick lookup below, or browse one of the nine chapters. Each chapter separates published articles from topics still on the writing list.
+Find the guide for the task you are working on. Use the quick lookup below, or browse one of the nine chapters. All 131 topics in the original nine-chapter outline now have published guides.
 
 ![Understand your buyers, help them choose, and learn from what happens.](/assets/illustrations/library.webp)
 
@@ -37,7 +37,7 @@ Start with [a practical task path](/playbooks/start-here) if you want a guide, a
 | Case study / customer proof | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Case study](/playbooks/03-brand-story-and-content/case-study) |
 | Founder story | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Founder story](/playbooks/03-brand-story-and-content/founder-story) |
 | White paper | [Brand, story & content](/playbooks/03-brand-story-and-content) | [White paper](/playbooks/03-brand-story-and-content/white-paper) |
-| Community (owned) | [Brand, story & content](/playbooks/03-brand-story-and-content) | Planned: `community-led-growth.md` |
+| Community (owned) | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Community-led growth](/playbooks/03-brand-story-and-content/community-led-growth) |
 | Community participation / hosting | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Community](/playbooks/04-channels-and-distribution/community) |
 | Channel strategy / PLG vs sales | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Channel strategy](/playbooks/04-channels-and-distribution/channel-strategy) |
 | SEO / AEO / AI search visibility | [Channels & distribution](/playbooks/04-channels-and-distribution) | [SEO and AEO](/playbooks/04-channels-and-distribution/seo-and-aeo) |
@@ -62,7 +62,7 @@ Start with [a practical task path](/playbooks/start-here) if you want a guide, a
 | Ecosystem / partners | [Account, field & partner](/playbooks/06-account-field-and-partner) | [Ecosystem](/playbooks/06-account-field-and-partner/ecosystem) |
 | Account planning / named-account 30/60/90 | [Account, field & partner](/playbooks/06-account-field-and-partner) | [Account planning](/playbooks/06-account-field-and-partner/account-planning) |
 | ABM / account-driven / account tiers | [Account, field & partner](/playbooks/06-account-field-and-partner) | [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy) |
-| Affiliate | [Account, field & partner](/playbooks/06-account-field-and-partner) | Planned: `affiliate-program.md` |
+| Affiliate | [Account, field & partner](/playbooks/06-account-field-and-partner) | [Affiliate program](/playbooks/06-account-field-and-partner/affiliate-program) |
 | Homepage | [Website & conversion](/playbooks/07-website-and-conversion) | [Homepage](/playbooks/07-website-and-conversion/homepage) |
 | Comparison page | [Website & conversion](/playbooks/07-website-and-conversion) | [Comparison page](/playbooks/07-website-and-conversion/comparison-page) |
 | Pricing page | [Website & conversion](/playbooks/07-website-and-conversion) | [Pricing page](/playbooks/07-website-and-conversion/pricing-page) |
@@ -79,7 +79,7 @@ Start with [a practical task path](/playbooks/start-here) if you want a guide, a
 | CCO / VP CS first 90 days | [Lifecycle & customer](/playbooks/08-lifecycle-and-customer-marketing) | [CS-leadership ramp](/playbooks/08-lifecycle-and-customer-marketing/cs-leadership-ramp) |
 | CS CRM fields / health / 4Rs | [Lifecycle & customer](/playbooks/08-lifecycle-and-customer-marketing) | [CS workspace](/playbooks/08-lifecycle-and-customer-marketing/cs-workspace) |
 | Gross vs net revenue churn / NRR leak | [Lifecycle & customer](/playbooks/08-lifecycle-and-customer-marketing) | [Revenue churn](/playbooks/08-lifecycle-and-customer-marketing/revenue-churn) |
-| Customer community | [Lifecycle & customer](/playbooks/08-lifecycle-and-customer-marketing) | Planned: `customer-community.md` |
+| Customer community | [Lifecycle & customer](/playbooks/08-lifecycle-and-customer-marketing) | [Customer community](/playbooks/08-lifecycle-and-customer-marketing/customer-community) |
 | Sales compensation / quota pay | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Sales compensation](/playbooks/09-operations-pipeline-and-measurement/sales-compensation) |
 | Forecast / pipeline hygiene | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Forecasting](/playbooks/09-operations-pipeline-and-measurement/forecasting) |
 | Lead scoring / MQL | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Lead scoring](/playbooks/09-operations-pipeline-and-measurement/lead-scoring) |
@@ -97,7 +97,58 @@ Start with [a practical task path](/playbooks/start-here) if you want a guide, a
 | GTM AI ladder / “we are AI-native” | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [GTM AI maturity](/playbooks/09-operations-pipeline-and-measurement/gtm-ai-maturity) |
 | Which AI use case / not which tool | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [AI use-case selection](/playbooks/09-operations-pipeline-and-measurement/ai-use-case-selection) |
 | AI workflow / agent gates | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [AI workflow](/playbooks/09-operations-pipeline-and-measurement/ai-workflow) |
-| Pipeline | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | Planned: `pipeline-model.md` |
+| Pipeline | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Pipeline model](/playbooks/09-operations-pipeline-and-measurement/pipeline-model) |
+
+| Market research | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Market research](/playbooks/01-strategy-and-buyers/market-research) |
+| Segmentation | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Segmentation](/playbooks/01-strategy-and-buyers/segmentation) |
+| Buyer journey | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Buyer journey](/playbooks/01-strategy-and-buyers/buyer-journey) |
+| Jobs to be done | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Jobs to be done](/playbooks/01-strategy-and-buyers/jobs-to-be-done) |
+| Category entry points | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Category entry points](/playbooks/01-strategy-and-buyers/category-entry-points) |
+| Competitive alternatives | [Strategy & buyers](/playbooks/01-strategy-and-buyers) | [Competitive alternatives](/playbooks/01-strategy-and-buyers/competitive-alternatives) |
+| Value proposition | [Product marketing](/playbooks/02-product-marketing) | [Value proposition](/playbooks/02-product-marketing/value-proposition) |
+| Proof and claims | [Product marketing](/playbooks/02-product-marketing) | [Proof and claims](/playbooks/02-product-marketing/proof-and-claims) |
+| Brand strategy | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Brand strategy](/playbooks/03-brand-story-and-content/brand-strategy) |
+| Brand narrative | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Brand narrative](/playbooks/03-brand-story-and-content/brand-narrative) |
+| Thought leadership | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Thought leadership](/playbooks/03-brand-story-and-content/thought-leadership) |
+| Newsletter | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Newsletter](/playbooks/03-brand-story-and-content/newsletter) |
+| Webinar | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Webinar](/playbooks/03-brand-story-and-content/webinar) |
+| Podcast | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Podcast](/playbooks/03-brand-story-and-content/podcast) |
+| Video | [Brand, story & content](/playbooks/03-brand-story-and-content) | [Video](/playbooks/03-brand-story-and-content/video) |
+| Paid search | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Paid search](/playbooks/04-channels-and-distribution/paid-search) |
+| Paid social | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Paid social](/playbooks/04-channels-and-distribution/paid-social) |
+| Retargeting | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Retargeting](/playbooks/04-channels-and-distribution/retargeting) |
+| PR and media | [Channels & distribution](/playbooks/04-channels-and-distribution) | [PR and media](/playbooks/04-channels-and-distribution/pr-and-media) |
+| Content distribution | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Content distribution](/playbooks/04-channels-and-distribution/content-distribution) |
+| Content repurposing | [Channels & distribution](/playbooks/04-channels-and-distribution) | [Content repurposing](/playbooks/04-channels-and-distribution/content-repurposing) |
+| Contact research | [Outbound & prospecting](/playbooks/05-outbound-and-prospecting) | [Contact research](/playbooks/05-outbound-and-prospecting/contact-research) |
+| Email deliverability | [Outbound & prospecting](/playbooks/05-outbound-and-prospecting) | [Email deliverability](/playbooks/05-outbound-and-prospecting/email-deliverability) |
+| Reply handling | [Outbound & prospecting](/playbooks/05-outbound-and-prospecting) | [Reply handling](/playbooks/05-outbound-and-prospecting/reply-handling) |
+| SDR handoff | [Outbound & prospecting](/playbooks/05-outbound-and-prospecting) | [SDR handoff](/playbooks/05-outbound-and-prospecting/sdr-handoff) |
+| One-to-one ABM | [Account, field & partner marketing](/playbooks/06-account-field-and-partner) | [One-to-one ABM](/playbooks/06-account-field-and-partner/one-to-one-abm) |
+| One-to-few ABM | [Account, field & partner marketing](/playbooks/06-account-field-and-partner) | [One-to-few ABM](/playbooks/06-account-field-and-partner/one-to-few-abm) |
+| Direct mail | [Account, field & partner marketing](/playbooks/06-account-field-and-partner) | [Direct mail](/playbooks/06-account-field-and-partner/direct-mail) |
+| Partner marketing | [Account, field & partner marketing](/playbooks/06-account-field-and-partner) | [Partner marketing](/playbooks/06-account-field-and-partner/partner-marketing) |
+| Channel marketing | [Account, field & partner marketing](/playbooks/06-account-field-and-partner) | [Channel marketing](/playbooks/06-account-field-and-partner/channel-marketing) |
+| Co-marketing | [Account, field & partner marketing](/playbooks/06-account-field-and-partner) | [Co-marketing](/playbooks/06-account-field-and-partner/co-marketing) |
+| Website strategy | [Website & conversion](/playbooks/07-website-and-conversion) | [Website strategy](/playbooks/07-website-and-conversion/website-strategy) |
+| Product page | [Website & conversion](/playbooks/07-website-and-conversion) | [Product page](/playbooks/07-website-and-conversion/product-page) |
+| Documentation and resource center | [Website & conversion](/playbooks/07-website-and-conversion) | [Documentation and resource center](/playbooks/07-website-and-conversion/documentation) |
+| Lead magnet | [Website & conversion](/playbooks/07-website-and-conversion) | [Lead magnet](/playbooks/07-website-and-conversion/lead-magnet) |
+| Conversion-rate optimization | [Website & conversion](/playbooks/07-website-and-conversion) | [Conversion-rate optimization](/playbooks/07-website-and-conversion/conversion-rate-optimization) |
+| Self-service buying | [Website & conversion](/playbooks/07-website-and-conversion) | [Self-service buying](/playbooks/07-website-and-conversion/self-service-buying) |
+| Lifecycle email | [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) | [Lifecycle email](/playbooks/08-lifecycle-and-customer-marketing/lifecycle-email) |
+| Customer education | [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) | [Customer education](/playbooks/08-lifecycle-and-customer-marketing/customer-education) |
+| Customer advocacy | [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) | [Customer advocacy](/playbooks/08-lifecycle-and-customer-marketing/customer-advocacy) |
+| Referral program | [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) | [Referral program](/playbooks/08-lifecycle-and-customer-marketing/referral-program) |
+| Review program | [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) | [Review program](/playbooks/08-lifecycle-and-customer-marketing/review-program) |
+| Win-back | [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing) | [Win-back](/playbooks/08-lifecycle-and-customer-marketing/win-back) |
+| Funnel model | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Funnel model](/playbooks/09-operations-pipeline-and-measurement/funnel-model) |
+| Lifecycle stages | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Lifecycle stages](/playbooks/09-operations-pipeline-and-measurement/lifecycle-stages) |
+| Account scoring | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Account scoring](/playbooks/09-operations-pipeline-and-measurement/account-scoring) |
+| Routing and SLA | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Routing and SLA](/playbooks/09-operations-pipeline-and-measurement/routing-and-sla) |
+| Attribution | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Attribution](/playbooks/09-operations-pipeline-and-measurement/attribution) |
+| Dashboards | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Dashboards](/playbooks/09-operations-pipeline-and-measurement/dashboards) |
+| Privacy and compliance operations | [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement) | [Privacy and compliance operations](/playbooks/09-operations-pipeline-and-measurement/privacy-and-compliance-operations) |
 
 ## 01 · [Strategy & buyers](/playbooks/01-strategy-and-buyers)
 
@@ -114,7 +165,12 @@ Published:
 - [Product-market fit](/playbooks/01-strategy-and-buyers/product-market-fit)
 - [Four Fits](/playbooks/01-strategy-and-buyers/four-fits)
 
-Planned: market research, segmentation, buyer journey, jobs to be done, category entry points, competitive alternatives.
+- [Market research](/playbooks/01-strategy-and-buyers/market-research)
+- [Segmentation](/playbooks/01-strategy-and-buyers/segmentation)
+- [Buyer journey](/playbooks/01-strategy-and-buyers/buyer-journey)
+- [Jobs to be done](/playbooks/01-strategy-and-buyers/jobs-to-be-done)
+- [Category entry points](/playbooks/01-strategy-and-buyers/category-entry-points)
+- [Competitive alternatives](/playbooks/01-strategy-and-buyers/competitive-alternatives)
 
 ## 02 · [Product marketing](/playbooks/02-product-marketing)
 
@@ -131,7 +187,8 @@ Published:
 - [Demo](/playbooks/02-product-marketing/demo)
 - [Change friction](/playbooks/02-product-marketing/change-friction)
 
-Planned: value proposition, proof and claims.
+- [Value proposition](/playbooks/02-product-marketing/value-proposition)
+- [Proof and claims](/playbooks/02-product-marketing/proof-and-claims)
 
 ## 03 · [Brand, story & content](/playbooks/03-brand-story-and-content)
 
@@ -144,7 +201,14 @@ Published:
 - [Case study](/playbooks/03-brand-story-and-content/case-study)
 - [White paper](/playbooks/03-brand-story-and-content/white-paper)
 
-Planned: brand strategy, brand narrative, thought leadership, newsletter, webinar, podcast, video, community-led growth.
+- [Brand strategy](/playbooks/03-brand-story-and-content/brand-strategy)
+- [Brand narrative](/playbooks/03-brand-story-and-content/brand-narrative)
+- [Thought leadership](/playbooks/03-brand-story-and-content/thought-leadership)
+- [Newsletter](/playbooks/03-brand-story-and-content/newsletter)
+- [Webinar](/playbooks/03-brand-story-and-content/webinar)
+- [Podcast](/playbooks/03-brand-story-and-content/podcast)
+- [Video](/playbooks/03-brand-story-and-content/video)
+- [Community-led growth](/playbooks/03-brand-story-and-content/community-led-growth)
 
 ## 04 · [Channels & distribution](/playbooks/04-channels-and-distribution)
 
@@ -162,7 +226,12 @@ Published:
 - [Paid media](/playbooks/04-channels-and-distribution/paid-media)
 - [Review sites](/playbooks/04-channels-and-distribution/review-sites)
 
-Planned: paid search, paid social, retargeting (execution under [paid media](/playbooks/04-channels-and-distribution/paid-media)), PR and media, content distribution, content repurposing.
+- [Paid search](/playbooks/04-channels-and-distribution/paid-search)
+- [Paid social](/playbooks/04-channels-and-distribution/paid-social)
+- [Retargeting](/playbooks/04-channels-and-distribution/retargeting)
+- [PR and media](/playbooks/04-channels-and-distribution/pr-and-media)
+- [Content distribution](/playbooks/04-channels-and-distribution/content-distribution)
+- [Content repurposing](/playbooks/04-channels-and-distribution/content-repurposing)
 
 ## 05 · [Outbound & prospecting](/playbooks/05-outbound-and-prospecting)
 
@@ -180,7 +249,10 @@ Published:
 - [Cold call](/playbooks/05-outbound-and-prospecting/cold-call)
 - [LinkedIn outbound](/playbooks/05-outbound-and-prospecting/linkedin-outbound)
 
-Planned: contact research, email deliverability, reply handling, SDR handoff.
+- [Contact research](/playbooks/05-outbound-and-prospecting/contact-research)
+- [Email deliverability](/playbooks/05-outbound-and-prospecting/email-deliverability)
+- [Reply handling](/playbooks/05-outbound-and-prospecting/reply-handling)
+- [SDR handoff](/playbooks/05-outbound-and-prospecting/sdr-handoff)
 
 ## 06 · [Account, field & partner marketing](/playbooks/06-account-field-and-partner)
 
@@ -195,7 +267,13 @@ Published:
 - [Account planning](/playbooks/06-account-field-and-partner/account-planning)
 - [ABM strategy](/playbooks/06-account-field-and-partner/abm-strategy)
 
-Planned: one-to-one ABM, one-to-few ABM, direct mail, partner marketing, affiliate program, channel marketing, co-marketing.
+- [One-to-one ABM](/playbooks/06-account-field-and-partner/one-to-one-abm)
+- [One-to-few ABM](/playbooks/06-account-field-and-partner/one-to-few-abm)
+- [Direct mail](/playbooks/06-account-field-and-partner/direct-mail)
+- [Partner marketing](/playbooks/06-account-field-and-partner/partner-marketing)
+- [Affiliate program](/playbooks/06-account-field-and-partner/affiliate-program)
+- [Channel marketing](/playbooks/06-account-field-and-partner/channel-marketing)
+- [Co-marketing](/playbooks/06-account-field-and-partner/co-marketing)
 
 ## 07 · [Website & conversion](/playbooks/07-website-and-conversion)
 
@@ -210,7 +288,12 @@ Published:
 - [Landing page](/playbooks/07-website-and-conversion/landing-page)
 - [Forms and chat](/playbooks/07-website-and-conversion/forms-and-chat)
 
-Planned: website strategy, product page, lead magnet, conversion-rate optimization, self-service buying, documentation.
+- [Website strategy](/playbooks/07-website-and-conversion/website-strategy)
+- [Product page](/playbooks/07-website-and-conversion/product-page)
+- [Documentation and resource center](/playbooks/07-website-and-conversion/documentation)
+- [Lead magnet](/playbooks/07-website-and-conversion/lead-magnet)
+- [Conversion-rate optimization](/playbooks/07-website-and-conversion/conversion-rate-optimization)
+- [Self-service buying](/playbooks/07-website-and-conversion/self-service-buying)
 
 ## 08 · [Lifecycle & customer marketing](/playbooks/08-lifecycle-and-customer-marketing)
 
@@ -228,7 +311,13 @@ Published:
 - [Expansion marketing](/playbooks/08-lifecycle-and-customer-marketing/expansion-marketing)
 - [Renewal marketing](/playbooks/08-lifecycle-and-customer-marketing/renewal-marketing)
 
-Planned: lifecycle email, customer education, customer community, advocacy, referrals, reviews, win-back.
+- [Lifecycle email](/playbooks/08-lifecycle-and-customer-marketing/lifecycle-email)
+- [Customer education](/playbooks/08-lifecycle-and-customer-marketing/customer-education)
+- [Customer community](/playbooks/08-lifecycle-and-customer-marketing/customer-community)
+- [Customer advocacy](/playbooks/08-lifecycle-and-customer-marketing/customer-advocacy)
+- [Referral program](/playbooks/08-lifecycle-and-customer-marketing/referral-program)
+- [Review program](/playbooks/08-lifecycle-and-customer-marketing/review-program)
+- [Win-back](/playbooks/08-lifecycle-and-customer-marketing/win-back)
 
 ## 09 · [Operations, pipeline & measurement](/playbooks/09-operations-pipeline-and-measurement)
 
@@ -255,7 +344,14 @@ Published:
 - [AI workflow](/playbooks/09-operations-pipeline-and-measurement/ai-workflow)
 - [Measurement model](/playbooks/09-operations-pipeline-and-measurement/measurement-model)
 
-Planned: funnel model, pipeline model, lifecycle stages, account scoring, routing, attribution (deeper math; two scoreboards live in [measurement model](/playbooks/09-operations-pipeline-and-measurement/measurement-model)), dashboards, privacy and compliance operations.
+- [Funnel model](/playbooks/09-operations-pipeline-and-measurement/funnel-model)
+- [Pipeline model](/playbooks/09-operations-pipeline-and-measurement/pipeline-model)
+- [Lifecycle stages](/playbooks/09-operations-pipeline-and-measurement/lifecycle-stages)
+- [Account scoring](/playbooks/09-operations-pipeline-and-measurement/account-scoring)
+- [Routing and SLA](/playbooks/09-operations-pipeline-and-measurement/routing-and-sla)
+- [Attribution](/playbooks/09-operations-pipeline-and-measurement/attribution)
+- [Dashboards](/playbooks/09-operations-pipeline-and-measurement/dashboards)
+- [Privacy and compliance operations](/playbooks/09-operations-pipeline-and-measurement/privacy-and-compliance-operations)
 
 <a id="domain-guide-contract"></a>
 <a id="page-contract"></a>

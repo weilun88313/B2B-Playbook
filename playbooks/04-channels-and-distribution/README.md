@@ -2,9 +2,9 @@
 
 Pick channels based on how your buyers learn and buy, and on what your team can run well. These guides cover search, LinkedIn, communities, creators, paid media, and launches.
 
-**Status:** Domain guide published · 9 tactic playbooks published
+**Status:** Domain guide published · 15 tactic playbooks published
 
-**Last reviewed:** 2026-09-06
+**Last reviewed:** 2026-09-06 · **Reading edit:** 2026-09-12
 
 ![Choose a main channel; Publish or participate; Learn what brings buyers](../../assets/illustrations/04-channels-and-distribution.webp)
 
@@ -28,18 +28,16 @@ Pick channels based on how your buyers learn and buy, and on what your team can 
 | [Paid media](paid-media.md) | How do we choose, launch, and evaluate a paid test without confusing cheap actions with valuable customers? |
 | [Review sites](review-sites.md) | How do we invite honest reviews, respond usefully, and evaluate evidence rights and paid services? |
 
+| [Paid search](paid-search.md) | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](paid-media.md). |
+| [Paid social](paid-social.md) | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](paid-media.md). |
+| [Retargeting](retargeting.md) | Follow-on frequency and exclusions. The job decision lives in [paid media](paid-media.md). |
+| [PR and media](pr-and-media.md) | Which genuinely newsworthy story can earn credible third-party attention? |
+| [Content distribution](content-distribution.md) | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](content-syndication.md). |
+| [Content repurposing](content-repurposing.md) | How should one strong idea become channel-native formats without losing meaning? |
+
 ## Coming later
 
-These topics are on the writing list. There is no article to open yet.
-
-| Planned topic | Question to cover |
-|---|---|
-| Paid search | Query, bidding, and search-specific execution. The shared decision process lives in [paid media](paid-media.md). |
-| Paid social | Audience, creative, and social-specific execution. The shared decision process lives in [paid media](paid-media.md). |
-| Retargeting | Follow-on frequency and exclusions. The job decision lives in [paid media](paid-media.md). |
-| PR and media | Which genuinely newsworthy story can earn credible third-party attention? |
-| Content distribution | How should each important owned asset reach the audiences it was built for? Syndication gates live in [content syndication](content-syndication.md). |
-| Content repurposing | How should one strong idea become channel-native formats without losing meaning? |
+All topics in this chapter's original writing list now have published guides above. Further additions will follow reader questions and new evidence.
 
 ## Where to go next
 
